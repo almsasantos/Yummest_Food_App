@@ -346,9 +346,9 @@ class App(Frame):
         lng = self.madrid_lat_long[1]
         url = 'https://api.foursquare.com/v2/venues/explore'
         params = dict(
-            client_id='Q0PPOJTVQYJHGKB3VDY0FHAE221XVEYZEKI2AY4BSGXXR2IM',
-            client_secret='JBVYOWC44RZQDVCWWIXVSYULYY4PRGWESQBBH54SKHO2XI4L',
-            v='20200405',
+            client_id='',
+            client_secret='',
+            v='',
             ll='%s,%s' % (lat, lng),
             radius='%s' % (radius),
             limit=limit)
