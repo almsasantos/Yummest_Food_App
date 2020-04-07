@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,kebab de rabo de toro,Offer,4.5,EUR,Entrante,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+1,1,MenuItem,burrito de pato confitado,Offer,4.0,EUR,Entrante,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+2,2,MenuItem,Tosta de jamón con cebolla caramelizada y foie,Offer,4.0,EUR,Entrante,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+3,3,MenuItem,Huevo roto con patata al horno y jamón crujiente,Offer,3.5,EUR,Entrante,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+4,4,MenuItem,Berenjenas en tempura de cerveza con miel de caña,Offer,4.0,EUR,Entrante,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,NIGIRIS (2 piezas) de atún/ salmón flambeado/ gambas,Offer,6.2,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+1,1,MenuItem,NIGIRS (2 piezas) de hamachi/ anguila/ vieira/ huevo cordorniz con ibérico,Offer,7.5,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+2,2,MenuItem,MAKI (6 piezas) de atún o salmón,Offer,7.2,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+3,3,MenuItem,MAKIS (6 piezas) aguacate/ calabaza/ pepino,Offer,6.8,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+4,4,MenuItem,MAKI (6 piezas) spicy tuna,Offer,8.8,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+5,5,MenuItem,MIXTO DE NIGIRIS (6 uds.) y MAKIS (6 uds.),Offer,26.8,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+6,6,MenuItem,TEMAKI de atún con mayonesa picante y nieve de tempura,Offer,9.2,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+7,7,MenuItem,SOFT SHELL CRAB,Offer,9.8,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+8,8,MenuItem,"SASHIMI VARIADO mixto de hamachi, salmón y atún",Offer,24.8,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+9,9,MenuItem,SASHIMI Y SUSHI VARIADOS,Offer,34.8,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+10,10,MenuItem,"EL TARTAR de atún o salmóm, con guacamole, cortado a cuchillo",Offer,17.8,EUR,SUSHI BAR,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot de ternera rubia gallega,Offer,20,EUR,Carnes,8.9,"""Gallego""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4321335,""longitude"":-3.7026989",Villa de Foz
+1,1,MenuItem,Chuletón de buey (dos personas),Offer,21,EUR,Carnes,8.9,"""Gallego""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4321335,""longitude"":-3.7026989",Villa de Foz
+2,2,MenuItem,Chuletitas de lechal,Offer,18,EUR,Carnes,8.9,"""Gallego""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4321335,""longitude"":-3.7026989",Villa de Foz
+3,3,MenuItem,Mini entrecot de ternera gallega,Offer,12,EUR,Carnes,8.9,"""Gallego""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4321335,""longitude"":-3.7026989",Villa de Foz
+4,4,MenuItem,Ternera estofada al estilo de la abuela,Offer,15,EUR,Carnes,8.9,"""Gallego""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4321335,""longitude"":-3.7026989",Villa de Foz

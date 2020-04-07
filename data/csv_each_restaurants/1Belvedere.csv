@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmorejo cordobés,Offer,6.5,EUR,Entrantes,None,"""Mediterráneo""","""Calle de Torrelaguna","""geo"":{""latitude"":40.4442657,""longitude"":-3.654859",Belvedere
+1,1,MenuItem,Ensaladilla cremosa,Offer,10.5,EUR,Entrantes,None,"""Mediterráneo""","""Calle de Torrelaguna","""geo"":{""latitude"":40.4442657,""longitude"":-3.654859",Belvedere
+2,2,MenuItem,Flores de alcachofa ( según temporada),Offer,14.0,EUR,Entrantes,None,"""Mediterráneo""","""Calle de Torrelaguna","""geo"":{""latitude"":40.4442657,""longitude"":-3.654859",Belvedere

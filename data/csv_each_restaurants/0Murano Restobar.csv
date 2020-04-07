@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Delicia,Offer,8.5,EUR,Ensaladas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+1,1,MenuItem,Ensalada Capresse,Offer,8.5,EUR,Ensaladas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+2,2,MenuItem,Ensalada Burratina,Offer,9.95,EUR,Ensaladas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+3,3,MenuItem,Ensalada Tricolor,Offer,7.0,EUR,Ensaladas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mejillones marinera,Offer,16.0,EUR,Sugerencias,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+1,1,MenuItem,Albóndigas de rabo de toro,Offer,12.5,EUR,Sugerencias,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+2,2,MenuItem,Alcachofas confitadas,Offer,13.5,EUR,Sugerencias,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+3,3,MenuItem,Cachopo Asturiano con Jamón Ibérico y Queso Manchego,Offer,24.0,EUR,Sugerencias,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal

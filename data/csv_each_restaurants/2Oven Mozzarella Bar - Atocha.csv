@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cesare,Offer,10,EUR,Ensaladas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+1,1,MenuItem,Espinacas y queso de cabra,Offer,10,EUR,Ensaladas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+2,2,MenuItem,Salmón y aguacate,Offer,10,EUR,Ensaladas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha

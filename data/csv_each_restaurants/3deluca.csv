@@ -1,0 +1,19 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TRIS DI PASTA,Offer,17,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+1,1,MenuItem,LASAGNA AL FORNO,Offer,15,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+2,2,MenuItem,FAGOTTINI DI PERA E MASCARPONE,Offer,16,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+3,3,MenuItem,RAVIOLI CAPRI,Offer,15,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+4,4,MenuItem,TAGLIATELLE AI PORCINI E CREMA TARTUFATA,Offer,17,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+5,5,MenuItem,RIGATONI ALLA SORRENTINA,Offer,16,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+6,6,MenuItem,SPAGHETTI AL CARTOCCIO,Offer,18,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+7,7,MenuItem,TAGLIATELLE SPACCHIUSA,Offer,17,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+8,8,MenuItem,TAGLIATELLE ALFREDO,Offer,15,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+9,9,MenuItem,TAGLIATELLE BOLOGNESE,Offer,15,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+10,10,MenuItem,FARFALLE DONNA ROSA,Offer,16,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+11,11,MenuItem,GNOCCHETTI PARMIGIANA,Offer,15,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+12,12,MenuItem,CASERECCE AL CINGHIALE,Offer,17,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+13,13,MenuItem,PANZEROTTI ALLA SICILIANA,Offer,15,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+14,14,MenuItem,TAGLIATELLE MEOPETACCA,Offer,16,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+15,15,MenuItem,FARFALLE AL PESTO E MASCARPONE,Offer,15,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+16,16,MenuItem,SPAGHETTI CARBONARA IN CESTA,Offer,16,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+17,17,MenuItem,RAVIOLI AI FUNGHI PORCINI,Offer,17,EUR,Le Paste,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca

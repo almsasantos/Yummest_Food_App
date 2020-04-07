@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Insalata Mista,Offer,8.9,EUR,INSALATE,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+1,1,MenuItem,Insalata Sanissima,Offer,8.9,EUR,INSALATE,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+2,2,MenuItem,Insalata Caprese,Offer,9.9,EUR,INSALATE,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+3,3,MenuItem,Insalata Cabrona,Offer,9.9,EUR,INSALATE,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+4,4,MenuItem,Insalata Mediterránea,Offer,9.9,EUR,INSALATE,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gambas cocidas con especias,Offer,7.5,EUR,Entrante,9.3,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4347191,""longitude"":-3.6756884",Bangalore
+1,1,MenuItem,Hojas de hojaldre rellena de cordero con especias,Offer,6.5,EUR,Entrante,9.3,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4347191,""longitude"":-3.6756884",Bangalore
+2,2,MenuItem,Ensalada de gambas,Offer,8.95,EUR,Entrante,9.3,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4347191,""longitude"":-3.6756884",Bangalore

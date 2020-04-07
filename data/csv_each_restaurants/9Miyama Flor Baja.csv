@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tekka (Atún),Offer,7,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+1,1,MenuItem,Negitoro (Ventresca de atún con cebollino),Offer,8,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+2,2,MenuItem,Salmón,Offer,5,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+3,3,MenuItem,Kappa (Pepino),Offer,5,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+4,4,MenuItem,Oshinko (Nabo amarillo),Offer,5,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+5,5,MenuItem,Kampyou (Calabaza cocido poco dulce),Offer,5,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+6,6,MenuItem,Nattou (Soja fermentada),Offer,5,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+7,7,MenuItem,Torotaku (Ventresca de atun c/ nabo amarillo ),Offer,8,EUR,Maki (6 piezas),9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja

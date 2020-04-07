@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Hariyali Chicken Tandoori macerado en yogur, jengibre, ajo, hierbabuena y cilantro",Offer,19,EUR,Nuestra carta hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+1,1,MenuItem,"Malai Chicken Tikka. Trozos de pollo macerado en yogur, crema, especias y queso",Offer,18,EUR,Nuestra carta hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+2,2,MenuItem,"Kalidhal chicken tikka masala. Lentejas negras con pollo tikka, especias, crema y yogur",Offer,17,EUR,Nuestra carta hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+3,3,MenuItem,"Ternera Madras. Plato del sur de la INdia, macerado en especias ligeramente picante",Offer,17,EUR,Nuestra carta hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+4,4,MenuItem,Kashmiri Rice. Arroz basmati con piña y frutos secos,Offer,18,EUR,Nuestra carta hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez

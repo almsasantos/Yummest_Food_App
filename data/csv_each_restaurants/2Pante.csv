@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paccheri al pomodoro del sud,Offer,13,EUR,Pasta fresca,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+1,1,MenuItem,Cavatelli con carciofi e provolone del Monaco,Offer,15,EUR,Pasta fresca,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+2,2,MenuItem,Fettuccine al Tartufo Nero,Offer,22,EUR,Pasta fresca,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+3,3,MenuItem,Tagliolini Freschi agli Scampi,Offer,20,EUR,Pasta fresca,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+4,4,MenuItem,Spaghetti alla Buzzonaglia di tonno,Offer,13,EUR,Pasta fresca,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante

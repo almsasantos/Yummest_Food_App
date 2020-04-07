@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Spring roll de gambas,Offer,7,EUR,Tentadores entrantes,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid
+1,1,MenuItem,Gyozas,Offer,7,EUR,Tentadores entrantes,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid
+2,2,MenuItem,Edamames,Offer,6,EUR,Tentadores entrantes,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid
+3,3,MenuItem,Gambas sriracha,Offer,12,EUR,Tentadores entrantes,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid
+4,4,MenuItem,Brochetas de queso,Offer,7,EUR,Tentadores entrantes,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid
+5,5,MenuItem,Satay de pollo,Offer,6,EUR,Tentadores entrantes,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid

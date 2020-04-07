@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmón teriyaki con piñones,Offer,18,EUR,Pescado y Marisco,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo
+1,1,MenuItem,Langostinos con salsa chilly picante y tomate,Offer,13,EUR,Pescado y Marisco,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo
+2,2,MenuItem,"Langostinos,sepia y vieira salteados con espárragos o apio",Offer,16,EUR,Pescado y Marisco,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo

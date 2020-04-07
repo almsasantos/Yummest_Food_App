@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calllos con garbanzos,Offer,16.5,EUR,Para entrar en calor,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila
+1,1,MenuItem,Alcachofas con pulpo y su ajada,Offer,18.0,EUR,Para entrar en calor,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila
+2,2,MenuItem,Sopa Mariñeira de pescado de roca,Offer,14.8,EUR,Para entrar en calor,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila

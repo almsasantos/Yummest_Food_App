@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fabada asturiana “La Guisandera”,Offer,18,EUR,De cuchara,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+1,1,MenuItem,Fabas con almejas,Offer,22,EUR,De cuchara,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+2,2,MenuItem,Verdinas con pantruque al estilo “Ardisana”,Offer,18,EUR,De cuchara,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+3,3,MenuItem,Callos a la asturiana,Offer,18,EUR,De cuchara,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera

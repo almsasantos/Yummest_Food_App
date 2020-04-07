@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Arroz con Habichuelas ( lunes)\nMoro de Habichuelas y Ensalada (Miercoles)\nEnsalada (Jueves)\nMoro de Guandules (Viernes)\nArrroz y Habichuelas (Sabado)\nSancochoi (Domingo),Menu Dominicano,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+1,1,MenuItem,Plato,Carne guisada (Lunes)\nCarne de cerdo guisada (Miercoles)\nLocrio de Pollo (Jueves)\nPollo Guisado (Viernes)\nPollo (Sabado)\nSancocho (Domingo),Menu Dominicano,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken

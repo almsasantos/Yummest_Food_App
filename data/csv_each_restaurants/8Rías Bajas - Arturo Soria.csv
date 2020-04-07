@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche exquisito,Offer,7.9,EUR,NUESTRAS DELICIAS GOLOSAS,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+1,1,MenuItem,"Filloas con chocolate blanco, negro",Offer,7.9,EUR,NUESTRAS DELICIAS GOLOSAS,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+2,2,MenuItem,muerte de chocolate,Offer,7.9,EUR,NUESTRAS DELICIAS GOLOSAS,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+3,3,MenuItem,HOJALDRE DE MANZANA,Offer,8.9,EUR,NUESTRAS DELICIAS GOLOSAS,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria

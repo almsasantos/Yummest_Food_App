@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante cada 4 personas,"- Parrillada de Marisco (Cigala, Langostinos, Gambón Navajas, Gambas y Berberechos)\n- Almejas a la Marinera",menu nº4,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Segundo plato a elegir,- Paletilla de Lechal Asada\n- Merluza al Azafrán Fresca\n- Arroz Caldoso al Gusto (concentrado),menu nº4,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Postre,- Muerte por Chocolate,menu nº4,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Bebida,"Agua, Vino Rioja Crianza y Ribeiro (1botella/2 personas)",menu nº4,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

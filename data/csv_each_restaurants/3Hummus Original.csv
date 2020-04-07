@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Bol de salmón marinado, con arroz y verduras frescas",Offer,8.5,EUR,Pescados,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+1,1,MenuItem,"Bol de tacos de atún, con arroz, verduras frescas",Offer,8.5,EUR,Pescados,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+2,2,MenuItem,"Filete de atún a la plancha, con arroz y verduras",Offer,7.9,EUR,Pescados,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+3,3,MenuItem,Ensalada gourmet salmón,Offer,9.5,EUR,Pescados,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original

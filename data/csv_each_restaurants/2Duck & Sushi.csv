@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,WAKAME de algas japonesas con tobiko,Offer,8.5,EUR,ENSALADAS Y SOPAS,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+1,1,MenuItem,DUCK ensalada de pato crujiente con aguacate y naranja,Offer,9.5,EUR,ENSALADAS Y SOPAS,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+2,2,MenuItem,FALSOS HUEVOS ROTOS con atún rojo,Offer,9.5,EUR,ENSALADAS Y SOPAS,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+3,3,MenuItem,TOM YAM KUNG de pescado con especias tailandesas,Offer,7.5,EUR,ENSALADAS Y SOPAS,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+4,4,MenuItem,MISO con taquitos de tofú,Offer,5.8,EUR,ENSALADAS Y SOPAS,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+5,5,MenuItem,SOUR & SPICY agripicante,Offer,6.8,EUR,ENSALADAS Y SOPAS,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+6,6,MenuItem,DOBIN-MUSHI sopa en tetera,Offer,8.8,EUR,ENSALADAS Y SOPAS,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi

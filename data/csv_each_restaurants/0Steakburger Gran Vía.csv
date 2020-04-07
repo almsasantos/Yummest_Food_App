@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos steakburger,Offer,10.75,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+1,1,MenuItem,Quesadillas cajún,Offer,9.5,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+2,2,MenuItem,Alitas bravas,Offer,9.5,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+3,3,MenuItem,Alitas bourbon,Offer,9.9,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+4,4,MenuItem,Sticks de mozzarella,Offer,7.9,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+5,5,MenuItem,Super crispy chicken strips,Offer,8.5,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+6,6,MenuItem,Tataki de presa ibérica,Offer,10.0,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+7,7,MenuItem,Chorizo criollo de La Finca,Offer,11.0,EUR,Entrante,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía

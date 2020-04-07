@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+3,3,MenuItem,Botella de agua,Offer,2.5,EUR,Bebidas,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian

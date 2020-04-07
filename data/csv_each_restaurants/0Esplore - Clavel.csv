@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tosta de paleta ibérica con tomate y aceite de oliva en pan artesano,Offer,7,EUR,DE PAN,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+1,1,MenuItem,"Tosta de aguacate, tomate seco, rúcula y mayonesa de ajo negro",Offer,7,EUR,DE PAN,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+2,2,MenuItem,Hamburguesa de cerdo ibérico,Offer,13,EUR,DE PAN,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel

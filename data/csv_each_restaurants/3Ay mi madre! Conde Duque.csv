@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fugazzeta rellena,Offer,16,EUR,Pizza rellena,None,"""Italiano""","""Calle del Limón","""geo"":{""latitude"":40.4268522,""longitude"":-3.7104081",Ay mi madre! Conde Duque
+1,1,MenuItem,Granjera rellena,Offer,16,EUR,Pizza rellena,None,"""Italiano""","""Calle del Limón","""geo"":{""latitude"":40.4268522,""longitude"":-3.7104081",Ay mi madre! Conde Duque
+2,2,MenuItem,Calzone,Offer,16,EUR,Pizza rellena,None,"""Italiano""","""Calle del Limón","""geo"":{""latitude"":40.4268522,""longitude"":-3.7104081",Ay mi madre! Conde Duque

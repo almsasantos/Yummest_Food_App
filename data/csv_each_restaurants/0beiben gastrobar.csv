@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tequeños,Offer,7.9,EUR,Entrante,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+1,1,MenuItem,Dátiles,Offer,6.0,EUR,Entrante,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+2,2,MenuItem,Patatas dulces,Offer,5.9,EUR,Entrante,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares,Offer,3.8,EUR,Bocadillos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+1,1,MenuItem,Lomo a la plancha,Offer,3.0,EUR,Bocadillos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+2,2,MenuItem,Pollo a la plancha,Offer,3.8,EUR,Bocadillos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+3,3,MenuItem,Tortilla al gusto,Offer,2.8,EUR,Bocadillos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+4,4,MenuItem,Beicon,Offer,3.0,EUR,Bocadillos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+5,5,MenuItem,Atún con tomate,Offer,3.0,EUR,Bocadillos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer

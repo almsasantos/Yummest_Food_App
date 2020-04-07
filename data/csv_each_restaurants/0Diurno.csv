@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Las reservas de los Viernes y Sábado a las 21h, dispondrán de la mesa 1.45h desde la hora de la Reserva",CONDICIONES DE RESERVA:,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno
+1,1,MenuItem,"Las reservas del Brunch en sábados, domingos y festivos dispondrán de la mesa 1,30h desde la hora de reserva.",CONDICIONES DE RESERVA:,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Boquerones malagueños a la Andaluza,Offer,13.0,EUR,FRITOS EN ACEITE DE OLIVA VIRGEN,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,Croquetitas de nuestro Chef,Offer,13.6,EUR,FRITOS EN ACEITE DE OLIVA VIRGEN,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+2,2,MenuItem,Rabas de potera fritas con huevos rotos y escama de sal,Offer,18.5,EUR,FRITOS EN ACEITE DE OLIVA VIRGEN,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+3,3,MenuItem,/ Bocaditos de merluza a la Gaditana,Offer,19.5,EUR,FRITOS EN ACEITE DE OLIVA VIRGEN,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+4,4,MenuItem,Tortillitas de camarones con salsa Romesco (6 Uds.),Offer,19.8,EUR,FRITOS EN ACEITE DE OLIVA VIRGEN,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+5,5,MenuItem,Todos nuestros frito se acompañan de piperrada de pimientos asados,,,,FRITOS EN ACEITE DE OLIVA VIRGEN,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Veg Bun,Offer,3.95,EUR,Bocatas orientales,9.1,None,"""Calle de Hermosilla","""geo"":{""latitude"":40.4263996,""longitude"":-3.6833335",Kanbun Metrópoli
+1,1,MenuItem,Kanbun Bun,Offer,3.7,EUR,Bocatas orientales,9.1,None,"""Calle de Hermosilla","""geo"":{""latitude"":40.4263996,""longitude"":-3.6833335",Kanbun Metrópoli
+2,2,MenuItem,Duck Bun,Offer,3.95,EUR,Bocatas orientales,9.1,None,"""Calle de Hermosilla","""geo"":{""latitude"":40.4263996,""longitude"":-3.6833335",Kanbun Metrópoli

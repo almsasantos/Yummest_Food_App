@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de manzana,Offer,8.0,EUR,Un Postre para Terminar,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+1,1,MenuItem,Natillas caseras,Offer,4.9,EUR,Un Postre para Terminar,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+2,2,MenuItem,Flan de queso casero,Offer,4.8,EUR,Un Postre para Terminar,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+3,3,MenuItem,Surtido de postres,Offer,16.0,EUR,Un Postre para Terminar,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de la abuela,Offer,6.5,EUR,Entrante,8.9,"""Mediterráneo""","""Calle del Crucero 25 de Mayo","""geo"":{""latitude"":40.4628381,""longitude"":-3.6717518",El abuelo
+1,1,MenuItem,Gazpacho casero,Offer,4.5,EUR,Entrante,8.9,"""Mediterráneo""","""Calle del Crucero 25 de Mayo","""geo"":{""latitude"":40.4628381,""longitude"":-3.6717518",El abuelo
+2,2,MenuItem,Esparragos trigueros con virutas de jamón,Offer,8.5,EUR,Entrante,8.9,"""Mediterráneo""","""Calle del Crucero 25 de Mayo","""geo"":{""latitude"":40.4628381,""longitude"":-3.6717518",El abuelo

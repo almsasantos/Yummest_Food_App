@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Torrija de Pan de Pueblo Caramelizada con Helado de Mango y Frambuesa,Postre,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+1,1,MenuItem,Sorbete de Manzana batido con Sidra Natural,Postre,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+2,2,MenuItem,Arroz con Leche al estilo Asturias,Postre,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+3,3,MenuItem,Tarta de Queso con Confitura de Frambuesa,Postre,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+4,4,MenuItem,Filloa rellena de Crema Pastelera y Compota de Manzana,Postre,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón

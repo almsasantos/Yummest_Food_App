@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pinchitos de pollo con salsa cacahuetes,Offer,6.9,EUR,Entrante,9,"""Tailandés""","""C","""geo"":{""latitude"":40.447347673966,""longitude"":-3.6985700130463",Aroy Thai
+1,1,MenuItem,"Rollitos de pollo y verduras, sevido con lechuga y mente",Offer,5.9,EUR,Entrante,9,"""Tailandés""","""C","""geo"":{""latitude"":40.447347673966,""longitude"":-3.6985700130463",Aroy Thai
+2,2,MenuItem,Ensalada de papaya con langostinos y zumo de papaya,Offer,11.5,EUR,Entrante,9,"""Tailandés""","""C","""geo"":{""latitude"":40.447347673966,""longitude"":-3.6985700130463",Aroy Thai

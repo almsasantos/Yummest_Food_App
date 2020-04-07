@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Surtido Gourmet,Offer,12.3,EUR,Croquetas,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+1,1,MenuItem,Surtido Premium,Offer,13.2,EUR,Croquetas,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+2,2,MenuItem,A elegir 6 iguales,Offer,6.9,EUR,Croquetas,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carrot cake con helado de zanahoria,Offer,5.9,EUR,Dulces Recién Horneados,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+1,1,MenuItem,Tarta de queso,Offer,5.9,EUR,Dulces Recién Horneados,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+2,2,MenuItem,Coulant de Chocolate,Offer,5.9,EUR,Dulces Recién Horneados,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+3,3,MenuItem,"Helados - 3 bolas ( 2 bolas €3,90)",Offer,4.5,EUR,Dulces Recién Horneados,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera

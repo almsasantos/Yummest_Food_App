@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rape con muselina de ajos y chocolate,Offer,26.0,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+1,1,MenuItem,Atún claro con setas de cardo,Offer,26.0,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+2,2,MenuItem,Bacalao gratinado con salsa de miel y ali-oli,Offer,24.0,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+3,3,MenuItem,Lomo de ventresca con tomate seco y trigueros,Offer,21.5,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+4,4,MenuItem,Bacalao con kokochas al pil-pil,Offer,26.5,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+5,5,MenuItem,Lubina en costra de sal (2 personas),Offer,56.0,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+6,6,MenuItem,Merluza con langostinos y salsa de sus corales,Offer,28.0,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+7,7,MenuItem,Lenguado a la plancha,Offer,27.5,EUR,PESCADOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche

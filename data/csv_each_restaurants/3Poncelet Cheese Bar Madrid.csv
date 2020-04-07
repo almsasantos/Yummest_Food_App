@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Poncelet CheeseCake,Offer,6.2,EUR,Postre,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+1,1,MenuItem,Tarta de Queso con fresas,Offer,6.8,EUR,Postre,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+2,2,MenuItem,COULANT DE CHOCOLATE,Offer,6.9,EUR,Postre,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+3,3,MenuItem,Tatín de Manzana Flambeada,Offer,7.0,EUR,Postre,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+4,4,MenuItem,MILHOJA CLASICA,Offer,7.2,EUR,Postre,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+5,5,MenuItem,HELADOS ARTESANOS,Offer,7.6,EUR,Postre,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+6,6,MenuItem,Panacota Brie,Offer,6.8,EUR,Postre,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid

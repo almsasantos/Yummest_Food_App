@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bowl de Choco-Krispies,Offer,5.5,EUR,Postres en Bowls,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+1,1,MenuItem,Tarta de queso al horno,Offer,5.5,EUR,Postres en Bowls,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+2,2,MenuItem,Torrija Thai,Offer,5.5,EUR,Postres en Bowls,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+3,3,MenuItem,Fresas con chantilly y nueces,Offer,5.5,EUR,Postres en Bowls,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar

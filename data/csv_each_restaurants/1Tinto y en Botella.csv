@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cecina de León,Offer,10,EUR,Picoteo,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+1,1,MenuItem,Lomo ibérico,Offer,11,EUR,Picoteo,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+2,2,MenuItem,Jamón ibérico con almendras fritas,Offer,16,EUR,Picoteo,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuestra ensalada César con pollo al carbón,Offer,14.0,EUR,ENTRANTES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+1,1,MenuItem,Tabla de jamón ibérico y quesos nacionales con su pan con tomate,Offer,19.0,EUR,ENTRANTES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+2,2,MenuItem,Burrata con tomate asado a la brasa y orégano en rama,Offer,13.0,EUR,ENTRANTES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+3,3,MenuItem,Carpaccio de calabacín y portobello con vinagreta de frutos rojos y parmesano,Offer,12.0,EUR,ENTRANTES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+4,4,MenuItem,Espárragos trigueros y calabacín a la brasa sobre habitas baby al romescu,Offer,15.0,EUR,ENTRANTES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+5,5,MenuItem,Vichyssoise al carbón con crujiente de cecina y chips vegetales,Offer,10.5,EUR,ENTRANTES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+6,6,MenuItem,"Tartar de salmón curado casero, guacamole y tostas de carbón",Offer,16.0,EUR,ENTRANTES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain

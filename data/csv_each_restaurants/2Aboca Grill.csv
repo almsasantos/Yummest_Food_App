@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bowl de salmón,Offer,8.5,EUR,Fresco y ligero,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+1,1,MenuItem,Bowl de pollo,Offer,8.5,EUR,Fresco y ligero,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+2,2,MenuItem,Bowl Veggie,Offer,8.5,EUR,Fresco y ligero,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+3,3,MenuItem,Bowl Tropical,Offer,8.5,EUR,Fresco y ligero,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill

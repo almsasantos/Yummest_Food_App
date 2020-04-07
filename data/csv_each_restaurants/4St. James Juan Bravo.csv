@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz a banda St. James,Offer,32,EUR,Arroces....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+1,1,MenuItem,Paella con bogavante gallego,Offer,35,EUR,Arroces....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+2,2,MenuItem,Fideua Rosegada (mariscos pelados con almeja fina Gallega),Offer,24,EUR,Arroces....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+3,3,MenuItem,"Fideua de chipirones, gamba roja y trigueros",Offer,26,EUR,Arroces....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+4,4,MenuItem,Arroz con carabineros (seco o caldoso),Offer,32,EUR,Arroces....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+5,5,MenuItem,Arroz con hongos boletus y foie,Offer,25,EUR,Arroces....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chorizo a la sidra,Offer,5.2,EUR,Quiero picar algo,7.7,"""Americano""","""Calle de Maudes","""geo"":{""latitude"":40.4450749,""longitude"":-3.6983741",La Costilla - Maudes
+1,1,MenuItem,Patatas al cabrales,Offer,7.1,EUR,Quiero picar algo,7.7,"""Americano""","""Calle de Maudes","""geo"":{""latitude"":40.4450749,""longitude"":-3.6983741",La Costilla - Maudes
+2,2,MenuItem,Huevos rotos con chistorra,Offer,10.9,EUR,Quiero picar algo,7.7,"""Americano""","""Calle de Maudes","""geo"":{""latitude"":40.4450749,""longitude"":-3.6983741",La Costilla - Maudes

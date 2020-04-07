@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Elote (mazorca de maíz a la brasa),Offer,4.0,EUR,CALIENTES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+1,1,MenuItem,Elote fuego,Offer,4.0,EUR,CALIENTES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+2,2,MenuItem,Alambre de panceta y papada a la brasa,Offer,8.0,EUR,CALIENTES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+3,3,MenuItem,Queso fundido con chorizo verde y tortillas de trigo,Offer,11.5,EUR,CALIENTES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+4,4,MenuItem,Gyozas de gambas con guisito diablo de carabinero con chile chipotle,Offer,11.5,EUR,CALIENTES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+5,5,MenuItem,Pulpo a la brasa,Offer,12.5,EUR,CALIENTES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+6,6,MenuItem,Bao de cochinita pibil,Offer,7.2,EUR,CALIENTES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje

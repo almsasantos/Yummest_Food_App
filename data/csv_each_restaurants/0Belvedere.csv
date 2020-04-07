@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de tomates de la huerta,Offer,12.5,EUR,Ensaladas,None,"""Mediterráneo""","""Calle de Torrelaguna","""geo"":{""latitude"":40.4442657,""longitude"":-3.654859",Belvedere
+1,1,MenuItem,Ensalada de cogollos con salmon y berberechos,Offer,18.5,EUR,Ensaladas,None,"""Mediterráneo""","""Calle de Torrelaguna","""geo"":{""latitude"":40.4442657,""longitude"":-3.654859",Belvedere
+2,2,MenuItem,Ensalada de tomate con ventresca,Offer,15.5,EUR,Ensaladas,None,"""Mediterráneo""","""Calle de Torrelaguna","""geo"":{""latitude"":40.4442657,""longitude"":-3.654859",Belvedere

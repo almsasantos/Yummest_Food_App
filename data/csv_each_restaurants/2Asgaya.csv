@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Fabada, como dios manda",Offer,18.5,EUR,Los guisos,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+1,1,MenuItem,"Verdinas estofadas como en cudillero, con pixin y almejas",Offer,18.5,EUR,Los guisos,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya

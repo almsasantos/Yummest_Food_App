@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipirones con cebollita confitada,Offer,15,EUR,Plato,8.7,None,"""C","""geo"":{""latitude"":40.425577500412,""longitude"":-3.66938996315",Donde Ricky
+1,1,MenuItem,Callos a la madrileña,Offer,15,EUR,Plato,8.7,None,"""C","""geo"":{""latitude"":40.425577500412,""longitude"":-3.66938996315",Donde Ricky
+2,2,MenuItem,Albóndigas caseras en salsa,Offer,12,EUR,Plato,8.7,None,"""C","""geo"":{""latitude"":40.425577500412,""longitude"":-3.66938996315",Donde Ricky

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crumble de manzana con helado de vainilla,Offer,10,EUR,Postre,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+1,1,MenuItem,Coulan de chocolate con helado de mandarina,Offer,10,EUR,Postre,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+2,2,MenuItem,Piña asada con helado de coco,Offer,11,EUR,Postre,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+3,3,MenuItem,Tarta de queso,Offer,10,EUR,Postre,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+4,4,MenuItem,Helados variados,Offer,7,EUR,Postre,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+5,5,MenuItem,Mojito en texturas,Offer,9,EUR,Postre,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella

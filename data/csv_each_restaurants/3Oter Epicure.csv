@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+1,1,MenuItem,Copa de champán,Offer,5.0,EUR,Bebidas,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+2,2,MenuItem,Café,Offer,1.95,EUR,Bebidas,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+3,3,MenuItem,Botella de agua,Offer,2.5,EUR,Bebidas,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure

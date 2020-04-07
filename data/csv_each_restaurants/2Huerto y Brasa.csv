@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de manzana con helado de vanilla,Offer,5.75,EUR,Postre,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.437148682337,""longitude"":-3.7042200565338",Huerto y Brasa
+1,1,MenuItem,Sablé de frambuesas con chocolate blanco,Offer,5.5,EUR,Postre,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.437148682337,""longitude"":-3.7042200565338",Huerto y Brasa
+2,2,MenuItem,Tapón de chocolate belga cremoso,Offer,5.9,EUR,Postre,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.437148682337,""longitude"":-3.7042200565338",Huerto y Brasa

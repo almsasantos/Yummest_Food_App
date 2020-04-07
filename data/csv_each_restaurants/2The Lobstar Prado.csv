@@ -1,0 +1,6 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Bacon mac & cheese,Offer,8.0,EUR,Rock on,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+1,1,1,MenuItem,Steak sandwich,Offer,13.5,EUR,Rock on,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+2,2,2,MenuItem,Clam chowder,Offer,8.0,EUR,Rock on,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+3,3,3,MenuItem,Lobstar pasta,Offer,9.0,EUR,Rock on,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+4,4,4,MenuItem,Lobstar pasta,Offer,22.0,EUR,Rock on,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar

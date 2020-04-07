@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuestra versión de Gamba al ajillo cocinada al momento,Offer,11.95,EUR,Continuamos con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+1,1,MenuItem,Tataki de presa ibérica con pan de focaccia,Offer,8.75,EUR,Continuamos con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+2,2,MenuItem,"Gyozas de Gambas con guisito de carabinero, jengibre y chile chipotle",Offer,13.5,EUR,Continuamos con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+3,3,MenuItem,Brochetas de alitas de pollo de corral adobadas,Offer,9.5,EUR,Continuamos con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+4,4,MenuItem,Saam de costillas asadas,Offer,8.65,EUR,Continuamos con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler

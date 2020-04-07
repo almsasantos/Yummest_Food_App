@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie my way,Offer,7,EUR,Postres,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+1,1,MenuItem,NY Chesse Cake,Offer,6,EUR,Postres,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+2,2,MenuItem,Piña tropical,Offer,6,EUR,Postres,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+3,3,MenuItem,Sorbete de Mojito,Offer,5,EUR,Postres,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia

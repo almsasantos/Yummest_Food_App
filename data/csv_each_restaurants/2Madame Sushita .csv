@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso Idiazábal templado,Offer,6.5,EUR,Postre,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+1,1,MenuItem,Tiramisú de té verde matcha,Offer,6.5,EUR,Postre,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+2,2,MenuItem,"Helado a la macarron (nueces, fresa o café)",Offer,2.9,EUR,Postre,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+3,3,MenuItem,Crepe Suzette de naranja con mousse de mandarina,Offer,6.9,EUR,Postre,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+4,4,MenuItem,Tarta de zanahoria (para 2 personas),Offer,7.9,EUR,Postre,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 

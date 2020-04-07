@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bienmesabe,Offer,9.5,EUR,Pescaito frito,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+1,1,MenuItem,Bocartes fritos sobre tomate aliñado,Offer,11.9,EUR,Pescaito frito,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+2,2,MenuItem,Puntillitas de Cádiz,Offer,13.9,EUR,Pescaito frito,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+3,3,MenuItem,Calamar de potera a la andaluza,Offer,14.9,EUR,Pescaito frito,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+4,4,MenuItem,Fritura variada,Offer,22.9,EUR,Pescaito frito,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo

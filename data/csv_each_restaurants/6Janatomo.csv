@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ventresca de atún,Offer,19.5,EUR,Sashimi,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo
+1,1,MenuItem,Pez espada,Offer,15.5,EUR,Sashimi,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo
+2,2,MenuItem,Chicharro,Offer,12.15,EUR,Sashimi,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo

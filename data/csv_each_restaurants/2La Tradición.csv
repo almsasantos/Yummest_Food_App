@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Hamburguesa de ternera con aguacate, queso manchego, cebolla morada, tomate y pesto",Offer,14,EUR,Carnes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+1,1,MenuItem,Solomillo de cerdo con puré de patata y salsa a la pimienta,Offer,12,EUR,Carnes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+2,2,MenuItem,Rabo estofado a la madrileña (tradicional),Offer,16,EUR,Carnes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+3,3,MenuItem,"Carpaccio de buey con ajo negro, manzana y espinaca",Offer,14,EUR,Carnes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+4,4,MenuItem,Entrecot de ternera con timbal de patata (400 g),Offer,18,EUR,Carnes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición

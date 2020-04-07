@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Humus Clásico,Offer,12.5,EUR,HUMUS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+1,1,MenuItem,Humus Merzouga,Offer,12.5,EUR,HUMUS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+2,2,MenuItem,Humus Tunecino,Offer,12.5,EUR,HUMUS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+3,3,MenuItem,Humus Tapenade,Offer,12.5,EUR,HUMUS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia

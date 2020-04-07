@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Aperitivo,Ensaladilla de patata con gambas al ajillo y crema de sus cabezas,None,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+1,1,MenuItem,Entrante a compartir,"Revolcón de tomates y quesos aliñados con vinagreta de miel y trufa, Bowl de tortilla del otoño con boletus, Bowl de croqueta de puchero (1 por persona)",None,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+2,2,MenuItem,Plato principal a elegir,"Curry verde de bacalao, coco, lima y cilantro, Wok de presa de cerdo ibérico con patatas, ajetes y setas",None,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+3,3,MenuItem,Postre a compartir,"Fresas guisadas con chantilly, nueces caramelizadas y crujientes de arroz, Bowl de chocokrispies",None,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar

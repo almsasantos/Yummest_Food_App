@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pato Shanghai mama crujiente en salsa de almendras,Offer,13.9,EUR,CARNES Y AVES,8.8,"""Chino""","""Calle del Clavel","""geo"":{""latitude"":40.4205164,""longitude"":-3.6994646",Shanghai Mama - Chueca
+1,1,MenuItem,Pollo infusionado en jengibre y ajitos de las pedroñeras,Offer,12.9,EUR,CARNES Y AVES,8.8,"""Chino""","""Calle del Clavel","""geo"":{""latitude"":40.4205164,""longitude"":-3.6994646",Shanghai Mama - Chueca
+2,2,MenuItem,Secreto ibérico adobado al estilo Chao Shao,Offer,14.5,EUR,CARNES Y AVES,8.8,"""Chino""","""Calle del Clavel","""geo"":{""latitude"":40.4205164,""longitude"":-3.6994646",Shanghai Mama - Chueca

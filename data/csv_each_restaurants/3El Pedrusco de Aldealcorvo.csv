@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,El menú carne roja consta de :,1 entrante por cada 2 personas que el chef selecciona en función del producto de mercado y de temporada y una carne roja gallega madurada para compartir ( 500 gramos ) cerrando el menú con 1 postre por cada 2 personas confeccionado por el chef.,Menú carne roja 28€,None,None,None,El Pedrusco de Aldealcorvo
+1,1,MenuItem,Las bebidas y el vino no van incluidas en el menú,Las bebidas y el vino no van incluidas en el menú.,Menú carne roja 28€,None,None,None,El Pedrusco de Aldealcorvo
+2,2,MenuItem,Postre elaborado,1 postre por cada 2 personas confeccionado por el chef,Menú carne roja 28€,None,None,None,El Pedrusco de Aldealcorvo

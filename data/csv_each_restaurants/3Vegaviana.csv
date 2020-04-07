@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Primero a elegir:,Ratatouille con cus cus\nSopa o crema del día\nHummus con tomates secos\nEnsalada mixta con queso fresco\nCroquetas de espinacas y zanahorias,Menú Noche 13.50€,None,None,None,Vegaviana
+1,1,MenuItem,Segundo a elegir:,"Hamburguesa de avena y verduras\nBerenjenas a la parmesana\nEscalopines de seitan con salsa de setas\nBurritos de queso y calabacines\nPiquillos rellenos de setas,",Menú Noche 13.50€,None,None,None,Vegaviana
+2,2,MenuItem,Postre a elegir:,Helados variados\nCrema de mango con yogur\nTarta de mascarpone y moscatel\nFruta del día\nCafé,Menú Noche 13.50€,None,None,None,Vegaviana

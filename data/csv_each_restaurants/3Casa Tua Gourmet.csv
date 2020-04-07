@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,COTOLETTA DI POLLO,Offer,13.9,EUR,SECONDI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+1,1,MenuItem,COTOLETTA DI VITELLO,Offer,14.9,EUR,SECONDI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+2,2,MenuItem,CALAMARI IN SALSA DIAVOLO,Offer,15.9,EUR,SECONDI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+3,3,MenuItem,GAMBERI ALLA PIASTRA,Offer,16.9,EUR,SECONDI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+4,4,MenuItem,FILETTO DI SALMONE ALLA PIASTRA,Offer,17.5,EUR,SECONDI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+5,5,MenuItem,TATAKI DI TONNO ROSSO,Offer,19.5,EUR,SECONDI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mofongo con queso,Offer,12,EUR,Mofongo,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+1,1,MenuItem,Mofongo con pollo,Offer,12,EUR,Mofongo,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+2,2,MenuItem,Mofongo con ternera,Offer,12,EUR,Mofongo,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+3,3,MenuItem,Mofongo on gambas,Offer,15,EUR,Mofongo,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+4,4,MenuItem,Mofongo con chicharrón guisado,Offer,12,EUR,Mofongo,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara

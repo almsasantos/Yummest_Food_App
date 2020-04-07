@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Helado del Día,Offer,3.9,EUR,POSTRES,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+1,1,MenuItem,Flan de Té Verde,Offer,4.4,EUR,POSTRES,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+2,2,MenuItem,Tarta de Queso Japonesa,Offer,6.0,EUR,POSTRES,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+3,3,MenuItem,Mochi con helado de Vainilla,Offer,2.2,EUR,POSTRES,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+4,4,MenuItem,Tempura de Mochi con helado de Vainilla,Offer,2.8,EUR,POSTRES,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+5,5,MenuItem,Chocoyuzu con helado de coco,Offer,8.8,EUR,POSTRES,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+6,6,MenuItem,Yogudri,Offer,8.8,EUR,POSTRES,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key

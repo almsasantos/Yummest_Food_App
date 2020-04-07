@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Salmón marinado,soja y wakame",Offer,14.5,EUR,Plato,9,None,"""c","""geo"":{""latitude"":40.42382640535,""longitude"":-3.7028799057007",Casa Fidel
+1,1,MenuItem,Pulpo a la plancha con cachelos,Offer,15.5,EUR,Plato,9,None,"""c","""geo"":{""latitude"":40.42382640535,""longitude"":-3.7028799057007",Casa Fidel
+2,2,MenuItem,Entrecotte con tomates salteados y tomillo,Offer,16.0,EUR,Plato,9,None,"""c","""geo"":{""latitude"":40.42382640535,""longitude"":-3.7028799057007",Casa Fidel

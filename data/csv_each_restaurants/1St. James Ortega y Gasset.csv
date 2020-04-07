@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de tomate raff con cebolla dulce y lascas de bonito,Offer,13.2,EUR,Ensaladas frescas y verduras....,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+1,1,MenuItem,Burrata fresca de Puglia con pomodori secchi y carpaccio de tomate,Offer,16.0,EUR,Ensaladas frescas y verduras....,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Aromática de frutas tropicales y hierbas aromáticas,Offer,4.0,EUR,Café Filtrados & Aromaticas De La Casa,None,None,None,QUIMBAYA by Edwin Rodríguez
+1,1,MenuItem,Café de Olleta,Offer,4.5,EUR,Café Filtrados & Aromaticas De La Casa,None,None,None,QUIMBAYA by Edwin Rodríguez
+2,2,MenuItem,Café V60 (servicio para 2 personas),Offer,9.0,EUR,Café Filtrados & Aromaticas De La Casa,None,None,None,QUIMBAYA by Edwin Rodríguez
+3,3,MenuItem,Café Chemex (servicio para 2 personas),Offer,9.0,EUR,Café Filtrados & Aromaticas De La Casa,None,None,None,QUIMBAYA by Edwin Rodríguez
+4,4,MenuItem,Café Sifón (servicio para 2 personas),Offer,9.0,EUR,Café Filtrados & Aromaticas De La Casa,None,None,None,QUIMBAYA by Edwin Rodríguez

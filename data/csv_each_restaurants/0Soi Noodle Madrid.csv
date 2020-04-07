@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa de miso orgánica,Offer,4.55,EUR,Entrantes,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+1,1,MenuItem,Ensalada de salmón y mango,Offer,6.95,EUR,Entrantes,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+2,2,MenuItem,Edamame al vapor,Offer,4.55,EUR,Entrantes,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+3,3,MenuItem,Carpaccio de ternera,Offer,8.35,EUR,Entrantes,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+4,4,MenuItem,Rollitos vietnamitas,Offer,5.55,EUR,Entrantes,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+5,5,MenuItem,Tempura de gambas,Offer,9.85,EUR,Entrantes,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+6,6,MenuItem,Yasai kakiage,Offer,6.85,EUR,Entrantes,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid

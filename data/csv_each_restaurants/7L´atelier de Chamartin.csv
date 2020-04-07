@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ibérica,Offer,7,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+1,1,MenuItem,Jamón ibérico y rúcula,Offer,7,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+2,2,MenuItem,Pavo o pollo y bacón,Offer,6,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+3,3,MenuItem,Chorizo picante,Offer,6,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+4,4,MenuItem,Gran L´Atelier,Offer,7,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+5,5,MenuItem,Vegetal,Offer,6,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+6,6,MenuItem,Queso de cabra y cebolla confitada,Offer,6,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+7,7,MenuItem,Pavo o pollo y champiñones,Offer,6,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+8,8,MenuItem,Pizza dos ingredientes,Offer,7,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+9,9,MenuItem,Pizza tres ingredientes,Offer,8,EUR,PIZZAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin

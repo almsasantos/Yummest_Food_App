@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de Pollo,Offer,4,EUR,Entrantes,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+1,1,MenuItem,Ensalada Dulce,Offer,4,EUR,Entrantes,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+2,2,MenuItem,Samosa Vegetal,Offer,2,EUR,Entrantes,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+3,3,MenuItem,Samosa de Pollo,Offer,2,EUR,Entrantes,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+4,4,MenuItem,Piazo,Offer,2,EUR,Entrantes,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+5,5,MenuItem,Beguni,Offer,2,EUR,Entrantes,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi

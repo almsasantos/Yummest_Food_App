@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Babá de violetas y frambuesa,Offer,6,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+1,1,MenuItem,Tarta de queso idiazábal cremosa con un toque azul,Offer,6,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+2,2,MenuItem,Ganache de chocolate blanco y pasión,Offer,6,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+3,3,MenuItem,Chocolate 2.0,Offer,6,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona

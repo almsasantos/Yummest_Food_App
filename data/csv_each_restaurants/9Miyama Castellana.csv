@@ -1,0 +1,16 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,22.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+1,1,MenuItem,Toro (Ventresca de atún),Offer,29.5,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+2,2,MenuItem,Salmón,Offer,15.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+3,3,MenuItem,Pescado Blanco Del Día,Offer,21.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+4,4,MenuItem,Pez Limón (hamachi),Offer,20.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+5,5,MenuItem,Cangrejo Real,Offer,22.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+6,6,MenuItem,Vieira,Offer,15.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+7,7,MenuItem,Langostino Crudo,Offer,18.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+8,8,MenuItem,Langostino Cocido,Offer,16.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+9,9,MenuItem,Chicharro,Offer,10.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+10,10,MenuItem,Calamar,Offer,9.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+11,11,MenuItem,Erizo De Mar / Uni (depende de estación),Offer,22.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+12,12,MenuItem,"Surtido 3 clases (A criterio del cliente, a excepcion de Ostra y Erizo)",Offer,28.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+13,13,MenuItem,Surtido 5 clases (A criterio del Jefe de Cocina),Offer,36.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+14,14,MenuItem,Surtido 7 clases (A criterio del Jefe de Cocina),Offer,48.0,EUR,Sashimi,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana

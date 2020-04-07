@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuestro tradicional bacalao al pil-pil,Offer,21.6,EUR,Pescados,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+1,1,MenuItem,Ventresca de atún a la plancha,Offer,17.8,EUR,Pescados,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+2,2,MenuItem,Txipirones en su tinta,Offer,18.8,EUR,Pescados,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+2,2,MenuItem,Café,Offer,1.9,EUR,Bebidas,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+3,3,MenuItem,Botella de agua,Offer,4.25,EUR,Bebidas,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+4,4,MenuItem,Media botella de agua,Offer,2.95,EUR,Bebidas,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+5,5,MenuItem,Botella de vino,Offer,13.0,EUR,Bebidas,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela

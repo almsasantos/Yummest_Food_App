@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Tomate relleno de ventresca sobre fondo de salmorejo.,Menú Degustación,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+1,1,MenuItem,Pescado,Merluza rellena de marisco y verduras glaseadas con espuma de ajo.,Menú Degustación,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+2,2,MenuItem,Carne,Rabo de toro deshuesado en su propio jugo recubierto de berenjena y calabacín.,Menú Degustación,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+3,3,MenuItem,Postre,Tarta fina de manzana con helado de violeta.,Menú Degustación,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine

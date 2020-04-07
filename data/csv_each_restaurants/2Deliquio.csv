@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Queso viejo manchego,Offer,9.5,EUR,EL COLMADO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+1,1,MenuItem,Croquetas de cecina y queso de cabra con salsa de mango (8uds),Offer,10.0,EUR,EL COLMADO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+2,2,MenuItem,Bocaditos de Idiazabal,Offer,10.0,EUR,EL COLMADO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Red Mountain burger,Offer,12.9,EUR,Premium Burguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+1,1,MenuItem,La Suiza,Offer,12.9,EUR,Premium Burguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+2,2,MenuItem,La Benedictina,Offer,12.9,EUR,Premium Burguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+3,3,MenuItem,Melting cheese burger,Offer,12.9,EUR,Premium Burguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+4,4,MenuItem,Boletus burger,Offer,12.9,EUR,Premium Burguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+5,5,MenuItem,Mexican burger,Offer,12.9,EUR,Premium Burguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+6,6,MenuItem,Dry Aged,Offer,16.0,EUR,Premium Burguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha

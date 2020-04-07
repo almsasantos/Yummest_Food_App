@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jalea mixta,Offer,18,EUR,Pescados y mariscos,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima
+1,1,MenuItem,Chicharrón de pescado,Offer,15,EUR,Pescados y mariscos,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima
+2,2,MenuItem,Chupe de camarones,Offer,15,EUR,Pescados y mariscos,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima
+3,3,MenuItem,Arroz con mariscos,Offer,16,EUR,Pescados y mariscos,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima

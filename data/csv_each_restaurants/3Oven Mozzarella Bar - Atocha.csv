@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Parpadelle al teléfono,Offer,11.0,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+1,1,MenuItem,Spaghetti a la carbonara originale,Offer,13.0,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+2,2,MenuItem,Tagliatelle bologna,Offer,11.0,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+3,3,MenuItem,Gnocchi artesanal con tomate confitado y burrata,Offer,12.5,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+4,4,MenuItem,Penne calabrese,Offer,11.0,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+5,5,MenuItem,Linguini de gambón alla diavola,Offer,14.0,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+6,6,MenuItem,Rigatoni 4 formaggi,Offer,12.5,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+7,7,MenuItem,Rigatoni al forno,Offer,12.0,EUR,Pastas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha

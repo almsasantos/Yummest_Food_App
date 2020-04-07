@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas cremosas de Atún rojo,Offer,14.0,EUR,Para Empezar,9.4,None,"""C","""geo"":{""latitude"":40.400070316646,""longitude"":-3.700079917907715",Alconada
+1,1,MenuItem,Bocartes del Cantábrico abiertos y rebozados con Anchoas,Offer,17.0,EUR,Para Empezar,9.4,None,"""C","""geo"":{""latitude"":40.400070316646,""longitude"":-3.700079917907715",Alconada
+2,2,MenuItem,Chipirones a la plancha con Basmati,Offer,16.5,EUR,Para Empezar,9.4,None,"""C","""geo"":{""latitude"":40.400070316646,""longitude"":-3.700079917907715",Alconada

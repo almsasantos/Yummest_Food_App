@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,MEDIO PATO (2 personas),Offer,31.6,EUR,PATO LAKEADO CRISPY,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+1,1,MenuItem,PATO ENTERO (4 personas),Offer,49.8,EUR,PATO LAKEADO CRISPY,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatas fritas al natural,Offer,3.5,EUR,PATATAS FRITAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+1,1,MenuItem,Patatas con Ragout de toro y salsa Bearnaise,Offer,7.25,EUR,PATATAS FRITAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+2,2,MenuItem,Patatas con huevos rotos,Offer,6.5,EUR,PATATAS FRITAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+3,3,MenuItem,Patatas con huevos rotos y jamón iberico,Offer,7.5,EUR,PATATAS FRITAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+4,4,MenuItem,Patatas especial del mes,Offer,7.5,EUR,PATATAS FRITAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin

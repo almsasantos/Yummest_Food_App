@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carillera a la naranja con un toque de chocolate sobre risotto de setas y trufa,Offer,18.5,EUR,Un paseo por la montaña,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+1,1,MenuItem,Hamburguesa Sagaz,Offer,12.5,EUR,Un paseo por la montaña,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+2,2,MenuItem,Entrecot a la parrilla con patatas y ensalada,Offer,16.5,EUR,Un paseo por la montaña,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+3,3,MenuItem,Albóndigas al curry tailandes con tres arroces,Offer,10.9,EUR,Un paseo por la montaña,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15

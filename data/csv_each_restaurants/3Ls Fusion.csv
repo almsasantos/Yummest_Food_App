@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Cecicha de corvina con leche de tigre, crocante de batata y maíz",Offer,7.5,EUR,Pescados,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+1,1,MenuItem,Chipirones rellenos de tomate seco y manzana en su tinta,Offer,8.5,EUR,Pescados,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+2,2,MenuItem,Gyosas de langostino y jengibre con dresing de wasabi,Offer,5.5,EUR,Pescados,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Verduras a la plancha con queso de cabra,Offer,10.5,EUR,Platos Diferentes,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+1,1,MenuItem,"Salteado de gulas, setas y gambas",Offer,9.9,EUR,Platos Diferentes,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+2,2,MenuItem,Entrecot de buey a la parrilla con verduras,Offer,13.0,EUR,Platos Diferentes,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+3,3,MenuItem,Solomillitos pata negra a la parrilla o cabrales con verduras,Offer,10.5,EUR,Platos Diferentes,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+4,4,MenuItem,Langostinos en salsa de erizo,Offer,16.0,EUR,Platos Diferentes,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte

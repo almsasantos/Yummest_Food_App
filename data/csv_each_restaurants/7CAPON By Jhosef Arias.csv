@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pie de Limón,Offer,5.5,EUR,Postre,9.4,"""Peruano""","""Calle de San Isidoro de Sevilla","""geo"":{""latitude"":40.4044714,""longitude"":-3.7119058",CAPON By Jhosef Arias
+1,1,MenuItem,Cheesecake,Offer,5.5,EUR,Postre,9.4,"""Peruano""","""Calle de San Isidoro de Sevilla","""geo"":{""latitude"":40.4044714,""longitude"":-3.7119058",CAPON By Jhosef Arias
+2,2,MenuItem,Cremoso de Maracuyá,Offer,5.5,EUR,Postre,9.4,"""Peruano""","""Calle de San Isidoro de Sevilla","""geo"":{""latitude"":40.4044714,""longitude"":-3.7119058",CAPON By Jhosef Arias
+3,3,MenuItem,Mango,Offer,5.5,EUR,Postre,9.4,"""Peruano""","""Calle de San Isidoro de Sevilla","""geo"":{""latitude"":40.4044714,""longitude"":-3.7119058",CAPON By Jhosef Arias

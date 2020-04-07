@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheescake de frutos rojos,Offer,6.5,EUR,Postre,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+1,1,MenuItem,"Cheescake, Snickers y Oreo",Offer,6.5,EUR,Postre,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+2,2,MenuItem,Apple crumble con helado,Offer,6.5,EUR,Postre,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+3,3,MenuItem,Fudge brownie con helado de vainilla,Offer,6.5,EUR,Postre,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+4,4,MenuItem,Cheescake de pistacho y chocolate blanco,Offer,6.5,EUR,Postre,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger

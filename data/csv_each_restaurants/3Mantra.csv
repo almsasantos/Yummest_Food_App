@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulao Rice,Offer,3.95,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+1,1,MenuItem,Jeera Rice,Offer,4.95,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+2,2,MenuItem,Matar Pulao,Offer,6.95,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+3,3,MenuItem,Kashmiri Pulao,Offer,7.5,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+4,4,MenuItem,Vegetable Biryani,Offer,10.5,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+5,5,MenuItem,Chicken Biryani,Offer,11.5,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+6,6,MenuItem,Mutton Biryani,Offer,12.95,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+7,7,MenuItem,Prawns Biryani,Offer,12.95,EUR,Acompañamiento Arroz Basmati,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra

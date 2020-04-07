@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lenguado a la plancha,Offer,21.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+1,1,MenuItem,Cogote de merluza,Offer,24.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+2,2,MenuItem,Merluza a la Vasca,Offer,25.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+3,3,MenuItem,Merluza a la Gallega,Offer,24.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+4,4,MenuItem,Merluza a la Romana,Offer,21.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+5,5,MenuItem,Lubina a la sal ( 2 pers.),Offer,44.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+6,6,MenuItem,Lubina al horno,Offer,22.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+7,7,MenuItem,Lubina al horno (2 pers.),Offer,44.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+8,8,MenuItem,Salmon plancha,Offer,18.5,EUR,Pescados,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego

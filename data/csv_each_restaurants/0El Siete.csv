@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pimientos rojos asados con ventresca de bonito y chips de ajo,Offer,10.0,EUR,Entrante,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+1,1,MenuItem,Huevo trufado con espuma de patata y asadillo de setas,Offer,6.5,EUR,Entrante,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+2,2,MenuItem,Berenjenas crujientes con hummus y miel de caña,Offer,9.0,EUR,Entrante,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete

@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla de Patata y Cebolla,Offer,16,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo
+1,1,MenuItem,Pisto a mi manera con huevos revueltos,Offer,15,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo
+2,2,MenuItem,Menestra al estilo de Lorenzo,Offer,16,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo
+3,3,MenuItem,Guisantes de temporada,Offer,16,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo
+4,4,MenuItem,Alcachofas de temporada a la plancha,Offer,15,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo
+5,5,MenuItem,Boquerones fritos con ajito y guindilla,Offer,14,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo
+6,6,MenuItem,Lechazo escabechado,Offer,16,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo
+7,7,MenuItem,Cogote de merluza a la bilbaína,Offer,20,EUR,Nuestros platos,9,"""Mediterráneo""","""Calle de Máiquez","""geo"":{""latitude"":40.4176381,""longitude"":-3.6733589",Támara Lorenzo

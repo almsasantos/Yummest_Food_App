@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arancine,Offer,6.0,EUR,Da Condividere,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+1,1,MenuItem,Olive Ascolane,Offer,6.0,EUR,Da Condividere,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+2,2,MenuItem,Mozzarelline,Offer,6.0,EUR,Da Condividere,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+3,3,MenuItem,Crocchette,Offer,7.5,EUR,Da Condividere,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+4,4,MenuItem,Empanadillas de la Abuela Argentina,Offer,3.5,EUR,Da Condividere,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+5,5,MenuItem,Tamales Oaxaqueños,Offer,4.5,EUR,Da Condividere,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo

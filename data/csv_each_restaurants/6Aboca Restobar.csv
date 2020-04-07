@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortitas (3 tortitas con nata y sirope o mermelada),Offer,4.5,EUR,Más Dulces,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+1,1,MenuItem,Pizza de Nutella,Offer,4.5,EUR,Más Dulces,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+2,2,MenuItem,Tarta Casera,Offer,4.5,EUR,Más Dulces,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar

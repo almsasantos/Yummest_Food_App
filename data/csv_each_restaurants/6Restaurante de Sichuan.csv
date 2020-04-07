@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ARROZ FRITO CON JAMON Y HUEVO,Offer,4.9,EUR,PASTA Y ARROZ,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+1,1,MenuItem,EMPANADILLA DE CERDO AL VAPOR,Offer,6.5,EUR,PASTA Y ARROZ,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+2,2,MenuItem,LA-MIAN AL ESTILO SICHUAN CON SALSA CACAHUATE,Offer,6.5,EUR,PASTA Y ARROZ,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+3,3,MenuItem,FIDEO CON SOPA DE POLLO Y VERDURAS,Offer,6.8,EUR,PASTA Y ARROZ,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+4,4,MenuItem,TALLARINES FRITO,Offer,5.5,EUR,PASTA Y ARROZ,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan

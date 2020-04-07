@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada verde con vinagreta de manzana,Offer,7.8,EUR,Ensaladas,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+1,1,MenuItem,Ensalada tibia de gulas y gambas,Offer,9.8,EUR,Ensaladas,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+2,2,MenuItem,Ensalada de primavera,Offer,10.8,EUR,Ensaladas,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+3,3,MenuItem,Ensalada de cogollos con pimientos y ventresca de bonito,Offer,11.8,EUR,Ensaladas,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+4,4,MenuItem,Ensalada de Foie y Jamon de Bellota con frmabuesas,Offer,13.9,EUR,Ensaladas,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+5,5,MenuItem,Ensalada mixta Sagaretxe,Offer,10.8,EUR,Ensaladas,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe

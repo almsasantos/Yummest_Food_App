@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+2,2,MenuItem,Café,Offer,1.0,EUR,Bebidas,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+5,5,MenuItem,Botella de vino,,,,Bebidas,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion

@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merengue relleno con crema de castañas al brandy y helado de ciruelas pasas,Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+1,1,MenuItem,"Postre variado de chocolate (Sorbete, bizcocho y mousse)",Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+2,2,MenuItem,Milhoja con pera Williams caramelizada,Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+3,3,MenuItem,Filloas rellenas de crema de canela con sorbete de orujo,Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+4,4,MenuItem,Soufle caliente de chocolate con helado de vainilla,Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+5,5,MenuItem,Dátiles rellenos de chantilly sobre mazapán de almendras gratinado y helado de canela,Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+6,6,MenuItem,Mousse de requesón con frutos rojos y helado de miel,Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+7,7,MenuItem,"Postre de cítricos (sorbete de mandarina, bizcocho de pomelo y calabaza y souflé de naranja )",Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+8,8,MenuItem,Gratinado de frutos del bosque con salsa de sabayone,Offer,10.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+9,9,MenuItem,Sorbetes al cava o vodka,Offer,12.0,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+10,10,MenuItem,"Sorbetes (Limón, maracuyá, mango, mandarina y chocolate)",Offer,9.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+11,11,MenuItem,"Helados variados (Vainilla, ciruelas pasas, miel, canela y turrón)",Offer,9.5,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+12,12,MenuItem,Quesos surtidos del país (5 tipos),Offer,15.0,EUR,Postre,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma

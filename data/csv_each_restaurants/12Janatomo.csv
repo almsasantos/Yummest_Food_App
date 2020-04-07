@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Lonchas de lomo de buey con verduras,setas y oreja de madera",Offer,8.85,EUR,Buey,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo
+1,1,MenuItem,"Solomillo de buey asado con vino tinto,sake dulce y salsa de soja",Offer,13.65,EUR,Buey,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo
+2,2,MenuItem,Gyushogayaki,Offer,12.35,EUR,Buey,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo

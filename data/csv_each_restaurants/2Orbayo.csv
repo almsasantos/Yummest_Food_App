@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletillas a la brasa,Offer,17.25,EUR,Cordero,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+1,1,MenuItem,Paletilla al horno,Offer,20.75,EUR,Cordero,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo

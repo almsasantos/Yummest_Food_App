@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Filloas gallegas,Offer,4.86,EUR,Postre,8.5,"""Mediterráneo""","""C","""geo"":{""latitude"":40.43615860389,""longitude"":-3.6719698905944824",Luis I
+1,1,MenuItem,Variado de la casa (para 2 personas; precio por persona),Offer,5.67,EUR,Postre,8.5,"""Mediterráneo""","""C","""geo"":{""latitude"":40.43615860389,""longitude"":-3.6719698905944824",Luis I
+2,2,MenuItem,Flan casero,Offer,4.86,EUR,Postre,8.5,"""Mediterráneo""","""C","""geo"":{""latitude"":40.43615860389,""longitude"":-3.6719698905944824",Luis I

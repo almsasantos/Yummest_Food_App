@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cochinillo confitado al Txacoli con pure ahumado,Offer,16.5,EUR,Nuestras carnes,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+1,1,MenuItem,Carrilleras Ibericas estofadas al vino tinto,Offer,16.5,EUR,Nuestras carnes,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+2,2,MenuItem,Chuletas de lechal con piquillos confitados,Offer,18.5,EUR,Nuestras carnes,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+3,3,MenuItem,Medallones de solomillo Iberico con salsa de queso idiazabal,Offer,18.7,EUR,Nuestras carnes,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+4,4,MenuItem,Dados de solomillo de buey con salsa de foie,Offer,19.8,EUR,Nuestras carnes,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+5,5,MenuItem,Solomillo de buey a la brasa de carbon (250gr aprox),Offer,22.5,EUR,Nuestras carnes,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+6,6,MenuItem,Txuleton de buey a la parrilla (500 gr aprox),Offer,24.8,EUR,Nuestras carnes,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe

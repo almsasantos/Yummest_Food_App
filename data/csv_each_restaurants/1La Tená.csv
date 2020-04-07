@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Dados de merluza en tempura con ali - oli negro de lima,Offer,17,EUR,Plato,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená
+1,1,MenuItem,Solomillo de vaca con su guarnición,Offer,22,EUR,Plato,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená
+2,2,MenuItem,Tartar de salmon y aguacate con regaña de cristal,Offer,17,EUR,Plato,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená
+3,3,MenuItem,"confit de pato, compota de pera y reduccion de oporto",Offer,17,EUR,Plato,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená

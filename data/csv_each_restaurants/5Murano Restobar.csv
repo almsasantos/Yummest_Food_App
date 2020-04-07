@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crepes Nutella,Offer,4.5,EUR,Postres,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+1,1,MenuItem,Tiramisú,Offer,4.5,EUR,Postres,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+2,2,MenuItem,Crema de Mascarpone al gusto (Oreo o Frutos Rojos),Offer,4.5,EUR,Postres,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+3,3,MenuItem,Tartaleta de Frutos Rojos,Offer,4.5,EUR,Postres,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+4,4,MenuItem,Arroz con Leche,Offer,4.5,EUR,Postres,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+5,5,MenuItem,Flan de Huevo,Offer,4.5,EUR,Postres,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+6,6,MenuItem,Tarta de Queso,Offer,4.5,EUR,Postres,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar

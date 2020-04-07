@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Murg Makhani,Offer,13.95,EUR,Especialidad de chef,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+1,1,MenuItem,Murg Ambh Wala,Offer,14.95,EUR,Especialidad de chef,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+2,2,MenuItem,Mutten Samrat,Offer,16.95,EUR,Especialidad de chef,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+3,3,MenuItem,Chili Jhinga,Offer,18.95,EUR,Especialidad de chef,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+4,4,MenuItem,Mutten Khumb Wala,Offer,16.25,EUR,Especialidad de chef,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian

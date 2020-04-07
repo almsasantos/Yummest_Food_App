@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmorejo Chantarella,Offer,13,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+1,1,MenuItem,Ensalada de queso azul y pera con aliño de miel,Offer,16,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+2,2,MenuItem,Carpaccio de calabacín con burrata y salsa pesto,Offer,17,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+3,3,MenuItem,Alcachofas fritas con salsa romesco,Offer,15,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+4,4,MenuItem,Empanadillas de huevo con pisto manchego y aceite de trufa,Offer,19,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+5,5,MenuItem,Raviolis de pato con escabeche de miel y piña fresca,Offer,22,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+6,6,MenuItem,Socarrat de callos con langostinos,Offer,23,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+7,7,MenuItem,Rollitos ibéricos con salsa agridulce,Offer,20,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+8,8,MenuItem,Butifarra con puré de manzana y aceite de romero,Offer,18,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+9,9,MenuItem,Nuestros huevos rotos con jamón,Offer,16,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+10,10,MenuItem,Mejillones en salsa con un toque picante,Offer,17,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+11,11,MenuItem,Cazuela de callos a la madrileña,Offer,18,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+12,12,MenuItem,Fingers de oreja de cerdo con salsa joisin,Offer,20,EUR,Entrante,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella

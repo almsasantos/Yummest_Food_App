@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipirones de Costa al aceite de ajo y sal de escama,Offer,19.25,EUR,Pescados de anzuelo,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+1,1,MenuItem,Chipironcitos de anzuelo rellenos en su tinta,Offer,19.25,EUR,Pescados de anzuelo,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+2,2,MenuItem,Lomo de merluza a la Bilbaína ligera,Offer,22.0,EUR,Pescados de anzuelo,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+3,3,MenuItem,Lubina a la sal (Mínimo 2 personas) precio por persona,Offer,23.5,EUR,Pescados de anzuelo,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+4,4,MenuItem,Rodaballo a la Donostiarra. Para uno y para dos,Offer,27.5,EUR,Pescados de anzuelo,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+5,5,MenuItem,Lenguado especial asado con su piel,Offer,28.0,EUR,Pescados de anzuelo,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles

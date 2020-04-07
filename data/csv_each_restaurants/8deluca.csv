@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,22.0,EUR,Bebidas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+1,1,MenuItem,Copa de champán,Offer,3.5,EUR,Bebidas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+4,4,MenuItem,Media botella de agua,Offer,2.7,EUR,Bebidas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+5,5,MenuItem,Botella de vino,Offer,20.0,EUR,Bebidas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca

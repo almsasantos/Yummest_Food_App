@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Provola alla Pizzaiola,Offer,9.5,EUR,Entrante,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+1,1,MenuItem,Melanzane alla Parmigiana,Offer,9.9,EUR,Entrante,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+2,2,MenuItem,Cozze alla Tarantina,Offer,10.9,EUR,Entrante,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+3,3,MenuItem,Tartar di salmone,Offer,12.9,EUR,Entrante,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+4,4,MenuItem,Carpaccio di Manzo,Offer,11.9,EUR,Entrante,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+5,5,MenuItem,Insalata Toscana,Offer,10.5,EUR,Entrante,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+6,6,MenuItem,Caprese di Burfala,Offer,12.5,EUR,Entrante,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de chocolate negro,Offer,6.5,EUR,Postre,9,None,"""c","""geo"":{""latitude"":40.42382640535,""longitude"":-3.7028799057007",Casa Fidel
+1,1,MenuItem,Tarta de manzana con helado de vainilla,Offer,6.5,EUR,Postre,9,None,"""c","""geo"":{""latitude"":40.42382640535,""longitude"":-3.7028799057007",Casa Fidel
+2,2,MenuItem,Panna cotta con frutos rojos,Offer,6.5,EUR,Postre,9,None,"""c","""geo"":{""latitude"":40.42382640535,""longitude"":-3.7028799057007",Casa Fidel

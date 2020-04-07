@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot (300 g),Offer,13.0,EUR,Carnes,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+1,1,MenuItem,Pollo asado al vino,Offer,9.0,EUR,Carnes,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+2,2,MenuItem,Secreto,Offer,9.5,EUR,Carnes,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+3,3,MenuItem,Chuletón de vaca (1kg),Offer,33.0,EUR,Carnes,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+4,4,MenuItem,Solomillo de ternera (300gr),Offer,23.0,EUR,Carnes,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Helado al pistacho con daditos al Amaretto en gelatina dulce,Offer,7.5,EUR,Nuestros helados,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+1,1,MenuItem,De chocolate negro con trocitos de piel de naranja,Offer,7.0,EUR,Nuestros helados,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real

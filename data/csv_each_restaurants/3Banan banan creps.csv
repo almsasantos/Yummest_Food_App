@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de zanahoria,Offer,6,EUR,Postres,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+1,1,MenuItem,Tarta de queso,Offer,6,EUR,Postres,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+2,2,MenuItem,Tiramisú,Offer,6,EUR,Postres,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+3,3,MenuItem,Brownie,Offer,6,EUR,Postres,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps

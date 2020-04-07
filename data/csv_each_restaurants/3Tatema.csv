@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+2,2,MenuItem,Café,Offer,1.0,EUR,Bebidas,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+3,3,MenuItem,Botella de agua,Offer,2.0,EUR,Bebidas,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+5,5,MenuItem,Botella de vino,Offer,11.0,EUR,Bebidas,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Corte selección de carne roja a la parrilla,Offer,23.5,EUR,Carnes seleccionadas - Carnes rojas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+1,1,MenuItem,Cachopo de carne roja con queso Vidiago,Offer,22.5,EUR,Carnes seleccionadas - Carnes rojas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles

@@ -1,0 +1,25 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Kra Prao: Pollo,Offer,13.75,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+1,1,MenuItem,Kra Prao: Langostino,Offer,16.5,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+2,2,MenuItem,Kra Prao: Calamares,Offer,15.95,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+3,3,MenuItem,Kra Prao: Verduras,Offer,12.65,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+4,4,MenuItem,Kra Prao: Solomillo,Offer,17.05,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+5,5,MenuItem,Kra Prao: Pato,Offer,17.05,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+6,6,MenuItem,Kra Prao: Cerdo,Offer,13.75,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+7,7,MenuItem,Kai Pad King,Offer,13.75,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+8,8,MenuItem,Kai Pad Med Mamuang,Offer,13.75,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+9,9,MenuItem,"Agridulce con piña, pepino, cebolla, pimiento rojo y verde: Pollo",Offer,13.75,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+10,10,MenuItem,"Agridulce con piña, pepino, cebolla, pimiento rojo y verde: Pato",Offer,17.05,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+11,11,MenuItem,"Agridulce con piña, pepino, cebolla, pimiento rojo y verde: Pescado",Offer,17.49,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+12,12,MenuItem,"Agridulce con piña, pepino, cebolla, pimiento rojo y verde: Langostino",Offer,18.15,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+13,13,MenuItem,"Agridulce con piña, pepino, cebolla, pimiento rojo y verde: Verduras",Offer,11.55,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+14,14,MenuItem,Ped Makam,Offer,17.05,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+15,15,MenuItem,Thod Kratiam Prik Thai: Pollo,Offer,13.75,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+16,16,MenuItem,Thod Kratiam Prik Thai: Langostino,Offer,18.15,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+17,17,MenuItem,Thod Kratiam Prik Thai: Ternera,Offer,17.05,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+18,18,MenuItem,Thod Kratiam Prik Thai: Cerdo,Offer,13.75,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+19,19,MenuItem,Nua namen,Offer,17.05,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+20,20,MenuItem,Gung Phad Pong Karee,Offer,18.15,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+21,21,MenuItem,Gung Phad Normai,Offer,18.15,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+22,22,MenuItem,Gung Namprik Phao,Offer,18.15,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+23,23,MenuItem,Gung Pao,Offer,19.25,EUR,Plato / Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas

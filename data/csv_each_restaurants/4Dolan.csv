@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carne roja trinchada con pimientos de Padrón y patatas panaderas 350grs,Offer,25,EUR,Carne,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+1,1,MenuItem,Steak tartar con yema de huevo,Offer,19,EUR,Carne,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+2,2,MenuItem,Pluma Ibérica con Parmesano y rúcula,Offer,18,EUR,Carne,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+3,3,MenuItem,Medallón de Solomillo de ternera con micuit de foie caramelizado,Offer,18,EUR,Carne,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan

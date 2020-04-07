@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de atún con boniato a la plancha,Offer,19.8,EUR,Plato,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 
+1,1,MenuItem,Lasaña de rabo de toro y su salsa,Offer,18.5,EUR,Plato,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 
+2,2,MenuItem,Chipirones a la plancha con compota de tomate y su tinta,Offer,17.5,EUR,Plato,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 
+3,3,MenuItem,Carrillera ibérica glaseada con polenta plancha,Offer,18.0,EUR,Plato,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 

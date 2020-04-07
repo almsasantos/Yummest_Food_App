@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bun Cha,Offer,16.5,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+1,1,MenuItem,My Xao,Offer,13.9,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+2,2,MenuItem,Pho Bo,Offer,9.5,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+3,3,MenuItem,Com Rang,Offer,12.9,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+4,4,MenuItem,Bo Xao Luc Lac,Offer,15.9,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+5,5,MenuItem,Canh Ga,Offer,16.5,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+6,6,MenuItem,Cari Ca,Offer,17.8,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+7,7,MenuItem,Muc Xao Can Toi,Offer,15.8,EUR,Plato,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam

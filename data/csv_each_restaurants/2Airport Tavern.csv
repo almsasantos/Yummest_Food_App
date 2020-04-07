@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,César,Offer,10,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+1,1,MenuItem,Capreses con vinagreta de albahaca,Offer,11,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+2,2,MenuItem,Queso de cabra,Offer,12,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+3,3,MenuItem,Rúcula,Offer,12,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+4,4,MenuItem,Ventresca de atún con pimientos rojos,Offer,12,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+5,5,MenuItem,Trigueros plancha con queso Brie fundido y virutas de jamón,Offer,11,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+6,6,MenuItem,Champiñones plancha,Offer,10,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+7,7,MenuItem,"Yemas de espárragos con salmón ahumado, alcaparras, cebolleta y huevo cocido",Offer,11,EUR,Verdes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern

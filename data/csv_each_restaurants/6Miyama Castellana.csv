@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ebi (langostino 5 piezas),Offer,19.5,EUR,Tempura,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+1,1,MenuItem,Verduras ( 8 piezas),Offer,11.5,EUR,Tempura,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+2,2,MenuItem,"Mixta (verduras, pescado blanco, langostino)",Offer,22.0,EUR,Tempura,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana

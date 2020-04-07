@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tempura variada,Offer,16,EUR,Tempura & Fritos,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+1,1,MenuItem,Tempura de verduras,Offer,12,EUR,Tempura & Fritos,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+2,2,MenuItem,Tempura de sardinitas envueltas en hoja de shiso y ume,Offer,15,EUR,Tempura & Fritos,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja

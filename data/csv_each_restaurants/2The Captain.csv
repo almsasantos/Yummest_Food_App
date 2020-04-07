@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Corvina salvaje a la brasa sobre crema de guisantes y zanahoria al carbón,Offer,20.0,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+1,1,MenuItem,Bacalao a la brasa con pil-pil de piquillos y crema de coliflor,Offer,18.5,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+2,2,MenuItem,Lagarto ibérico al carbón sobre salteado de setas,Offer,15.0,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+3,3,MenuItem,Lomo alto de vacuno madurado(300gr) con patatas fritas o ensalada,Offer,23.0,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+4,4,MenuItem,Nuestra pasta bolognesa al horno de carbón,Offer,12.0,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+5,5,MenuItem,Fetuccini al pesto rojo con lascas de parmesano,Offer,12.0,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+6,6,MenuItem,Carrillera e ternera estofada a la cerveza con puré trufado,Offer,16.0,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+7,7,MenuItem,Tataki de atún sobre porra antequerana,Offer,21.5,EUR,PRINCIPALES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain

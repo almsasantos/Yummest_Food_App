@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Mixto de Jamón,Lomo, Salchichón Ibérico de Bellota Y queso Manchego Rva",Offer,27.89,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+1,1,MenuItem,Jamón y Lomo Ibérico de Bellota Reserva con Tostas de Pan Tumaca,Offer,26.95,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+2,2,MenuItem,Jamón de Buey de Astorga ahumado con Almendras Fritas,Offer,19.47,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+3,3,MenuItem,Queso Curado de Oveja y Cabrales con sus Tostas,Offer,17.49,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+4,4,MenuItem,Ensaladilla Rusa FERREIRO con Migas de Bonito,Offer,12.76,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+5,5,MenuItem,Anchoas de Santoña Artesanas con Jugo de Arbequina (Por Unidades),Offer,3.27,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+6,6,MenuItem,Pulpo Gordo del Cantábrico A Feira con Cachelos,Offer,23.0,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+7,7,MenuItem,Huevos de Corral Estrellados con Jamón de Bellota y Patatas Fritas,Offer,18.15,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+8,8,MenuItem,Calamarcitos de Potera Fritos a la Andaluza,Offer,19.14,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+9,9,MenuItem,Croquetas Mixtas de Nuestra Fabada y de Jamón Ibérico Hechas en Casa,Offer,11.55,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+10,10,MenuItem,Flores de Alcachofa a la Plancha con Aceite de Oliva virgen Extra y Sal Maldon,Offer,17.54,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+11,11,MenuItem,Buñuelos de Bacalao Fritos al Aceite de Oliva Virgen Extra,Offer,20.68,EUR,Entrante,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro

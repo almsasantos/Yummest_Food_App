@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Raw Bar,Offer,10,EUR,Entrante,9.1,"""Americano""","""Calle de Gravina","""geo"":{""latitude"":40.4228537,""longitude"":-3.6969627",Lobsterie
+1,1,MenuItem,Camarones,Offer,10,EUR,Entrante,9.1,"""Americano""","""Calle de Gravina","""geo"":{""latitude"":40.4228537,""longitude"":-3.6969627",Lobsterie
+2,2,MenuItem,Croquetas de bogavante,Offer,10,EUR,Entrante,9.1,"""Americano""","""Calle de Gravina","""geo"":{""latitude"":40.4228537,""longitude"":-3.6969627",Lobsterie
+3,3,MenuItem,Tacos de buey de mar,Offer,10,EUR,Entrante,9.1,"""Americano""","""Calle de Gravina","""geo"":{""latitude"":40.4228537,""longitude"":-3.6969627",Lobsterie
+4,4,MenuItem,Tacos de Pulled Pork,Offer,10,EUR,Entrante,9.1,"""Americano""","""Calle de Gravina","""geo"":{""latitude"":40.4228537,""longitude"":-3.6969627",Lobsterie
+5,5,MenuItem,Ensaladilla de Gambones,Offer,10,EUR,Entrante,9.1,"""Americano""","""Calle de Gravina","""geo"":{""latitude"":40.4228537,""longitude"":-3.6969627",Lobsterie
+6,6,MenuItem,Ensalada de bogavante,Offer,14,EUR,Entrante,9.1,"""Americano""","""Calle de Gravina","""geo"":{""latitude"":40.4228537,""longitude"":-3.6969627",Lobsterie

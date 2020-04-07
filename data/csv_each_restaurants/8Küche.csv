@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso artesana,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+1,1,MenuItem,Coulant de chocolate con helado,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+2,2,MenuItem,Souflé de caramelo sobre nougat,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+3,3,MenuItem,Torrija caramelizada con helado de leche merengada,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+4,4,MenuItem,Tarta de chocolate,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+5,5,MenuItem,Parfait de café con cobertura de chocolate,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+6,6,MenuItem,Bola de Yozu con corazón de merengue y cobertura de naranja,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+7,7,MenuItem,Carpacho de frutas de temporada,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+8,8,MenuItem,Sorbetes de limón al cava y frutas de la pasión,Offer,8.5,EUR,NUESTROS DULCES ARTESANALES,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche

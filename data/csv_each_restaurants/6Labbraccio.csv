@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,41.0,EUR,Bebidas,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+2,2,MenuItem,Café,,,,Bebidas,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+5,5,MenuItem,Botella de vino,Offer,16.9,EUR,Bebidas,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+6,6,MenuItem,Copa de vino,,,,Bebidas,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio

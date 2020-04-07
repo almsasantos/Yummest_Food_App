@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bolitas gelatinosas en licor de arroz y azúcar moreno,Offer,3.9,EUR,Postres caseros,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid
+1,1,MenuItem,Postre casero con bas de taro y gelatina de hierba china,Offer,4.5,EUR,Postres caseros,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid
+2,2,MenuItem,Pudin de coco,Offer,2.5,EUR,Postres caseros,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid

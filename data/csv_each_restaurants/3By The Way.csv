@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao confitado con salsa de carabineros,Offer,19,EUR,DEL MAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+1,1,MenuItem,Chipirones sobre cama de cebolla dulce y mojo de aguacate,Offer,17,EUR,DEL MAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+2,2,MenuItem,Pata de pulpo braseada con ajoatado y mojo rojo,Offer,21,EUR,DEL MAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+3,3,MenuItem,Tartar de atún rojo de almadraba con alga wakame y flor de wasabi,Offer,20,EUR,DEL MAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way

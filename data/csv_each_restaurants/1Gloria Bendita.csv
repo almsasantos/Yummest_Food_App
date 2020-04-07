@@ -1,0 +1,4 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Arroz con bogavante (mínimo dos personas),Offer,35,EUR,Plato,8.1,"""Arrocería""","""Calle de Narváez","""geo"":{""latitude"":40.4164087,""longitude"":-3.676192",Gloria
+1,1,1,MenuItem,Entrecot con patatas,Offer,16,EUR,Plato,8.1,"""Arrocería""","""Calle de Narváez","""geo"":{""latitude"":40.4164087,""longitude"":-3.676192",Gloria
+2,2,2,MenuItem,Cordero lechal al horno con patatas,Offer,16,EUR,Plato,8.1,"""Arrocería""","""Calle de Narváez","""geo"":{""latitude"":40.4164087,""longitude"":-3.676192",Gloria

@@ -1,0 +1,19 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada mixta,Offer,9.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+1,1,MenuItem,Pimientos de piquillo con anchoas,Offer,11.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+2,2,MenuItem,Espárragos de navarra,Offer,9.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+3,3,MenuItem,Revuelto de ajetes con gambas,Offer,9.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+4,4,MenuItem,Gambas cocidas / Plancha,Offer,18.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+5,5,MenuItem,Cigalas cocidas /Plancha,,,,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+6,6,MenuItem,Boquerones fritos / Vinagre,Offer,10.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+7,7,MenuItem,Puntas te calamar,Offer,10.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+8,8,MenuItem,Salmonetes,Offer,16.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+9,9,MenuItem,Cazón en adobo,Offer,14.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+10,10,MenuItem,Anchoa de Santoña,Offer,10.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+11,11,MenuItem,Canapé de anchoa,Offer,3.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+12,12,MenuItem,Bigaros,Offer,12.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+13,13,MenuItem,Navajas,Offer,13.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+14,14,MenuItem,Tigres,Offer,1.8,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+15,15,MenuItem,Jamón ibérico,Offer,22.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+16,16,MenuItem,Combinado ibérico,Offer,18.0,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+17,17,MenuItem,Croquetas,Offer,1.4,EUR,Nuestras entradas y raciones,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte

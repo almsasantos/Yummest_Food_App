@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto con setas y tartufo,Offer,15.5,EUR,Entrantes,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+1,1,MenuItem,"Ensalada de gambas, aguacate, nueces y vinagreta de teriyaki con crujiente de wantan",Offer,16.5,EUR,Entrantes,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+2,2,MenuItem,Ensalada de jamón ibérico y foie con vinagreta de frutos rojos,Offer,15.5,EUR,Entrantes,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO

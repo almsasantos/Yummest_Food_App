@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Crema catalana,Offer,5.5,EUR,Postres,None,None,None,Lion café
+1,1,MenuItem,Flan de cuajada,Offer,5.5,EUR,Postres,None,None,None,Lion café
+2,2,MenuItem,Pudding de frutas,Offer,5.5,EUR,Postres,None,None,None,Lion café
+3,3,MenuItem,Fruta de temporada,Offer,5.5,EUR,Postres,None,None,None,Lion café
+4,4,MenuItem,Helados,Offer,5.0,EUR,Postres,None,None,None,Lion café

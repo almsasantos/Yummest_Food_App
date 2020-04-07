@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ostra al natural,Offer,2.95,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+1,1,MenuItem,Ostra en bloody Mary de clamato,Offer,3.95,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+2,2,MenuItem,Ostra en leche de tigre de hierbas,Offer,3.95,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+3,3,MenuItem,Hummus de frijoles negros,Offer,6.5,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+4,4,MenuItem,Sashimi de salmón marinado con remolacha y salsa de tamarindo,Offer,8.85,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+5,5,MenuItem,Aguachile de gambas de Michoacán,Offer,12.0,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+6,6,MenuItem,Tostaditas de tartar de salmón con kimchi,Offer,10.85,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+7,7,MenuItem,Tartar de corvina salvaje a la bilbaína sobre crema de queso y tomate seco,Offer,9.45,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+8,8,MenuItem,Salpicón te ternera sobre patacón,Offer,9.95,EUR,FRIOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje

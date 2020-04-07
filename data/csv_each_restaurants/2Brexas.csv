@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao confitado con crujinete de panceta,Offer,15.9,EUR,Pescados,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+1,1,MenuItem,Tataki de salmón marinado y alga wakame,Offer,15.0,EUR,Pescados,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+2,2,MenuItem,Tarta de atún Brexas con helado de wasabi,Offer,16.5,EUR,Pescados,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas

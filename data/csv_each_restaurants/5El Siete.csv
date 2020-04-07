@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,18.0,EUR,Bebidas,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+2,2,MenuItem,Café,Offer,1.4,EUR,Bebidas,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+4,4,MenuItem,Media botella de agua,Offer,1.5,EUR,Bebidas,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+6,6,MenuItem,Copa de vino,Offer,2.1,EUR,Bebidas,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete

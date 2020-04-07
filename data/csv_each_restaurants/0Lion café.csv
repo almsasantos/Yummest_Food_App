@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Pimientos asados con bonito,Offer,12.0,EUR,Para picar,None,None,None,Lion café
+1,1,MenuItem,Anchoas de Santoña,Offer,19.0,EUR,Para picar,None,None,None,Lion café
+2,2,MenuItem,Anchoas y boquerones a nuestra manera,Offer,9.0,EUR,Para picar,None,None,None,Lion café
+3,3,MenuItem,Croquetas caseras,Offer,8.5,EUR,Para picar,None,None,None,Lion café
+4,4,MenuItem,Almejas a la marinera,Offer,19.0,EUR,Para picar,None,None,None,Lion café
+5,5,MenuItem,Jamón ibérico,Offer,25.0,EUR,Para picar,None,None,None,Lion café
+6,6,MenuItem,Salmón ahumado,Offer,18.5,EUR,Para picar,None,None,None,Lion café
+7,7,MenuItem,Verduritas a la plancha,Offer,12.0,EUR,Para picar,None,None,None,Lion café

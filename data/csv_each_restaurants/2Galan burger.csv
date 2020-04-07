@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheese cake,Offer,4.0,EUR,Postre,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+1,1,MenuItem,Panna cotta,Offer,3.8,EUR,Postre,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+2,2,MenuItem,Marquesa,Offer,4.0,EUR,Postre,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger

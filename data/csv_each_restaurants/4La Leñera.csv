@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusa de bonito del cantábrico,Offer,12.0,EUR,Ensaladas y verduras,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+1,1,MenuItem,El mejor tomate de campaña con cebolleta y bonito,Offer,16.5,EUR,Ensaladas y verduras,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+2,2,MenuItem,Parrillada de esparragos trigueros con su romesco,Offer,14.5,EUR,Ensaladas y verduras,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera

@@ -1,0 +1,16 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,JAMÓN IBÉRICO 100% PURO DE BELLOTA,Offer,28,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+1,1,MenuItem,CROQUETAS DE JAMÓN IBÉRICO,Offer,12,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+2,2,MenuItem,ARENQUE MARINADO,Offer,16,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+3,3,MenuItem,TARTAR DE ATÚN ROJO,Offer,23,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+4,4,MenuItem,FOIE MI-CUIT,Offer,16,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+5,5,MenuItem,GAMBONES EN TEMPURA,Offer,16,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+6,6,MenuItem,TORTILLA DE BETANZOS,Offer,12,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+7,7,MenuItem,STEAK TARTAR,Offer,23,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+8,8,MenuItem,VIEIRAS A LA PLANCHA,Offer,19,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+9,9,MenuItem,ENSALADA DE BOGAVANTE,Offer,23,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+10,10,MenuItem,BOLETUS AL WOK,Offer,20,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+11,11,MenuItem,CANELONES DE VERDURITAS Y TXANGURRO,Offer,17,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+12,12,MenuItem,CARPACCIO DE TOMTATE ROSA,Offer,20,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+13,13,MenuItem,ANCHOAS DE SANTOÑA 00,Offer,22,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+14,14,MenuItem,NUESTRO GUISO DE CUCHARA,Offer,16,EUR,PARA COMENZAR,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante

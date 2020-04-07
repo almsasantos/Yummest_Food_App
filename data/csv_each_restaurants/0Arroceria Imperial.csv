@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de almejas,Offer,13.5,EUR,Entrante,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+1,1,MenuItem,Pipirrana con ventresca,Offer,16.5,EUR,Entrante,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+2,2,MenuItem,Queso de cabra con cebolla caramelizada,Offer,14.0,EUR,Entrante,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lubina a la parrilla con compota de tomate al tomillo,Offer,35,EUR,Pescado,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+1,1,MenuItem,Cachopo de Rape relleno de txangurro sobre verdura,Offer,32,EUR,Pescado,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+2,2,MenuItem,Lomos de merluza a la parrilla con cremoso de berberechos,Offer,31,EUR,Pescado,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+3,3,MenuItem,Bacalao al pil-pil con sus kokotxas,Offer,31,EUR,Pescado,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+4,4,MenuItem,Kokotxas de merluza en salsa verde,Offer,39,EUR,Pescado,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma

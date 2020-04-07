@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Torrija de manzana caramelizada,Offer,8,EUR,Postre,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+1,1,MenuItem,Fondant de ferrero con helado de aguacate,Offer,9,EUR,Postre,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+2,2,MenuItem,Crema de arroz con leche asturiano,Offer,8,EUR,Postre,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+3,3,MenuItem,Tocinillo de cielo con frutos rojos,Offer,8,EUR,Postre,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+4,4,MenuItem,Tarta cremosa de queso y cuajada,Offer,7,EUR,Postre,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano

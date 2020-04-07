@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortos de Maíz con Huevos Fritos,Offer,10.0,EUR,Los caprichos del Indiano,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+1,1,MenuItem,Nachos con Carne y Queso Laperal,Offer,10.5,EUR,Los caprichos del Indiano,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+2,2,MenuItem,Sandwich Cubano,Offer,6.5,EUR,Los caprichos del Indiano,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+3,3,MenuItem,Hamburguesa de Vacuno Mayor,Offer,10.0,EUR,Los caprichos del Indiano,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia

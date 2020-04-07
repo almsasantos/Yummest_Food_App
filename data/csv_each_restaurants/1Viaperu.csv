@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ají de Gallina,Offer,15,EUR,Plato,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+1,1,MenuItem,Lomo Saltado,Offer,18,EUR,Plato,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+2,2,MenuItem,Tallarin Saltado,Offer,14,EUR,Plato,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+3,3,MenuItem,Anticucho de Corazón,Offer,12,EUR,Plato,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+4,4,MenuItem,Arroz Chaufa,Offer,13,EUR,Plato,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+5,5,MenuItem,Chaufa Marinero,Offer,15,EUR,Plato,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+6,6,MenuItem,Piqueo Marino,Offer,18,EUR,Plato,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu

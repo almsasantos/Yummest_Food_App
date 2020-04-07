@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto de hongos,Offer,15.0,EUR,Para Continuar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+1,1,MenuItem,Ravioli de calabaza y queso viejo con tomate casero,Offer,16.0,EUR,Para Continuar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+2,2,MenuItem,pulpo asado en su guiso con mojo verde,Offer,18.0,EUR,Para Continuar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+3,3,MenuItem,steak tartar,Offer,19.5,EUR,Para Continuar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida

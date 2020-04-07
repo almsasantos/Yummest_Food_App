@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Habitas con foie,Offer,9.0,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+1,1,MenuItem,"Pimiento cherry rellono de foie, queso o bonito",Offer,8.5,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+2,2,MenuItem,Sardinilla en aceite,Offer,4.5,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+3,3,MenuItem,Ventresca de atún rojo en aceite,Offer,14.5,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+4,4,MenuItem,Zamburiñas salsa de vieiras,Offer,6.25,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+5,5,MenuItem,Yemas de espárragos,Offer,12.5,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+6,6,MenuItem,Navajas al natural,Offer,7.5,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+7,7,MenuItem,Anchoas del cantábrico,Offer,15.0,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+8,8,MenuItem,Boquerones en vinagre,Offer,8.0,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+9,9,MenuItem,Canapé de sardina ahumada,Offer,4.0,EUR,Entrante,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,"Abre tu apetito con cualquiera de nuestros entrantes,",Menu uni personal,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+1,1,MenuItem,Plato,Si deseas uno de los platos de pescado o Burger Original tiene suplemento de 2€,Menu uni personal,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+2,2,MenuItem,Postre,Endulza tu paladar y tu día con un postre hecho a diario.,Menu uni personal,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original

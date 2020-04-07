@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisu Casero,Offer,8,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+1,1,MenuItem,Arroz con Leche Caramelizada,Offer,8,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+2,2,MenuItem,Coulan de Chocolate con Helado de Violetas,Offer,9,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+3,3,MenuItem,Tarta de Queso,Offer,8,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+4,4,MenuItem,Panchineta de Hojaldre Caliente con Crema Pastelera,Offer,8,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+5,5,MenuItem,Tabla de Queso Navarro con Membrillo,Offer,14,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+6,6,MenuItem,Sorbete Batido de Limón al Cava,Offer,7,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+7,7,MenuItem,Helados Artesanos al Gusto,Offer,7,EUR,Postres de Casa,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria

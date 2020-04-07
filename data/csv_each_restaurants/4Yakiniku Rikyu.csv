@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bibimbap con carnes y verduras,Offer,15.0,EUR,Arroces,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+1,1,MenuItem,Bibimbap con steak tartar y verduras,Offer,18.0,EUR,Arroces,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+2,2,MenuItem,Ishiyaki Bibimbap con carne y verduras,Offer,17.5,EUR,Arroces,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+3,3,MenuItem,Ishiyaki Bibimbap con steak tartar y verduras,Offer,21.0,EUR,Arroces,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+4,4,MenuItem,Samgyetang,Offer,28.0,EUR,Arroces,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+5,5,MenuItem,Arroz blanco,Offer,4.0,EUR,Arroces,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu

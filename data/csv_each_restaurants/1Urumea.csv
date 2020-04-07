@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carne asturiana a la plancha,Offer,17,EUR,Plato,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea
+1,1,MenuItem,Falda de ternera asada al horno,Offer,16,EUR,Plato,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea
+2,2,MenuItem,Merluza a la sidra con almejas,Offer,22,EUR,Plato,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea

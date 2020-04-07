@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Torrija caramelizada con sopa de chocolate blanco,Offer,5.9,EUR,Postre,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+1,1,MenuItem,Tarta de Manzana con helado de vainilla,Offer,5.45,EUR,Postre,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+2,2,MenuItem,Chocolate en Texturas,Offer,5.9,EUR,Postre,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+3,3,MenuItem,Láminas de fruta recién cortada,Offer,5.45,EUR,Postre,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de atún rojo,Offer,18.8,EUR,Pescados,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+1,1,MenuItem,Mejillones con salsa marinera,Offer,13.4,EUR,Pescados,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+2,2,MenuItem,Salmón Teriyaki a la plancha,Offer,15.8,EUR,Pescados,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+3,3,MenuItem,Bocata de calamares y alioli,Offer,13.8,EUR,Pescados,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13

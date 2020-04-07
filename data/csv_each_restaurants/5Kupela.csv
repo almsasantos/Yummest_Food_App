@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo De Buey A La Parrilla,Offer,22.5,EUR,CARNES,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+1,1,MenuItem,Solomillo Al Foie,Offer,23.6,EUR,CARNES,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+2,2,MenuItem,Entrecot A La Pimienta,Offer,17.95,EUR,CARNES,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+3,3,MenuItem,Lágrimas De Ibérico A La Parrilla,Offer,16.25,EUR,CARNES,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela

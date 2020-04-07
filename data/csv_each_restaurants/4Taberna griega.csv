@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Baklavas,Offer,5.0,EUR,Postres,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+1,1,MenuItem,Eliniko keik,Offer,5.0,EUR,Postres,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+2,2,MenuItem,Giaourti me fruta,Offer,4.5,EUR,Postres,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega

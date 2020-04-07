@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón de ternera (800g),Offer,32.0,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+1,1,MenuItem,Chuletas de cordero (400g),Offer,18.0,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+2,2,MenuItem,Solomillo de Ternera (500g),Offer,25.0,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+3,3,MenuItem,entrecot de Ternera (500g),Offer,23.0,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+4,4,MenuItem,Merluza a la Cazuela (500g),Offer,19.9,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+5,5,MenuItem,Bacalao Pil-Pil (450g),Offer,21.9,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+6,6,MenuItem,Lubina espalda (600g),Offer,19.0,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+7,7,MenuItem,Lenguado relleno Marisco (450g),Offer,21.0,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+8,8,MenuItem,Merluza rellena de Salmón (500g),Offer,19.9,EUR,2º Platos,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza

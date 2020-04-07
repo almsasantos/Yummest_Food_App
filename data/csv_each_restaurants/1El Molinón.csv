@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fabada Asturiana con su Compango,Offer,17.5,EUR,CUCHARA,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+1,1,MenuItem,Arroz meloso con Pixin (Rape) y Langostinos,Offer,17.9,EUR,CUCHARA,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+2,2,MenuItem,Arroz Marinero con Bogavante y Frutos del Mar (2 personas),Offer,48.0,EUR,CUCHARA,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+3,3,MenuItem,Guiso de Callos con Morro y Pata,Offer,16.9,EUR,CUCHARA,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón

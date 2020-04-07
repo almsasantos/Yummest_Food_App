@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón Crudo a la Piedra (800 gr. 2 per),Offer,36.0,EUR,CARNES,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+1,1,MenuItem,Codillo con Chucrut y Puré,Offer,13.0,EUR,CARNES,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+2,2,MenuItem,Entrecot a la Parrilla,Offer,16.5,EUR,CARNES,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+3,3,MenuItem,Steak Tártaro (carne roja cruda picada y fuertemente aliñada),Offer,21.0,EUR,CARNES,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+4,4,MenuItem,Escalope a la Milanesa,Offer,12.5,EUR,CARNES,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro

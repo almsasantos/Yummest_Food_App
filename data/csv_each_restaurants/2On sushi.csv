@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,tartar yu sen maguro,Offer,18.5,EUR,Tartar,9.1,"""Japonés""","""Calle de Angel Larra","""geo"":{""latitude"":40.4426661,""longitude"":-3.6459153",On sushi
+1,1,MenuItem,tartar salmon,Offer,13.75,EUR,Tartar,9.1,"""Japonés""","""Calle de Angel Larra","""geo"":{""latitude"":40.4426661,""longitude"":-3.6459153",On sushi
+2,2,MenuItem,tartar otoro y aguacate,Offer,16.85,EUR,Tartar,9.1,"""Japonés""","""Calle de Angel Larra","""geo"":{""latitude"":40.4426661,""longitude"":-3.6459153",On sushi

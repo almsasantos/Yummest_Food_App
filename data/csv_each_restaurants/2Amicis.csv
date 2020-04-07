@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú clásico con helado de Turrón,Offer,5.5,EUR,Postre,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+1,1,MenuItem,Crumble de manzana asada con canela y queso mascarpone con sorbete de mandarina,Offer,5.5,EUR,Postre,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+2,2,MenuItem,Volcán de chocolate y crema de vanilla,Offer,5.5,EUR,Postre,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+3,3,MenuItem,Tarta casera de queso con coulis de fresas,Offer,5.5,EUR,Postre,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis

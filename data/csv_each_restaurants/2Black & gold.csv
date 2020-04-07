@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie de chocolate con helado de vainilla,Offer,4,EUR,Postre,8.6,"""Mediterráneo""","""Calle de Cronos","""geo"":{""latitude"":40.4366,""longitude"":-3.62036",Black & gold
+1,1,MenuItem,Sable de limón,Offer,4,EUR,Postre,8.6,"""Mediterráneo""","""Calle de Cronos","""geo"":{""latitude"":40.4366,""longitude"":-3.62036",Black & gold
+2,2,MenuItem,Tarta de queso casera,Offer,4,EUR,Postre,8.6,"""Mediterráneo""","""Calle de Cronos","""geo"":{""latitude"":40.4366,""longitude"":-3.62036",Black & gold

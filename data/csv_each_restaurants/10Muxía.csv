@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante cada 4 personas,- Pimientos del Piquillo rellenos de Marisco\n- Langostino Orly con Ali-Oli Negro\n- Patatas al montón con Jamón Ibérico y Huevos Rotos\n- Surtido de ibéricos,menu nº1,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Segundo plato a elegir,- Cachopo Asturiano\n- Lubina Al Horno con Patatas Panaderas y Tomate Asado.\n- Arroz Marinero,menu nº1,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Postre,- Surtido de Tartas,menu nº1,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Bebida,"Agua, Vino Rioja Joven y Verdejo (1 botella/2 personas)",menu nº1,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

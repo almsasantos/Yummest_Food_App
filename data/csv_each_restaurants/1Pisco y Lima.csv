@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ají de gallina,Offer,14,EUR,Saborea Perú,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima
+1,1,MenuItem,Chicharrón de cerdo,Offer,12,EUR,Saborea Perú,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima
+2,2,MenuItem,Seco de cordero,Offer,16,EUR,Saborea Perú,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima
+3,3,MenuItem,Pan con chicharrón,Offer,5,EUR,Saborea Perú,8.1,"""Peruano""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4234419,""longitude"":-3.6743499",Pisco y Lima

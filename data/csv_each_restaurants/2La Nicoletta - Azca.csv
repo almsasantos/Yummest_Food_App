@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Parmigiana de berenjenas y funghi,Offer,10.95,EUR,De nuestro forno: caseros y rellenos de sabor,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+1,1,MenuItem,"Canelones de pollo, speck y espinaca",Offer,13.5,EUR,De nuestro forno: caseros y rellenos de sabor,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca

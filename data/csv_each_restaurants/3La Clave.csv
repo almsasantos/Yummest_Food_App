@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gamba blanca de Huelva,Offer,32,EUR,Mariscos,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+1,1,MenuItem,Langostino de Sanlúcar,Offer,32,EUR,Mariscos,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+2,2,MenuItem,Zamburiñas a la plancha,Offer,20,EUR,Mariscos,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+3,3,MenuItem,Cigalitas fritas a la sartén,Offer,25,EUR,Mariscos,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+4,4,MenuItem,Mejillones a la sartén,Offer,18,EUR,Mariscos,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+5,5,MenuItem,Mejillones al vapor,Offer,14,EUR,Mariscos,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave

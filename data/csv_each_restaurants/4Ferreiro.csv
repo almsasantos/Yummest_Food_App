@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Arroz Caldoso con Bogavante, Rape y Almejas de Carril (2 Personas )precio por Pers.",Offer,27.39,EUR,Los arroces de Ferreiro,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+1,1,MenuItem,Paella de Pescado y Mariscos ( 2 Personas) precio por Pers.,Offer,21.89,EUR,Los arroces de Ferreiro,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+2,2,MenuItem,Arroz Meloso con Pitu Caleya y Verduritas ( 2 Personas) precio por Pers.,Offer,20.53,EUR,Los arroces de Ferreiro,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro

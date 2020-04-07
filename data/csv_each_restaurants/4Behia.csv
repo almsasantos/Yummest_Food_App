@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Puré de patatas,Offer,5,EUR,Guarniciones,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+1,1,MenuItem,Patatas fritas,Offer,3,EUR,Guarniciones,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+2,2,MenuItem,Ensalada verde,Offer,3,EUR,Guarniciones,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+3,3,MenuItem,Pimientos de piquillo,Offer,5,EUR,Guarniciones,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+4,4,MenuItem,Patatas a la sal con hierbas,Offer,4,EUR,Guarniciones,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+5,5,MenuItem,Tomates aliñados,Offer,4,EUR,Guarniciones,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia

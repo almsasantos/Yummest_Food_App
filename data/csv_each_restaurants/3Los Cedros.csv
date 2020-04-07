@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta Brownie con Zanahoria y Helado de Vainilla,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+1,1,MenuItem,Tarta de Queso con Frutos Rojos y Helado de Yogurt y Arándanos,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+2,2,MenuItem,Crema de Yogurt con Helado de Violeta,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+3,3,MenuItem,Ensalada de Frutas con Aceite de Vainilla,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+4,4,MenuItem,Semiesfera de Tiramisú,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+5,5,MenuItem,Fina Tarta de Manzana con Helado de Vainilla,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+6,6,MenuItem,Sorbetes,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+7,7,MenuItem,Coulant de Chocolate y Aceita de Oliva con Sorbete de Mandarina,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+8,8,MenuItem,Cesta de Helados,Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+9,9,MenuItem,"Zumo de Naranja Natural, recién exprimido",Offer,8.25,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+10,10,MenuItem,Tabla de Quesos ( para dos personas ),Offer,15.95,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+11,11,MenuItem,Surtido de Postres ( para dos personas ),Offer,15.95,EUR,Postre,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros

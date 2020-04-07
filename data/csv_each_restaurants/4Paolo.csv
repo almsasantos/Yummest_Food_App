@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao a la espalda,Offer,16.5,EUR,Pescados,9.2,"""Internacional""","""C","""geo"":{""latitude"":40.442932075055,""longitude"":-3.7142000198364",Paolo
+1,1,MenuItem,Chipirones a la plancha encebollados,Offer,13.9,EUR,Pescados,9.2,"""Internacional""","""C","""geo"":{""latitude"":40.442932075055,""longitude"":-3.7142000198364",Paolo
+2,2,MenuItem,Cocochas de merluza en salsa verde,Offer,23.0,EUR,Pescados,9.2,"""Internacional""","""C","""geo"":{""latitude"":40.442932075055,""longitude"":-3.7142000198364",Paolo
+3,3,MenuItem,Lomos de merluza a la almendra,Offer,16.5,EUR,Pescados,9.2,"""Internacional""","""C","""geo"":{""latitude"":40.442932075055,""longitude"":-3.7142000198364",Paolo

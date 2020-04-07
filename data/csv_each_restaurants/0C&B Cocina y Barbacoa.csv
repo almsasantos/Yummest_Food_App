@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burrata con tomate y pesto sobre cama de rúcula,Offer,9.0,EUR,SUGERECIAS EN ENSALADAS,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+1,1,MenuItem,Ensalada ranchera,Offer,8.5,EUR,SUGERECIAS EN ENSALADAS,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa

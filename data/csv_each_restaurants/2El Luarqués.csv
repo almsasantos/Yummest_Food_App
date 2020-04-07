@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cachopo de solomillo relleno con jamón y setas,Offer,22.5,EUR,Carnes,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+1,1,MenuItem,Churrasco de cebón con salsa de cabrales,Offer,23.5,EUR,Carnes,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+2,2,MenuItem,Chuleta de cebón a la parrilla,Offer,24.0,EUR,Carnes,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+3,3,MenuItem,Entrecot de cebón a la parrilla,Offer,18.0,EUR,Carnes,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+4,4,MenuItem,Morcillo estofado “Luarqués”,Offer,17.5,EUR,Carnes,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+5,5,MenuItem,Rabo de toro con guarnición,Offer,17.5,EUR,Carnes,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+6,6,MenuItem,Solomillo de cebón al gusto,Offer,22.5,EUR,Carnes,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués

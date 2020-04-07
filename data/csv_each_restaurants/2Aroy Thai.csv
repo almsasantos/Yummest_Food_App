@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pato salsa tamarindo,Offer,15.5,EUR,Plato,9,"""Tailandés""","""C","""geo"":{""latitude"":40.447347673966,""longitude"":-3.6985700130463",Aroy Thai
+1,1,MenuItem,Pollo curry verde con albahaca y verduras,Offer,13.9,EUR,Plato,9,"""Tailandés""","""C","""geo"":{""latitude"":40.447347673966,""longitude"":-3.6985700130463",Aroy Thai
+2,2,MenuItem,Pad thai de langostinos,Offer,11.5,EUR,Plato,9,"""Tailandés""","""C","""geo"":{""latitude"":40.447347673966,""longitude"":-3.6985700130463",Aroy Thai

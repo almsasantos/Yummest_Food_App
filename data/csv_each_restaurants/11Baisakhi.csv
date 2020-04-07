@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,***,Menú Vegetariano 8 €,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+1,1,MenuItem,Plato,****,Menú Vegetariano 8 €,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+2,2,MenuItem,Postre,****,Menú Vegetariano 8 €,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+3,3,MenuItem,Bebida,"A elegir: Agua, refresco, caña o copa de vino.",Menú Vegetariano 8 €,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi

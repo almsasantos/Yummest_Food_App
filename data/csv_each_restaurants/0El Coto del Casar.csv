@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico de Guijuelo,Offer,21,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+1,1,MenuItem,Queso Manchego al romero,Offer,12,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+2,2,MenuItem,Pimientos rojos asados con ventresca,Offer,14,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+3,3,MenuItem,Ensalada de chutney de mango y langostinos,Offer,13,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+4,4,MenuItem,Alcachofas naturales a la plancha,Offer,12,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+5,5,MenuItem,Huevos rotos con boletus y jamón Ibérico,Offer,14,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+6,6,MenuItem,Setas empanadas con ali-oli,Offer,13,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+7,7,MenuItem,Croquetas variadas de la casa,Offer,12,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+8,8,MenuItem,Callos a la madrileña,Offer,16,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+9,9,MenuItem,Chipirones a la plancha,Offer,14,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+10,10,MenuItem,Gamba blanca de Huelva a la plancha (docena),Offer,17,EUR,PARA COMPARTIR,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar

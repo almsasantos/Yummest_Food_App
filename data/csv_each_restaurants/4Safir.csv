@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Baklawa,Offer,4.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+1,1,MenuItem,Kunafa,Offer,4.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+2,2,MenuItem,Katayef,Offer,4.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+3,3,MenuItem,Mouhalabia,Offer,3.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+4,4,MenuItem,Tarta de queso,Offer,3.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+5,5,MenuItem,Tarta de zanahoria,Offer,3.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+6,6,MenuItem,Tarta de chocolate,Offer,3.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+7,7,MenuItem,Sorbete de limon,Offer,3.5,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+8,8,MenuItem,Plato de fruta,Offer,10.0,EUR,Postre,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir

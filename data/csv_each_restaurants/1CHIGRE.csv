@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CANELÓN DE CARNE GOBERNADA CON BECHAMEL CREMOSA Y RUSTIDA,Offer,17,EUR,Plato,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+1,1,MenuItem,LOMO DE MERLUZA DE PINCHO A LA SIDRA,Offer,19,EUR,Plato,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+2,2,MenuItem,FABADA ASTURIANA CON SU COMPANGO,Offer,15,EUR,Plato,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE

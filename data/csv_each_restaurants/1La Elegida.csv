@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burrata con tomate semiseco y pesto,Offer,15.0,EUR,Cocina Sana,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+1,1,MenuItem,Ensalada verde con pollo crujiente y salsa de miel y mostaza,Offer,13.0,EUR,Cocina Sana,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+2,2,MenuItem,Escalibada de verduras al carbón con ventresca de bonito,Offer,13.5,EUR,Cocina Sana,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+3,3,MenuItem,Creppe de gambón y berenjena,Offer,13.0,EUR,Cocina Sana,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida

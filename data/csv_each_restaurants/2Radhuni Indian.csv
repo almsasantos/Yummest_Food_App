@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gajar halwa,Offer,6.95,EUR,Postre,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+1,1,MenuItem,Mango lassi,Offer,4.5,EUR,Postre,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+2,2,MenuItem,Golab jam,Offer,5.5,EUR,Postre,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian
+3,3,MenuItem,Pistacho Kulfi,Offer,5.5,EUR,Postre,9.4,"""Indio""","""Calle Príncipe Carlos","""geo"":{""latitude"":40.493341,""longitude"":-3.6562519",Radhuni Indian

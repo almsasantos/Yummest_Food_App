@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Parrilla 2 Personas,Offer,30,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid
+1,1,MenuItem,Parrilla 3 Personas,Offer,40,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid
+2,2,MenuItem,Chuletón 750 gr,Offer,30,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid
+3,3,MenuItem,Entraña,Offer,12,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid
+4,4,MenuItem,Tira de Asado,Offer,12,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid
+5,5,MenuItem,Vacio,Offer,12,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid
+6,6,MenuItem,Entrecot,Offer,18,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid
+7,7,MenuItem,Churrasco,Offer,12,EUR,AMANTES A LA PARRILLA,8.9,"""Internacional""","""Calle Hermanos de Pablo","""geo"":{""latitude"":40.4364509,""longitude"":-3.6452874",El Fogón Madrid

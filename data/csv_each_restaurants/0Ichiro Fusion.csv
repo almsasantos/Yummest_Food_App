@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Wantun frito (nuestro estilo nuevo de pasta crujiente relleno de crema de queso y surimi con chili dulce),Offer,5.5,EUR,Entrante,None,"""Japonés""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Ichiro Fusion
+1,1,MenuItem,"Edamame (judías verdes con aroma de sésamo,guindilla y nuestro miso en aceite de oliva)",Offer,3.8,EUR,Entrante,None,"""Japonés""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Ichiro Fusion
+2,2,MenuItem,"Ceviche de atún (atún rojo con mango, tomate y lima)",Offer,12.9,EUR,Entrante,None,"""Japonés""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Ichiro Fusion

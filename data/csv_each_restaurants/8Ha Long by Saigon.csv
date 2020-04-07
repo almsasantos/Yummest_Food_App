@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+1,1,MenuItem,Copa de champán,,,,Bebidas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+3,3,MenuItem,Botella de agua,,,,Bebidas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon

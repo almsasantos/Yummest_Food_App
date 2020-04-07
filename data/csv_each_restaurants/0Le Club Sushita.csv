@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bravas de Yuca,Offer,6.9,EUR,Para compartir,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+1,1,MenuItem,Rollitos de pato,Offer,8.9,EUR,Para compartir,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+2,2,MenuItem,Croquetas de atún katsuobushi (6 uds),Offer,7.9,EUR,Para compartir,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+3,3,MenuItem,Samosas de espinacas con curry y piñones y dip de tomates rojos (6 uds),Offer,7.9,EUR,Para compartir,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita

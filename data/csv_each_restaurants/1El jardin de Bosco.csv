@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tabla de Jamón serrano,Offer,14.9,EUR,Tablas de embutidos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+1,1,MenuItem,Tabla de Lomo ibérico,Offer,16.8,EUR,Tablas de embutidos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+2,2,MenuItem,Tabla de Embutidos mixto,Offer,18.3,EUR,Tablas de embutidos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+3,3,MenuItem,Tabla de Queso semi curado,Offer,16.2,EUR,Tablas de embutidos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco

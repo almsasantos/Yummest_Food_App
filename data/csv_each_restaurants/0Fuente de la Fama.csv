@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la parrilla sobre patata machacona y sal negra,Offer,19.9,EUR,Entrante,9.1,None,"""Calle de Atocha","""geo"":{""latitude"":40.4115865,""longitude"":-3.6978008",Fuente de la Fama
+1,1,MenuItem,"Bomba de alcachofas, langostinos y almejas de carril en jugo de Albariño y ajo confitado",Offer,15.5,EUR,Entrante,9.1,None,"""Calle de Atocha","""geo"":{""latitude"":40.4115865,""longitude"":-3.6978008",Fuente de la Fama
+2,2,MenuItem,Ensalada de carpaccio de solomillo de bacalao y parmesano sobre tricolor de pimientos asados con vinagreta de miel de almendra y lima,Offer,14.9,EUR,Entrante,9.1,None,"""Calle de Atocha","""geo"":{""latitude"":40.4115865,""longitude"":-3.6978008",Fuente de la Fama

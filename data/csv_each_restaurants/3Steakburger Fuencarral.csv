@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón de la finca (kg),Offer,48.0,EUR,Carnes,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+1,1,MenuItem,Entrecot de Ternera,Offer,21.0,EUR,Carnes,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+2,2,MenuItem,Solomillo de ternera,Offer,20.0,EUR,Carnes,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+3,3,MenuItem,Abanico ibérico,Offer,15.0,EUR,Carnes,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+4,4,MenuItem,Costillar Barbacoa,Offer,19.0,EUR,Carnes,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+5,5,MenuItem,Pechuga de pollo de corral,Offer,10.5,EUR,Carnes,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+6,6,MenuItem,Hamburguesa de ternera a la parrilla,Offer,10.5,EUR,Carnes,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral

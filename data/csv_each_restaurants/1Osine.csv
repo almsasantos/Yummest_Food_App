@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo Osina (mínimo 2 personas; el precio es también por persona),Offer,22.5,EUR,Plato,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine
+1,1,MenuItem,Callos a la madrileña,Offer,15.0,EUR,Plato,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine
+2,2,MenuItem,Chuletitas de cordero,Offer,18.0,EUR,Plato,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine

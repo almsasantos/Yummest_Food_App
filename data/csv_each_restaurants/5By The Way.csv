@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa By The Way,Offer,15,EUR,EL PAN NUESTRO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+1,1,MenuItem,Hamburgesa al cabrales,Offer,15,EUR,EL PAN NUESTRO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+2,2,MenuItem,"Foccacia de jamón ibérico, pesto y tomate a la miel",Offer,10,EUR,EL PAN NUESTRO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+3,3,MenuItem,"Foccacia de pimientos asados, calabaza y tomates secos",Offer,10,EUR,EL PAN NUESTRO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way

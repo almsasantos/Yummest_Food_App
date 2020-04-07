@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla de bacalao,,,,Entrante,9.2,"""Español""","""Calle de Torquemada","""geo"":{""latitude"":40.4659582,""longitude"":-3.6394471",Uribe
+1,1,MenuItem,Guamacole con nachos y salmón,,,,Entrante,9.2,"""Español""","""Calle de Torquemada","""geo"":{""latitude"":40.4659582,""longitude"":-3.6394471",Uribe
+2,2,MenuItem,Croquetas de calamar en tinta negra,Offer,7.0,EUR,Entrante,9.2,"""Español""","""Calle de Torquemada","""geo"":{""latitude"":40.4659582,""longitude"":-3.6394471",Uribe

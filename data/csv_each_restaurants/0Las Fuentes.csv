@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de bellota,Offer,20.5,EUR,Entrante,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+1,1,MenuItem,Ensalada de tomate pelado con ventresca,Offer,9.9,EUR,Entrante,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+2,2,MenuItem,Croquetas de jamón caseras,Offer,7.5,EUR,Entrante,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+3,3,MenuItem,Gambas al ajillo,Offer,11.9,EUR,Entrante,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+4,4,MenuItem,Cazuela de gulas y gambas al ajillo,Offer,11.9,EUR,Entrante,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+5,5,MenuItem,Ensaladilla rusa,Offer,6.0,EUR,Entrante,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+6,6,MenuItem,Ensalada de canónigos con queso cabra y frutos secos,Offer,7.5,EUR,Entrante,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes

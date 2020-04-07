@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Matcha Ice Cream,Offer,7.5,EUR,POSTRES,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+1,1,MenuItem,Helado Mixto de Mochi,Offer,7.5,EUR,POSTRES,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+2,2,MenuItem,Brownie de Chocolate y Sake Casero,Offer,8.4,EUR,POSTRES,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+3,3,MenuItem,TIRAMISU,Offer,7.8,EUR,POSTRES,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+4,4,MenuItem,CHOCO LATE,Offer,8.4,EUR,POSTRES,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+5,5,MenuItem,CHEESE TART,Offer,8.4,EUR,POSTRES,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya

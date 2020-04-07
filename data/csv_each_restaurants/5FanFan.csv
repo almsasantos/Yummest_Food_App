@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de buey a elegir:,"Hamburguesa de buey con cheddar y bacon\nHamburguesa de buey con queso de cabra, tomate seco, oregano y aceite de oliva\nHamburguesa de buey trufada con queso eda y champiñon \nHamburguesa de buey con queso cheddar, queso edam, aguacate y cebolla frita",Menú Burguer 12.95,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+1,1,MenuItem,Bebida a elegir:,Agua\nRefresco\nDoble\nVino de la casa,Menú Burguer 12.95,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan

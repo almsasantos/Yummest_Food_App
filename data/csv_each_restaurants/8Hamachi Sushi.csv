@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yakimesi,Offer,6.9,EUR,Acompañamientos,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+1,1,MenuItem,Yakisoba,Offer,7.95,EUR,Acompañamientos,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+2,2,MenuItem,Bol de arroz,Offer,3.0,EUR,Acompañamientos,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi

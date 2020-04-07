@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de endibias con pedacitos de roquefort, jamón dulce, almendras, huevo y vinagreta de moutarde",Offer,17.5,EUR,Las ensaladas,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+1,1,MenuItem,"Ensalada de 4 quesos calientes. Tostas de pan con camembert, emmental, roquefort y cabra frito",Offer,18.5,EUR,Las ensaladas,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+2,2,MenuItem,Ensalada de bacalao desalado con juliana de lechugas a la vinagreta de Jerez y pedacitos de naranja fresca,Offer,20.0,EUR,Las ensaladas,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real

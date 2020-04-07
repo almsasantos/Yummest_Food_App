@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa de marisco,Offer,11.0,EUR,Sopas,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+1,1,MenuItem,Sopa de verduras,Offer,7.5,EUR,Sopas,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+2,2,MenuItem,Sopa de cocido,Offer,7.5,EUR,Sopas,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+3,3,MenuItem,Sopa castellana,Offer,7.5,EUR,Sopas,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Falso canelón de carrillera ibérica,Offer,9,EUR,A nuestra manera,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+1,1,MenuItem,Risotto de boletus con queso de oveja ahumado,Offer,12,EUR,A nuestra manera,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+2,2,MenuItem,Ceviche de corvina amarillo,Offer,14,EUR,A nuestra manera,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+3,3,MenuItem,Provoleta con chorizo,Offer,11,EUR,A nuestra manera,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank

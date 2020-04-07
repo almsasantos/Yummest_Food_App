@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crema del día,....,Menú del día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+1,1,MenuItem,Segundo a elegir,Segundo a elegir entre tres opciones diarias. Siempre un plato vegetariano.,Menú del día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+2,2,MenuItem,Postre o café,...,Menú del día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+3,3,MenuItem,Bebida,"Incluye una bebida , refresco, agua, vino de la casa o cerveza de barril",Menú del día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón

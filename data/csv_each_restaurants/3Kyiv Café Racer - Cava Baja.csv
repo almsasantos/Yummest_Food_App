@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Blini “Mar y Tierra”,Offer,10,EUR,Blinis,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+1,1,MenuItem,Blini “Faine Misto” (Ciudad Bonita),Offer,10,EUR,Blinis,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+2,2,MenuItem,Blini Karpatsky (Karpatos),Offer,10,EUR,Blinis,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+3,3,MenuItem,Blini Vegetariano,Offer,9,EUR,Blinis,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+4,4,MenuItem,Blini “Mediterraneo”,Offer,10,EUR,Blinis,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja

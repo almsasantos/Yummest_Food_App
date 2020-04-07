@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza 45º a la sidra con verduritas encurtidas,Offer,22,EUR,De la mar,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+1,1,MenuItem,Caldereta de pescados y mariscos al estilo de Lastres,Offer,24,EUR,De la mar,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+2,2,MenuItem,Calamares frescos de potera guisados en su tinta con patatinas,Offer,20,EUR,De la mar,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+3,3,MenuItem,Pixín del Cantábrico con emulsión de sus espinas,Offer,25,EUR,De la mar,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+4,4,MenuItem,Bacalao al pil-pil ligero de boletus con vinagreta de mostaza,Offer,22,EUR,De la mar,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+5,5,MenuItem,Botella de vino,Offer,13.5,EUR,Bebidas,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel

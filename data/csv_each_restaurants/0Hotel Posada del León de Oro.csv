@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo ibérico de bellota,Offer,17.9,EUR,Chacinas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+1,1,MenuItem,Chorizo ibérico de bellota,Offer,10.9,EUR,Chacinas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+2,2,MenuItem,Salchichón ibérico de bellota,Offer,10.9,EUR,Chacinas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+3,3,MenuItem,Queso gran reserva Boffard,Offer,12.9,EUR,Chacinas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro

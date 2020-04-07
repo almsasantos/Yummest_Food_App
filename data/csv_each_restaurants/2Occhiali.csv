@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza de carrillera ibérica,Offer,13,EUR,Pizzas,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+1,1,MenuItem,Pizza vegetariana,Offer,12,EUR,Pizzas,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+2,2,MenuItem,Pizza de trufa y huevos de codorniz,Offer,14,EUR,Pizzas,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+3,3,MenuItem,Pizza de langostinos a la crema,Offer,14,EUR,Pizzas,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+4,4,MenuItem,Pizza siciliana,Offer,14,EUR,Pizzas,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali

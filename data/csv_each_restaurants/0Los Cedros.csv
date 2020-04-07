@@ -1,0 +1,19 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico Cinco Jotas D.O. Jabugo,Offer,35.2,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+1,1,MenuItem,Cecina de Wagyú,Offer,26.4,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+2,2,MenuItem,Anchoas de Santoña en Pan Cristal con Tomate y Ajo,Offer,26.95,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+3,3,MenuItem,Gamba Blanca de Huelva a la Plancha (250 gr.),Offer,35.2,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+4,4,MenuItem,Espárrago Blanco D.O. Navarra con Vinagreta de Pimiento Rojo y Cebolla,Offer,19.8,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+5,5,MenuItem,Croquetas Caseras de Jamón,Offer,17.6,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+6,6,MenuItem,Croquetas Caseras de Carabineros,Offer,17.6,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+7,7,MenuItem,"Foie Micuit con Crujiente de Pan de Especias, Pera Dulce y Macadamia",Offer,20.9,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+8,8,MenuItem,Ensalada de Verdes con Vinagreta de Verduras,Offer,19.8,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+9,9,MenuItem,Ensalada de Perdiz Escabechada con Vinagreta de Miel,Offer,20.35,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+10,10,MenuItem,Ensalada de Pimientos Asados y Ventresca de Bonito,Offer,19.8,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+11,11,MenuItem,Alcachofa de la Huerta de Tudela Confitada con Escalope de Foie y Espuma de Patata Trufada,Offer,19.8,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+12,12,MenuItem,Parrillada de Verduras con Ali-Oli y Ajo Negro,Offer,17.6,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+13,13,MenuItem,Risotto de Boletus con Crujiente de Trufa,Offer,19.8,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+14,14,MenuItem,Vieiras a la Plancha sobre Crema de Coliflor y Lágrima de Crema de Calabaza,Offer,20.09,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+15,15,MenuItem,Albóndigas de Calamar y Langostino,Offer,17.6,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+16,16,MenuItem,Espuma de Patata con Bogavante y Polvo de Jamón,Offer,28.05,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+17,17,MenuItem,Chipirón de Anzuelo sobre Patata y Azafrán con Crujiente de Tinta,Offer,17.6,EUR,Entrante,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros

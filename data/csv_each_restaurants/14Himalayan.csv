@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Verduras Biryani:,Offer,10.5,EUR,Platos Biryani / Biryani Dishes:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+1,1,MenuItem,Pollo Biryani:,Offer,11.25,EUR,Platos Biryani / Biryani Dishes:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+2,2,MenuItem,Cordero Biryani:,Offer,12.95,EUR,Platos Biryani / Biryani Dishes:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+3,3,MenuItem,Gambas Biryani:,Offer,13.25,EUR,Platos Biryani / Biryani Dishes:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan

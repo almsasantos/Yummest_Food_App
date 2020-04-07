@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chorizo ibérico,Offer,13.5,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+1,1,MenuItem,Salchichón ibérico,Offer,13.5,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+2,2,MenuItem,Caña de lomo ibérico,Offer,16.5,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+3,3,MenuItem,Lacón,Offer,10.0,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+4,4,MenuItem,Queso curado,Offer,16.5,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+5,5,MenuItem,Boquerones en vinagre,Offer,8.5,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+6,6,MenuItem,Matrimonio,Offer,10.0,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+7,7,MenuItem,Ensalada de ventresca,Offer,7.0,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+8,8,MenuItem,Callos a la madrileña,Offer,10.0,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+9,9,MenuItem,Pulpo a la gallega,Offer,18.0,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+10,10,MenuItem,Gulas con gambas,Offer,10.0,EUR,Raciones variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR

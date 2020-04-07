@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú,Offer,6,EUR,POSTRES,9.3,"""Italiano""","""Calle de Ayala","""geo"":{""latitude"":40.4270812,""longitude"":-3.672247",Minelli 1960
+1,1,MenuItem,Panna Cotta,Offer,5,EUR,POSTRES,9.3,"""Italiano""","""Calle de Ayala","""geo"":{""latitude"":40.4270812,""longitude"":-3.672247",Minelli 1960
+2,2,MenuItem,Salami al Chocolate con helado,Offer,5,EUR,POSTRES,9.3,"""Italiano""","""Calle de Ayala","""geo"":{""latitude"":40.4270812,""longitude"":-3.672247",Minelli 1960
+3,3,MenuItem,Affogato,Offer,4,EUR,POSTRES,9.3,"""Italiano""","""Calle de Ayala","""geo"":{""latitude"":40.4270812,""longitude"":-3.672247",Minelli 1960
+4,4,MenuItem,Pizza dolce (Nutella y helado),Offer,8,EUR,POSTRES,9.3,"""Italiano""","""Calle de Ayala","""geo"":{""latitude"":40.4270812,""longitude"":-3.672247",Minelli 1960
+5,5,MenuItem,Helado artesanal italiano,Offer,4,EUR,POSTRES,9.3,"""Italiano""","""Calle de Ayala","""geo"":{""latitude"":40.4270812,""longitude"":-3.672247",Minelli 1960

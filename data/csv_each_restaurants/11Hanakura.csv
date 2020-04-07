@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Plato 1,"Wakamesu,sashimi y sopa de miso",Menú Conoce Hanakura 27.50 €,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+1,1,MenuItem,Plato 2,Misotorikatsu-pollo empanado con salsa miso,Menú Conoce Hanakura 27.50 €,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+2,2,MenuItem,Plato 3,Okonomiyaki-6 tipos a elegir,Menú Conoce Hanakura 27.50 €,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+3,3,MenuItem,plato 4,10 piezas de nigiri,Menú Conoce Hanakura 27.50 €,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+4,4,MenuItem,Postre,"a elegir-helados de te verde,sesamo,judia roja,dorayaki,tarta de queso,gelatina de cafe",Menú Conoce Hanakura 27.50 €,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura

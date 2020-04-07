@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Empanadas,Offer,2.5,EUR,Entradas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+1,1,MenuItem,Patatas chorreadas,Offer,7.0,EUR,Entradas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+2,2,MenuItem,Ración,Offer,6.0,EUR,Entradas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+3,3,MenuItem,Ración mixta,Offer,8.0,EUR,Entradas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+4,4,MenuItem,Ración trimixta,Offer,12.0,EUR,Entradas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+5,5,MenuItem,Maduro con queso,Offer,8.0,EUR,Entradas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela

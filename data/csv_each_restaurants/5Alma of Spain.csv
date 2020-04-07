@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de Atún Rojo sobre Fresas y Emulsión de Cítricos,Offer,20,EUR,ALMA MARINERA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+1,1,MenuItem,Merluza con Emulsión de Calamata y Caviar de Aove,Offer,17,EUR,ALMA MARINERA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+2,2,MenuItem,Rodaballo de Arroz a Banda y Ali Oli de Carabineros,Offer,22,EUR,ALMA MARINERA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+3,3,MenuItem,Albóndigas de Rape en Salsa de Azafrán con Ragout de Verduras,Offer,21,EUR,ALMA MARINERA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain

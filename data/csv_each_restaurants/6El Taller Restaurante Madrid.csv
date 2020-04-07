@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Canutillos rellenos de mango y queso con su coulis,Offer,6.9,EUR,Postres,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+1,1,MenuItem,"Brownie de chocolate, su sopa ligera y helado de queso",Offer,7.7,EUR,Postres,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+2,2,MenuItem,Tiramisú de arroz con leche y bizcocho de café,Offer,6.9,EUR,Postres,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+3,3,MenuItem,Crêpe de pisco al caramelo,Offer,7.7,EUR,Postres,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+4,4,MenuItem,Helados y sorbetes,Offer,6.6,EUR,Postres,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid

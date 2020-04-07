@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tikin-Xic,Offer,16.2,EUR,Solo en La Chamana,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+1,1,MenuItem,Mogo-Mogo,Offer,8.5,EUR,Solo en La Chamana,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+2,2,MenuItem,Manchamantel,Offer,15.0,EUR,Solo en La Chamana,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+3,3,MenuItem,Chuletón de Cerdo,Offer,17.0,EUR,Solo en La Chamana,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+4,4,MenuItem,Langostino de Mango,Offer,14.0,EUR,Solo en La Chamana,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana

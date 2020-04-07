@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza en Salsa Verde con Almejas y Gambas,Offer,19.5,EUR,Pescados y carnes,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+1,1,MenuItem,Rape con Salsa al Albariño con Azafrán y Berberechos,Offer,21.5,EUR,Pescados y carnes,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+2,2,MenuItem,Chuletillas de Cordero Lechal,Offer,20.5,EUR,Pescados y carnes,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+3,3,MenuItem,Confit de Pato Crujiente,Offer,17.0,EUR,Pescados y carnes,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+4,4,MenuItem,Secreto Ibérico,Offer,20.0,EUR,Pescados y carnes,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro

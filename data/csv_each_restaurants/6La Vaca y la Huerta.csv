@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso,Offer,5.5,EUR,Postres caseros,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+1,1,MenuItem,Cuajada de leche fresca de oveja,Offer,5.0,EUR,Postres caseros,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+2,2,MenuItem,Tarta fina de manzana,Offer,5.5,EUR,Postres caseros,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+3,3,MenuItem,Chocolates en tres texturas,Offer,6.0,EUR,Postres caseros,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+4,4,MenuItem,Peras al vino,Offer,5.0,EUR,Postres caseros,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tabla de jamón ibérico de campo con pan payés, tomaca y aceite de arbequinas",Offer,18.5,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+1,1,MenuItem,Brandada de bacalao gratinado al ali oli con sus tostaditas,Offer,13.5,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+2,2,MenuItem,Piruletas crujientes de langostinos con salsa dulce jalapeño,Offer,12.0,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+3,3,MenuItem,Cecina de León sobre cama de tomaca y helado de aceite de oliva,Offer,14.0,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+4,4,MenuItem,Carpaccio de Langostinos a la Vinagreta de Lima y Mango,Offer,11.0,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+5,5,MenuItem,Tortellini Relleno de Rabo de Toro en su Reducción,Offer,15.0,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+6,6,MenuItem,Ceviche de Lubina y Langostinos,Offer,17.5,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+7,7,MenuItem,Raviolis rellenos de gambas y emulsión de su coral,Offer,13.5,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+8,8,MenuItem,Pulpo a la parrilla con emulsión de ajo asado cremoso,Offer,18.5,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+9,9,MenuItem,"Vieiras con puré de patata violeta, daditos de pera caramelizada y demiglace",Offer,18.0,EUR,Entrantes para compartir,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies

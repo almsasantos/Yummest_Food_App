@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cucurucho de cochinita pibil,Offer,7,EUR,Conos Americanos,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+1,1,MenuItem,Cucurucho de ají gallina,Offer,7,EUR,Conos Americanos,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+2,2,MenuItem,cucurucho de rabo de toro al jerez,Offer,10,EUR,Conos Americanos,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid

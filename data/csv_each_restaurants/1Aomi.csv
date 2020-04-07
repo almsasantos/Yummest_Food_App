@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de algas,Offer,4.0,EUR,Entrante,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi
+1,1,MenuItem,Wakame,Offer,4.25,EUR,Entrante,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi
+2,2,MenuItem,Rollo vegetal,Offer,3.75,EUR,Entrante,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi
+3,3,MenuItem,Gyoza de carne,Offer,3.5,EUR,Entrante,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi
+4,4,MenuItem,Gyoza de pollo,Offer,4.0,EUR,Entrante,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi

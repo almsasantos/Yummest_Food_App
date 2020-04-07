@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de tomate silvestre y rúcula con aceite de Arbequina y virutas de Parmesano,Offer,13.75,EUR,ENSALADAS FRESCAS,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,"Ensalada verde de aguacate, espárrago verde, mezclum, manzana y rabanitos a la vinagreta cítrica",Offer,14.5,EUR,ENSALADAS FRESCAS,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+2,2,MenuItem,Ensaladilla rusa con bonito del norte,Offer,15.5,EUR,ENSALADAS FRESCAS,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+3,3,MenuItem,"Ensalada tomate natural, cebolleta dulce y bonito de campaña",Offer,16.0,EUR,ENSALADAS FRESCAS,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+4,4,MenuItem,Ensalada de bogavante tibio en vinagreta de su coral,Offer,28.5,EUR,ENSALADAS FRESCAS,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

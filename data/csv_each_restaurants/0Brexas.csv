@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de rabo de toro,Offer,11.0,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+1,1,MenuItem,"Burratina con pesto casero, miel trufada y tomate",Offer,13.9,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+2,2,MenuItem,Ceviche de corvina con leche de tigre,Offer,13.5,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+3,3,MenuItem,Ensalada thai de pollo con mango y vinagreta de fruta de la pasión,Offer,9.0,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+4,4,MenuItem,Croquetas chipirones en su tinta,Offer,9.0,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+5,5,MenuItem,"Ensalada de rúcula con quinoa, tomate seco y aguacate",Offer,9.0,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+6,6,MenuItem,Gambón en tempura con mayonesa de kimchie,Offer,9.5,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+7,7,MenuItem,Jamón ibérico,Offer,18.0,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+8,8,MenuItem,Pulpo a la plancha con salsa de ostras y puré de yuca,Offer,14.0,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+9,9,MenuItem,Huevos arrebujados,Offer,12.0,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+10,10,MenuItem,Papas arrugas con mojos caseros,Offer,7.6,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+11,11,MenuItem,Saquito de queso brie con mermelada de tomate casero,Offer,3.5,EUR,Entrante,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas

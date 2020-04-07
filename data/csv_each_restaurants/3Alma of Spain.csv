@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla Rusa con Anchoas del Cantábrico,Offer,9,EUR,DE LA HUERTA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+1,1,MenuItem,Habitas Baby en Salsa Americana y Langostinos en Tempura,Offer,15,EUR,DE LA HUERTA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+2,2,MenuItem,Carpaccio de Boletus con Tostón de Papada Ibérica y Tirabeques,Offer,15,EUR,DE LA HUERTA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain

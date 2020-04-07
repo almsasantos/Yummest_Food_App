@@ -1,0 +1,25 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico,Offer,23.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+1,1,MenuItem,Lomo Ibérico,Offer,21.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+2,2,MenuItem,Queso,Offer,9.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+3,3,MenuItem,Croquetas de la casa,Offer,11.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+4,4,MenuItem,Lacón a la gallega,Offer,10.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+5,5,MenuItem,Calamares a la andaluza,Offer,13.75,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+6,6,MenuItem,Boquerones fritos,Offer,8.5,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+7,7,MenuItem,Pulpo a la gallega,Offer,18.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+8,8,MenuItem,Gambas al ajillo,Offer,16.5,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+9,9,MenuItem,Gambas rebozadas,Offer,17.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+10,10,MenuItem,Espárragos blancos con mahonesa,Offer,9.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+11,11,MenuItem,Espárragos a la plancha,Offer,9.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+12,12,MenuItem,Revuelto de trigueros con gambas,Offer,13.5,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+13,13,MenuItem,Consomé Jerez,,,,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+14,14,MenuItem,Sopa de la casa,Offer,6.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+15,15,MenuItem,Alcachofas salteadas con jamón,,,,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+16,16,MenuItem,Berenjenas rebozadas,Offer,8.75,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+17,17,MenuItem,Panaché de verduras,Offer,8.75,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+18,18,MenuItem,Guisantes con jamón,Offer,7.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+19,19,MenuItem,Habas salteadas con jamón,Offer,10.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+20,20,MenuItem,Ensalada de tomate con ventresca,Offer,15.5,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+21,21,MenuItem,Ensalada mixta,Offer,9.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+22,22,MenuItem,Ensalada de pimiento rojo con ventresca,Offer,14.5,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+23,23,MenuItem,Cogollos con salmón y anchoa,Offer,11.0,EUR,Entrantes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila

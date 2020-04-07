@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Recuerdo de la infancia, croquetas cremosas de jamón y huevo",Offer,8,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+1,1,MenuItem,Bacalao Burlona,Offer,15,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+2,2,MenuItem,Arroz de carabinero,Offer,22,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+3,3,MenuItem,Fideua de boletus y foie,Offer,15,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+4,4,MenuItem,Pulpo braseado con gazpachuelo cítrico de calamansi,Offer,14,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+5,5,MenuItem,Costillas laqueadas ibérico-cantonesas,Offer,14,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+6,6,MenuItem,Pluma ibérica al carbón,Offer,17,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+7,7,MenuItem,"Taco crujiente de rabo de toro, mole poblano y trufa",Offer,9,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+8,8,MenuItem,Albóndigas de butifarra con sepionets,Offer,16,EUR,Plato,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona

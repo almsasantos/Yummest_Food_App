@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas del cantábrico,Offer,16.0,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+1,1,MenuItem,Anchoas con boquerones en vinagre,Offer,16.5,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+2,2,MenuItem,Cebollas rellenas de atún y tomate frito casero,Offer,12.5,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+3,3,MenuItem,Cecina de león,Offer,12.5,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+4,4,MenuItem,"Croquetas caseras (Jamón, boletus, cabrales)",Offer,8.5,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+5,5,MenuItem,Ensalada del cheff,Offer,11.0,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+6,6,MenuItem,Espárragos verdes con virutas de jamón ibérico,Offer,11.5,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+7,7,MenuItem,Habitas mini con jamón ibérico de bellota,Offer,12.5,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+8,8,MenuItem,Huevos rotos con virutas de jamón ibérico,Offer,11.5,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+9,9,MenuItem,Jamón ibérico de bellota,Offer,21.0,EUR,"Entrantes, ensaladas y verduras",9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués

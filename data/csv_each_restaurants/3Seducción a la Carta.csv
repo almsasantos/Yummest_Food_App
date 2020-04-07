@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz caldoso con bogavante,Offer,24,EUR,Arroces y pastas,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+1,1,MenuItem,Tortelloni rellenos de foie con salsa de uva verde,Offer,24,EUR,Arroces y pastas,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+2,2,MenuItem,Capelli rellenos de calabaza y salsa de melón y manzana,Offer,18,EUR,Arroces y pastas,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta

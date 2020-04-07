@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot de carne roja de vaca con patatas y padron,Offer,16.0,EUR,Plato,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+1,1,MenuItem,Carne de buey (1kg),Offer,45.0,EUR,Plato,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+2,2,MenuItem,Merluza en salsa verde con gambas sobre patata,Offer,17.5,EUR,Plato,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel

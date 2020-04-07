@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Manzana en Tatin,Offer,5,EUR,Postre,9.2,"""Arrocería""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6744399070739746",Casa Benigna
+1,1,MenuItem,Fresas en sorbete al balsámico,Offer,7,EUR,Postre,9.2,"""Arrocería""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6744399070739746",Casa Benigna
+2,2,MenuItem,Chocolate en marquesa,Offer,7,EUR,Postre,9.2,"""Arrocería""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6744399070739746",Casa Benigna

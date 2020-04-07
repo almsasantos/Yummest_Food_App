@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,LOMO SALTADO: acompañado con arroz e Inkas fries.,Offer,20,EUR,ESPECIALES Y WOK,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+1,1,MenuItem,"CHAUFA NIKKEI: Arroz salteado al wok, con verduras, huevo a baja temperatura y chicharrón de pescado.",Offer,16,EUR,ESPECIALES Y WOK,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+2,2,MenuItem,PULPO ANTICUCHO: Marinado en salsa anticuchera y grillado a la perfección.,Offer,22,EUR,ESPECIALES Y WOK,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill

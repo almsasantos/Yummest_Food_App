@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+5,5,MenuItem,Botella de vino,Offer,18.0,EUR,Bebidas,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+6,6,MenuItem,Copa de vino,Offer,2.3,EUR,Bebidas,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri

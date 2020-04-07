@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cookie Sundae,Offer,5.95,EUR,Postre,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+1,1,MenuItem,Carrot Cake,Offer,5.95,EUR,Postre,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+2,2,MenuItem,Tarta Queso,Offer,7.45,EUR,Postre,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+3,3,MenuItem,Brownie Sundae,Offer,5.95,EUR,Postre,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+4,4,MenuItem,Copa Brownie,Offer,6.45,EUR,Postre,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+5,5,MenuItem,Crumble Manzana,Offer,7.45,EUR,Postre,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+6,6,MenuItem,Helado Chocolate,Offer,5.95,EUR,Postre,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via

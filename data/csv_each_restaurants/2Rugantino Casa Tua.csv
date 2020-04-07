@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú de café y mascarpone,Offer,6,EUR,Postre,8.9,"""Italiano""","""Calle de Velázquez","""geo"":{""latitude"":40.4398106,""longitude"":-3.6825683",Rugantino Casa Tua
+1,1,MenuItem,Cho-co-la-ti-si-mo. ( Bizcocho de chocolate caliente con salsa de chocolate belga y helado de chocolate blanco),Offer,6,EUR,Postre,8.9,"""Italiano""","""Calle de Velázquez","""geo"":{""latitude"":40.4398106,""longitude"":-3.6825683",Rugantino Casa Tua
+2,2,MenuItem,Carpaccio de piña y frambuesa (con sorbete de frambuesa),Offer,6,EUR,Postre,8.9,"""Italiano""","""Calle de Velázquez","""geo"":{""latitude"":40.4398106,""longitude"":-3.6825683",Rugantino Casa Tua

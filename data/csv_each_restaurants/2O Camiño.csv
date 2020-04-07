@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz de carabineros con concha (2 personas),Offer,44,EUR,Arroces,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+1,1,MenuItem,Arroz de bogavante con concha (2 personas),Offer,44,EUR,Arroces,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+2,2,MenuItem,Arroz abanda ocamiño (2 personas),Offer,36,EUR,Arroces,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño

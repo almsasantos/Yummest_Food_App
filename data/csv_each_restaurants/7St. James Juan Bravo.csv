@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa de mango con estofado de piña y helado de maracuya,Offer,7.5,EUR,Postre,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+1,1,MenuItem,Tarta fina de manzana con helado de vainilla (15 minutos),Offer,8.5,EUR,Postre,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+2,2,MenuItem,Tarta de Irish coffee con coulí de mango,Offer,8.5,EUR,Postre,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+3,3,MenuItem,Mousse de tiramisú con crujiente y reducción de amareto,Offer,7.5,EUR,Postre,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+4,4,MenuItem,Semifrío de queso con compota de frambuesa,Offer,7.5,EUR,Postre,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de triple chocolate,Offer,4.5,EUR,Postre,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade
+1,1,MenuItem,Tarta de galleta Oreo,Offer,3.9,EUR,Postre,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade
+2,2,MenuItem,Tarta de la abuela,Offer,4.0,EUR,Postre,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade

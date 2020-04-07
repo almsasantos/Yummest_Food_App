@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con Bogavante (mínimo 2 personas),Offer,39.0,EUR,Plato,9.2,None,"""Calle San Antonio de Padua","""geo"":{""latitude"":40.3859895,""longitude"":-3.701474",Pasamar
+1,1,MenuItem,Colas de langostino de Sanlúcar al ajillo con huevos fritos,Offer,14.0,EUR,Plato,9.2,None,"""Calle San Antonio de Padua","""geo"":{""latitude"":40.3859895,""longitude"":-3.701474",Pasamar
+2,2,MenuItem,Solomillo de ternera con foie y setas,Offer,22.5,EUR,Plato,9.2,None,"""Calle San Antonio de Padua","""geo"":{""latitude"":40.3859895,""longitude"":-3.701474",Pasamar

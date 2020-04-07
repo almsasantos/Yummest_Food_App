@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Red Mountain Burge,Offer,12.9,EUR,Premium Burgers,8.5,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4303493,""longitude"":-3.7006243",Steakburger Luchana
+1,1,MenuItem,La Suiza,Offer,12.9,EUR,Premium Burgers,8.5,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4303493,""longitude"":-3.7006243",Steakburger Luchana
+2,2,MenuItem,La Benedictina,Offer,12.9,EUR,Premium Burgers,8.5,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4303493,""longitude"":-3.7006243",Steakburger Luchana
+3,3,MenuItem,Melting Cheese Burger,Offer,12.9,EUR,Premium Burgers,8.5,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4303493,""longitude"":-3.7006243",Steakburger Luchana
+4,4,MenuItem,Boletus Burger,Offer,12.9,EUR,Premium Burgers,8.5,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4303493,""longitude"":-3.7006243",Steakburger Luchana
+5,5,MenuItem,Mexican Burger,Offer,12.9,EUR,Premium Burgers,8.5,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4303493,""longitude"":-3.7006243",Steakburger Luchana
+6,6,MenuItem,Dry Aged 200GR,Offer,16.0,EUR,Premium Burgers,8.5,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4303493,""longitude"":-3.7006243",Steakburger Luchana

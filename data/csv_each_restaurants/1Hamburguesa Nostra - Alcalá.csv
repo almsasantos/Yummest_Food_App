@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa Buey Nacional 250gr,Offer,15.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+1,1,MenuItem,INGLESA,Offer,12.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+2,2,MenuItem,ALEMANA,Offer,10.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+3,3,MenuItem,MEXICANA,Offer,11.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+4,4,MenuItem,TRUFA,Offer,12.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+5,5,MenuItem,FRANCESA,Offer,11.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+6,6,MenuItem,CLÁSICA,Offer,11.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+7,7,MenuItem,DE PUEBLO,Offer,10.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+8,8,MenuItem,DEL CHEF,Offer,11.9,EUR,HAMBURGUESAS,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá

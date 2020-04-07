@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,- Ensalado o plato de verdura,Menú Lunch,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+1,1,MenuItem,Plato Principal a elegir:,- Proteina aninal carne o pescado organico o Proteina vegana compañdo por hidrato integral ecologico,Menú Lunch,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+2,2,MenuItem,Postre:,Postre o café,Menú Lunch,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept

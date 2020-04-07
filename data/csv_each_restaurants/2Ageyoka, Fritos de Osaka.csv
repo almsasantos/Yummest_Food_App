@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flan de la felicidad,Offer,5,EUR,Postre,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"
+1,1,MenuItem,Bizcocho de ángel con matcha,Offer,5,EUR,Postre,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"
+2,2,MenuItem,Helado de marcha,Offer,4,EUR,Postre,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecotte,Offer,19.5,EUR,Carnes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+1,1,MenuItem,Solomillo,Offer,22.0,EUR,Carnes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+2,2,MenuItem,Callos madrileños,Offer,19.0,EUR,Carnes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+3,3,MenuItem,Carpaccio de solomillo,Offer,18.0,EUR,Carnes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+4,4,MenuItem,Steak tartar,Offer,18.0,EUR,Carnes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+5,5,MenuItem,Jarrete de cordero asado,Offer,18.0,EUR,Carnes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+6,6,MenuItem,Rabo de toro estofado,Offer,18.0,EUR,Carnes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca

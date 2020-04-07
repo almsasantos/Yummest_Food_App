@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rabo de Toro,Offer,10,EUR,Carnes,8.3,"""Español""","""Calle de Tampico","""geo"":{""latitude"":40.4445094,""longitude"":-3.6350738",La Cocinita de Zoe
+1,1,MenuItem,Entrecot de Ternera a la parrilla,Offer,10,EUR,Carnes,8.3,"""Español""","""Calle de Tampico","""geo"":{""latitude"":40.4445094,""longitude"":-3.6350738",La Cocinita de Zoe
+2,2,MenuItem,Chuletas de Cordero,Offer,12,EUR,Carnes,8.3,"""Español""","""Calle de Tampico","""geo"":{""latitude"":40.4445094,""longitude"":-3.6350738",La Cocinita de Zoe

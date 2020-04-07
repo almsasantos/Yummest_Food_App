@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cahopo tradicional,Offer,21,EUR,Plato,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+1,1,MenuItem,Fideuá de marisco (todo pelado),Offer,19,EUR,Plato,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+2,2,MenuItem,"Arroz Príncipe de Asturias con marisco, fabes y sidra",Offer,19,EUR,Plato,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+3,3,MenuItem,Cachopo astur-leonés,Offer,21,EUR,Plato,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+4,4,MenuItem,Cachopo minero,Offer,21,EUR,Plato,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+5,5,MenuItem,Cachopo vaqueiro,Offer,21,EUR,Plato,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+6,6,MenuItem,Cachopo especial de la casa,Offer,25,EUR,Plato,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur

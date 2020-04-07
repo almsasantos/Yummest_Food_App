@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz meloso con rabo y boletus,Offer,13.8,EUR,Entrantes Calientes,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+1,1,MenuItem,Rabas del cantabrico con ali-oil de limas,Offer,12.8,EUR,Entrantes Calientes,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+2,2,MenuItem,Tortilla de bacalao,Offer,12.8,EUR,Entrantes Calientes,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+3,3,MenuItem,Alubias rojas de Tolosa,Offer,13.8,EUR,Entrantes Calientes,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+4,4,MenuItem,Foie fresco de pato a la plancha,Offer,17.8,EUR,Entrantes Calientes,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela
+5,5,MenuItem,Pulpo gallego a la parrilla,Offer,20.8,EUR,Entrantes Calientes,9.7,"""Vasco""","""Avenida Logroño","""geo"":{""latitude"":40.472073729676,""longitude"":-3.5817499160767",Okela

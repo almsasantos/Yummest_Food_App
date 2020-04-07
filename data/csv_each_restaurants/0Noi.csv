@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Caponata, emulsión de berenjena a la llama y tomatitos confitados",Offer,14,EUR,Antipasti – Entrantes,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+1,1,MenuItem,La Parmigiana,Offer,16,EUR,Antipasti – Entrantes,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+2,2,MenuItem,"Burratina con cebolla asada, pimientos del piquillo y sardina",Offer,14,EUR,Antipasti – Entrantes,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+3,3,MenuItem,"Pannacotta ahumada, anchoas y trufa negra",Offer,16,EUR,Antipasti – Entrantes,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+4,4,MenuItem,"Pizzetta frita, pesto de albahaca y mozzarella de búfala",Offer,14,EUR,Antipasti – Entrantes,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+5,5,MenuItem,Alcachofas laqueadas y carbonara,Offer,14,EUR,Antipasti – Entrantes,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+6,6,MenuItem,Ragú del Domingo,Offer,14,EUR,Antipasti – Entrantes,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi

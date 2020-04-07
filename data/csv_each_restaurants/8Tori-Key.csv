@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pechuga de Pollo (sal o salsa),Offer,2.5,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+1,1,MenuItem,Picadillo de Pollo casero Tsukune con huevo a baja temperatura,Offer,3.5,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+2,2,MenuItem,Cerdo ibérico,Offer,2.2,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+3,3,MenuItem,Hatsu (corazón de Ávila),Offer,2.9,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+4,4,MenuItem,Mollejas (Ávila o Valencia),Offer,2.9,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+5,5,MenuItem,Hígado (de Ávila),Offer,2.9,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+6,6,MenuItem,Lengua de Vaca,Offer,7.0,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+7,7,MenuItem,Nikumaki (esparrago envuelto en cerdo iberico),Offer,4.4,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+8,8,MenuItem,"Negima (clásico japonés, muslo y cebolla tierna)",Offer,2.6,EUR,YAKITORI-KUSHIMON,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key

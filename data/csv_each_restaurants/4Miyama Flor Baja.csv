@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Teriyaki de Lomo de Atún,Offer,17,EUR,A la plancha & Al Horno,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+1,1,MenuItem,Gindara (Bacalao de Alaska) horneado al miso,Offer,20,EUR,A la plancha & Al Horno,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+2,2,MenuItem,Secreto de cerdo Ibérico horneado al miso dulce ,Offer,15,EUR,A la plancha & Al Horno,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+3,3,MenuItem,Lomo de cerdo Ibérico salteado al jengibre,Offer,16,EUR,A la plancha & Al Horno,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+4,4,MenuItem,Teriyaki de Pollo con especias japonesas,Offer,13,EUR,A la plancha & Al Horno,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+5,5,MenuItem,Tobanyaki: Lomo Alto de Buey D/O Alemania a la piedra,Offer,29,EUR,A la plancha & Al Horno,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja

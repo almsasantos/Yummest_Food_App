@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Kara-Age (Pollo frito estilo japonés) con salsa de Vinagre y Soja,Offer,6.6,EUR,FRITOS,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+1,1,MenuItem,Pollo Nanban con salsa Aurora,Offer,8.8,EUR,FRITOS,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+2,2,MenuItem,Croqueta de Pollo estilo Japonés,Offer,5.5,EUR,FRITOS,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+3,3,MenuItem,Berenjena frita con salsa de miso y picadillo de pollo por encims,Offer,4.6,EUR,FRITOS,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key

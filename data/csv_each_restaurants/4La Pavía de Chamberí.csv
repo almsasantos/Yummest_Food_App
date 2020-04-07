@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipironcitos a la Parrilla con Cebollitas Confitadas,Offer,21,EUR,De la Mar...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+1,1,MenuItem,Atún de Almadraba con Cebolla Roja Caramelizada,Offer,24,EUR,De la Mar...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+2,2,MenuItem,Tartar de Atún,Offer,23,EUR,De la Mar...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+3,3,MenuItem,Lubina a la Espalda,Offer,22,EUR,De la Mar...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+4,4,MenuItem,Sapito de Barriga Negra a la Bilbaína,Offer,24,EUR,De la Mar...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí

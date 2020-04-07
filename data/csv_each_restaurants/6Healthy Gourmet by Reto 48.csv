@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmón marinado,Offer,10.1,EUR,Mar,None,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4380805,""longitude"":-3.6633168",Healthy Gourmet by Reto 48
+1,1,MenuItem,Pescado al horno con verduras,Offer,10.5,EUR,Mar,None,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4380805,""longitude"":-3.6633168",Healthy Gourmet by Reto 48
+2,2,MenuItem,Pescado a la veracruzana,Offer,10.5,EUR,Mar,None,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4380805,""longitude"":-3.6633168",Healthy Gourmet by Reto 48
+3,3,MenuItem,Camarones al albañil,Offer,10.5,EUR,Mar,None,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4380805,""longitude"":-3.6633168",Healthy Gourmet by Reto 48

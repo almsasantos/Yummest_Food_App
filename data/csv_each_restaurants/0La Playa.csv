@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas de Santoña 00 (6 Uds.),Offer,18.5,EUR,PICA-PICA,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+1,1,MenuItem,Jamón ibérico de bellota,Offer,25.5,EUR,PICA-PICA,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+2,2,MenuItem,Foie de pato con manzana caramelizada,Offer,21.5,EUR,PICA-PICA,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa

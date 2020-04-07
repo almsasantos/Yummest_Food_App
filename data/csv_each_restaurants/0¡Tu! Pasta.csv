@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mejillones con tomate y oregano,Offer,14.5,EUR,Entrante,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+1,1,MenuItem,"Burrata con tomate cherry, rucùla y pan crujente",Offer,17.9,EUR,Entrante,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+2,2,MenuItem,"Rollitos de berenjena con salsa de tomate, jamon y queso",Offer,12.5,EUR,Entrante,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta

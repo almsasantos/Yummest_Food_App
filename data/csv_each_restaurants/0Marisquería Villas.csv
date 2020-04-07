@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de pimientos con anchoas,Offer,7.5,EUR,Entrante,None,"""Marisquería""","""C","""geo"":{""latitude"":40.430525622116,""longitude"":-3.701159954071",Marisquería Villas
+1,1,MenuItem,Bandeja de chopitos y calamares,Offer,7.5,EUR,Entrante,None,"""Marisquería""","""C","""geo"":{""latitude"":40.430525622116,""longitude"":-3.701159954071",Marisquería Villas
+2,2,MenuItem,Jamón y queso,Offer,8.0,EUR,Entrante,None,"""Marisquería""","""C","""geo"":{""latitude"":40.430525622116,""longitude"":-3.701159954071",Marisquería Villas

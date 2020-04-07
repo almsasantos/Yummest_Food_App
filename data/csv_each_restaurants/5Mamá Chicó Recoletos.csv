@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Helados,Offer,5.0,EUR,Postre,None,None,None,Mamá Chicó Recoletos
+1,1,MenuItem,Mousse de Oreo,Offer,6.4,EUR,Postre,None,None,None,Mamá Chicó Recoletos
+2,2,MenuItem,Tarta de queso Mamá Chicó,Offer,6.4,EUR,Postre,None,None,None,Mamá Chicó Recoletos
+3,3,MenuItem,Apple Crumble Pie,Offer,6.4,EUR,Postre,None,None,None,Mamá Chicó Recoletos
+4,4,MenuItem,Blondie,Offer,6.4,EUR,Postre,None,None,None,Mamá Chicó Recoletos
+5,5,MenuItem,Tarta Milhojas,Offer,6.4,EUR,Postre,None,None,None,Mamá Chicó Recoletos

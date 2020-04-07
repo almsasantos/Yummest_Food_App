@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche de pescado,Offer,14.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+1,1,MenuItem,Lomo saltado,Offer,12.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+2,2,MenuItem,"Pollo asado con patatas, ensalada y tres cremas",Offer,20.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+3,3,MenuItem,Ají de gallina,Offer,11.5,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+4,4,MenuItem,Sudado de pescado,Offer,14.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+5,5,MenuItem,Tallarín saltado,Offer,12.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+6,6,MenuItem,Tallarines Verdes con carne asada,Offer,12.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+7,7,MenuItem,Seco de ternera con frijoles,Offer,12.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+8,8,MenuItem,Ceviche mixto,Offer,16.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+9,9,MenuItem,Arroz chaufa,Offer,11.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+10,10,MenuItem,Bisteck a lo pobre,Offer,14.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+11,11,MenuItem,Arroz con pollo,Offer,11.0,EUR,PLATOS PRINCIPALES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay

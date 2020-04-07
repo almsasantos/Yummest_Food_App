@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo de ternera con salsa a la pimienta verde,Offer,25.0,EUR,Las carnes,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+1,1,MenuItem,"Delicias reales, 3 medallones de ternera con nuestras 3 salsas, pimienta verde, roquefort y colmenillas",Offer,25.5,EUR,Las carnes,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+2,2,MenuItem,Suprema de lomo de ternera con salsa de uvas pasas y foie gras,Offer,24.5,EUR,Las carnes,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real

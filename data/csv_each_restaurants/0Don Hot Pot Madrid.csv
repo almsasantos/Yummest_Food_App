@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caldo TAIJI ( Mitad picante/mitad no picante),Offer,12.0,EUR,CALDOS DE HOT POT,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid
+1,1,MenuItem,Caldo Picante estilo CHONGQING,Offer,10.8,EUR,CALDOS DE HOT POT,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid
+2,2,MenuItem,Caldo de Hongos,Offer,10.0,EUR,CALDOS DE HOT POT,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid
+3,3,MenuItem,Caldo de Tomate,Offer,7.5,EUR,CALDOS DE HOT POT,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid
+4,4,MenuItem,Caldo de Hueso,Offer,7.5,EUR,CALDOS DE HOT POT,9.5,"""Chino""","""Calle de Campomanes","""geo"":{""latitude"":40.4193009,""longitude"":-3.7091182",Don Hot Pot Madrid

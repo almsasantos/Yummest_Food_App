@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bandera,Offer,12,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+1,1,MenuItem,"Moro de Guandule con Ternera,Costillitas o Pollo Guisado",Offer,12,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+2,2,MenuItem,"Moro de Habichuela Negra con Ternera,Costillitas o Pollo Guisado",Offer,12,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+3,3,MenuItem,Pescado Frito o con Coco,Offer,14,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+4,4,MenuItem,Pescado al vapor con plátano hervido,Offer,14,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+5,5,MenuItem,Picapollo con plátano frito y ensalada,Offer,12,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+6,6,MenuItem,"Mangú con queso, salami o huevo frito",Offer,15,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+7,7,MenuItem,Picapllo mixto,Offer,12,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+8,8,MenuItem,Picató,Offer,20,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+9,9,MenuItem,Pollo asado,Offer,12,EUR,Especialidades,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,SAKE GUNKAN,Offer,3.95,EUR,GUNKAN (2P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+1,1,MenuItem,MAGUNO GUNKAN,Offer,4.25,EUR,GUNKAN (2P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+2,2,MenuItem,TOBIKO GUNKAN,Offer,4.15,EUR,GUNKAN (2P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+3,3,MenuItem,KANI GUNKAN,Offer,3.5,EUR,GUNKAN (2P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+4,4,MenuItem,EBI GUNKAN,Offer,3.75,EUR,GUNKAN (2P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR

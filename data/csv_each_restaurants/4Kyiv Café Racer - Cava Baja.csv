@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa “Borsch”,Offer,6,EUR,Platos Calientes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+1,1,MenuItem,“Golubzi” (2uds),Offer,13,EUR,Platos Calientes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+2,2,MenuItem,Svynniy Schaslik (Brocheta de Solomillo de cerdo),Offer,15,EUR,Platos Calientes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+3,3,MenuItem,Kuryachiy Schaslik (Brocheta de pechuga de pollo),Offer,12,EUR,Platos Calientes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+4,4,MenuItem,Bitochki,Offer,9,EUR,Platos Calientes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+5,5,MenuItem,Hamburguesa Bukovel,Offer,10,EUR,Platos Calientes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+6,6,MenuItem,Steak Ucraniano,Offer,16,EUR,Platos Calientes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja

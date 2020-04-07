@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Suvlaki de cerdo ibérico,Offer,4.0,EUR,Suvlaki en Pita,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+1,1,MenuItem,Suvlaki de pollo,Offer,3.8,EUR,Suvlaki en Pita,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+2,2,MenuItem,Suvlaki de chorizo,Offer,4.3,EUR,Suvlaki en Pita,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+3,3,MenuItem,Suvlaki de hamburguesa,Offer,4.5,EUR,Suvlaki en Pita,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+4,4,MenuItem,Suvlaki de croquetas de calabaza,Offer,3.8,EUR,Suvlaki en Pita,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake

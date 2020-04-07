@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Americano,Offer,4.2,EUR,Bowl Brunch,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+1,1,MenuItem,Inglés,Offer,4.9,EUR,Bowl Brunch,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+2,2,MenuItem,El de Aquí,Offer,4.2,EUR,Bowl Brunch,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+3,3,MenuItem,Francés,Offer,4.5,EUR,Bowl Brunch,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar
+4,4,MenuItem,Buda & Pest,Offer,4.6,EUR,Bowl Brunch,9.1,"""Internacional""","""Calle Quintana","""geo"":{""latitude"":40.4273631,""longitude"":-3.7191135",Bowl Bar

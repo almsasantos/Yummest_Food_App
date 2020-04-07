@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Verduras,Offer,7,EUR,Las calentitas,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+1,1,MenuItem,Patatas teja,Offer,6,EUR,Las calentitas,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+2,2,MenuItem,Pulpo a la Gallega,Offer,15,EUR,Las calentitas,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+3,3,MenuItem,Timbal de Rabo estofado y Setas con Patatas,Offer,12,EUR,Las calentitas,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+4,4,MenuItem,Alcachofas con lascas de Jamón,Offer,10,EUR,Las calentitas,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+5,5,MenuItem,Mini Hamburgesas 4 uds,Offer,8,EUR,Las calentitas,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+6,6,MenuItem,Rabas de Calamar con nuestra Mayonesa de Kimchi,Offer,10,EUR,Las calentitas,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería

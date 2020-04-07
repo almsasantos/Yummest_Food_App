@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,"Surtido de Ibéricos de Bellota\nCogollos de Tudela con Ventresca\nQueso de Cabra sobre Cebolla Caramelizada\nHojaldre Caliente con Setas, Gambas y Salmón",Menú Grupo 3,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+1,1,MenuItem,Plato,Lechazo asado en horno de leña\nCochinillo de Segovia asado en horno de leña (MARCA DE GARANTÍA PROCOSE)\nEntrecot a la parrilla\nLomo de Merluza con Almejas a la Vasca,Menú Grupo 3,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+2,2,MenuItem,Postre,Hojaldre de Crema y Chocolate Caliente,Menú Grupo 3,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+3,3,MenuItem,Bebida,Café\nVino de Rioja o Ribera del Duero\nAguas minerales,Menú Grupo 3,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya

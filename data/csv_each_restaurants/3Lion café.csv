@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Spaghetti napolitana,Offer,9.5,EUR,Pastas,None,None,None,Lion café
+1,1,MenuItem,Spaghetti alfredo´s,Offer,9.5,EUR,Pastas,None,None,None,Lion café
+2,2,MenuItem,Spaghetti boloñesa,Offer,9.5,EUR,Pastas,None,None,None,Lion café
+3,3,MenuItem,Canelones rossini,Offer,10.0,EUR,Pastas,None,None,None,Lion café
+4,4,MenuItem,Lasaña boloñesa,Offer,12.0,EUR,Pastas,None,None,None,Lion café

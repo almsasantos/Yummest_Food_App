@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coulant de chocolate con bola de helado,Offer,4.5,EUR,Postre,8.7,None,"""Calle Echegaray","""geo"":{""latitude"":40.4160129,""longitude"":-3.6995733",Minarai
+1,1,MenuItem,Tarta Oreo cheesecake,Offer,4.2,EUR,Postre,8.7,None,"""Calle Echegaray","""geo"":{""latitude"":40.4160129,""longitude"":-3.6995733",Minarai
+2,2,MenuItem,Tarta zanahoria,Offer,4.2,EUR,Postre,8.7,None,"""Calle Echegaray","""geo"":{""latitude"":40.4160129,""longitude"":-3.6995733",Minarai

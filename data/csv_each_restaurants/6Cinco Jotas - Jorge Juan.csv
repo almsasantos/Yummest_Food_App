@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,SOLOMILLO DE VACA GALLEGA,Offer,22.5,EUR,OTRAS CARNES Y PESCADO,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+1,1,MenuItem,POLLO DE CORRAL AL VINO OLOROSO DE JEREZ,Offer,14.0,EUR,OTRAS CARNES Y PESCADO,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+2,2,MenuItem,LOMO DE MERLUZA AL HORNO,Offer,18.5,EUR,OTRAS CARNES Y PESCADO,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+3,3,MenuItem,VIEIRAS A LA PARRILLA,Offer,19.0,EUR,OTRAS CARNES Y PESCADO,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan

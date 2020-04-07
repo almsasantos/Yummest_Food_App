@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gindara (bacalao negro) al Horno Marinado En Miso,Offer,26,EUR,Yakimono (grill),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+1,1,MenuItem,Tobanyaki De Lomo Alto De Buey WAGYU (a la piedra),Offer,38,EUR,Yakimono (grill),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+2,2,MenuItem,"Tobanyaki De Marisco, Pescado & Buey WAGYU (a la piedra)",Offer,31,EUR,Yakimono (grill),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana

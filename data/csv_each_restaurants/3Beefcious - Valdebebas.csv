@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa rellena de brie,Offer,12.5,EUR,Especiales,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+1,1,MenuItem,Hamburguesa rellena de foie,Offer,12.95,EUR,Especiales,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+2,2,MenuItem,Hamburguesa frutos rojos,Offer,10.95,EUR,Especiales,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+3,3,MenuItem,Hamburguesa Louisiana,Offer,12.95,EUR,Especiales,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+4,4,MenuItem,Beefcious sandwich,Offer,11.95,EUR,Especiales,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+5,5,MenuItem,Chicken sandwich,Offer,10.95,EUR,Especiales,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas

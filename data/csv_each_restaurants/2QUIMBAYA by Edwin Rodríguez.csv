@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,"Presa ibérica lacada en panela, fríjol, chicharrón y carantantas",Offer,24,EUR,"Montañas, Valles, y Mesetas",None,None,None,QUIMBAYA by Edwin Rodríguez
+1,1,MenuItem,"Cordero al estilo santandereano, bocadillo veleño y calao",Offer,25,EUR,"Montañas, Valles, y Mesetas",None,None,None,QUIMBAYA by Edwin Rodríguez
+2,2,MenuItem,"Lomo de vaca, capón de ahuyama al rescoldo, queso y hogao",Offer,26,EUR,"Montañas, Valles, y Mesetas",None,None,None,QUIMBAYA by Edwin Rodríguez

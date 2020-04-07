@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Hamburguesa La Cochinita (Carne, cochinita pibil, lechuga, tomate)",Offer,9.8,EUR,Hamburguesas y Hot Dogs,8.7,"""Venezolano""","""Calle de los Reyes Magos","""geo"":{""latitude"":40.4115888,""longitude"":-3.6747692",El Tercio
+1,1,MenuItem,"Hamburguesa El Tercio (Carne, queso de cabra, cebolla caramelizada, lechuga, tomate)",Offer,8.9,EUR,Hamburguesas y Hot Dogs,8.7,"""Venezolano""","""Calle de los Reyes Magos","""geo"":{""latitude"":40.4115888,""longitude"":-3.6747692",El Tercio
+2,2,MenuItem,"Hot Dog El Venezolano (pan, salchicha Frankfurt, queso cheddar, carne hilachada, jamón cocido)",Offer,5.8,EUR,Hamburguesas y Hot Dogs,8.7,"""Venezolano""","""Calle de los Reyes Magos","""geo"":{""latitude"":40.4115888,""longitude"":-3.6747692",El Tercio

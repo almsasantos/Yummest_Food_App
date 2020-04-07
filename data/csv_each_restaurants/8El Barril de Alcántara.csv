@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza a la Romana,Offer,22.5,EUR,Merluza de pincho al gusto,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,Merluza a la parrilla con refrito de ajo,Offer,22.5,EUR,Merluza de pincho al gusto,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+2,2,MenuItem,Cogote o cola al horno con su Bilbaína suave,Offer,22.5,EUR,Merluza de pincho al gusto,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

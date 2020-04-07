@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Humus de Remolacha con Pan de Pita\no\nNachos con Queso\no\nEnsalada de la Casa,Menu del Dia,8.5,"""Argentino""","""Calle de las Hileras","""geo"":{""latitude"":40.4179208,""longitude"":-3.707618",TSG Steak
+1,1,MenuItem,Plato,180G de Carne Argentina a la Piedra (con patatas fritas o ensalada)\no\nSolomillo de Cerdo (con patatas fritas o ensalada)\no\nTex-Mex Fajitas de Pollo\no\nPechuga de Pollo a la Piedra (con patatas fritas o ensalada)\no\nTSG Chilli con Carne con Arroz Blanco,Menu del Dia,8.5,"""Argentino""","""Calle de las Hileras","""geo"":{""latitude"":40.4179208,""longitude"":-3.707618",TSG Steak
+2,2,MenuItem,Postre,Helado o Cafe,Menu del Dia,8.5,"""Argentino""","""Calle de las Hileras","""geo"":{""latitude"":40.4179208,""longitude"":-3.707618",TSG Steak

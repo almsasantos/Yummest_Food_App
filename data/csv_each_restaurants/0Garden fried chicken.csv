@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Croquetas de la abuela: jamón, langostinos y trufa o espinacas",Offer,7.9,EUR,Entrante,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+1,1,MenuItem,"Tostas de solomillo con queso de cabra y cebolla caramelizada, tambien de queso con salmon y anchoas con boquerones y muchas mas",Offer,5.9,EUR,Entrante,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+2,2,MenuItem,Patatas bravas con salsa secreta,Offer,3.5,EUR,Entrante,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+3,3,MenuItem,Ensaladilla Rusa,Offer,5.0,EUR,Entrante,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+4,4,MenuItem,Alitas de Pollo con Salsa Barbacoa,Offer,4.9,EUR,Entrante,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+5,5,MenuItem,Tiras de Pollo Crujiente con Salsa de Miel y Mostaza,Offer,4.9,EUR,Entrante,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+6,6,MenuItem,Tortilla de Patatas Entera,Offer,9.0,EUR,Entrante,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken

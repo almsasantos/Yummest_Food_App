@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ALFAJOR CREMOSO DE CHOCOLATE: Helado de Lucuma y dulce de leche.,Offer,9,EUR,POSTRES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+1,1,MenuItem,CURD DE LIMA-LIMON,Offer,7,EUR,POSTRES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+2,2,MenuItem,TARTA DE QUESO: Chocolate blanco con crema helada de violetas.,Offer,7,EUR,POSTRES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill

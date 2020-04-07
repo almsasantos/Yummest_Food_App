@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fresco y tradicional guacamole con con nachos y chifles,Offer,14,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+1,1,MenuItem,Jamón de Bellota de Extremadura 100% raza ibérica con pan tostado y tomate rallado,Offer,25,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+2,2,MenuItem,Selección de quesos nacionales,Offer,21,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+3,3,MenuItem,"Anchoas sobre pan brioche, mantequilla de ajo negro y tomate cassé",Offer,17,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+4,4,MenuItem,"Pulpo a la parrilla con crema de revoconas,verduras encurtidas y torreznos",Offer,21,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+5,5,MenuItem,"Huevo de corral sobre mousse de boletus y foie,setas silvestres con jamón y cebolleta china",Offer,17,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+6,6,MenuItem,Hummus de garbanzos,Offer,13,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+7,7,MenuItem,Parrillada de verduras con romesco de anacardos,Offer,16,EUR,Entrante,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató

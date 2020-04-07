@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Taco de pollo con rocoto y piña (2 unid.),Offer,7.9,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+1,1,MenuItem,"Brioche de carrillera ibérica, sésamo y hierbabuena",Offer,6.9,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+2,2,MenuItem,Rollito de oreja y chile,Offer,8.4,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+3,3,MenuItem,Guacamole con totopos de maíz,Offer,8.5,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+4,4,MenuItem,Steak tartar,Offer,9.5,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+5,5,MenuItem,"Ensalada de ricota, pollo y nueces",Offer,7.5,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+6,6,MenuItem,Salteado de verduras,Offer,8.4,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+7,7,MenuItem,Crujientes de pollo,Offer,7.9,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+8,8,MenuItem,Croquetas de carabinero,Offer,5.5,EUR,Tacos y Piqueos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet

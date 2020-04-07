@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bocadillo de calamar en témpura y rocoto,Offer,8.8,EUR,Bocadillos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+1,1,MenuItem,"Bocadillo de ENTRAÑA , repollo y aceituna botija",Offer,8.5,EUR,Bocadillos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+2,2,MenuItem,"Bocadillo de PAVO ASADO , crema de ají y boniato",Offer,8.9,EUR,Bocadillos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet
+3,3,MenuItem,Bocadillo de CHICHARRON DE CERDO,Offer,8.5,EUR,Bocadillos,9.1,"""Internacional""","""Calle del Gral Oraá","""geo"":{""latitude"":40.4361483,""longitude"":-3.6808952",Apura gourmet

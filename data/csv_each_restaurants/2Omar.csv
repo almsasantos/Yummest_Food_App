@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paletilla (Firinda Kuzu),Offer,23.9,EUR,Plato,9.1,"""Turco""","""Calle Prof","""geo"":{""latitude"":40.4561433,""longitude"":-3.6876752",Omar
+1,1,MenuItem,Cordero (Sac Kavurma),Offer,15.5,EUR,Plato,9.1,"""Turco""","""Calle Prof","""geo"":{""latitude"":40.4561433,""longitude"":-3.6876752",Omar
+2,2,MenuItem,Pollo (Tavuk Sote),Offer,15.9,EUR,Plato,9.1,"""Turco""","""Calle Prof","""geo"":{""latitude"":40.4561433,""longitude"":-3.6876752",Omar

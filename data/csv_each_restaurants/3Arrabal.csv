@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fresas con nata y espuma de leche merengada,Offer,6.5,EUR,Postre,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal
+1,1,MenuItem,Crema catalana,Offer,6.5,EUR,Postre,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal
+2,2,MenuItem,Tarta de queso Fluída,Offer,7.0,EUR,Postre,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal

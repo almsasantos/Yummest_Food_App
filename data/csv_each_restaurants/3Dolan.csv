@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tartar de salmón con daditos de tomate, aguacate y emulsión picante",Offer,16,EUR,Del Mar,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+1,1,MenuItem,Bacalao Skrei con pisto mediterráneo,Offer,16,EUR,Del Mar,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+2,2,MenuItem,Merluza de pincho al gusto,Offer,18,EUR,Del Mar,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+3,3,MenuItem,Medallón de atún rojo con wok de verduras,Offer,16,EUR,Del Mar,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan

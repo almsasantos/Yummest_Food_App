@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carpaccio de Solomillo con Mostaza a la Antigua y Láminas de Parmesano,Offer,13.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+1,1,MenuItem,Milhojas de Rabo de Buey en su Jugo con Calabacín y Puré de Patata,Offer,16.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+2,2,MenuItem,Ensalada De Espinacas,Offer,13.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+3,3,MenuItem,Lomitos de Bacalao en Tempura con Patatas Fritas (Nuestra versión de Fish and Chips),Offer,10.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+4,4,MenuItem,Canelòn Casero,Offer,13.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+5,5,MenuItem,Pulpo,Offer,16.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+6,6,MenuItem,tataki De Atun,Offer,16.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+7,7,MenuItem,Bacalao,Offer,16.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+8,8,MenuItem,Estofado De Carillera Iberica,Offer,13.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+9,9,MenuItem,Tartar de Salmon Noruego,Offer,16.49,EUR,Plato,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo

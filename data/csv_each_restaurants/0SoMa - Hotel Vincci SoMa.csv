@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Carpaccio de Picaña con Aceite de oliva, Pimienta y Ruccula",Offer,14,EUR,Entrante,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+1,1,MenuItem,"Ensalada de Hojas Frescas Con langostinos y Aguacate, cítricos y Aliño Thai",Offer,17,EUR,Entrante,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+2,2,MenuItem,Curry Rojo Tailandés de Gambas y Verduras con Leche de Coco,Offer,20,EUR,Entrante,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+3,3,MenuItem,"Tartar de Atún con Guacamole, Mahonesa de mango y Chutney de Papaya",Offer,21,EUR,Entrante,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa

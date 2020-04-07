@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lubina a sal “nuestra estrella”,Offer,25.11,EUR,PESCADOS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+1,1,MenuItem,Dorada a la sal,Offer,18.11,EUR,PESCADOS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+2,2,MenuItem,Cogote de Merluza al Horno,Offer,24.75,EUR,PESCADOS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+3,3,MenuItem,Lomos de Merluza rebozados,Offer,21.15,EUR,PESCADOS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+4,4,MenuItem,Merluza Cazuela,Offer,23.13,EUR,PESCADOS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+5,5,MenuItem,Bacalao a la Mantequilla,Offer,24.75,EUR,PESCADOS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+6,6,MenuItem,Rape bilbaina,Offer,26.4,EUR,PESCADOS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz

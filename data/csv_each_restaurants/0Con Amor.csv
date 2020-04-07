@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,alcachofas confitadas,Offer,17.0,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+1,1,MenuItem,Burrata rellena de guacamole,Offer,15.4,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+2,2,MenuItem,Ensaladilla fina de salmón,Offer,15.4,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+3,3,MenuItem,Croquetitas de rabo de Toro,Offer,12.1,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+4,4,MenuItem,Croquetitas de ibéricos y boletus,Offer,12.1,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+5,5,MenuItem,Berenjenas con salmorejo,Offer,14.3,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+6,6,MenuItem,Huevo poche con foie,Offer,15.0,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+7,7,MenuItem,Tempura de gambón con cremosa de kimuchi,Offer,18.7,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+8,8,MenuItem,Tomates rosas infusionados en albahaca,Offer,14.3,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+9,9,MenuItem,Tartar de atun con huevos rotos,Offer,20.0,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+10,10,MenuItem,Tartar de salmón con marinada de jengibre,Offer,17.6,EUR,Entrante,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,53.0,EUR,Bebidas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+2,2,MenuItem,Café,Offer,3.0,EUR,Bebidas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+3,3,MenuItem,Botella de agua,Offer,3.3,EUR,Bebidas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+5,5,MenuItem,Botella de vino,Offer,18.0,EUR,Bebidas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria

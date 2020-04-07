@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con Leche Quemada,Offer,5.5,EUR,Postres,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+1,1,MenuItem,Frixuelos con Nata y Chocolate,Offer,5.5,EUR,Postres,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+2,2,MenuItem,Postre de Manzanas,Offer,5.5,EUR,Postres,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+3,3,MenuItem,Postre de Chocolate,Offer,5.5,EUR,Postres,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+4,4,MenuItem,Helado de Manzana Verde,Offer,5.5,EUR,Postres,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+5,5,MenuItem,Sorbete de Mandarina,Offer,5.5,EUR,Postres,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+6,6,MenuItem,Helados Variados,Offer,5.0,EUR,Postres,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia

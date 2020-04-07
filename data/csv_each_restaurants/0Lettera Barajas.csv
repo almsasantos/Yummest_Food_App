@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pizza margarita, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+1,1,MenuItem,"Pizza romana, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+2,2,MenuItem,"Pizza capricciosa, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+3,3,MenuItem,"Pizza bavaria, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+4,4,MenuItem,"Pizza calabresa, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+5,5,MenuItem,"Pizza vegetariana, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+6,6,MenuItem,"Pizza vesubio, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+7,7,MenuItem,"Pizza fugazzeta, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+8,8,MenuItem,"Pizza napolitana, grande",Offer,14,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+9,9,MenuItem,"Pizza tirolesa, grande",Offer,16,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+10,10,MenuItem,"Pizza cuatro quesos, grande",Offer,16,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+11,11,MenuItem,"Pizza salmone, grande",Offer,16,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas
+12,12,MenuItem,"Pizza siciliana, grande",Offer,16,EUR,Pizzas,8.5,"""Mediterráneo""","""Calle Bahía de Gando","""geo"":{""latitude"":40.4651365,""longitude"":-3.592713",Lettera Barajas

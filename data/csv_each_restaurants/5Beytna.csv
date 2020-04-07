@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tajín de kofta,Offer,20,EUR,De nuestro horno de leña,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna
+1,1,MenuItem,Maklouba,Offer,18,EUR,De nuestro horno de leña,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna
+2,2,MenuItem,Msakhan de pollo,Offer,18,EUR,De nuestro horno de leña,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna

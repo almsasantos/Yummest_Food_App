@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa La Elegida,Offer,15.5,EUR,Carnes,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+1,1,MenuItem,Solomillo de ternera a la brasa con foie y Pedro Ximénez,Offer,24.95,EUR,Carnes,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+2,2,MenuItem,Magret de pato con chutney de tomate y patatines rústicos,Offer,16.0,EUR,Carnes,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+3,3,MenuItem,Pluma ibérica con emulsión de berenjena ahumada,Offer,17.5,EUR,Carnes,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+4,4,MenuItem,Canelón de ciervo al vino tinto,Offer,16.5,EUR,Carnes,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida

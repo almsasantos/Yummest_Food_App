@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sabrosísimo cachopo de ternera blanca con crema untuosa de patata,Offer,24.25,EUR,Carnes,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+1,1,MenuItem,"Pollito Coquelet, trufa de verano y crema de zanahoria con mandarina",Offer,22.8,EUR,Carnes,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+2,2,MenuItem,"Chuletitas de lechal crocanti, arroz y curry",Offer,23.65,EUR,Carnes,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+3,3,MenuItem,Jarrete Ibérico braseado en su jugo con patata en salsa,Offer,24.75,EUR,Carnes,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+4,4,MenuItem,Lomo de añojo fileteado con pastel de berza y jamón,Offer,26.4,EUR,Carnes,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+5,5,MenuItem,Cazuela melosa de callos con morros y morcilla asturiana,Offer,22.5,EUR,Carnes,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+6,6,MenuItem,"Puntas de solomillo, salteadas y glaseadas con puré de patata e ibéricos",Offer,22.85,EUR,Carnes,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez

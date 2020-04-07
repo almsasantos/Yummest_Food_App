@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Soja Roja con Leche de Coco,Offer,2.5,EUR,Postre,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+1,1,MenuItem,"Mochi Coco,Fresa,Mango,Te Verde,Sesamo,Vanilla",Offer,1.9,EUR,Postre,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+2,2,MenuItem,Gyoza Vietnamita,Offer,2.5,EUR,Postre,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem

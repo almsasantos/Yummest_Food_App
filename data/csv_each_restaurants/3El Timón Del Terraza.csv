@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sorbete de limón,Offer,4.5,EUR,Postres Caseros,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+1,1,MenuItem,Tarta de arroz con leche,Offer,5.5,EUR,Postres Caseros,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+2,2,MenuItem,Tarta de queso,Offer,5.5,EUR,Postres Caseros,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+3,3,MenuItem,Brownie de chocolate,Offer,5.5,EUR,Postres Caseros,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+4,4,MenuItem,Flan Casero,Offer,5.5,EUR,Postres Caseros,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza
+5,5,MenuItem,Tarta Tiramisu,Offer,5.5,EUR,Postres Caseros,9.5,"""Marisquería""","""C","""geo"":{""latitude"":40.387007,""longitude"":-3.758082",El Timón Del Terraza

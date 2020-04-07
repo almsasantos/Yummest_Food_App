@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Ensalada pereira,Offer,10.0,EUR,Entrante,None,None,None,La Tasquita de Pereira
+1,1,MenuItem,Tostas variadas,Offer,7.0,EUR,Entrante,None,None,None,La Tasquita de Pereira
+2,2,MenuItem,Parrilllada de verduras,Offer,9.3,EUR,Entrante,None,None,None,La Tasquita de Pereira
+3,3,MenuItem,Berenjenas crujientes con salmorejo,Offer,7.7,EUR,Entrante,None,None,None,La Tasquita de Pereira

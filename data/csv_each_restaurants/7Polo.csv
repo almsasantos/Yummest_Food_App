@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pudin casero,Offer,4,EUR,POSTRES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+1,1,MenuItem,Flan casero,Offer,4,EUR,POSTRES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+2,2,MenuItem,Arroz con leche casero,Offer,4,EUR,POSTRES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+3,3,MenuItem,Natillas caseras,Offer,4,EUR,POSTRES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+4,4,MenuItem,Tarta de queso casera,Offer,4,EUR,POSTRES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+5,5,MenuItem,Copa de helado,Offer,4,EUR,POSTRES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo

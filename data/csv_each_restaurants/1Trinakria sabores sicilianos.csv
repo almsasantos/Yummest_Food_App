@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza margherita,Offer,8.0,EUR,Plato,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+1,1,MenuItem,Pizza norma,Offer,9.5,EUR,Plato,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+2,2,MenuItem,Guastella Bomba,Offer,10.0,EUR,Plato,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+3,3,MenuItem,Pizza Italia,Offer,10.0,EUR,Plato,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+4,4,MenuItem,Pizza Calabria,Offer,10.0,EUR,Plato,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+5,5,MenuItem,Pizza Povera,Offer,10.0,EUR,Plato,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos

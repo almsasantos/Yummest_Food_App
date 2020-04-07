@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de setas escabechadas con huevo poché y mahonesa trufada,Offer,8.5,EUR,EL HUERTO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+1,1,MenuItem,Berenjenas fritas con miel de caña,Offer,6.5,EUR,EL HUERTO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+2,2,MenuItem,Tomates confitados con queso burrata y vinagreta de albahaca,Offer,9.5,EUR,EL HUERTO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio

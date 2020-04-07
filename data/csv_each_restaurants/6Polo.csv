@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lubina a la espalda,Offer,18,EUR,PESCADOS,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+1,1,MenuItem,Salmón con gambas,Offer,18,EUR,PESCADOS,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+2,2,MenuItem,Merluza con almejas,Offer,22,EUR,PESCADOS,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+3,3,MenuItem,Merluza a la romana,Offer,18,EUR,PESCADOS,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+4,4,MenuItem,Bacalao a la bilbaína,Offer,18,EUR,PESCADOS,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+5,5,MenuItem,Sepia a la plancha,Offer,17,EUR,PESCADOS,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+6,6,MenuItem,Emperador a la plancha,Offer,16,EUR,PESCADOS,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo

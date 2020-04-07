@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada templada de langostinos y crujiente de almendras con casse de tomate,Offer,12,EUR,ENSALADAS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,"Ensalada de queso, mango y nueces garrapiñadas",Offer,12,EUR,ENSALADAS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+2,2,MenuItem,Ensalada de jamón de pato y foie con vinagreta de Cabernet Sauvignon,Offer,14,EUR,ENSALADAS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+3,3,MenuItem,"Ensalada de quinoa con mango, aguacate y langostinos al aceite de vainilla",Offer,12,EUR,ENSALADAS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

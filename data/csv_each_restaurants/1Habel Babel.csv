@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ful,Offer,8,EUR,Porciones,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+1,1,MenuItem,Fatet hummus,Offer,8,EUR,Porciones,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+2,2,MenuItem,Falafel,Offer,8,EUR,Porciones,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+3,3,MenuItem,Kebbe maqliye,Offer,10,EUR,Porciones,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel

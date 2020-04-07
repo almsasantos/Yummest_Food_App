@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas en Salazón con Pan y Tomate,Offer,20.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+1,1,MenuItem,Plato de Jamón (Paleta de Bellota) con pan y tomate,Offer,22.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+2,2,MenuItem,Queso de Bertiz (100x100 oveja) con Membrillo,Offer,14.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+3,3,MenuItem,Flor de Alcachofas a la Plancha con Emulsión de Tomate y Albahaca,Offer,16.5,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+4,4,MenuItem,Salteado de Setas con Flor de Huevo,Offer,15.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+5,5,MenuItem,Pimientos Rellenos de Txangurro,Offer,16.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+6,6,MenuItem,Cañas de Berenjena Fritas con Arrope de Tomate,Offer,16.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+7,7,MenuItem,Falso Risotto de Langostinos y Espárragos,Offer,16.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+8,8,MenuItem,Verdinas con Changurro,Offer,16.0,EUR,...Para Empezar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria

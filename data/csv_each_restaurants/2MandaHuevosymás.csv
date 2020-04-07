@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Puding,Offer,3,EUR,Postre,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+1,1,MenuItem,Tarta de queso,Offer,3,EUR,Postre,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+2,2,MenuItem,Pastel de limón,Offer,3,EUR,Postre,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás

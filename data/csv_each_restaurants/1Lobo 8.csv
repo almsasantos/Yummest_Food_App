@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Aleta de raya marinada con nuestro Sambal, y arroz con coco",Offer,26,EUR,Segundos,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+1,1,MenuItem,Nuestra apuesta por la pesca de temporada,Offer,29,EUR,Segundos,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+2,2,MenuItem,Gallina de guinea a baja temperatura y terminada al horno (min. 2 personas),Offer,54,EUR,Segundos,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+3,3,MenuItem,"Jarrete de cordero al curry, papaya encurtida y okra en texturas",Offer,21,EUR,Segundos,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+4,4,MenuItem,“Goulash” de vaca con cecina,Offer,21,EUR,Segundos,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+5,5,MenuItem,"Pulpo al carbón con torreznos, polenta de coco y tierra de pimentón",Offer,29,EUR,Segundos,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+6,6,MenuItem,Picaña de vaca con pure de calabaza y puerros confitados,Offer,20,EUR,Segundos,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8

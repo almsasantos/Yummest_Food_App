@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de lechuga viva,Offer,17.0,EUR,Tierra,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+1,1,MenuItem,Verduras de la huerta a la parrilla,Offer,13.5,EUR,Tierra,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+2,2,MenuItem,Champiñones rellenos gratinados al horno,Offer,12.0,EUR,Tierra,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+3,3,MenuItem,Pasta italiana con un toque de parmesano,Offer,13.5,EUR,Tierra,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+4,4,MenuItem,Berenjenas crujientes en tempura de cerveza y miel de flores,Offer,12.0,EUR,Tierra,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+5,5,MenuItem,Arroz de temporada a la creatividad del Chef,Offer,16.5,EUR,Tierra,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+6,6,MenuItem,Ensalada de burrata con tartar de remolacha y granada con polvo de pistacho,Offer,13.5,EUR,Tierra,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano

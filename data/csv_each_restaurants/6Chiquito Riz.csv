@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,MARISCO COCIDO Y PLANCHA con dorada a la sal o chuletón a la parrilla (para dos personas),Offer,87.45,EUR,NUESTROS MENÚS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+1,1,MenuItem,MARISCO COCIDO Y PLANCHA con Lubina a sal (para dos personas),Offer,98.45,EUR,NUESTROS MENÚS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+2,2,MenuItem,PARRILLADA DE MARISCOS (para dos personas),Offer,77.55,EUR,NUESTROS MENÚS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+3,3,MenuItem,MENÚ DEDUSTACIÓN (por persona),Offer,28.64,EUR,NUESTROS MENÚS,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz

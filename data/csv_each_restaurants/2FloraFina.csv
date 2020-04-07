@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pollo ecológico sobre puré de patatas y salsa de pimienta rosa,Offer,12.0,EUR,Principales,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+1,1,MenuItem,Ternera blanca con pimienta negra sobre puré de boniato,Offer,18.0,EUR,Principales,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+2,2,MenuItem,Dados de Pollo y Verduras con Salsa de curry,Offer,12.0,EUR,Principales,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+3,3,MenuItem,Panzeroti Boletus y Ricota con Salsa Casera de Tomate,Offer,12.0,EUR,Principales,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+4,4,MenuItem,Lasaña de trigueros y espinacas con salsa de tomate y queso mozarella,Offer,11.5,EUR,Principales,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+5,5,MenuItem,Dorada rellena de verduritas sobre puré de Piquillos,Offer,16.0,EUR,Principales,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+6,6,MenuItem,Lomitos de merluza conﬁtado en aceite de guindilla y ajo con patatitas panaderas,Offer,16.0,EUR,Principales,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina

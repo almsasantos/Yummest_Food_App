@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de Atún Rojo con Alga Wakame,Offer,28.05,EUR,Pescados,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+1,1,MenuItem,"Medallones de Rape con Salsa de Carabineros, Langostino y Chips Dulces",Offer,26.4,EUR,Pescados,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+2,2,MenuItem,Merluza de Pincho al Horno sobre Crema de Espárragos Verdes y Calamar de Potera,Offer,26.95,EUR,Pescados,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+3,3,MenuItem,Corvina Braseada con Salsa de Azafrán y Fideos de Verduras,Offer,21.45,EUR,Pescados,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+4,4,MenuItem,Lenguado Salvaje al Horno con Salsa Rusa,Offer,28.05,EUR,Pescados,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+5,5,MenuItem,Lomo de Bacalao confitado con Romesco y Verduras en Tempura,Offer,24.2,EUR,Pescados,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros

@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa New York,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+1,1,MenuItem,Hamburguesa Monterrey,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+2,2,MenuItem,Hamburguesa Maui,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+3,3,MenuItem,Hamburguesa Milán,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+4,4,MenuItem,Hamburguesa Caracas,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+5,5,MenuItem,Hamburguesa Sidney,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+6,6,MenuItem,Hamburguesa París,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+7,7,MenuItem,Hamburguesa Tennessee,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+8,8,MenuItem,Hamburgiesa Madrid,Offer,10.5,EUR,Plato,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró

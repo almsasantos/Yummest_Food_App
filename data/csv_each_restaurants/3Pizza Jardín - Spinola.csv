@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fondue de queso (Por persona),Offer,13.15,EUR,Fondues & Carnes,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+1,1,MenuItem,Escalope de ternera a la milanesa,Offer,12.65,EUR,Fondues & Carnes,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+2,2,MenuItem,Escalopines de ternera a la plancha,Offer,12.5,EUR,Fondues & Carnes,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+3,3,MenuItem,Carpaccio de solomillo,Offer,13.9,EUR,Fondues & Carnes,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+4,4,MenuItem,Entrecot de cebón a la parrilla (250 gr),Offer,17.35,EUR,Fondues & Carnes,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con verduritas de la Huerta,Offer,19.8,EUR,Nuestros arroces son únicos. (Mínimo 2 personas). Ración,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,"Arroz Marinero limpio para no mancharse, y su Alioli",Offer,19.8,EUR,Nuestros arroces son únicos. (Mínimo 2 personas). Ración,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+2,2,MenuItem,"Arroz con carabineros del Sur, gambas y almejas",Offer,23.0,EUR,Nuestros arroces son únicos. (Mínimo 2 personas). Ración,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+3,3,MenuItem,Arroz con gamba roja del Mediterráneo,Offer,23.0,EUR,Nuestros arroces son únicos. (Mínimo 2 personas). Ración,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

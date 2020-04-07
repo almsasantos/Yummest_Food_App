@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Alitas de coliflor / champiñones rellenos / hummus de remolacha,Menu La Reina Banana,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+1,1,MenuItem,Plato,Burger / Espaguetis a la boloñesa / Ensalada del chef,Menu La Reina Banana,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+2,2,MenuItem,Postre,Brownie de chocolate / Nice cream / Bolitas de cookie / Café,Menu La Reina Banana,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana

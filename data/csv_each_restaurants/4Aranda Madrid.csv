@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pluma ibérica de bellota al carbón con berenjena a la llama y miel de especias,Offer,19.5,EUR,CARNES,9.2,"""Mediterráneo""","""Calle López de Aranda","""geo"":{""latitude"":40.4440393,""longitude"":-3.6340386",Aranda Madrid
+1,1,MenuItem,Steak tartar al estilo tradicional con puntilla de huevo y pan tardo,Offer,23.0,EUR,CARNES,9.2,"""Mediterráneo""","""Calle López de Aranda","""geo"":{""latitude"":40.4440393,""longitude"":-3.6340386",Aranda Madrid
+2,2,MenuItem,"Tostón de cordero lechal confitado con escabeche de membrillo, traten de parmesano y espinacas",Offer,21.0,EUR,CARNES,9.2,"""Mediterráneo""","""Calle López de Aranda","""geo"":{""latitude"":40.4440393,""longitude"":-3.6340386",Aranda Madrid
+3,3,MenuItem,Entraña al Josper con ragout de trompetas de la muerte,Offer,18.0,EUR,CARNES,9.2,"""Mediterráneo""","""Calle López de Aranda","""geo"":{""latitude"":40.4440393,""longitude"":-3.6340386",Aranda Madrid
+4,4,MenuItem,Lomo de vaca vieja madurado durante 30 días al carbon de encina,Offer,48.0,EUR,CARNES,9.2,"""Mediterráneo""","""Calle López de Aranda","""geo"":{""latitude"":40.4440393,""longitude"":-3.6340386",Aranda Madrid

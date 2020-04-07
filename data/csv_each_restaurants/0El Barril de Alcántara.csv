@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ostra plana de la Ría de Arosa (En temporada).,Offer,4.0,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,Almejas naturales de Cambados\t 100 grs,Offer,13.5,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+2,2,MenuItem,Zamburiñas gratinadas (6 Uds.),Offer,18.0,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+3,3,MenuItem,"Almejas de Carril a la sartén, para compartir",Offer,28.0,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+4,4,MenuItem,Gamba blanca de Huelva\t 100 grs,Offer,14.0,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+5,5,MenuItem,Gamba roja de Santa Pola\t100 grs,Offer,16.5,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+6,6,MenuItem,Cigalas tronco de Huelva a la plancha o cocida 100 grs,Offer,16.0,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+7,7,MenuItem,Carabinero gigante de Huelva\t100 grs,Offer,11.0,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+8,8,MenuItem,Salpicón de mariscos de Isla Cristina,Offer,23.5,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+9,9,MenuItem,Nécoras gallegas\t 100 grs,Offer,9.0,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+10,10,MenuItem,Centollo de O’Grove\t 1Kgr,Offer,70.5,EUR,Mariscos de Lonja,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

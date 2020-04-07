@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamar en tempura con Kimchi,Offer,8.5,EUR,TACOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+1,1,MenuItem,Callejero de carrillera iberica,Offer,9.0,EUR,TACOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+2,2,MenuItem,Pollo con pico de gallo de mango,Offer,8.0,EUR,TACOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+3,3,MenuItem,"Flor de calabacín en tempura, queso y mole",Offer,7.5,EUR,TACOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+4,4,MenuItem,Pato al pastor con piña a la brasa,Offer,9.0,EUR,TACOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+5,5,MenuItem,Paletilla de cordero (a baja temperatura) con teriyaki de tamarindo,Offer,9.0,EUR,TACOS,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje

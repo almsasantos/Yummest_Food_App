@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tokaji, Aszu",Offer,5.0,EUR,Vinos dulces,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+1,1,MenuItem,PX 1927,Offer,3.5,EUR,Vinos dulces,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+2,2,MenuItem,Moscatel de la marina,Offer,3.5,EUR,Vinos dulces,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+3,3,MenuItem,Martínez Tawny,Offer,4.5,EUR,Vinos dulces,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+4,4,MenuItem,Lustau solera reserva,Offer,4.0,EUR,Vinos dulces,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+5,5,MenuItem,Casta Diva cosecha miel,Offer,4.0,EUR,Vinos dulces,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio

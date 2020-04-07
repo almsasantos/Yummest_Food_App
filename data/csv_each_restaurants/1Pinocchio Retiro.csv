@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lasaña al horno,Offer,8.0,EUR,Pasta,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+1,1,MenuItem,Lasaña de calabacines,Offer,7.0,EUR,Pasta,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+2,2,MenuItem,Espaguetis Napolitana,Offer,7.5,EUR,Pasta,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+3,3,MenuItem,Espaguetis Bologñesa,Offer,8.0,EUR,Pasta,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+4,4,MenuItem,Espaguetis Putanesca,Offer,8.5,EUR,Pasta,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+5,5,MenuItem,Espaguetis Carbonara,Offer,8.5,EUR,Pasta,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+6,6,MenuItem,Tortelini a la crema,Offer,8.5,EUR,Pasta,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro

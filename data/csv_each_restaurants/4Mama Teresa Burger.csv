@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso casera,Offer,4,EUR,Postre,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+1,1,MenuItem,Tarta de chocolate casera,Offer,4,EUR,Postre,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+2,2,MenuItem,Tarta de zanahorias,Offer,4,EUR,Postre,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger

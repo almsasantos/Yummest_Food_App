@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primer Plato o Entrantes,"Arroces (siempre) Ensaladas, Revueltos, Verduras Parrilla, Pastas",Menú Fin de Semana y Festivos Comida,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+1,1,MenuItem,Plato Principal,"Entrecot, Pescado, Huevos con Ibérico",Menú Fin de Semana y Festivos Comida,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+2,2,MenuItem,Postre,"Frutas, Helado, Flan casero ó Puding, Tartas de la casa",Menú Fin de Semana y Festivos Comida,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+3,3,MenuItem,Bebida,Una bebida por persona.,Menú Fin de Semana y Festivos Comida,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento

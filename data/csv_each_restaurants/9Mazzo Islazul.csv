@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza finocchiona,Offer,12.95,EUR,Pizza rústicas,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul
+1,1,MenuItem,Pizza diavola,Offer,12.65,EUR,Pizza rústicas,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul
+2,2,MenuItem,Pizza bacon creamy,Offer,12.35,EUR,Pizza rústicas,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul

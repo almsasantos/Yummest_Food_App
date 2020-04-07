@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie,Offer,4.95,EUR,Postres,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+1,1,MenuItem,Tatín de manzana,Offer,6.5,EUR,Postres,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+2,2,MenuItem,Cheese cake,Offer,4.95,EUR,Postres,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+3,3,MenuItem,Helado,Offer,4.95,EUR,Postres,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet

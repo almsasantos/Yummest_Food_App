@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Almejas de playa a la sartén al punto picante,Offer,21.5,EUR,CAPRICHOS DEL MAR,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+1,1,MenuItem,Pulpo de pedrero a la parrilla con Alioli,Offer,18.5,EUR,CAPRICHOS DEL MAR,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+2,2,MenuItem,Pulpo de pedrero con cachelos al aceite de pimentón,Offer,18.5,EUR,CAPRICHOS DEL MAR,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa

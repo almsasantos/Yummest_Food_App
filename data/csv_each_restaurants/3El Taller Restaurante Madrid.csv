@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Canelones de ají de gallina al gratén de rocoto,Offer,13.7,EUR,Pastas y Arroces,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+1,1,MenuItem,Fetuccini negro y txipirones salteados en asadura de ajos,Offer,14.3,EUR,Pastas y Arroces,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+2,2,MenuItem,Risotto de setas y hongos en meloso de su fondo,Offer,13.6,EUR,Pastas y Arroces,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid

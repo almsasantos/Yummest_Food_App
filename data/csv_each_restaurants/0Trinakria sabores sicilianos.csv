@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bruschetta con tomate,Offer,4.0,EUR,Entrante,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+1,1,MenuItem,Patatas fritas,Offer,2.2,EUR,Entrante,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+2,2,MenuItem,Arancino tradicional,Offer,2.8,EUR,Entrante,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos
+3,3,MenuItem,Arancino bronte,Offer,3.8,EUR,Entrante,9.1,"""Italiano""","""Calle Clara del Rey","""geo"":{""latitude"":40.4417337,""longitude"":-3.6711336",Trinakria sabores sicilianos

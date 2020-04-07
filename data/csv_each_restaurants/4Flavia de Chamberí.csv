@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Spaghetti con pomodori perini e basilico,Offer,12,EUR,Paste,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+1,1,MenuItem,Troﬁe di recco al pesto,Offer,14,EUR,Paste,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+2,2,MenuItem,Lasagna Ragù alla bolognese,Offer,15,EUR,Paste,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+3,3,MenuItem,Rigatoni amatriciana,Offer,14,EUR,Paste,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí

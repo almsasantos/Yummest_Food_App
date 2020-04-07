@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tamal cubano,Offer,6.5,EUR,Entrante,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+1,1,MenuItem,Croquetas cubanas,Offer,6.5,EUR,Entrante,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+2,2,MenuItem,Frituras de Malanga,Offer,6.0,EUR,Entrante,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+3,3,MenuItem,Frituras de Maiz,Offer,6.0,EUR,Entrante,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+4,4,MenuItem,Sandwich Cubano,Offer,8.5,EUR,Entrante,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas

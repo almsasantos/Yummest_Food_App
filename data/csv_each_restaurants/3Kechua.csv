@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta tres leches,Offer,6.5,EUR,Postre,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+1,1,MenuItem,Alfajor con helado,Offer,6.5,EUR,Postre,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+2,2,MenuItem,Mazamorra morada,Offer,6.5,EUR,Postre,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+3,3,MenuItem,Helados tropicales,Offer,6.5,EUR,Postre,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+4,4,MenuItem,Tarta de chocolate,Offer,6.5,EUR,Postre,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua

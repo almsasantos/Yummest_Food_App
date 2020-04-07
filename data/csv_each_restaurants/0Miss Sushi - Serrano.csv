@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yakisoba vegetal y huevo,Offer,9.0,EUR,Entrante,8.6,"""Japonés""","""Calle de Padilla","""geo"":{""latitude"":40.431615,""longitude"":-3.686338",Miss Sushi - Serrano
+1,1,MenuItem,Miss BB,Offer,6.9,EUR,Entrante,8.6,"""Japonés""","""Calle de Padilla","""geo"":{""latitude"":40.431615,""longitude"":-3.686338",Miss Sushi - Serrano
+2,2,MenuItem,Ensalada de pollo katsu,Offer,9.8,EUR,Entrante,8.6,"""Japonés""","""Calle de Padilla","""geo"":{""latitude"":40.431615,""longitude"":-3.686338",Miss Sushi - Serrano

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de Bumbay Blue,Offer,4.95,EUR,Entrante,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+1,1,MenuItem,Chicken Chart,Offer,5.95,EUR,Entrante,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+2,2,MenuItem,Samosa,Offer,4.95,EUR,Entrante,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+3,3,MenuItem,Mix vegetable Pakoras,Offer,4.95,EUR,Entrante,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+4,4,MenuItem,Prawn Puri,Offer,8.95,EUR,Entrante,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+5,5,MenuItem,Onion Bhaji,Offer,4.95,EUR,Entrante,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+6,6,MenuItem,Chicken soup,Offer,5.95,EUR,Entrante,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino

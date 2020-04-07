@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Taco de maíz cochinita pibil, mango, guacamole y mahonesa kimchi",Offer,6.0,EUR,Carne,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+1,1,MenuItem,"Bao de pato pekin, salsa hoisin, pepino y hierbabuena",Offer,4.5,EUR,Carne,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+2,2,MenuItem,"Presa ibérica al cuadro picaso con chutney de mango, migas, yogur griego y salsa tonkatsu",Offer,10.0,EUR,Carne,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+3,3,MenuItem,"Canelón de guiso de rabo de toro con reducción de vino tinto, rabanitos, zanahoria y parmesano",Offer,6.0,EUR,Carne,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Torrija de pan brioche caramelizada,Offer,6,EUR,Una dulce tentación,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+1,1,MenuItem,Coulant de chocolate con Coulis de frambuesa y helado,Offer,6,EUR,Una dulce tentación,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+2,2,MenuItem,Brownie de chocolate con bola de helado,Offer,6,EUR,Una dulce tentación,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+3,3,MenuItem,Tiramisú Casero de mi Cocinero,Offer,6,EUR,Una dulce tentación,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+4,4,MenuItem,Tatín de manzana con helado de vainilla,Offer,6,EUR,Una dulce tentación,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+5,5,MenuItem,Lemon pie,Offer,6,EUR,Una dulce tentación,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies

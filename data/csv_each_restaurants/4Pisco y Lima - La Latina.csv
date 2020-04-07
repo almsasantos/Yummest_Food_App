@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Aji de gallina,Offer,14,EUR,Saborea Perú,8.3,"""Peruano""","""Calle de la Cebada","""geo"":{""latitude"":40.4107135,""longitude"":-3.7099175",Pisco y Lima - La Latina
+1,1,MenuItem,Chicharron de cerdo,Offer,12,EUR,Saborea Perú,8.3,"""Peruano""","""Calle de la Cebada","""geo"":{""latitude"":40.4107135,""longitude"":-3.7099175",Pisco y Lima - La Latina
+2,2,MenuItem,Seco de cordero,Offer,16,EUR,Saborea Perú,8.3,"""Peruano""","""Calle de la Cebada","""geo"":{""latitude"":40.4107135,""longitude"":-3.7099175",Pisco y Lima - La Latina

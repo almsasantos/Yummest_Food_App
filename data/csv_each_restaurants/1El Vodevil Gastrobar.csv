@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tabla de jamón ibérico,Offer,19.0,EUR,Tablas,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+1,1,MenuItem,Media tabla de jamón ibérico,Offer,10.0,EUR,Tablas,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+2,2,MenuItem,Tabla de ibéricos,Offer,15.0,EUR,Tablas,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+3,3,MenuItem,Tabla de queso nacionales,Offer,15.0,EUR,Tablas,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+4,4,MenuItem,Media tabla de queso nacionales,Offer,8.0,EUR,Tablas,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+5,5,MenuItem,Tabla de secreto de cerdo ibérico,Offer,15.0,EUR,Tablas,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+6,6,MenuItem,Tabla de entrecot de ternera gallega 100%,,,,Tablas,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar

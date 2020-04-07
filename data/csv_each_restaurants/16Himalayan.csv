@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Naan:,Offer,2.25,EUR,Naan / Bread,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+1,1,MenuItem,Lasun Naan:,Offer,2.5,EUR,Naan / Bread,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+2,2,MenuItem,Cheese Naan:,Offer,3.95,EUR,Naan / Bread,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+3,3,MenuItem,Peshwari Naan:,Offer,3.95,EUR,Naan / Bread,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+4,4,MenuItem,Naan Makhani:,Offer,2.75,EUR,Naan / Bread,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+5,5,MenuItem,tandoori Roti:,Offer,2.25,EUR,Naan / Bread,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan

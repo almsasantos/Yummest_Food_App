@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fresas con nata,Offer,8,EUR,Postres,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+1,1,MenuItem,"Mousse de yuzu, cítricos y helado de aceite oliva",Offer,8,EUR,Postres,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+2,2,MenuItem,Cremoso caliente de choco y helado de tofe salado,Offer,8,EUR,Postres,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+3,3,MenuItem,Tartita de limón y té matcha,Offer,8,EUR,Postres,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+4,4,MenuItem,"Perlas de Japón, leche de coco y mango, teja pan dulce",Offer,8,EUR,Postres,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+5,5,MenuItem,Nuestro tiramisú reconstruida,Offer,8,EUR,Postres,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel

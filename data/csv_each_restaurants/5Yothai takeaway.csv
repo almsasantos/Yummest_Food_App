@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Curry verde langostino,Offer,9.9,EUR,Currys,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway
+1,1,MenuItem,Curry rojo ternera,Offer,9.9,EUR,Currys,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway
+2,2,MenuItem,Gang phet ped krob,Offer,11.9,EUR,Currys,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway
+3,3,MenuItem,Ped Bangkok,Offer,11.9,EUR,Currys,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway

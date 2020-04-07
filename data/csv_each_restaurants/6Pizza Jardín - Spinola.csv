@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Spaghetti bolognesa,Offer,9.75,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+1,1,MenuItem,Spaghetti con tomate,Offer,9.65,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+2,2,MenuItem,Pizza peperonni,Offer,9.95,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+3,3,MenuItem,Pizza a los cuatro quesos,Offer,11.75,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+4,4,MenuItem,Pizza Michelangelo,Offer,9.95,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+5,5,MenuItem,Pizza Giovanni,Offer,10.6,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+6,6,MenuItem,Lasagna de carne,Offer,11.6,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+7,7,MenuItem,Tarta de chocolate,Offer,5.35,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+8,8,MenuItem,Helados,Offer,2.9,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+9,9,MenuItem,Cerveza sin gluten,Offer,3.25,EUR,Especial sin gluten,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola

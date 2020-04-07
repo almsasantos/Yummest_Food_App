@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso,Offer,4.5,EUR,Postres,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+1,1,MenuItem,Arroz con leche,Offer,4.0,EUR,Postres,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+2,2,MenuItem,Flan de huevo,Offer,4.5,EUR,Postres,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+3,3,MenuItem,Mousse de limón,Offer,5.0,EUR,Postres,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+4,4,MenuItem,Tarta de temporada,Offer,5.0,EUR,Postres,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lagrimas Ibericas,Offer,14.0,EUR,Para los carnívoros,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+1,1,MenuItem,Solomillo al whisky,Offer,15.0,EUR,Para los carnívoros,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+2,2,MenuItem,Costillar a la BBQ,Offer,20.0,EUR,Para los carnívoros,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+3,3,MenuItem,Burger Raíces,Offer,13.0,EUR,Para los carnívoros,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+4,4,MenuItem,Pulledpork,Offer,13.5,EUR,Para los carnívoros,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces

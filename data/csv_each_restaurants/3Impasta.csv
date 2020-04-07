@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carbonara,Offer,12.9,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+1,1,MenuItem,Zucchina Pork,Offer,12.9,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+2,2,MenuItem,Salsiccia,Offer,12.5,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+3,3,MenuItem,Amatriciana,Offer,12.2,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+4,4,MenuItem,Boloñesa,Offer,12.5,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+5,5,MenuItem,Fumé,Offer,12.5,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+6,6,MenuItem,Contadina,Offer,12.5,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+7,7,MenuItem,Ragout de Pollo,Offer,11.2,EUR,Recetas con Carne,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta

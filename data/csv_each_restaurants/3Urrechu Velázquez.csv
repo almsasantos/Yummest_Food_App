@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa fría de frutas exóticas y crema helada de piña con mango,Offer,8.8,EUR,Postre,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+1,1,MenuItem,"Tarta Tatín de manzana, su ralladura y crema helada de vainilla",Offer,9.0,EUR,Postre,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+2,2,MenuItem,"Arroz con leche quemadita con costra, como en Asturias",Offer,7.15,EUR,Postre,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+3,3,MenuItem,Nuestra fruta fresca de temporada convertida en obra de arte (2p),Offer,12.5,EUR,Postre,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+4,4,MenuItem,Tarta artesana de queso fresco con galleta,Offer,8.5,EUR,Postre,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+5,5,MenuItem,Dados de torrija artesana con pincelada de café con leche y su crema helada,Offer,8.65,EUR,Postre,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+6,6,MenuItem,Canutillo de chocolate rellenos de queso fluido y crema helada de chocolate a la taza,Offer,9.35,EUR,Postre,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez

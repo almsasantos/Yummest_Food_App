@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Plain nan,Offer,3.0,EUR,Especial tandoori pan,9.1,"""Indio""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Tandoori Madrid
+1,1,MenuItem,Garlic nan,Offer,4.5,EUR,Especial tandoori pan,9.1,"""Indio""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Tandoori Madrid
+2,2,MenuItem,Chese Nan,Offer,4.5,EUR,Especial tandoori pan,9.1,"""Indio""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Tandoori Madrid

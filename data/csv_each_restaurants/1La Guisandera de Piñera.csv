@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Alcachofas con “jamón ibérico”,Offer,16,EUR,Verde que te quiero verde,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+1,1,MenuItem,Verduritas de temporada en salsa verde con almejas,Offer,18,EUR,Verde que te quiero verde,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+2,2,MenuItem,Cardos y borrajas pilpileados con trufa negra,Offer,22,EUR,Verde que te quiero verde,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+3,3,MenuItem,"Ensalada de hojas escarchadas, cremoso de afuega´l pitu y vinagreta de manzana",Offer,15,EUR,Verde que te quiero verde,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera

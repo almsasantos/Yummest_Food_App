@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo alto de vaca vieja con sus patatas a lo pobre,Offer,24.5,EUR,Carnes,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+1,1,MenuItem,Steak tartar de lomo de vaca y yuca frita,Offer,20.8,EUR,Carnes,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+2,2,MenuItem,Secreto ibérico D.O. Los pedroches y su guarnición,Offer,18.6,EUR,Carnes,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+3,3,MenuItem,Patatas de Luxe ETG,Offer,3.5,EUR,Carnes,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid

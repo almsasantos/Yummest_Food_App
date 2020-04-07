@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,olla de origina picante o pimienton,Offer,2.0,EUR,Nuestro pinchos muy original,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+1,1,MenuItem,pinchos,Offer,0.3,EUR,Nuestro pinchos muy original,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+2,2,MenuItem,salsa para mojar pinchos,Offer,1.0,EUR,Nuestro pinchos muy original,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King

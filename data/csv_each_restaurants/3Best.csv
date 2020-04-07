@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CARRILLERA IBÉRICA,Offer,17,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+1,1,MenuItem,DADOS SOLOMILLO DE LA FINCA,Offer,19,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+2,2,MenuItem,HAMBURGUESA DE VACA RUBIA GALLEGA,Offer,14,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+3,3,MenuItem,HAMBURGUESA DE POLLO DE CORRAL,Offer,13,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+4,4,MenuItem,VEGGI BURGUER,Offer,13,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+5,5,MenuItem,POLLO DE CORRAL,Offer,15,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+6,6,MenuItem,STEAK TARTAR,Offer,17,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+7,7,MenuItem,PULPO A LA BRASA,Offer,18,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+8,8,MenuItem,BACALAO CONFITADO,Offer,18,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+9,9,MenuItem,FISH & CHIPS,Offer,16,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+10,10,MenuItem,TARTAR DE SALMÓN,Offer,16,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+11,11,MenuItem,CEVICHE DE CORVINA Y LANGOSTINO,Offer,16,EUR,DE NUESTROS CAMPOS Y MARES,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best

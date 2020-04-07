@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Estofado de cerdo,Offer,5.5,EUR,Plato,None,"""Chino""","""Calle de los Reyes","""geo"":{""latitude"":40.4241173,""longitude"":-3.7097129",Tapa China
+1,1,MenuItem,Tallarines con aceite picante,Offer,4.5,EUR,Plato,None,"""Chino""","""Calle de los Reyes","""geo"":{""latitude"":40.4241173,""longitude"":-3.7097129",Tapa China
+2,2,MenuItem,Cacahuentes fritos chinos,Offer,5.5,EUR,Plato,None,"""Chino""","""Calle de los Reyes","""geo"":{""latitude"":40.4241173,""longitude"":-3.7097129",Tapa China

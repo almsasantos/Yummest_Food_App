@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ternera a los cinco aromas,Offer,6.8,EUR,Entrantes,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+1,1,MenuItem,Rábano con salsa de XO casera,Offer,5.4,EUR,Entrantes,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+2,2,MenuItem,Yuba (piel de tofu) con callos de ternera y salsa de sésamo,Offer,5.6,EUR,Entrantes,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+3,3,MenuItem,Ensalada de pepino con cacahuete,Offer,4.6,EUR,Entrantes,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang

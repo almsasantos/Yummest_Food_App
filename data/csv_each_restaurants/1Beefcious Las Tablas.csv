@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de Pollo,Offer,9.95,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+1,1,MenuItem,Hamburguesa queso azul,Offer,10.5,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+2,2,MenuItem,Hamburguesa barbacoa,Offer,9.95,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+3,3,MenuItem,Hamburguesa clásica,Offer,9.95,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+4,4,MenuItem,Hamburguesa jalapeños,Offer,10.5,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+5,5,MenuItem,Hamburguesa mozzarella,Offer,10.5,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+6,6,MenuItem,Hamburguesa diablo,Offer,10.5,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+7,7,MenuItem,Hamburguesa vegetariana,Offer,9.95,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+8,8,MenuItem,Cheeseburguer,Offer,9.95,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+9,9,MenuItem,Hamburguesa básica,Offer,8.95,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas
+10,10,MenuItem,Hamburguesa infantil,Offer,7.5,EUR,Hamburguesas,9.1,"""Americano""","""Paseo Tierra de Melide","""geo"":{""latitude"":40.5119068,""longitude"":-3.6702741",Beefcious Las Tablas

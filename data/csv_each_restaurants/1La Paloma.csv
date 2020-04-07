@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa de cebolla gratinada con queso parmesano,Offer,16.0,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+1,1,MenuItem,Crema ligera de cigalas al armagnac,Offer,14.0,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+2,2,MenuItem,Alcachofas rellenas de foie y setas,Offer,20.0,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+3,3,MenuItem,Raviolis rellenos de colitas de cigalas,Offer,29.0,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+4,4,MenuItem,Canelones rellenos de pato y setas gratinadas,Offer,20.0,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+5,5,MenuItem,Carabinero con alcachofas salteadas y aceite de albahaca,Offer,32.0,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+6,6,MenuItem,Menestra de verduras con jamón ibérico,Offer,22.0,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+7,7,MenuItem,Huevos escalfados sobre hojaldre con salmón ahumado,Offer,24.5,EUR,Entrantes,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma

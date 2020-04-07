@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Tropical,Offer,8.5,EUR,EMPEZAMOS POR LA CALLE HUERTAS,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+1,1,MenuItem,Ensalada de Tomate Rosa con Ventresca,Offer,11.0,EUR,EMPEZAMOS POR LA CALLE HUERTAS,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+2,2,MenuItem,Burrata Cremosa,Offer,10.0,EUR,EMPEZAMOS POR LA CALLE HUERTAS,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+3,3,MenuItem,Guacamole con Nachos,Offer,9.5,EUR,EMPEZAMOS POR LA CALLE HUERTAS,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+4,4,MenuItem,Ensaladilla Rusa,Offer,8.5,EUR,EMPEZAMOS POR LA CALLE HUERTAS,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central

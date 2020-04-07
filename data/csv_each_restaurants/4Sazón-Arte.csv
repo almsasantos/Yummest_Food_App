@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,40.0,EUR,Bebidas,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+1,1,MenuItem,Copa de champán,Offer,7.0,EUR,Bebidas,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+2,2,MenuItem,Café,Offer,1.4,EUR,Bebidas,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+4,4,MenuItem,Media botella de agua,Offer,2.2,EUR,Bebidas,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+6,6,MenuItem,Copa de vino,Offer,2.25,EUR,Bebidas,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte

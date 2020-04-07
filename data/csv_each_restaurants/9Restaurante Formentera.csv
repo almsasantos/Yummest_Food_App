@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+2,2,MenuItem,Café,Offer,1.3,EUR,Bebidas,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+4,4,MenuItem,Media botella de agua,Offer,1.8,EUR,Bebidas,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+5,5,MenuItem,Botella de vino,Offer,16.9,EUR,Bebidas,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera

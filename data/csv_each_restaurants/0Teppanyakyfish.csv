@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Sopa picante (tofu, verdura y carne)",Offer,4.2,EUR,Entrante,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+1,1,MenuItem,Rollito de gambas (5 unidades),Offer,5.95,EUR,Entrante,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+2,2,MenuItem,Nigiri de pez mantequilla (2 unidades),Offer,5.5,EUR,Entrante,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish

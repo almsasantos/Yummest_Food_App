@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tallarines Salteados Thai /Thai Fried Noodles ( PAD THAI),Offer,8.75,EUR,Plato,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+1,1,MenuItem,Sopa De Pollo Al Coco / Chicken Coconut Soup,Offer,9.85,EUR,Plato,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+2,2,MenuItem,Pollo Al Curry Amarillo / Yellow Curry Chicken,Offer,10.95,EUR,Plato,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai

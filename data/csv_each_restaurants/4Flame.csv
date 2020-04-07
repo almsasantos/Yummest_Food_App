@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Panna Cotta de Vainilla,Offer,3.9,EUR,Postres,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+1,1,MenuItem,Brownie de Chocolate,Offer,3.9,EUR,Postres,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+2,2,MenuItem,Tres Leches,Offer,3.9,EUR,Postres,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+3,3,MenuItem,Tarta Casera FLAME,Offer,3.9,EUR,Postres,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame

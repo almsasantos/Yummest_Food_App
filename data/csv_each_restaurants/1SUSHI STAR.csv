@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,SASHIMI DE SALMON 6 PIEZAS,Offer,5.75,EUR,SASHIMI,8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+1,1,MenuItem,SASHIMI DE ATUN 6 PIEZAS,Offer,6.15,EUR,SASHIMI,8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+2,2,MenuItem,SASHIMI DE PEZ MANTEQUILLA 6PIEZAS,Offer,5.5,EUR,SASHIMI,8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+3,3,MenuItem,SASHIMI MIXTO 12 PIEZAS,Offer,11.5,EUR,SASHIMI,8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+4,4,MenuItem,TATAKI DE SALMON 8 PIEZAS,Offer,8.5,EUR,SASHIMI,8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+5,5,MenuItem,TATAKI DE ATUN 8 PIEZAS,Offer,9.8,EUR,SASHIMI,8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR

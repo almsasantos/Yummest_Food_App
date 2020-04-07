@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante principal,Entrante principal a elegir entre varias opciones,12.5,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU
+1,1,MenuItem,Plato Principal,Plato principal a elegir entre varias opciones,12.5,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU
+2,2,MenuItem,Postre,Postre a elegir entre varias opciones,12.5,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU

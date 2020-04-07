@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de quinoa,Offer,10.9,EUR,Entrante,None,"""Mediterráneo""","""Calle de Ruiz","""geo"":{""latitude"":40.4284466,""longitude"":-3.7037289",Cantina Singular
+1,1,MenuItem,Pulpo con pimentón,Offer,14.5,EUR,Entrante,None,"""Mediterráneo""","""Calle de Ruiz","""geo"":{""latitude"":40.4284466,""longitude"":-3.7037289",Cantina Singular
+2,2,MenuItem,Chipirones a la plancha,Offer,11.5,EUR,Entrante,None,"""Mediterráneo""","""Calle de Ruiz","""geo"":{""latitude"":40.4284466,""longitude"":-3.7037289",Cantina Singular

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cochinita Pibil,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+1,1,MenuItem,Carnitas,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+2,2,MenuItem,Pollo salteado,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+3,3,MenuItem,Pollo Bourbon,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+4,4,MenuItem,Pollo crujiente,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+5,5,MenuItem,Pollo grill,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+6,6,MenuItem,Costilla BBQ,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+7,7,MenuItem,Hamburguesa vegetal,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+8,8,MenuItem,Vegetal con guacamole,Offer,6.95,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar
+9,9,MenuItem,Bistec,Offer,7.5,EUR,Burritos,7.6,"""Internacional""","""Calle de Atocha","""geo"":{""latitude"":40.4093402,""longitude"":-3.693189",Wrapipans Bar

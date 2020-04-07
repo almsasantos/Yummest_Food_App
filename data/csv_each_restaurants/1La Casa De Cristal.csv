@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lunes:,Offer,8.5,EUR,Platos del día,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+1,1,MenuItem,Martes:,Offer,7.5,EUR,Platos del día,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+2,2,MenuItem,Miércoles:,Offer,10.5,EUR,Platos del día,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+3,3,MenuItem,Jueves:,Offer,8.5,EUR,Platos del día,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+4,4,MenuItem,Viernes:,Offer,12.5,EUR,Platos del día,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal

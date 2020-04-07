@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rujak Mangga,Offer,6,EUR,Ensaladas,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+1,1,MenuItem,Rujak Kalimantan,Offer,6,EUR,Ensaladas,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+2,2,MenuItem,Gado gado,Offer,8,EUR,Ensaladas,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+3,3,MenuItem,Rujak bihun,Offer,6,EUR,Ensaladas,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+4,4,MenuItem,Salad bebek,Offer,9,EUR,Ensaladas,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+5,5,MenuItem,PECEL,Offer,6,EUR,Ensaladas,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+6,6,MenuItem,URAP,Offer,5,EUR,Ensaladas,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara

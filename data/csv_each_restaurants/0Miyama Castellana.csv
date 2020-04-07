@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Berenjena y Picadillo de Pollo Con Salsa De Miso Rojo,Offer,8.5,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+1,1,MenuItem,"Rollo De Buey WAGYU , Cebollino & Setas. (salsa teriyaki)",Offer,13.0,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+2,2,MenuItem,Salteado De Setas Japonesas & Espinacas,Offer,8.3,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+3,3,MenuItem,Kyuri Wakame (pepino & algas) Salsa Tozazu,Offer,6.5,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+4,4,MenuItem,Huevas De Salmón & Vieira Con Mizorezu (pepino y vinagre),Offer,9.8,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+5,5,MenuItem,Tartar De Atún Picante,Offer,16.5,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+6,6,MenuItem,Mini Spring Roll de Langostinos,Offer,7.5,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+7,7,MenuItem,Albóndigas De Pulpo Cantábrico,Offer,9.0,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+8,8,MenuItem,Surimi De Langostino De Huelva (2pieza),Offer,6.6,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+9,9,MenuItem,Boquerón al NANBAN (4piezas),Offer,8.0,EUR,Entrante,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana

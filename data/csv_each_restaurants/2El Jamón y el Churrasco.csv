@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Filloas rellenas de crema pastelera sobre base de chocolate caliente,Offer,5.5,EUR,Postres,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+1,1,MenuItem,Copa de helado de yogurt con frutos rojos,Offer,5.5,EUR,Postres,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+2,2,MenuItem,Copa de yogurt griego con oreo,Offer,5.5,EUR,Postres,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+3,3,MenuItem,Tiramisú casero receta antigua,Offer,5.5,EUR,Postres,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+4,4,MenuItem,Muerte de chocolate con chocolate caliente,Offer,5.5,EUR,Postres,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+5,5,MenuItem,Fruta de temporada,Offer,5.5,EUR,Postres,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+6,6,MenuItem,Sorbete de limón al cava,Offer,5.5,EUR,Postres,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco

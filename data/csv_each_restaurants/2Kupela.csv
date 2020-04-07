@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Parrillada De Verduras Con Queso De Cabra,Offer,11.9,EUR,"VERDURAS, PRIMEROS PLATOS Y ARROCES",9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+1,1,MenuItem,Sopa De Pescados Del Cantábrico,Offer,11.25,EUR,"VERDURAS, PRIMEROS PLATOS Y ARROCES",9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+2,2,MenuItem,Pochas Con Gambas Y Almejas,Offer,13.95,EUR,"VERDURAS, PRIMEROS PLATOS Y ARROCES",9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+3,3,MenuItem,Pisto A La Bilbaína,Offer,8.75,EUR,"VERDURAS, PRIMEROS PLATOS Y ARROCES",9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela

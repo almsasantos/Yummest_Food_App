@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Paté vegano de berenjenas o de tomate seco, con pan tostado",Offer,3.5,EUR,Entrante,9.3,"""Vegetariano""","""Calle del Infante","""geo"":{""latitude"":40.4142763,""longitude"":-3.6990471",Reineta
+1,1,MenuItem,Crema de calabaza con aroma de naranja,Offer,4.9,EUR,Entrante,9.3,"""Vegetariano""","""Calle del Infante","""geo"":{""latitude"":40.4142763,""longitude"":-3.6990471",Reineta
+2,2,MenuItem,"Ensalada con queso feta, pasas y nueces sobre base de lechuga y espinacas",Offer,6.2,EUR,Entrante,9.3,"""Vegetariano""","""Calle del Infante","""geo"":{""latitude"":40.4142763,""longitude"":-3.6990471",Reineta

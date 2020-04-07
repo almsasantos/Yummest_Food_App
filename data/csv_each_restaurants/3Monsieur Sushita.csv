@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tajine de cous cous con king prawns,Offer,13.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+1,1,MenuItem,Pastela de pato confitado con salsa de manzana,Offer,12.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+2,2,MenuItem,Pollo orgánico al carbón con miso y purés de patata morada y wasabi,Offer,11.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+3,3,MenuItem,Tataki de solomillo al carbón con crujiente de pasta won ton y schichimi,Offer,16.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+4,4,MenuItem,Chuletitas de cordero con salsa teriyaki (4 uds),Offer,18.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+5,5,MenuItem,Tempura de gambas rojas con chile dulce y tobikko rojo,Offer,12.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+6,6,MenuItem,Tataki de atún al carbón con chips de kale,Offer,18.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+7,7,MenuItem,Black Cod al carbón con aguacate en tempura,Offer,16.9,EUR,Especialidades,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita

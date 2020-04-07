@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+1,1,MenuItem,Copa de champán,Offer,3.0,EUR,Bebidas,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+2,2,MenuItem,Café,Offer,1.7,EUR,Bebidas,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+3,3,MenuItem,Botella de agua,Offer,3.5,EUR,Bebidas,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+6,6,MenuItem,Copa de vino,Offer,2.4,EUR,Bebidas,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid

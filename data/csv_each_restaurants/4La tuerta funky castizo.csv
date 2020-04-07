@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"A poniente,",Offer,9,EUR,Cocteles,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo
+1,1,MenuItem,No-jito,Offer,9,EUR,Cocteles,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo
+2,2,MenuItem,Vis a vis,Offer,9,EUR,Cocteles,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo
+3,3,MenuItem,Bosco mule,Offer,9,EUR,Cocteles,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo
+4,4,MenuItem,Another brick in the wall,Offer,9,EUR,Cocteles,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo

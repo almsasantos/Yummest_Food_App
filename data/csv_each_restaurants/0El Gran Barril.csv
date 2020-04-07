@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Almejas de Cambados naturales \t100 grs,Offer,14.3,EUR,MARISCOS DEL DÍA - Los de concha,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,Almejas de concha fina a la sartén,Offer,29.5,EUR,MARISCOS DEL DÍA - Los de concha,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+2,2,MenuItem,Zamburiñas gratinadas al Albariño,Offer,19.5,EUR,MARISCOS DEL DÍA - Los de concha,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+3,3,MenuItem,Ostras planas de la Ría de Arosa (En temporada)\tUNIT,Offer,4.5,EUR,MARISCOS DEL DÍA - Los de concha,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

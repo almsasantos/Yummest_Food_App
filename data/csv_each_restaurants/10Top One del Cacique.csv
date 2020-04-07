@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mini burguers,Offer,9,EUR,Carnes a la brasa,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique
+1,1,MenuItem,Picantón a la parrilla,Offer,12,EUR,Carnes a la brasa,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique

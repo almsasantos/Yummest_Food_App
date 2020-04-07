@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Natillas Arroz con leche,Offer,3.5,EUR,Nuestros postres caseros,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+1,1,MenuItem,Torrija,Offer,3.5,EUR,Nuestros postres caseros,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+2,2,MenuItem,Leche frita flambeada,Offer,4.0,EUR,Nuestros postres caseros,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+3,3,MenuItem,Tarta da galleta y café,Offer,5.5,EUR,Nuestros postres caseros,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+4,4,MenuItem,Helados comerciales al gusto,Offer,4.0,EUR,Nuestros postres caseros,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte

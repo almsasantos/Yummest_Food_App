@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Angus (180 g),Offer,12,EUR,Hamburguesas,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+1,1,MenuItem,Pechuga de pollo,Offer,6,EUR,Hamburguesas,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+2,2,MenuItem,Lisanti clásica,Offer,6,EUR,Hamburguesas,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II

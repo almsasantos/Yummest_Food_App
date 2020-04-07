@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,SALMON FILADELFIA URAMAKI,Offer,6.75,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+1,1,MenuItem,SPICY SALMON URAMAKI,Offer,6.75,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+2,2,MenuItem,SPICY TUNA URAMAKI,Offer,7.5,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+3,3,MenuItem,EBI TEMPURA URAMAKI,Offer,6.75,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+4,4,MenuItem,PEZ MANTEQUILLA URAMAKI,Offer,6.25,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+5,5,MenuItem,KANI URAMAKI,Offer,6.25,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+6,6,MenuItem,SOLOMILLO URAMAKI,Offer,7.25,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+7,7,MenuItem,ANGUILA URAMAKI,Offer,7.15,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+8,8,MenuItem,SALMON KANI URAMAKI,Offer,6.5,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+9,9,MenuItem,VEGETAL URAMAKI,Offer,5.85,EUR,URAMAKI (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR

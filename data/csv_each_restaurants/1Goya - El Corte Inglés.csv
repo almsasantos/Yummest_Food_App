@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz a banda,Offer,14.0,EUR,Arroces y pastas,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+1,1,MenuItem,Lasaña de bogavante con bechamel de su coral,Offer,17.95,EUR,Arroces y pastas,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+2,2,MenuItem,Arroz con pato y verduras,Offer,18.5,EUR,Arroces y pastas,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+3,3,MenuItem,Arroz meloso con bogavante,Offer,22.75,EUR,Arroces y pastas,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés

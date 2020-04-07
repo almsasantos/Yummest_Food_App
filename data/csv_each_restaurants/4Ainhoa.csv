@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+2,2,MenuItem,Café,Offer,2.25,EUR,Bebidas,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+3,3,MenuItem,Botella de agua,Offer,2.35,EUR,Bebidas,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+4,4,MenuItem,Media botella de agua,Offer,1.55,EUR,Bebidas,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+5,5,MenuItem,Botella de vino,Offer,13.25,EUR,Bebidas,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+6,6,MenuItem,Copa de vino,Offer,3.05,EUR,Bebidas,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Albóndigas de ternera,Offer,9.0,EUR,Guisos,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+1,1,MenuItem,Morcillo de ternera,Offer,12.0,EUR,Guisos,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+2,2,MenuItem,Rabo de toro,Offer,16.5,EUR,Guisos,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+3,3,MenuItem,Callos a la andaluza,Offer,10.5,EUR,Guisos,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio

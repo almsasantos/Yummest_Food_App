@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bocconcino,Offer,5.8,EUR,Postre,8.6,"""Italiano""","""CALLE DE PRECIADOS 36","""geo"":{""latitude"":40.41974,""longitude"":-3.70681",La Tagliatella Preciados
+1,1,MenuItem,Budino bianco,Offer,5.7,EUR,Postre,8.6,"""Italiano""","""CALLE DE PRECIADOS 36","""geo"":{""latitude"":40.41974,""longitude"":-3.70681",La Tagliatella Preciados
+2,2,MenuItem,Trufas al Cioccolato,Offer,5.6,EUR,Postre,8.6,"""Italiano""","""CALLE DE PRECIADOS 36","""geo"":{""latitude"":40.41974,""longitude"":-3.70681",La Tagliatella Preciados

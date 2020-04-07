@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Polpetti (albóndigón de ternera blanca) con salsa de tomate y patatitas al romero,Offer,12,EUR,Segundos,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+1,1,MenuItem,Oreja de elefante,Offer,38,EUR,Segundos,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+2,2,MenuItem,Ossobuco con gnocchi,Offer,14,EUR,Segundos,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+3,3,MenuItem,Saltimbocca a la romana (escalopines con jamon de parma y salsa de marsala) con ravioli,Offer,14,EUR,Segundos,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+4,4,MenuItem,Tagliata de ternera (entrecotte) con patatitas al romero,Offer,18,EUR,Segundos,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid

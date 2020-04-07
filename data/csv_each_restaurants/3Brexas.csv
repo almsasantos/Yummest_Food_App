@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de buey o corte argentino,Offer,11.95,EUR,Pizzas y hamburguesas,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+1,1,MenuItem,Pizza de cabra con espinacas y cebolla caramelizada,Offer,9.95,EUR,Pizzas y hamburguesas,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+2,2,MenuItem,"Pizza de morcilla con piquillo, manzana y huevo",Offer,9.95,EUR,Pizzas y hamburguesas,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+3,3,MenuItem,Pizza de setas con calabaza y mortadela trufada,Offer,9.95,EUR,Pizzas y hamburguesas,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas

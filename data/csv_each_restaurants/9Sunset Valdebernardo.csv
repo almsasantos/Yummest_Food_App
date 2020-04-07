@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,2 ENTRANTES A ELEGIR,14.9,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+1,1,MenuItem,Plato,2 PRINCIPALES A ELEGIR,14.9,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+2,2,MenuItem,Postre,"POSTRE O CAFE, 1 BEBIDA",14.9,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo

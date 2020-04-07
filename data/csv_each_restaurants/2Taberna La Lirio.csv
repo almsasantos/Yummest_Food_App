@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pincho moruno,Offer,7.0,EUR,Carne,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+1,1,MenuItem,Medallones de solomillo con patatas fitas,Offer,9.0,EUR,Carne,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+2,2,MenuItem,Blanquitos al vino con patatas panaderas,Offer,8.5,EUR,Carne,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio

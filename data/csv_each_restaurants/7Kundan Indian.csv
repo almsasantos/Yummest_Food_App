@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,14.5,EUR,Bebidas,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+2,2,MenuItem,Café,Offer,1.95,EUR,Bebidas,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+5,5,MenuItem,Botella de vino,Offer,9.95,EUR,Bebidas,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de la casa de cereales y legumbres,Plato,8,"""Vegetariano""","""C","""geo"":{""latitude"":40.41317,""longitude"":-3.69825",La Biotika
+1,1,MenuItem,Arroz integral de calasparra con semillas,Plato,8,"""Vegetariano""","""C","""geo"":{""latitude"":40.41317,""longitude"":-3.69825",La Biotika
+2,2,MenuItem,Nishime de verduras,Plato,8,"""Vegetariano""","""C","""geo"":{""latitude"":40.41317,""longitude"":-3.69825",La Biotika

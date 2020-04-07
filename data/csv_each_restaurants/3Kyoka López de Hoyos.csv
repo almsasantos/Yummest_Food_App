@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pincho de pollo,Offer,6.0,EUR,Pinchos-Especiales-Arroz,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+1,1,MenuItem,Pìncho de gambas,Offer,7.0,EUR,Pinchos-Especiales-Arroz,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+2,2,MenuItem,Pincho ternera con queso,Offer,7.5,EUR,Pinchos-Especiales-Arroz,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+3,3,MenuItem,Costilla estilo japonés,Offer,6.5,EUR,Pinchos-Especiales-Arroz,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+4,4,MenuItem,Pan Bao hamburguesa,Offer,4.0,EUR,Pinchos-Especiales-Arroz,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+5,5,MenuItem,Pato japonés,Offer,8.5,EUR,Pinchos-Especiales-Arroz,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+6,6,MenuItem,Arroz frito 5 sabores,Offer,6.5,EUR,Pinchos-Especiales-Arroz,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos

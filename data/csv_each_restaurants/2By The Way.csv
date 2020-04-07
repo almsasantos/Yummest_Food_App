@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto de boletus y trufa,Offer,14,EUR,O SOLE MIOOOO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+1,1,MenuItem,Capelli de calabaza al azafrán con carabineros y chipirones,Offer,14,EUR,O SOLE MIOOOO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+2,2,MenuItem,Lasagna suave de rabo de toro,Offer,14,EUR,O SOLE MIOOOO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+3,3,MenuItem,"Tagliatelle verde con tomate, scamorza y albahaca",Offer,14,EUR,O SOLE MIOOOO,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza Prosciutto,Offer,8.0,EUR,Plzzas,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+1,1,MenuItem,Pizza Salami,Offer,8.0,EUR,Plzzas,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+2,2,MenuItem,Pizza Funghi,Offer,8.0,EUR,Plzzas,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+3,3,MenuItem,Pizza 4 Quesos,Offer,8.5,EUR,Plzzas,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+4,4,MenuItem,Pizza Barbacoa,Offer,8.5,EUR,Plzzas,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+5,5,MenuItem,Pizza al Gusto,Offer,9.0,EUR,Plzzas,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+6,6,MenuItem,Pizza Pinocchio,Offer,8.5,EUR,Plzzas,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Soute di vongole,Offer,14,EUR,Entrante,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.418575750882,""longitude"":-3.709059953689575",Ouh Babbo
+1,1,MenuItem,Cuori di Napoli,Offer,15,EUR,Entrante,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.418575750882,""longitude"":-3.709059953689575",Ouh Babbo
+2,2,MenuItem,"Mille Fogli Di Melanzana: Milhojas de berenjenas, mozzarella y tomate gratinado",Offer,12,EUR,Entrante,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.418575750882,""longitude"":-3.709059953689575",Ouh Babbo

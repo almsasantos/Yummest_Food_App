@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Alcachofas salteadas con aritos de chipiron y virutas de jamon,Offer,22,EUR,Gluten Free,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+1,1,MenuItem,"Burrata de la Puglia al Aceite de Trufa, Mortadella, Ensalada de Tomates y Ruccula",Offer,17,EUR,Gluten Free,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+2,2,MenuItem,Lomo de merluza con humus de edamame y jugo de cebolla asada,Offer,24,EUR,Gluten Free,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rape al horno para 2 pax,Offer,40,EUR,Bajo el mar,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+1,1,MenuItem,Bacalao braseado con pil pil de cilantro y arrope de tomatee,Offer,16,EUR,Bajo el mar,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+2,2,MenuItem,Merluza en tempura negra con emilsión de vermut,Offer,18,EUR,Bajo el mar,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+3,3,MenuItem,Chipirones en salsa de vierias,Offer,17,EUR,Bajo el mar,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá

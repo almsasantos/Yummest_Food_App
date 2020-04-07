@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico de Bellota 100% Puro,Offer,24,EUR,CHACINAS Y SALAZONES,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+1,1,MenuItem,Cecina de León aderezada con AOVE Cosecha Temprana y Almendras fritas,Offer,16,EUR,CHACINAS Y SALAZONES,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+2,2,MenuItem,Queso de Oveja Artesano de Valladolid con nueces y AOVE Alma variedad Picual,Offer,15,EUR,CHACINAS Y SALAZONES,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+3,3,MenuItem,Anchoas del Cantábrico sobre Tostas de Pan con Carne de Tomate y nube de Idiazabal,Offer,17,EUR,CHACINAS Y SALAZONES,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain

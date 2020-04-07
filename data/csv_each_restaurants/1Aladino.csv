@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cous Cous de carne cordero (sémola de trigo con carne y verdura),Offer,17.5,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+1,1,MenuItem,Cous cous de pollo (sémola de trigo con pollo y verdura),Offer,16.5,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+2,2,MenuItem,"Kebab a la brasa (pinchos de carne de cordero, pollo y carne picada)",Offer,18.5,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+3,3,MenuItem,"Pastela (hojaldre con pollo, cebolla y almendra)",Offer,16.0,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+4,4,MenuItem,Maklube (arroz con carne berenjenas y frutos secos),Offer,16.25,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+5,5,MenuItem,Tagin carne ( guiso carne de cordero con ciruelas),Offer,18.0,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+6,6,MenuItem,"Tagin pollo (guiso de pollo con zanahorias, champiñon y aceitunas)",Offer,16.5,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+7,7,MenuItem,Kebsa ( carne cordero o de pollo con arroz),Offer,18.5,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+8,8,MenuItem,Carne belseneea de cordero (carne picada con tomate al horno),Offer,16.95,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+9,9,MenuItem,Pollo a la brasa con patatas,Offer,18.5,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino
+10,10,MenuItem,Pinchos morunos a la brasa(pinchos de cordeor con especias al estilo marrouqui),Offer,18.5,EUR,Plato,9.1,"""Árabe""","""Calle Duque de Liria","""geo"":{""latitude"":40.4260211,""longitude"":-3.7121263",Aladino

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+2,2,MenuItem,Café,Offer,1.8,EUR,Bebidas,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+4,4,MenuItem,Media botella de agua,Offer,2.65,EUR,Bebidas,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+5,5,MenuItem,Botella de vino,Offer,8.5,EUR,Bebidas,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+6,6,MenuItem,Copa de vino,Offer,4.0,EUR,Bebidas,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés

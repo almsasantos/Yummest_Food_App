@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao con callos,Offer,18,EUR,Pescados,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+1,1,MenuItem,Cachopo de merluza rellena de queso y habitas,Offer,19,EUR,Pescados,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+2,2,MenuItem,Merluza al horno,Offer,19,EUR,Pescados,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+3,3,MenuItem,"Solomillo de atún rojo (Tataki, tartar o plancha)",Offer,22,EUR,Pescados,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño

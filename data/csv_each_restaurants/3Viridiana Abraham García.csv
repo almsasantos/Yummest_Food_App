@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Nuestros variados sorbetes, un poco bolingas",Offer,13,EUR,Postres,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+1,1,MenuItem,"Brazo de gitano (o de Abraham, que tanto monta) relleno de ciruelas y orejones de melocotón con helado de canela",Offer,13,EUR,Postres,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+2,2,MenuItem,"Capuchina clásica, borracha de tequila, ganache de chocolate amargo y macaron de pistacho",Offer,13,EUR,Postres,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+3,3,MenuItem,"Tarta de queso mascarpone con confitura de ruibarbo, frambuesas y helado de dulce de leche",Offer,13,EUR,Postres,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+4,4,MenuItem,Tarta de chocolate Varlrhona con helado de vainilla de Madagascar,Offer,13,EUR,Postres,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García

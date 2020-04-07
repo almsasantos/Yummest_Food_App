@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yakisoba Vegetal con huevo a baja temperatura,Offer,9.0,EUR,COOKING,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas
+1,1,MenuItem,Yakitori de Pollo de Corral (2 brochetas),Offer,5.2,EUR,COOKING,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas
+2,2,MenuItem,Tartar de Atún Rojo con Huevos y Crujiente de Loto,Offer,13.5,EUR,COOKING,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas

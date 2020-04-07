@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes para compartir,- Milhojas de Verduras con Queso de Cabra.\n- Berenjena a la Plancha con Miel.\n- Ensalada Capresse con Aguacate.,VEGETARIANO,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Segundo plato a elegir,- Risotto de Calabacín y Tomate Natural\n- Rústico Triángulo Provolone al Eneldo,VEGETARIANO,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Postre a elegir,- Frutas del Tiempo\n- Tarta de Zanahoria,VEGETARIANO,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Bebida,"Agua, Refrescos, Cerveza, vino Rioja Crianza\n(1 consumición/persona) (1 botella/2 personas)",VEGETARIANO,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

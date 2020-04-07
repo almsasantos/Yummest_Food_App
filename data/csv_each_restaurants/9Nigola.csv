@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrante a elegir,salmorejo cordobés \ncogollos rellenos\naguacates rellenos\ncroquetas de jamón \ncazuela de gulas & gambas\ntabla de ibéricos (jamón/chorizo/queso curado),menu QUIJOTE,None,None,None,Nigola
+1,1,MenuItem,Entreplatos,sorbete de frambuesa con limón,menu QUIJOTE,None,None,None,Nigola
+2,2,MenuItem,Plato principal a elegir,cachopo relleno de queso cabrales\ncachopo relleno de cecina & queso\ncachopo relleno de pimiento verde & jamon\nchuletillas de cordero a la plancha\nentrecot de ternera a la plancha\npescados de día a elegir\nnuestras tostas a elegir,menu QUIJOTE,None,None,None,Nigola
+3,3,MenuItem,Vinos,botella de vino rioja\nbotella de vino rueda,menu QUIJOTE,None,None,None,Nigola
+4,4,MenuItem,Otros,"pan, postre & café",menu QUIJOTE,None,None,None,Nigola
+5,5,MenuItem,Observación ,el establecimiento no se admite compartir menu,menu QUIJOTE,None,None,None,Nigola
+6,6,MenuItem,Recomendación ,el establecimiento no se sirve agua & bebidas gratuitamente,menu QUIJOTE,None,None,None,Nigola

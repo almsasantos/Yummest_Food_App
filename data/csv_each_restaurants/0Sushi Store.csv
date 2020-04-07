@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tempura Tigre, delicias de langostino con mayonesa.",Offer,9.9,EUR,Entrante,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+1,1,MenuItem,Gyoza de pollo (4 Ud.),Offer,4.4,EUR,Entrante,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+2,2,MenuItem,Ensalada de algas Wakame,Offer,5.5,EUR,Entrante,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store

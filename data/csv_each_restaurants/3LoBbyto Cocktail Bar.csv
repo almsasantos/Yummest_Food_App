@@ -1,0 +1,20 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Garibaldi,Offer,10,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+1,1,MenuItem,Lobito Sbagliato,Offer,10,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+2,2,MenuItem,La media de Chicote,Offer,10,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+3,3,MenuItem,La bicicleta Spritz,Offer,10,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+4,4,MenuItem,Negroni Pop-Up,Offer,10,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+5,5,MenuItem,El Gin Tonic de Lobbyto,Offer,16,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+6,6,MenuItem,Expresso Madrini,Offer,16,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+7,7,MenuItem,Las letras Manhattan,Offer,12,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+8,8,MenuItem,La mula de Echegaray,Offer,16,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+9,9,MenuItem,Hombre Lobo from Shannon Ponche (Leyenda),Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+10,10,MenuItem,Trinidad Sour,Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+11,11,MenuItem,Garbo Daiquiri,Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+12,12,MenuItem,"Donald, eres un pendejo",Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+13,13,MenuItem,El ponche del angelito,Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+14,14,MenuItem,Lobo viejo,Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+15,15,MenuItem,El Risueño from Diego Cabrera (Salmon Guru),Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+16,16,MenuItem,El Huésped Irlandés from Óscar Molina (Decadente),Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+17,17,MenuItem,Smokey Paloma from Diego González (Baton Rouge),Offer,15,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+18,18,MenuItem,East Huertas,Offer,14,EUR,Coctelería,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar

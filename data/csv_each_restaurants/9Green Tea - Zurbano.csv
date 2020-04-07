@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+2,2,MenuItem,Café,,,,Bebidas,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+3,3,MenuItem,Botella de agua,Offer,2.75,EUR,Bebidas,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+4,4,MenuItem,Media botella de agua,,,,Bebidas,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+5,5,MenuItem,Botella de vino,Offer,18.0,EUR,Bebidas,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano

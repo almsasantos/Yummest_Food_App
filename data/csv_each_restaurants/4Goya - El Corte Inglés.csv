@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso tierno con compota de frutas de la temporada,Offer,6,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+1,1,MenuItem,Milhojas de hojaldre con crema de limón y Melisa,Offer,7,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+2,2,MenuItem,Tarta fina de manzana y hojaldre con helado de vainilla Bourbon,Offer,6,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+3,3,MenuItem,Volcán de chocolate con helado de chocolate blanco,Offer,7,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés

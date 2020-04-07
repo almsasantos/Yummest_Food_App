@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Kong pao chicken,Offer,6.5,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+1,1,MenuItem,Thai green curry,Offer,6.5,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+2,2,MenuItem,Viet chili duck,Offer,8.5,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+3,3,MenuItem,Shrimp tamarind,Offer,8.5,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+4,4,MenuItem,Crazy salmon roll,Offer,8.95,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+5,5,MenuItem,Red dragón,Offer,8.95,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+6,6,MenuItem,Feel roll,Offer,8.95,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+7,7,MenuItem,Fantasy salmon roll,Offer,8.95,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+8,8,MenuItem,Duck roll,Offer,8.95,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+9,9,MenuItem,PAI THAI,Offer,6.45,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+10,10,MenuItem,POKE SALMON 0 ATUN,Offer,11.95,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+11,11,MenuItem,PAN BAOBAO POLLO O TERNERA,Offer,3.95,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+12,12,MenuItem,JAPANESE RICE,Offer,7.45,EUR,Plato,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina

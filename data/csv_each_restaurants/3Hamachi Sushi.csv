@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,California 8 unid,Offer,9.95,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+1,1,MenuItem,Soft Shell Crab 8 unid,Offer,12.5,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+2,2,MenuItem,Tempura de Futomaki 6 unid,Offer,8.85,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+3,3,MenuItem,Dragón Maki 8 unid,Offer,11.5,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+4,4,MenuItem,Rollo de Anguila 8 unid,Offer,14.5,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+5,5,MenuItem,Matsuri roll 8 unid,Offer,12.9,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+6,6,MenuItem,Rollo de salmón 6 unid,Offer,4.5,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+7,7,MenuItem,Rollo de salmón con queso 6 unid,Offer,5.25,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+8,8,MenuItem,Rollo de atún 6 unid,Offer,5.5,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+9,9,MenuItem,Rollo de aguacate 6 unid,Offer,4.5,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+10,10,MenuItem,Rollo de pepino 6 unid,Offer,3.5,EUR,Maki Sushi,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi

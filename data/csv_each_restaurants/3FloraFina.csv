@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coulan de Chocolate con Sobre Salsa de Fresas,Offer,7,EUR,Postre,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+1,1,MenuItem,Compota de Manzana Flambeada con Azúcar Moreno y Canela,Offer,6,EUR,Postre,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+2,2,MenuItem,Crema de Yogurt con confitura de pimientos,Offer,6,EUR,Postre,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+3,3,MenuItem,Cheesecake de Chocolate con Salsa de Fresas,Offer,7,EUR,Postre,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina

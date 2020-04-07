@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Clásico de pescado,Offer,14.5,EUR,Ceviches y tiraditos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+1,1,MenuItem,Amazonico,Offer,19.0,EUR,Ceviches y tiraditos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+2,2,MenuItem,Vegetal,Offer,14.0,EUR,Ceviches y tiraditos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+3,3,MenuItem,Tiradito del chef,Offer,19.0,EUR,Ceviches y tiraditos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+4,4,MenuItem,Tiradito nikei de salmón,Offer,17.0,EUR,Ceviches y tiraditos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+5,5,MenuItem,Tiradito de pulpo al olivo,Offer,19.5,EUR,Ceviches y tiraditos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua

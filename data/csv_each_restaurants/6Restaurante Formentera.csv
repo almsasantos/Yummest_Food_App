@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,café cortado,Offer,1.3,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+1,1,MenuItem,café solo,Offer,1.3,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+2,2,MenuItem,café con leche,Offer,1.3,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+3,3,MenuItem,expreso,Offer,1.3,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+4,4,MenuItem,café decafeinado,Offer,1.3,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+5,5,MenuItem,café manchado,Offer,1.3,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+6,6,MenuItem,doble,Offer,1.6,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+7,7,MenuItem,café bombón,Offer,1.6,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+8,8,MenuItem,carajillo,Offer,1.8,EUR,Cafés,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera

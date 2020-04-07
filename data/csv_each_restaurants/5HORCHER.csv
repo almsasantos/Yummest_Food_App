@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lubina al horno con compota de tomate sobre una fina base de patata,Offer,43,EUR,Pescados y Mariscos,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+1,1,MenuItem,Rodaballo salvaje grillé,Offer,48,EUR,Pescados y Mariscos,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+2,2,MenuItem,Ragout de bogavante con trufa negra,Offer,44,EUR,Pescados y Mariscos,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+3,3,MenuItem,Ragout de lenguado y carabineros,Offer,44,EUR,Pescados y Mariscos,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+4,4,MenuItem,Langostinos tigre al curry verde con arroz salvaje,Offer,39,EUR,Pescados y Mariscos,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+5,5,MenuItem,Raviolis de rodaballo y gambas en su salsa,Offer,35,EUR,Pescados y Mariscos,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER

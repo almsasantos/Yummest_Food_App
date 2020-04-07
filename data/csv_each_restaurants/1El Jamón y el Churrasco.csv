@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,El churrasco a la gallega,Offer,13.95,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+1,1,MenuItem,Entrecot de buey a la parrilla,Offer,20.5,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+2,2,MenuItem,Filete de entrecot de buey a la parrilla,Offer,15.95,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+3,3,MenuItem,Solomillo de corzo con salsa de boletus,Offer,10.45,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+4,4,MenuItem,Presa ibérica con crema de ajos asados y reduccíón de vermut,Offer,12.45,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+5,5,MenuItem,Centro de solomillo de buey gallego a la parrilla,Offer,21.95,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+6,6,MenuItem,"Salsas para carnes, pedro ximénez, pimienta, boletus (suplemento)",Offer,1.65,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+7,7,MenuItem,"Las carnes servidas con foie (suplemento, excepto el solomillo de ibérico)",Offer,3.25,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+8,8,MenuItem,Para hacer a la piedra ya fileteado y pesado limpio de hueso (peso minimo 600 grs),Offer,39.9,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+9,9,MenuItem,"Cubierto (pan, aperitivo) opcional",Offer,2.2,EUR,Carnes,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco

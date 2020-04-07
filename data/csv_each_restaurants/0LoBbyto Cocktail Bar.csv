@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar,Offer,10,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+1,1,MenuItem,Ensalada,Offer,11,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+2,2,MenuItem,Ensalada,Offer,10,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+3,3,MenuItem,Siu mai,Offer,12,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+4,4,MenuItem,Bao,Offer,12,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+5,5,MenuItem,Ruso,Offer,10,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+6,6,MenuItem,Sándwich,Offer,12,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+7,7,MenuItem,Sándwich,Offer,15,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+8,8,MenuItem,Brioche,Offer,13,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+9,9,MenuItem,Bocata,Offer,12,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+10,10,MenuItem,Tacos,Offer,12,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+11,11,MenuItem,Takoyaki,Offer,10,EUR,Formatos,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar

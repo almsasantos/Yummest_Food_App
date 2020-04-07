@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pato estilo cantón,Offer,9.9,EUR,Pato,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+1,1,MenuItem,Pato con salsa de naranja,Offer,11.5,EUR,Pato,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+2,2,MenuItem,Pato laqueado,Offer,9.9,EUR,Pato,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+3,3,MenuItem,Pato Pekín,Offer,15.5,EUR,Pato,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya

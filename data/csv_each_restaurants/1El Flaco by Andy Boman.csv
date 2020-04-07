@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Brûlée, maracuyá y mango",Offer,7.5,EUR,Postres,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+1,1,MenuItem,Milhojas de Chocolate e Higos,Offer,7.5,EUR,Postres,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+2,2,MenuItem,Mousse de Ciruela y Piña,Offer,7.5,EUR,Postres,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+3,3,MenuItem,Helado Ecológico,Offer,4.0,EUR,Postres,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman

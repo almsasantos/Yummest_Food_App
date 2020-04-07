@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos Tayo,Offer,9.9,EUR,Entrante,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+1,1,MenuItem,Patacones con Carne,Offer,9.9,EUR,Entrante,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+2,2,MenuItem,Buffalo wings,Offer,8.9,EUR,Entrante,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+3,3,MenuItem,Deditos de pollo,Offer,9.9,EUR,Entrante,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+4,4,MenuItem,Tequeños de Queso,Offer,8.9,EUR,Entrante,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+5,5,MenuItem,Mozzarella Sticks,Offer,8.9,EUR,Entrante,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+6,6,MenuItem,Combo Tayo,Offer,16.9,EUR,Entrante,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger

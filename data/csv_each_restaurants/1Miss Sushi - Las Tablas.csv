@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Poke de Salmón,Offer,9.9,EUR,ENSALADAS,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas
+1,1,MenuItem,Poke 100% Vegetal,Offer,8.9,EUR,ENSALADAS,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas
+2,2,MenuItem,Wakame con Atún,Offer,10.0,EUR,ENSALADAS,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas

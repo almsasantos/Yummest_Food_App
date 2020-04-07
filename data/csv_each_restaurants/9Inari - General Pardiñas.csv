@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Toro,Offer,25.9,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+1,1,MenuItem,Atún,Offer,20.95,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+2,2,MenuItem,Salmón,Offer,20.6,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+3,3,MenuItem,Rodaballo,Offer,20.0,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+4,4,MenuItem,Corvina,Offer,20.0,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+5,5,MenuItem,Pez mantequilla,Offer,20.95,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+6,6,MenuItem,Vieira,Offer,20.95,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+7,7,MenuItem,Atún y salmón,Offer,20.8,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+8,8,MenuItem,Hotate Kimuchi,Offer,16.0,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+9,9,MenuItem,Ceviche,Offer,16.0,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+10,10,MenuItem,MIXTO,Offer,33.9,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+11,11,MenuItem,ESPECIAL,Offer,47.0,EUR,Sashimi,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas

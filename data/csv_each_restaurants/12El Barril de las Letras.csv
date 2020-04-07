@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+1,1,MenuItem,Copa de champán,Offer,4.18,EUR,Bebidas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+2,2,MenuItem,Café,Offer,2.2,EUR,Bebidas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+3,3,MenuItem,Botella de agua,Offer,2.75,EUR,Bebidas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+5,5,MenuItem,Botella de vino,Offer,15.4,EUR,Bebidas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+6,6,MenuItem,Copa de vino,Offer,2.47,EUR,Bebidas,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras

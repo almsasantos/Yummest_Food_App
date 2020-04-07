@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CROQUETAS CASERAS CON SABORES DE IBIZA Y DEL MUNDO,Offer,12,EUR,DE LA BARRA,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+1,1,MenuItem,CHURROS DE YUCA,Offer,5,EUR,DE LA BARRA,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+2,2,MenuItem,GAMBUSÍN,Offer,9,EUR,DE LA BARRA,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+3,3,MenuItem,BODEGÓN IBICENCO DE EXQUISITECES,Offer,16,EUR,DE LA BARRA,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+4,4,MenuItem,NUESTRO BOCATA DE CALAMAR,Offer,7,EUR,DE LA BARRA,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+5,5,MenuItem,QUESADILLAS DE GAMBAS CON GUACAMOLE,Offer,12,EUR,DE LA BARRA,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+6,6,MenuItem,EMPANADAS DE SOFRITO PAYÉS,Offer,9,EUR,DE LA BARRA,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid

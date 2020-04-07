@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bolitas de leche frita,Offer,4.95,EUR,Postre,9.2,"""Indio""","""C","""geo"":{""latitude"":40.42436,""longitude"":-3.67005",Purnima
+1,1,MenuItem,Té con leche,Offer,3.0,EUR,Postre,9.2,"""Indio""","""C","""geo"":{""latitude"":40.42436,""longitude"":-3.67005",Purnima
+2,2,MenuItem,"Leche, coco, azúcar y arroz basmati",Offer,4.9,EUR,Postre,9.2,"""Indio""","""C","""geo"":{""latitude"":40.42436,""longitude"":-3.67005",Purnima

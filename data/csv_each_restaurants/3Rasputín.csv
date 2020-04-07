@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pato Grigoriefna,Offer,19.9,EUR,Aves y Caza,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+1,1,MenuItem,Strogonoff de Pavo,Offer,19.9,EUR,Aves y Caza,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+2,2,MenuItem,Posarky,Offer,13.9,EUR,Aves y Caza,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín

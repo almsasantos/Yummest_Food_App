@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flores de alcachofas confitadas,Offer,16.5,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+1,1,MenuItem,Huevos rotos con patata panadera y jamón ibérico,Offer,13.0,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+2,2,MenuItem,Tomate con ventresca,Offer,15.0,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+3,3,MenuItem,Mejillones a la marinea,Offer,14.0,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+4,4,MenuItem,Croquetas caseras de jamón ibérico (5 unid),Offer,15.0,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+5,5,MenuItem,Jamón ibérico de bellota,Offer,25.0,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+6,6,MenuItem,"Langostinos al curry casero, guacamole y yogurt",Offer,18.0,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+7,7,MenuItem,Arroz meloso de marisco,Offer,17.0,EUR,Entrantes,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca

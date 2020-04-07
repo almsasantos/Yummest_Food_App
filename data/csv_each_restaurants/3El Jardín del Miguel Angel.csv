@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada rúcula, tomatitos cherry, anacardo y aguacate",Offer,5,EUR,Guarniciones,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+1,1,MenuItem,Portobello asados con jamón,Offer,5,EUR,Guarniciones,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+2,2,MenuItem,Berenjenas en bastones fritas y miel de trufa,Offer,5,EUR,Guarniciones,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+3,3,MenuItem,Patatas dos cocciones al romero,Offer,5,EUR,Guarniciones,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+4,4,MenuItem,Patatas asadas y mantequilla Maitre d’ hotel,Offer,5,EUR,Guarniciones,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel

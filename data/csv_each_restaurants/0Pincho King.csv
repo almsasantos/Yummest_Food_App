@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Te frio,Offer,1.8,EUR,Bebidas china,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+1,1,MenuItem,Leche de coco,Offer,1.8,EUR,Bebidas china,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+2,2,MenuItem,Aloe vera,Offer,2.5,EUR,Bebidas china,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+3,3,MenuItem,Leche de soja 1L,Offer,5.8,EUR,Bebidas china,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+4,4,MenuItem,Licor de arroz 45*,Offer,6.5,EUR,Bebidas china,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King

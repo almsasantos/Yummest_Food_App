@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Al centro,Ensalada de mango con vinagreta de frutos rojos\nAlcachofas naturales a la plancha \nCroquetas de gambas al ajillo,Menú Degustación,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+1,1,MenuItem,A elegir,Lomo de Skrei al horno \no \nTartar de Atún con guacamole \no \nMedallones de Solomillo con salsa de miel y mostaza,Menú Degustación,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+2,2,MenuItem,Postre,Postre casero a elegir,Menú Degustación,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken salad teritaki,Offer,7.45,EUR,Entrante,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+1,1,MenuItem,Yakotori (pollo.solomillo.gambas.salmon),Offer,4.95,EUR,Entrante,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+2,2,MenuItem,Gyoza japonesa,Offer,4.45,EUR,Entrante,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+3,3,MenuItem,Shrimps roll,Offer,3.95,EUR,Entrante,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+4,4,MenuItem,Roll nem,Offer,3.95,EUR,Entrante,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+5,5,MenuItem,SHIA CHIAO,Offer,3.95,EUR,Entrante,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Key Wot,Offer,12,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+1,1,MenuItem,Alitcha Wot,Offer,15,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+2,2,MenuItem,Minchet Wot,Offer,11,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+3,3,MenuItem,Awaze Tibs,Offer,17,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+4,4,MenuItem,Tibs,Offer,17,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+5,5,MenuItem,Yebeg Key Wot,Offer,13,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+6,6,MenuItem,Yebeg Alitcha Wot,Offer,18,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+7,7,MenuItem,Yebeg Awaze Tibs,Offer,18,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+8,8,MenuItem,Yebeg Tibs,Offer,18,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+9,9,MenuItem,Beyeainetu,Offer,20,EUR,Segundos,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha

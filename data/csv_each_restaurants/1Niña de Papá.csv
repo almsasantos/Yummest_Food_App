@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la brasa con patata revolcona,Offer,19,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+1,1,MenuItem,Huevos poché con parmentier de boletus,Offer,13,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+2,2,MenuItem,Tuétano al horno con ceviche templado de langostinos,Offer,12,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+3,3,MenuItem,Al callo con la tortilla,Offer,8,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+4,4,MenuItem,Nido de chanquetes con su huevo,Offer,10,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+5,5,MenuItem,Croquetas mimadas,Offer,10,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+6,6,MenuItem,Ceviche de corvina con arena de kikos y huancaina,Offer,14,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+7,7,MenuItem,Tartar de salmón con guacamole y chutney de pato,Offer,15,EUR,Compartimos,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá

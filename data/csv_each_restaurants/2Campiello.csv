@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flan casero,Offer,3,EUR,Postre,8.5,"""Español""","""Calle de Toledo","""geo"":{""latitude"":40.4057542,""longitude"":-3.7124084",Campiello
+1,1,MenuItem,Pudding,Offer,3,EUR,Postre,8.5,"""Español""","""Calle de Toledo","""geo"":{""latitude"":40.4057542,""longitude"":-3.7124084",Campiello
+2,2,MenuItem,Arroz con leche,Offer,3,EUR,Postre,8.5,"""Español""","""Calle de Toledo","""geo"":{""latitude"":40.4057542,""longitude"":-3.7124084",Campiello

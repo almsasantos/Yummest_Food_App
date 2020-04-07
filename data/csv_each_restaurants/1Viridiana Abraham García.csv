@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Rape del litoral asturiano en tempura con salsa huancaína al buen gusto de Perú, yuca frita y guacamole de mango",Offer,35,EUR,Pescados,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+1,1,MenuItem,"Colas de carabineros de Huelva con papada ibérica de bellota asada, salsa romescu y ajoblanco",Offer,37,EUR,Pescados,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+2,2,MenuItem,"Lubina de estero a la plancha con “papas arrugás”, tirabeques y alioli de ajo asado al pimentón",Offer,35,EUR,Pescados,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de huevo poché con aguacate y langostinos,Offer,19.5,EUR,ENSALADAS Y VERDURAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+1,1,MenuItem,Ensalada de atún marinado con judías verdes,Offer,16.5,EUR,ENSALADAS Y VERDURAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+2,2,MenuItem,Ensalada de tomate con ventresca y anchoas,Offer,23.5,EUR,ENSALADAS Y VERDURAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+3,3,MenuItem,Ensalada de espárragos verdes con salmón y fresas,Offer,18.0,EUR,ENSALADAS Y VERDURAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+4,4,MenuItem,Ensalada de pulpo y atún con vinagreta,Offer,21.0,EUR,ENSALADAS Y VERDURAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+5,5,MenuItem,Lasaña de verduras,Offer,18.5,EUR,ENSALADAS Y VERDURAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche

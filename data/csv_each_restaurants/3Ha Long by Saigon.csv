@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lamién Ha-Long de rabo de toro en su jugo,Offer,18,EUR,Pastas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+1,1,MenuItem,Raviolis wonton de carrillera de ibérico,Offer,16,EUR,Pastas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+2,2,MenuItem,Pad thai de mariscos,Offer,18,EUR,Pastas,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon

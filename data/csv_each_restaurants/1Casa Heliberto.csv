@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cochinillo confitado al estilo segoviano,Offer,18.5,EUR,Plato,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+1,1,MenuItem,Lomo de vaca maduracion 40 dias trinchado a la parrilla,Offer,20.0,EUR,Plato,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+2,2,MenuItem,Tataki de atun rojo con cuscús y compota de tomate,Offer,18.0,EUR,Plato,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+3,3,MenuItem,Chipirónes a la parrilla con cebolla caramelizada y mojo verde,Offer,18.0,EUR,Plato,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+4,4,MenuItem,Arroz verde con gambones,Offer,20.0,EUR,Plato,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+5,5,MenuItem,Lomo de bacalao al horno con boletus al px,Offer,19.0,EUR,Plato,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto

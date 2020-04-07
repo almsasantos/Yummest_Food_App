@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flan de queso,Offer,5,EUR,Postre,9.1,"""Español""","""Calle del Nuncio","""geo"":{""latitude"":40.4135179,""longitude"":-3.7090054",La Posada del Nuncio
+1,1,MenuItem,Tarta árabe,Offer,5,EUR,Postre,9.1,"""Español""","""Calle del Nuncio","""geo"":{""latitude"":40.4135179,""longitude"":-3.7090054",La Posada del Nuncio
+2,2,MenuItem,Tarta de Zanahoria,Offer,6,EUR,Postre,9.1,"""Español""","""Calle del Nuncio","""geo"":{""latitude"":40.4135179,""longitude"":-3.7090054",La Posada del Nuncio
+3,3,MenuItem,Tarta de la abuela,Offer,5,EUR,Postre,9.1,"""Español""","""Calle del Nuncio","""geo"":{""latitude"":40.4135179,""longitude"":-3.7090054",La Posada del Nuncio

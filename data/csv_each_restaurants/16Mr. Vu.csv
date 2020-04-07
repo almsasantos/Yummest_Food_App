@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+3,3,MenuItem,Botella de agua,Offer,4.0,EUR,Bebidas,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+5,5,MenuItem,Botella de vino,Offer,14.0,EUR,Bebidas,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu

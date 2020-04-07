@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Menú Julio BOGAVANTE,Offer,70.0,EUR,Menú Degustación,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+1,1,MenuItem,Menú Origen (cocina china de autor),Offer,60.0,EUR,Menú Degustación,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+2,2,MenuItem,"Recuerda que también contamos con nuestra carta, ahora disponible de Lunes a Jueves.",,,,Menú Degustación,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen

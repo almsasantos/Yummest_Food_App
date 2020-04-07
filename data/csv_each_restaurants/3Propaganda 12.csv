@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carrilleras de Ternera al Vino tinto,Offer,17.5,EUR,Platos,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12
+1,1,MenuItem,Bouillabaisse,Offer,19.0,EUR,Platos,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12
+2,2,MenuItem,Curry Phanaeng,Offer,19.0,EUR,Platos,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12
+3,3,MenuItem,Pasta del día,,,,Platos,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12

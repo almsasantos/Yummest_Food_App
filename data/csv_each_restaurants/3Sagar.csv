@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primero a elegir,Menú del día 13€,9.1,"""Indio""","""C","""geo"":{""latitude"":40.435778247297,""longitude"":-3.6725399494171",Sagar
+1,1,MenuItem,Segundo a elegir,Menú del día 13€,9.1,"""Indio""","""C","""geo"":{""latitude"":40.435778247297,""longitude"":-3.6725399494171",Sagar
+2,2,MenuItem,Postre o café,Menú del día 13€,9.1,"""Indio""","""C","""geo"":{""latitude"":40.435778247297,""longitude"":-3.6725399494171",Sagar
+3,3,MenuItem,Bebida,Menú del día 13€,9.1,"""Indio""","""C","""geo"":{""latitude"":40.435778247297,""longitude"":-3.6725399494171",Sagar

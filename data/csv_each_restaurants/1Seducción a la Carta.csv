@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas del Cantábrico sobre pan de cristal y aguacate,Offer,21,EUR,Seducción ahumada,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+1,1,MenuItem,Seducción de ahumados,Offer,20,EUR,Seducción ahumada,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+2,2,MenuItem,Sardina ahumada sobre pan de cristal y piquillo,Offer,18,EUR,Seducción ahumada,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta

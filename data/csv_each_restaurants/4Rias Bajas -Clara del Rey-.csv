@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot de Lomo Gallego a la Parrilla con Patatas Panadera,Offer,25,EUR,CARNE A LA PARRILLA,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.442400790152,""longitude"":-3.6712400913239",Rias Bajas -Clara del Rey-
+1,1,MenuItem,Solomillo Gallego a la Parrilla con Patatas Panadera,Offer,27,EUR,CARNE A LA PARRILLA,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.442400790152,""longitude"":-3.6712400913239",Rias Bajas -Clara del Rey-
+2,2,MenuItem,Hamburguesa Gallega con Patatas Panadera y Padrón,Offer,18,EUR,CARNE A LA PARRILLA,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.442400790152,""longitude"":-3.6712400913239",Rias Bajas -Clara del Rey-
+3,3,MenuItem,Chuleta de Vaca Vieja a la Parrilla,Offer,55,EUR,CARNE A LA PARRILLA,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.442400790152,""longitude"":-3.6712400913239",Rias Bajas -Clara del Rey-

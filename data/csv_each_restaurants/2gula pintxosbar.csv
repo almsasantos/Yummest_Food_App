@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de manzana flambleada en orujo blanco con emulsión de nata y canela,Offer,6,EUR,Postre,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+1,1,MenuItem,Tarta de queso con culi de frutas del bosque,Offer,6,EUR,Postre,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+2,2,MenuItem,Coulan de chocolate con helado de vainilla,Offer,6,EUR,Postre,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar

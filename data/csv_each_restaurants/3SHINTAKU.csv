@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,15.55,EUR,Bebidas,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+2,2,MenuItem,Café,Offer,1.35,EUR,Bebidas,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+5,5,MenuItem,Botella de vino,Offer,9.95,EUR,Bebidas,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+6,6,MenuItem,Copa de vino,Offer,1.65,EUR,Bebidas,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU

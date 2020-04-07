@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,MAKI DE SALMON,Offer,3.75,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+1,1,MenuItem,MAKI DE ATUN,Offer,3.95,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+2,2,MenuItem,MAKI DE PEZ MANTEQUILLA,Offer,3.5,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+3,3,MenuItem,MAKI DE ANGUILA,Offer,3.95,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+4,4,MenuItem,MAKI DE AGUACATE,Offer,2.9,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+5,5,MenuItem,MAKI DE CANGREJO,Offer,3.15,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+6,6,MenuItem,MAKI DE SOLOMILLO,Offer,3.95,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+7,7,MenuItem,MAKI DE ATUN Y AGUACATE,Offer,3.95,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+8,8,MenuItem,MAKI DE GAMBA TEMPURIZADA,Offer,3.75,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+9,9,MenuItem,TEMPURA MAKI DE SALMON,Offer,3.95,EUR,MAKI (6P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR

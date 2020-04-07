@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso,Offer,5.5,EUR,Postre,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+1,1,MenuItem,Tocino de cielo,Offer,5.5,EUR,Postre,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+2,2,MenuItem,Filloas,Offer,6.0,EUR,Postre,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial

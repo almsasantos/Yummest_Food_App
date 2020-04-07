@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Luxury salad (lechugas variadas con mango, aguacate y langostinos)",Offer,12.5,EUR,Entrante,9,"""Asiático""","""Calle de Sandoval","""geo"":{""latitude"":40.4303337,""longitude"":-3.7049417",Luxury
+1,1,MenuItem,Uramaki de carabinero,Offer,18.0,EUR,Entrante,9,"""Asiático""","""Calle de Sandoval","""geo"":{""latitude"":40.4303337,""longitude"":-3.7049417",Luxury
+2,2,MenuItem,Atún picante (uramaki de atún con cebolla y salsa picante),Offer,13.95,EUR,Entrante,9,"""Asiático""","""Calle de Sandoval","""geo"":{""latitude"":40.4303337,""longitude"":-3.7049417",Luxury

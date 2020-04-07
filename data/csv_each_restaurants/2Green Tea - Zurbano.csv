@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Nigiris de atun, salmon, foie, anguila, pez mantequilla con trufa, huevo de codorniz, calamar y solomillo (2un)",Offer,7.5,EUR,Sushi bar Nigiris y Sashimi,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+1,1,MenuItem,"Sashimi de atun, salmon, dorada, corvina, lubina, pez mantequilla, vieiras y chicharro (3un)",Offer,8.0,EUR,Sushi bar Nigiris y Sashimi,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Giozas,Offer,5.0,EUR,Entrante,9,"""Japonés""","""Calle de Serrano","""geo"":{""latitude"":40.4539693,""longitude"":-3.6789079",Nipon Taro
+1,1,MenuItem,Dim sum,Offer,5.0,EUR,Entrante,9,"""Japonés""","""Calle de Serrano","""geo"":{""latitude"":40.4539693,""longitude"":-3.6789079",Nipon Taro
+2,2,MenuItem,Goma wakame,Offer,5.95,EUR,Entrante,9,"""Japonés""","""Calle de Serrano","""geo"":{""latitude"":40.4539693,""longitude"":-3.6789079",Nipon Taro

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coulant de Chocolate de Metate,Offer,6.0,EUR,Postres,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+1,1,MenuItem,Espuma de Maracuyá,Offer,6.0,EUR,Postres,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+2,2,MenuItem,Crepas de Cajeta,Offer,6.5,EUR,Postres,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+3,3,MenuItem,Pastel de Elote,Offer,6.0,EUR,Postres,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+4,4,MenuItem,Suspiro de novia,Offer,6.0,EUR,Postres,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+5,5,MenuItem,Helado,Offer,3.5,EUR,Postres,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana

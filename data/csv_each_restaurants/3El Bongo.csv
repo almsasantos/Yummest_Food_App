@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares,Offer,8.0,EUR,Raciones,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+1,1,MenuItem,Patatas bravas,Offer,4.5,EUR,Raciones,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+2,2,MenuItem,Oreja a la plancha,Offer,6.0,EUR,Raciones,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+3,3,MenuItem,Croquetas caseras,Offer,6.0,EUR,Raciones,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+4,4,MenuItem,Queso semi curado,Offer,7.0,EUR,Raciones,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+5,5,MenuItem,Chorizo infierno,Offer,6.0,EUR,Raciones,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+6,6,MenuItem,Gambón a la plancha,Offer,14.0,EUR,Raciones,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo

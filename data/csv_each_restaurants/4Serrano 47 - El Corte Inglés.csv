@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso tierno con compota de frutas de la temporada,Offer,6,EUR,Postre,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+1,1,MenuItem,Tarta de fina de manzana y hojaldre con helado de vainilla Bourbon,Offer,6,EUR,Postre,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+2,2,MenuItem,Volcán de chocolate con helado de chocolate blanco,Offer,7,EUR,Postre,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+3,3,MenuItem,Milhojas de hojaldre con crema de limón y Melisa,Offer,7,EUR,Postre,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés

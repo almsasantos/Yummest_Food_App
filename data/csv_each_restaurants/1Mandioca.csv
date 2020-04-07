@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tapioca / Omelete + Té/Café y añade tu zumo de naranja natural fresquito por+1,50",Offer,8.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+1,1,MenuItem,TAPIOCA ROMA,Offer,8.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+2,2,MenuItem,TAPIOCA CARIBE,Offer,8.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+3,3,MenuItem,TAPIOCA SWEET DREAM,Offer,8.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+4,4,MenuItem,OMELETE ROMA,Offer,8.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+5,5,MenuItem,OMELETE CARIBE,Offer,8.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+6,6,MenuItem,OMELETE QUINOA ROJA,Offer,8.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+7,7,MenuItem,Dulce + Té/Café,Offer,7.9,EUR,DESAYUNOS SÁBADOS Y DOMINGOS,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca

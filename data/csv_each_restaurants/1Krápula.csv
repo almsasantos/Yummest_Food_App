@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Berenjena china en escabeche,Offer,11.0,EUR,Escabeches,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+1,1,MenuItem,Salteado de arroz salvaje con kimchi casero,Offer,14.5,EUR,Escabeches,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+2,2,MenuItem,Mejillones caseros con crema de ajo fermentado,Offer,15.0,EUR,Escabeches,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+3,3,MenuItem,Solomillo de jabalí en escabeche de manzanilla y lemon grass,Offer,22.0,EUR,Escabeches,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula

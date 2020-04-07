@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao marinado de teriyaki con lombarda salteada,Offer,18.5,EUR,Plato,9.3,"""Mediterráneo""","""Calle de Elfo","""geo"":{""latitude"":40.436499,""longitude"":-3.6443778",El Callejón de Álvarez Gato
+1,1,MenuItem,Tartar de bonito marinado,Offer,15.0,EUR,Plato,9.3,"""Mediterráneo""","""Calle de Elfo","""geo"":{""latitude"":40.436499,""longitude"":-3.6443778",El Callejón de Álvarez Gato
+2,2,MenuItem,Entrecotte a la plancha con patatas,Offer,24.0,EUR,Plato,9.3,"""Mediterráneo""","""Calle de Elfo","""geo"":{""latitude"":40.436499,""longitude"":-3.6443778",El Callejón de Álvarez Gato

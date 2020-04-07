@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Tagliolini nero con Gambones y calabacines al ajillo,Offer,15.8,EUR,Pasta Fresca,None,None,None,Mamá Chicó Recoletos
+1,1,MenuItem,"Spaghetti a la carbonara con huevo a baja temperatura, guanciale crujiente, ralladura de lima y queso ahumado",Offer,16.2,EUR,Pasta Fresca,None,None,None,Mamá Chicó Recoletos
+2,2,MenuItem,"Fettuccini con crema de trufa, puerro crujiente y huevo escalfado",Offer,16.4,EUR,Pasta Fresca,None,None,None,Mamá Chicó Recoletos
+3,3,MenuItem,Pappardelle con ragú de jabalí y queso parmesano,Offer,16.4,EUR,Pasta Fresca,None,None,None,Mamá Chicó Recoletos
+4,4,MenuItem,"Spaghetti aglio, olio e peperoncino con berberechos de la ria",Offer,16.9,EUR,Pasta Fresca,None,None,None,Mamá Chicó Recoletos
+5,5,MenuItem,Raviolón de burrata y trufa blanca en salsa de foie con cebolla caramelizada,Offer,17.4,EUR,Pasta Fresca,None,None,None,Mamá Chicó Recoletos

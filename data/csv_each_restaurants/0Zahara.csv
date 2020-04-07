@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pincho moruno,Offer,2.0,EUR,Entrante,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara
+1,1,MenuItem,Ensalada JAYMA,Offer,5.5,EUR,Entrante,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara
+2,2,MenuItem,Priwat de marisco o pollo,Offer,6.0,EUR,Entrante,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara
+3,3,MenuItem,Sopa de harira.,Offer,5.0,EUR,Entrante,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara

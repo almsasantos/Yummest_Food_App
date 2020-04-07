@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+1,1,MenuItem,Tocinillo,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+2,2,MenuItem,Cuajada con miel,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+3,3,MenuItem,Tarta del día,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+4,4,MenuItem,Mouse de chocolate,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+5,5,MenuItem,Nueces con nata,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+6,6,MenuItem,Tarta al whisky,Offer,6.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+7,7,MenuItem,Zumo de naranja natural,Offer,5.75,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+8,8,MenuItem,Helado de vainilla o chocolate,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+9,9,MenuItem,Sorbete de limón natural,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+10,10,MenuItem,Sorbete de limón a la sidra,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+11,11,MenuItem,Flan de la casa,Offer,5.5,EUR,Postres,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamar de potera a la parrilla,Offer,19.8,EUR,PESCADOS DE ANZUELO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,Chipirones de Costa a la parrilla con Ajilimojili,Offer,19.8,EUR,PESCADOS DE ANZUELO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+2,2,MenuItem,Delicias de merluza de pincho a la Romana con patata hilada,Offer,24.5,EUR,PESCADOS DE ANZUELO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+3,3,MenuItem,Merluza de pincho a la Gallega con su ajada de pimentón de La Vera o a la Bilbaína,Offer,24.5,EUR,PESCADOS DE ANZUELO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+4,4,MenuItem,"Rape de tripa negra al ajo dorado, para uno y para dos. Ración",Offer,24.5,EUR,PESCADOS DE ANZUELO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+5,5,MenuItem,Pescados a la sal. Pida (Mínimo 2 personas- Precio por persona),Offer,24.5,EUR,PESCADOS DE ANZUELO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+6,6,MenuItem,Lenguado salvaje a la parrilla con su piel (400 Grs.),Offer,28.5,EUR,PESCADOS DE ANZUELO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

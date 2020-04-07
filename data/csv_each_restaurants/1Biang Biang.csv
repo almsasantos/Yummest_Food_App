@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tallarines Biang Biang combo triple,,,,Platos,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+1,1,MenuItem,Cerdo deshebrado,Offer,9.8,EUR,Platos,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+2,2,MenuItem,Cordero con comino,Offer,10.8,EUR,Platos,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+3,3,MenuItem,Seta del rey ostra,Offer,9.8,EUR,Platos,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+4,4,MenuItem,Cordero de barreño,Offer,10.6,EUR,Platos,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+5,5,MenuItem,Noodles con gran plato de pollo,Offer,9.8,EUR,Platos,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+6,6,MenuItem,Tallarines Biang Biang con ternera,Offer,10.4,EUR,Platos,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang

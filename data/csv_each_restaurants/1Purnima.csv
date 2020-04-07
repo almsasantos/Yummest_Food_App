@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pollo tandoori, cordero tikka, langostino al horno",Offer,20.9,EUR,Plato,9.2,"""Indio""","""C","""geo"":{""latitude"":40.42436,""longitude"":-3.67005",Purnima
+1,1,MenuItem,Arroz basmati preparado al horno con cordero y especias,Offer,16.0,EUR,Plato,9.2,"""Indio""","""C","""geo"":{""latitude"":40.42436,""longitude"":-3.67005",Purnima
+2,2,MenuItem,Langostinos preparados con tomates y pimientos,Offer,20.0,EUR,Plato,9.2,"""Indio""","""C","""geo"":{""latitude"":40.42436,""longitude"":-3.67005",Purnima

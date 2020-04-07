@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+1,1,MenuItem,Copa de champán,,,,Bebidas,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+3,3,MenuItem,Botella de agua,,,,Bebidas,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+4,4,MenuItem,Media botella de agua,Offer,1.8,EUR,Bebidas,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa

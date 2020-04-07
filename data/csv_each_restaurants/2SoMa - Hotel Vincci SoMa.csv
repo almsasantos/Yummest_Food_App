@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pasta Fresca con Boloñesa Vegetal ,salsa de pimientos rojos y anacardos",Offer,15,EUR,Vegetarianos,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+1,1,MenuItem,Albondigas de Berenjenas y queso con falso tomate casero,Offer,15,EUR,Vegetarianos,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa

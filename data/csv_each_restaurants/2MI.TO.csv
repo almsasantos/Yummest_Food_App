@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo sobre parmentier de patata violeta y aceite de pimentón y aire de maracuyá,Offer,22.0,EUR,Pescados,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+1,1,MenuItem,"Lubina salvaje al pil pil de hierbas aromáticas, pakchoi y fresas",Offer,24.9,EUR,Pescados,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO

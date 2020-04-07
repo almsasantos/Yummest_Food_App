@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cookie sundae,Offer,5.95,EUR,Postre,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+1,1,MenuItem,Carrot cake,Offer,5.95,EUR,Postre,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+2,2,MenuItem,Tarta queso,Offer,7.45,EUR,Postre,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+3,3,MenuItem,Brownie sundae,Offer,5.95,EUR,Postre,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+4,4,MenuItem,Copa brownie,Offer,6.45,EUR,Postre,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+5,5,MenuItem,Crumble manzana,Offer,7.45,EUR,Postre,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+6,6,MenuItem,Helado chocolate,Offer,5.95,EUR,Postre,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tacos de Carnitas,Offer,7,EUR,Tacos,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+1,1,MenuItem,Tacos Rosarito,Offer,8,EUR,Tacos,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+2,2,MenuItem,Tacos al Pastor,Offer,7,EUR,Tacos,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+3,3,MenuItem,Tacos Campechanos,Offer,7,EUR,Tacos,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+4,4,MenuItem,Tacos de Cochinita Pibil,Offer,7,EUR,Tacos,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+5,5,MenuItem,Tacos de Morita,Offer,7,EUR,Tacos,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana

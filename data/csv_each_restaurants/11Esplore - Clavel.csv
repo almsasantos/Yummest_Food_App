@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,16.8,EUR,Bebidas,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+1,1,MenuItem,Copa de champán,Offer,5.0,EUR,Bebidas,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+2,2,MenuItem,Café,Offer,1.7,EUR,Bebidas,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+4,4,MenuItem,Media botella de agua,Offer,1.75,EUR,Bebidas,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+5,5,MenuItem,Botella de vino,Offer,13.0,EUR,Bebidas,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+6,6,MenuItem,Copa de vino,Offer,2.6,EUR,Bebidas,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel

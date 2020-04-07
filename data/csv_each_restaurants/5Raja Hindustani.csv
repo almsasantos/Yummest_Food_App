@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares,Offer,6.5,EUR,Comida española,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+1,1,MenuItem,Gambas cocidas,Offer,8.5,EUR,Comida española,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+2,2,MenuItem,Gambas a la plancha,Offer,8.5,EUR,Comida española,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+3,3,MenuItem,Croquetas,Offer,5.5,EUR,Comida española,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+4,4,MenuItem,Patatas bravas,Offer,4.4,EUR,Comida española,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani

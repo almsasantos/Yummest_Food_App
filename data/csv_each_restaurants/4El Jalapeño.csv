@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crepa Cajeta,Offer,3.5,EUR,Para la dieta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+1,1,MenuItem,Crepa Chocolate,Offer,3.5,EUR,Para la dieta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+2,2,MenuItem,Brownie,Offer,3.5,EUR,Para la dieta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+3,3,MenuItem,Helado,Offer,3.0,EUR,Para la dieta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+4,4,MenuItem,Cookies,Offer,3.5,EUR,Para la dieta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+5,5,MenuItem,Mix de postres,Offer,10.0,EUR,Para la dieta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sublime ice cream,Offer,9.95,EUR,Postres caseros,9.3,"""Internacional""","""Calle Concepción Jerónima","""geo"":{""latitude"":40.4137838,""longitude"":-3.7070661",Sublime Dreams Food
+1,1,MenuItem,Brownie,Offer,6.5,EUR,Postres caseros,9.3,"""Internacional""","""Calle Concepción Jerónima","""geo"":{""latitude"":40.4137838,""longitude"":-3.7070661",Sublime Dreams Food
+2,2,MenuItem,Fit cheese cake,Offer,6.5,EUR,Postres caseros,9.3,"""Internacional""","""Calle Concepción Jerónima","""geo"":{""latitude"":40.4137838,""longitude"":-3.7070661",Sublime Dreams Food
+3,3,MenuItem,Donus lover,Offer,6.5,EUR,Postres caseros,9.3,"""Internacional""","""Calle Concepción Jerónima","""geo"":{""latitude"":40.4137838,""longitude"":-3.7070661",Sublime Dreams Food

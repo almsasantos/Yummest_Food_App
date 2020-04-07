@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso gamoneu,Offer,5.5,EUR,Nos dejamos llevar,8.5,"""Español""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4307043,""longitude"":-3.7169549",BEST PRINCESA
+1,1,MenuItem,Chocolate en texturas,Offer,5.5,EUR,Nos dejamos llevar,8.5,"""Español""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4307043,""longitude"":-3.7169549",BEST PRINCESA
+2,2,MenuItem,Torrija brioche,Offer,5.5,EUR,Nos dejamos llevar,8.5,"""Español""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4307043,""longitude"":-3.7169549",BEST PRINCESA
+3,3,MenuItem,Carpaccio de fruta tropical,Offer,5.5,EUR,Nos dejamos llevar,8.5,"""Español""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4307043,""longitude"":-3.7169549",BEST PRINCESA

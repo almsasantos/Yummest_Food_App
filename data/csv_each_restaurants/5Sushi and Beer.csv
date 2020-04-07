@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,12,EUR,Chirasi,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+1,1,MenuItem,Salmón,Offer,10,EUR,Chirasi,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+2,2,MenuItem,Pez escolar y trufa,Offer,12,EUR,Chirasi,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+3,3,MenuItem,Lubina,Offer,9,EUR,Chirasi,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+4,4,MenuItem,Variado de 4 pescados,Offer,11,EUR,Chirasi,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer

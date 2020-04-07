@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de algas wakame,Offer,4.95,EUR,ENSALADAS Y SOPAS,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio
+1,1,MenuItem,Ensalada de la casa,Offer,4.95,EUR,ENSALADAS Y SOPAS,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio
+2,2,MenuItem,Sopa de miso,Offer,3.0,EUR,ENSALADAS Y SOPAS,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio
+3,3,MenuItem,soja,Offer,4.0,EUR,ENSALADAS Y SOPAS,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio

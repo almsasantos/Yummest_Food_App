@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ENSALADA DE VENTRESCA,Offer,9.9,EUR,ENSALADAS,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa
+1,1,MenuItem,ENSALADA DE POLLO CRUJIENTE,Offer,9.9,EUR,ENSALADAS,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa
+2,2,MenuItem,ENSALADA TIPO CESAR,Offer,9.8,EUR,ENSALADAS,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa
+3,3,MenuItem,ENSALADA DE QUESO DE CABRA GRATINADO,Offer,10.5,EUR,ENSALADAS,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa

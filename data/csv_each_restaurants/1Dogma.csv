@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,· Sopa de pescado a nuestra manera,Offer,14.0,EUR,LA CUCHARA Y EL PUCHERO,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+1,1,MenuItem,· Callos de wagyu estilo “El Pradal”,Offer,16.0,EUR,LA CUCHARA Y EL PUCHERO,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+2,2,MenuItem,· Judión de la granja con costilla y oreja frita,Offer,12.0,EUR,LA CUCHARA Y EL PUCHERO,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+3,3,MenuItem,· Carrillera de ibérico,Offer,21.0,EUR,LA CUCHARA Y EL PUCHERO,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+4,4,MenuItem,· Guiso del día,,,,LA CUCHARA Y EL PUCHERO,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma

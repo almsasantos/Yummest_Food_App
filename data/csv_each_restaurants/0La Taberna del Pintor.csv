@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tosta criolla,Offer,7.0,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+1,1,MenuItem,Caraotas con queso,Offer,6.0,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+2,2,MenuItem,Tequeños,Offer,7.2,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+3,3,MenuItem,Tostones,Offer,5.0,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+4,4,MenuItem,Yuca Frita,Offer,5.5,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+5,5,MenuItem,Cachapa con queso de mano,Offer,5.5,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+6,6,MenuItem,Variado de mini arepas (4 unidades),Offer,12.0,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+7,7,MenuItem,Patacon con carne,Offer,7.0,EUR,Entrante,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor

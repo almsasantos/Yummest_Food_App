@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con Bogavante (Mínimo para dos personas),Offer,17,EUR,Arroces,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+1,1,MenuItem,Arroz con Carabineros (Mínimo para dos personas),Offer,17,EUR,Arroces,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+2,2,MenuItem,Arroz negro con Chipirones y Almejas (Mínimo para dos personas),Offer,17,EUR,Arroces,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+3,3,MenuItem,Paella del Señorito (Mínimo para dos personas),Offer,17,EUR,Arroces,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+4,4,MenuItem,Caldero Marinero (Mínimo para dos personas),Offer,21,EUR,Arroces,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar

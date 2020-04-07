@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Alitas de pollo,Offer,7,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+1,1,MenuItem,Loganiza,Offer,6,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+2,2,MenuItem,Mollejita guisada,Offer,6,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+3,3,MenuItem,Bofe,Offer,6,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+4,4,MenuItem,Chicharrón,Offer,7,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+5,5,MenuItem,Carne salada con yuca,Offer,10,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+6,6,MenuItem,Pechurina,Offer,7,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+7,7,MenuItem,Platano frito,Offer,4,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+8,8,MenuItem,Yuca cocida o frita,Offer,5,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+9,9,MenuItem,Arroz,Offer,4,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+10,10,MenuItem,Habichuelas,Offer,4,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+11,11,MenuItem,Aguacate,Offer,4,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara
+12,12,MenuItem,Ración de carne guisada,Offer,5,EUR,Raciones,8.5,"""Latino""","""Calle San Evaristo","""geo"":{""latitude"":40.3929741,""longitude"":-3.6953717",Kukaramakara

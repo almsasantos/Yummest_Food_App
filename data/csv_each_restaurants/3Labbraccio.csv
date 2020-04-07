@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Con foie de Oca y champiñones,Offer,15.95,EUR,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+1,1,MenuItem,Con finas láminas de queso parmesano,,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+2,2,MenuItem,Con champiñones y parmesano,,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+3,3,MenuItem,"Rape y salmón con huevo duro, caviar y canónigos",,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+4,4,MenuItem,"Lubina y langotinos con pepinillo, cebolla y piñones",,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+5,5,MenuItem,Avestruz con láminas de calabacín a la plancha y parmesano,,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+6,6,MenuItem,Cebra con bocconcini y dados de tomate,,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+7,7,MenuItem,"Cocodrilo con pepinillo, alcaparras y tomate cherry",,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+8,8,MenuItem,"Caliente, solomillo con champiñones y parmesano",,,,Carpaccios de solomillo,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio

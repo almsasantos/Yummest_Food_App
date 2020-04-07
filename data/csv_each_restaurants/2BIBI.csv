@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Koobide,Offer,16.75,EUR,Platos Principales - Carne a la Brasa,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+1,1,MenuItem,Bakhtiari,Offer,19.75,EUR,Platos Principales - Carne a la Brasa,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+2,2,MenuItem,Negini,Offer,18.85,EUR,Platos Principales - Carne a la Brasa,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI

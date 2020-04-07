@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Micuit artesano con confitura de tomate,Offer,14,EUR,Entrante,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená
+1,1,MenuItem,Pulpo gallego con patatas mini y pimentón de la Vera,Offer,20,EUR,Entrante,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená
+2,2,MenuItem,Morcilla de buey wagyu,Offer,11,EUR,Entrante,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená
+3,3,MenuItem,Buñuelos de bacalao,Offer,14,EUR,Entrante,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Aloo samosa,Offer,5.0,EUR,Entrante,9.2,"""Indio""","""Calle del Pilar de Zaragoza","""geo"":{""latitude"":40.4363782,""longitude"":-3.6721023",Adrak Indian Cuisine
+1,1,MenuItem,Pakora,Offer,5.0,EUR,Entrante,9.2,"""Indio""","""Calle del Pilar de Zaragoza","""geo"":{""latitude"":40.4363782,""longitude"":-3.6721023",Adrak Indian Cuisine
+2,2,MenuItem,Cheese roll,Offer,6.5,EUR,Entrante,9.2,"""Indio""","""Calle del Pilar de Zaragoza","""geo"":{""latitude"":40.4363782,""longitude"":-3.6721023",Adrak Indian Cuisine

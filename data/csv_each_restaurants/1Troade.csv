@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa Royal Palace carne auténtica de buey,Offer,12.0,EUR,Plato,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade
+1,1,MenuItem,Hamburguesa Da Vinci 250 gr de carne Angus,Offer,10.95,EUR,Plato,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade
+2,2,MenuItem,Festival mejicano,Offer,14.0,EUR,Plato,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes,"Nachos: nuestros deliciosos nachos con queso fundido, salsa verde, guacamole, pollo y chorizo.\nQuesadillas: deliciosas quesadillas con la receta de la casa.",Menú Degustación a la Carta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+1,1,MenuItem,Principales,"A elegir cualquiera opción de cazuela variadas para hacer tacos, acompañada con cuatro tortillas.",Menú Degustación a la Carta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+2,2,MenuItem,Postres,Brownie.\nCrepa con cajeta (dulce de leche).\nCrepa de chocolate.\nCookies.,Menú Degustación a la Carta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+3,3,MenuItem,Bebida,Incluye tres bebidas a elegir por persona.,Menú Degustación a la Carta,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño

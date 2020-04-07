@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tallarines fritos con tres delicias,Offer,4.8,EUR,Arroz y tallarines,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+1,1,MenuItem,Arroz frito con verduras,Offer,4.35,EUR,Arroz y tallarines,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+2,2,MenuItem,Arroz frito especial Jia Wei,Offer,5.25,EUR,Arroz y tallarines,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+3,3,MenuItem,Arroz frito con ternera,Offer,4.55,EUR,Arroz y tallarines,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+4,4,MenuItem,Tallarines fritos con gambas,Offer,5.6,EUR,Arroz y tallarines,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+5,5,MenuItem,Arroz con pollo y salsa curry,Offer,5.2,EUR,Arroz y tallarines,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei

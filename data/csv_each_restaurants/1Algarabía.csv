@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza al horno con migas crujientes a la Naranja,Offer,19.5,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+1,1,MenuItem,Bacalao a la riojana,Offer,18.5,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+2,2,MenuItem,Filete de pescado (azul) con picada de tomate y pistacho,Offer,17.0,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+3,3,MenuItem,Chipis encebollado,Offer,18.0,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+4,4,MenuItem,Pollo de corral en pepitoria,Offer,14.0,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+5,5,MenuItem,Patorrillo,Offer,14.0,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+6,6,MenuItem,Rabo guisado al vino tinto,Offer,18.5,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+7,7,MenuItem,Chumarro con cebolla confitada,Offer,19.0,EUR,Plato,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía

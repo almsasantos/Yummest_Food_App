@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmorejo de centollo (sólo en temporada),Offer,9.0,EUR,PARA COMPARTIR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+1,1,MenuItem,Cazuela de caracoles a la llauna,Offer,19.0,EUR,PARA COMPARTIR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+2,2,MenuItem,Nuestra ensaladilla rusa,Offer,10.0,EUR,PARA COMPARTIR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+3,3,MenuItem,"Ensalada de tomate con ventresca, cebolleta y piparras",Offer,12.5,EUR,PARA COMPARTIR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+4,4,MenuItem,"Ensalada verde con manzana, granada y vinagreta de almendras",Offer,9.0,EUR,PARA COMPARTIR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+5,5,MenuItem,Risotto de setas trufado,Offer,13.5,EUR,PARA COMPARTIR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+6,6,MenuItem,Tagliatelle con carbonara original,Offer,13.5,EUR,PARA COMPARTIR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club

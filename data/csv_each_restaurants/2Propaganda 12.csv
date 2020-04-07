@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartare de Atún,Offer,17.5,EUR,Raws,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12
+1,1,MenuItem,Ceviche estilo Peruano,Offer,16.5,EUR,Raws,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12
+2,2,MenuItem,Steak Tartare,Offer,16.0,EUR,Raws,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12
+3,3,MenuItem,Salmón,Offer,14.0,EUR,Raws,9.3,"""Internacional""","""Calle Libertad","""geo"":{""latitude"":40.4209537,""longitude"":-3.6972699",Propaganda 12

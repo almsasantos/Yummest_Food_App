@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de atún a la parrilla,Offer,21.0,EUR,Del mar a la mesa,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+1,1,MenuItem,Lubina a la bilbaina,Offer,17.5,EUR,Del mar a la mesa,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+2,2,MenuItem,Bacalao al carbón,Offer,23.5,EUR,Del mar a la mesa,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+3,3,MenuItem,Rodaballo a la brasa,Offer,21.5,EUR,Del mar a la mesa,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II

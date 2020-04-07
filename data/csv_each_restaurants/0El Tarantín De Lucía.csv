@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella,Offer,8,EUR,Entrante,None,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4117699,""longitude"":-3.6991392",El Tarantín De Lucía
+1,1,MenuItem,Ostras,Offer,2,EUR,Entrante,None,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4117699,""longitude"":-3.6991392",El Tarantín De Lucía
+2,2,MenuItem,Ceviche de pulpo con mango,Offer,12,EUR,Entrante,None,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4117699,""longitude"":-3.6991392",El Tarantín De Lucía

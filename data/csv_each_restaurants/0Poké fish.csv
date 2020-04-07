@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de wakame,Offer,3.5,EUR,Entrantes,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+1,1,MenuItem,Ensalada de edamame,Offer,5.0,EUR,Entrantes,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+2,2,MenuItem,Ensalada kani,Offer,5.0,EUR,Entrantes,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+3,3,MenuItem,"Bao boom (Mini burger japonesa), 2 unidades",Offer,7.8,EUR,Entrantes,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+4,4,MenuItem,Spicy nachos,Offer,4.5,EUR,Entrantes,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+5,5,MenuItem,Arroz de sushi,Offer,3.0,EUR,Entrantes,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+6,6,MenuItem,Snack edamames,Offer,3.5,EUR,Entrantes,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish

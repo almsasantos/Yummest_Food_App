@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ice Burger,Offer,3.5,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+1,1,MenuItem,Batidos de helado,Offer,4.9,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+2,2,MenuItem,Cookie al horno,Offer,5.5,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+3,3,MenuItem,Apple Crumble,Offer,6.5,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+4,4,MenuItem,Helados Caseros,Offer,3.5,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+5,5,MenuItem,Cheese cake,Offer,5.5,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+6,6,MenuItem,Chocolat Fondant,Offer,5.5,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+7,7,MenuItem,Brownie con helado,Offer,5.5,EUR,Postre,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral

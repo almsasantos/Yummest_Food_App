@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada Salamar (lechuga, tomate Raf, Ventresca de Bonito, Pimientos Asados)",Offer,11,EUR,Ensaladas,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+1,1,MenuItem,Ensalada Clásica,Offer,9,EUR,Ensaladas,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+2,2,MenuItem,"Ensalada Marinera (Pulpo, tomate, ventresca y mejillones)",Offer,14,EUR,Ensaladas,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar

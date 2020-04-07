@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cuajada casera,Offer,5.8,EUR,Postre,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+1,1,MenuItem,Queso Ideazabal con membrillo,Offer,8.0,EUR,Postre,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+2,2,MenuItem,Arroz con leche,Offer,4.95,EUR,Postre,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa

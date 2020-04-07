@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de solomillo al carbón con papas y mojo picón,Offer,16.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+1,1,MenuItem,Arroz jazmín con cangrejo real y vieiras,Offer,11.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+2,2,MenuItem,Pasta fresca de uva roja (con bogavante al sésamo blanco y guindilla),Offer,10.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+3,3,MenuItem,Pasta fresca de tinta de calamar con sepia y langostinos salteados,Offer,10.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+4,4,MenuItem,"Ensalada de espinacas, aguacate con crema de queso fresco y salsa de sésamo negro",Offer,8.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+5,5,MenuItem,Tempura de gambas rojas con chile dulce,Offer,12.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+6,6,MenuItem,Rollo bogavante en tempura (con tempura flakes&salsa de jalapeños) (6 piezas),Offer,11.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+7,7,MenuItem,Pasta fresca de verduras y setas,Offer,10.9,EUR,Plato,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 

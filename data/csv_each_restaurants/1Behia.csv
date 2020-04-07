@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de salmón y spicy mango,Offer,16,EUR,ENTRANTES,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+1,1,MenuItem,Ceviche de corvina y batata asada,Offer,17,EUR,ENTRANTES,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+2,2,MenuItem,"Ensalada templada de lechugas a la brasa, vinagreta, salsa de yoghurt al chipotle y boquerones",Offer,11,EUR,ENTRANTES,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+3,3,MenuItem,"Steak tartar, aguacate tatemado y semillas de calabaza",Offer,19,EUR,ENTRANTES,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+4,4,MenuItem,"Wraps de panceta confitada, langostinos, hierbas y vinagre dulce",Offer,19,EUR,ENTRANTES,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia

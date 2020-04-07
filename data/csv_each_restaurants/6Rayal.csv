@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tosta de morcilla de León,Offer,7,EUR,Tostas,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+1,1,MenuItem,Tosta de solomillo de cerdo con queso de cabra,Offer,7,EUR,Tostas,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+2,2,MenuItem,Tosta de salmón queso de La Peral,Offer,7,EUR,Tostas,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+3,3,MenuItem,Tosta de jamón ibérico con pan tumaca,Offer,7,EUR,Tostas,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+4,4,MenuItem,"Tosta de gambas, gulas y ali-oli",Offer,7,EUR,Tostas,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+5,5,MenuItem,Variado de tostas,Offer,16,EUR,Tostas,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal

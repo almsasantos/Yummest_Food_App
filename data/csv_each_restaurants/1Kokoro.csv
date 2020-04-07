@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar stun picante,Offer,17.55,EUR,Plato,8.2,"""Japonés""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Kokoro
+1,1,MenuItem,Sushi variado,Offer,19.5,EUR,Plato,8.2,"""Japonés""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Kokoro
+2,2,MenuItem,Sashimi variado,Offer,20.15,EUR,Plato,8.2,"""Japonés""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Kokoro

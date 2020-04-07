@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada César,Offer,5.9,EUR,Entrante,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza
+1,1,MenuItem,Ración de Calabresa Doble,Offer,11.9,EUR,Entrante,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza
+2,2,MenuItem,Rollitos Carne Picada y queso,Offer,5.4,EUR,Entrante,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de mango y queso,Offer,4.5,EUR,Postre,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela
+1,1,MenuItem,Tarta de piña y chocolate,Offer,4.5,EUR,Postre,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela
+2,2,MenuItem,Copa de helado de cactus limon verde,Offer,4.25,EUR,Postre,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela
+3,3,MenuItem,Copa de helado de coco,Offer,4.25,EUR,Postre,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela
+4,4,MenuItem,Copa de helado,Offer,4.25,EUR,Postre,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela
+5,5,MenuItem,Helado-jueguete infantil,Offer,4.0,EUR,Postre,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela

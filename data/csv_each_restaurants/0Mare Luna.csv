@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Marinado de salmón, pulpo y bacalao",Offer,12,EUR,Entrante,None,"""Italiano""","""Calle María Zambrano","""geo"":{""latitude"":40.4418704,""longitude"":-3.6504295",Mare Luna
+1,1,MenuItem,Risotto,Offer,10,EUR,Entrante,None,"""Italiano""","""Calle María Zambrano","""geo"":{""latitude"":40.4418704,""longitude"":-3.6504295",Mare Luna
+2,2,MenuItem,Pizza,Offer,9,EUR,Entrante,None,"""Italiano""","""Calle María Zambrano","""geo"":{""latitude"":40.4418704,""longitude"":-3.6504295",Mare Luna

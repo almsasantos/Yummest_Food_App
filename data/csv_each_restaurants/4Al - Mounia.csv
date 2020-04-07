@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Oasis,Offer,10.5,EUR,ENSALADAS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+1,1,MenuItem,Ensalada Tabulé,Offer,10.5,EUR,ENSALADAS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+2,2,MenuItem,Ensalada Magrebí,Offer,10.5,EUR,ENSALADAS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+3,3,MenuItem,Ensalada Atlas,Offer,12.0,EUR,ENSALADAS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+4,4,MenuItem,Ensalada templada con pollo,Offer,14.0,EUR,ENSALADAS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+5,5,MenuItem,Arroz Basmati con piñones y pasas,Offer,6.0,EUR,ENSALADAS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia

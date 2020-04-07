@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tomate de temporada con aguacate y aceite verde,Offer,9.8,EUR,Recien salido de nuestra huerta,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+1,1,MenuItem,Ensalada de quinoa y salmón,Offer,11.2,EUR,Recien salido de nuestra huerta,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+2,2,MenuItem,Ensalada templada de faisan escabechado,Offer,11.9,EUR,Recien salido de nuestra huerta,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+3,3,MenuItem,Matrimonio con nuestra ralladura de tomate,Offer,5.5,EUR,Recien salido de nuestra huerta,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+4,4,MenuItem,Lomo de sardina en salazón con guacamole,Offer,6.0,EUR,Recien salido de nuestra huerta,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+5,5,MenuItem,Jamón ibérico con nuetsra ralladura de tomate,Offer,7.7,EUR,Recien salido de nuestra huerta,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid

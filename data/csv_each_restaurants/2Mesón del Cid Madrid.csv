@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta Tatin de manzana,Offer,9.9,EUR,Postre,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid
+1,1,MenuItem,Milhojas de crema,Offer,9.9,EUR,Postre,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid
+2,2,MenuItem,Arroz con Leche 3 Texturas,Offer,9.9,EUR,Postre,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid
+3,3,MenuItem,Helado de Chocolate Belga,Offer,7.7,EUR,Postre,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid
+4,4,MenuItem,Sorbete de Mandarina al Grand Marnier,Offer,7.7,EUR,Postre,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid

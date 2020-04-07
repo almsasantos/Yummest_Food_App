@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Wantan frito con salsa agridulce,Offer,8.0,EUR,Primeros,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+1,1,MenuItem,Yuquita frita con salsa huancaína,Offer,9.5,EUR,Primeros,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+2,2,MenuItem,Causa limeña,Offer,9.0,EUR,Primeros,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+3,3,MenuItem,Ensalada Kechua,Offer,9.0,EUR,Primeros,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+4,4,MenuItem,Aguacate relleno de langostinos,Offer,9.0,EUR,Primeros,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+5,5,MenuItem,Pulpo braceado con patatas revolconas,Offer,18.0,EUR,Primeros,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+6,6,MenuItem,Chupe de camarones,Offer,14.0,EUR,Primeros,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua

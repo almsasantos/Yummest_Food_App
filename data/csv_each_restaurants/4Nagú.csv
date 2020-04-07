@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta fina de manzana,Offer,7.0,EUR,Postre,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+1,1,MenuItem,Tarta de Queso,Offer,6.0,EUR,Postre,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+2,2,MenuItem,Mousse de Chocolate crujiente con Dulce de Leche,Offer,6.0,EUR,Postre,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+3,3,MenuItem,Flan Casero,,,,Postre,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú

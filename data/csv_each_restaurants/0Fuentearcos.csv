@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gran parrillada de verduras al carbón con hummus de remolacha,Offer,20,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,Pulpo a la brasa sobre patata trufada,Offer,18,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+2,2,MenuItem,"Surtido de croquetas: Ibérico, marisco y rabo de toro",Offer,12,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+3,3,MenuItem,Rollitos crujientes de pato con compota de pera,Offer,12,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+4,4,MenuItem,Samosas de trompetas de la muerte con agridulce de naranja,Offer,12,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+5,5,MenuItem,Pimientos de Piquillo rellenos de txangurro,Offer,12,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+6,6,MenuItem,Carpaccio de vaca Premium con lascas de Parmesano,Offer,11,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+7,7,MenuItem,Jamón Ibérico de Extremadura con pan de cristal y tumaca,Offer,23,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+8,8,MenuItem,Queso curado de vaca,Offer,12,EUR,PARA COMPARTIR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

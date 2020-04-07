@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ración de sataya,Offer,5,EUR,Entrante,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+1,1,MenuItem,"Accara (buñuelos de nieve, alubias y salsa de tomate)",Offer,4,EUR,Entrante,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+2,2,MenuItem,Alocco (plátano frito),Offer,4,EUR,Entrante,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+3,3,MenuItem,"Ración nem rollitos de marisco, carne, vermiccell y especias",Offer,5,EUR,Entrante,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión

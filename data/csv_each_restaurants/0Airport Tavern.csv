@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gazpacho andaluz guarnecido,Offer,5,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+1,1,MenuItem,Salmorejo cordobés con jamón y huevo,Offer,5,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+2,2,MenuItem,Vichyssoise,Offer,5,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+3,3,MenuItem,Ensaladilla de salmón ahumado y aguacate,Offer,8,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+4,4,MenuItem,Pisto manchego con huevo frito,Offer,8,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+5,5,MenuItem,Gambones plancha,Offer,9,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+6,6,MenuItem,Sardinas plancha,Offer,8,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+7,7,MenuItem,Emperador plancha al aceite ajoperejil,Offer,10,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+8,8,MenuItem,Flamenquines cordobeses,Offer,8,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+9,9,MenuItem,Alitas de pollo fritas con salsa barbacoa,Offer,8,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+10,10,MenuItem,Carpaccio de ternera con rúcula y queso parmesano,Offer,9,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+11,11,MenuItem,Filete de lomo alto de ternera plancha con tiras de pimientos verdes y patatas,Offer,10,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+12,12,MenuItem,Escalope de ternera madrileña con huevo frito y patatas fritas,Offer,11,EUR,Sugerencias de temporada,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern

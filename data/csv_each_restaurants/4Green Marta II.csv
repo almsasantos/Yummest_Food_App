@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Clásica,Offer,10.4,EUR,Hamburguesas,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+1,1,MenuItem,Rulo de cabra,Offer,11.0,EUR,Hamburguesas,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+2,2,MenuItem,Chipotle,Offer,11.5,EUR,Hamburguesas,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II

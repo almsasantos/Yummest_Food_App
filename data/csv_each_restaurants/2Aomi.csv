@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sashimi (9 unidades),Offer,13.0,EUR,Plato,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi
+1,1,MenuItem,Tartar de atún picante,Offer,14.5,EUR,Plato,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi
+2,2,MenuItem,Pollo uramaki,Offer,6.5,EUR,Plato,8.1,"""Japonés""","""Calle Antonio Zamora","""geo"":{""latitude"":40.4134229,""longitude"":-3.7262282",Aomi

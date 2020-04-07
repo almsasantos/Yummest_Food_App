@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chanquetes con huevos camperos y piperada de pimientos,Offer,18.0,EUR,"Huevos con fundamento, con la yema bien amarillita",8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,Huevos estrellados con patatitas fritas y jamón de montanera,Offer,18.5,EUR,"Huevos con fundamento, con la yema bien amarillita",8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

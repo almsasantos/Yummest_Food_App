@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Azteca,Offer,9.5,EUR,Ensaladas,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol
+1,1,MenuItem,César,Offer,9.0,EUR,Ensaladas,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol
+2,2,MenuItem,Genovesa,Offer,9.5,EUR,Ensaladas,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol

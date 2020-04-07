@@ -1,0 +1,23 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chopitos,Offer,18.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+1,1,MenuItem,Fritura Variada,Offer,14.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+2,2,MenuItem,Calamares a la Romana,Offer,9.5,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+3,3,MenuItem,Sepia Plancha,Offer,11.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+4,4,MenuItem,Chipirones Plancha,Offer,14.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+5,5,MenuItem,Boquerones Fritos,Offer,7.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+6,6,MenuItem,Boquerones en vinagre,Offer,10.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+7,7,MenuItem,Mejillones tigres,Offer,9.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+8,8,MenuItem,Mejillones,Offer,7.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+9,9,MenuItem,Queso curado,Offer,11.5,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+10,10,MenuItem,Tortilla española,Offer,10.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+11,11,MenuItem,Pulpo a la Gallega,Offer,20.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+12,12,MenuItem,Oreja Plancha,Offer,7.5,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+13,13,MenuItem,Jamón serrano,Offer,7.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+14,14,MenuItem,Variada de la casa,Offer,14.5,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+15,15,MenuItem,Alitas de pollo,Offer,5.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+16,16,MenuItem,Pinchos morunos,Offer,2.5,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+17,17,MenuItem,Lacón a la gallega,Offer,7.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+18,18,MenuItem,Patatas Bravas o Ali oli,Offer,6.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+19,19,MenuItem,Huevos rotos,Offer,12.5,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+20,20,MenuItem,Croquetas caseras,Offer,11.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+21,21,MenuItem,Callos a la madrileña,Offer,10.0,EUR,Raciones,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena

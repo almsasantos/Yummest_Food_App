@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,La Bululu: Nuestras raices……,Offer,11.95,EUR,Hamburguesas (Las mas vendidas),9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+1,1,MenuItem,La Criolla: La mas querida...,Offer,10.95,EUR,Hamburguesas (Las mas vendidas),9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+2,2,MenuItem,Pío Pío: La mas sabrosa...,Offer,10.5,EUR,Hamburguesas (Las mas vendidas),9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+3,3,MenuItem,La Jacky: La mas aclamada...,Offer,10.95,EUR,Hamburguesas (Las mas vendidas),9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+4,4,MenuItem,Tijuana: Dulcemente picante...,Offer,11.5,EUR,Hamburguesas (Las mas vendidas),9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+5,5,MenuItem,"La Huerti: Lo siento, no soy una burger...",Offer,9.95,EUR,Hamburguesas (Las mas vendidas),9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+6,6,MenuItem,Y MUCHAS MAS!,,,,Hamburguesas (Las mas vendidas),9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee

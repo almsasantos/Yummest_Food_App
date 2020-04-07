@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"VINO TINTO DE LA CASA, Rioja (COPA)",Offer,2.85,EUR,VINO,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+1,1,MenuItem,"VINO TINTO DE LA CASA, Rioja (BOTELLA)",Offer,10.5,EUR,VINO,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+2,2,MenuItem,"VINO BLANCO DE LA CASA, Rioja(COPA)",Offer,2.85,EUR,VINO,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+3,3,MenuItem,"VINO BLANCO DE LA CASA, Rioja (BOTELLA)",Offer,10.5,EUR,VINO,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Zumos de Frutas: Parchita, guayaba, guanabana, Mango",Offer,3.0,EUR,Zumos y cocteles de frutas,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+1,1,MenuItem,"Cocteles de Frutas con cava, ron, ginebra o vodka",Offer,5.5,EUR,Zumos y cocteles de frutas,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor

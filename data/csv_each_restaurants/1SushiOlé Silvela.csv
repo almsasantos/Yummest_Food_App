@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,California,Offer,5.3,EUR,Rollitos con Arroz por fuera,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+1,1,MenuItem,Tridente,Offer,6.5,EUR,Rollitos con Arroz por fuera,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+2,2,MenuItem,Atún crocante y picante,Offer,6.5,EUR,Rollitos con Arroz por fuera,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela

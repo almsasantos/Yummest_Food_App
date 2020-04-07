@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Shirazi,Offer,5.85,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+1,1,MenuItem,Rollo de berenjena,Offer,8.95,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+2,2,MenuItem,Mirza Qasemi,Offer,8.95,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+3,3,MenuItem,Mast o Laboo,Offer,5.5,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+4,4,MenuItem,Mast o Moosir,Offer,5.5,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+5,5,MenuItem,Mast o Khiyar,Offer,5.5,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+6,6,MenuItem,Omelette al Estilo Persa,Offer,8.95,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+7,7,MenuItem,Dolme,Offer,7.95,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+8,8,MenuItem,Olvie,Offer,6.95,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI
+9,9,MenuItem,Kuku Sabzi,Offer,6.85,EUR,Entrante,9.1,"""Iraní""","""Calle de Hospital de Órbigo","""geo"":{""latitude"":40.5115734,""longitude"":-3.6696572",BIBI

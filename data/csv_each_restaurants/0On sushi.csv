@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa miso,Offer,5.5,EUR,Entrante,9.1,"""Japonés""","""Calle de Angel Larra","""geo"":{""latitude"":40.4426661,""longitude"":-3.6459153",On sushi
+1,1,MenuItem,Wakame,Offer,5.25,EUR,Entrante,9.1,"""Japonés""","""Calle de Angel Larra","""geo"":{""latitude"":40.4426661,""longitude"":-3.6459153",On sushi
+2,2,MenuItem,Gyoza de pollo,Offer,6.25,EUR,Entrante,9.1,"""Japonés""","""Calle de Angel Larra","""geo"":{""latitude"":40.4426661,""longitude"":-3.6459153",On sushi

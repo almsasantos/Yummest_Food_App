@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brochetas de cordero con ensalada y arroz,Offer,14,EUR,Carnes Y Aves,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+1,1,MenuItem,Entrecot a la piedra con guarnicion,Offer,17,EUR,Carnes Y Aves,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+2,2,MenuItem,Chuletón a la piedra,Offer,19,EUR,Carnes Y Aves,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+3,3,MenuItem,Solomillo de ternera a la piedra,Offer,21,EUR,Carnes Y Aves,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+4,4,MenuItem,Brochetas de pollo con ensalada y arroz,Offer,12,EUR,Carnes Y Aves,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+5,5,MenuItem,Salteado de verduras con pollo,Offer,13,EUR,Carnes Y Aves,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+6,6,MenuItem,Milanesa de pollo con tomate y mozarella,Offer,13,EUR,Carnes Y Aves,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri

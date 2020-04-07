@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ordago,Offer,5.0,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+1,1,MenuItem,Canapé de mejillón con su concha comestible,Offer,3.5,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+2,2,MenuItem,Potito de huevos rotos con boletus,Offer,4.0,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+3,3,MenuItem,Espeto de boquerones ahumados,Offer,5.0,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+4,4,MenuItem,Taco de chipirones encebollados,Offer,3.5,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+5,5,MenuItem,La vela,Offer,4.0,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+6,6,MenuItem,Patata brava invertida,Offer,4.0,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+7,7,MenuItem,Bombón de morcilla y pera,Offer,4.0,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+8,8,MenuItem,Ceviche de langostinos al bloody mery,Offer,4.5,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+9,9,MenuItem,Carbón marino con espuma de vermut,Offer,4.5,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+10,10,MenuItem,Torta de anis con foie de pollo e higos,Offer,5.0,EUR,A tapear,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá

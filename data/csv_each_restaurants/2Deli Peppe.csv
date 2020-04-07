@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Focaccia rellena de jamón italiano (speck) y queso mozzariela, con topping de orégano",Offer,4.5,EUR,Focaccias rellenas especiales,9.3,"""Italiano""","""Calle Virgen de la Alegria 10 Mercado de Las Ventas","""geo"":{""latitude"":40.4331742,""longitude"":-3.6566507",Deli Peppe
+1,1,MenuItem,"Focaccia italo-venezolana (la Reggina) Foccaccia con topping de orégano, rellena con carne mechada de aleta de ternera guisada, queso mozzarella y aguacate",Offer,6.0,EUR,Focaccias rellenas especiales,9.3,"""Italiano""","""Calle Virgen de la Alegria 10 Mercado de Las Ventas","""geo"":{""latitude"":40.4331742,""longitude"":-3.6566507",Deli Peppe

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrante,3 entrantes a elegir,Menú del Día,None,None,None,Taberna Antonio Sánchez
+1,1,MenuItem,Plato,3 segundos a elegir,Menú del Día,None,None,None,Taberna Antonio Sánchez
+2,2,MenuItem,Postre,A elegir entre nuestros postres caseros,Menú del Día,None,None,None,Taberna Antonio Sánchez
+3,3,MenuItem,Bebida,1 bebida incluida,Menú del Día,None,None,None,Taberna Antonio Sánchez

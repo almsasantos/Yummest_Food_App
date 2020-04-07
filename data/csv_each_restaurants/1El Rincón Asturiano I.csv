@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecott de Buey a la parrilla (Carne de ganaderia propia),Offer,24,EUR,Plato,None,"""Asturiano""","""Calle Ancora","""geo"":{""latitude"":40.4026673,""longitude"":-3.6899395",El Rincón Asturiano I
+1,1,MenuItem,Solomillo de Atún rojo plancha,Offer,20,EUR,Plato,None,"""Asturiano""","""Calle Ancora","""geo"":{""latitude"":40.4026673,""longitude"":-3.6899395",El Rincón Asturiano I
+2,2,MenuItem,Rabo de toro estofado,Offer,18,EUR,Plato,None,"""Asturiano""","""Calle Ancora","""geo"":{""latitude"":40.4026673,""longitude"":-3.6899395",El Rincón Asturiano I

@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cochinillo asado,Offer,21,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+1,1,MenuItem,Chuletón de Ávila,Offer,22,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+2,2,MenuItem,Solomillo con foie,Offer,23,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+3,3,MenuItem,Villagodio de Buey a la piedra (2 pax),Offer,44,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+4,4,MenuItem,Rabo de toro,Offer,20,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+5,5,MenuItem,Chuletillas de cordero lechal,Offer,19,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+6,6,MenuItem,Paletilla de cordero asada,Offer,23,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+7,7,MenuItem,Steak tartar,Offer,23,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+8,8,MenuItem,Rodaballo al horno (2 pax),Offer,42,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+9,9,MenuItem,Cogote de merluza de pintxo al horno,Offer,20,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+10,10,MenuItem,Lomo de merluza de pintxo con almejas,Offer,20,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+11,11,MenuItem,Chuletón de mar con tres salsas (2 pax),Offer,42,EUR,Principales,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio

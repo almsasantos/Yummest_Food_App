@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie C&B,Offer,5.5,EUR,SUGERENCIA DE POSTRES,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+1,1,MenuItem,Tarta Tresleches,Offer,5.5,EUR,SUGERENCIA DE POSTRES,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+2,2,MenuItem,Tequeños de nutella,Offer,5.5,EUR,SUGERENCIA DE POSTRES,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa

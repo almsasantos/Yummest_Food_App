@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,cesar salad de pavo,Offer,7.95,EUR,GREENS,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+1,1,MenuItem,chicken avocado salad,Offer,8.95,EUR,GREENS,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+2,2,MenuItem,vegan wrap,Offer,8.95,EUR,GREENS,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies

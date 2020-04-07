@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tomate con ventresca,Offer,8.0,EUR,Verduras,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+1,1,MenuItem,Ensaladilla rusa,Offer,8.0,EUR,Verduras,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+2,2,MenuItem,Ensalada de pimiemtos asados con anchoa,Offer,10.0,EUR,Verduras,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+3,3,MenuItem,Verduras a la plancha con uqeso de cabra,Offer,12.0,EUR,Verduras,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio
+4,4,MenuItem,Salmorejo cordobés,Offer,5.5,EUR,Verduras,7.5,"""Andaluz""","""Calle del Espíritu Santo","""geo"":{""latitude"":40.4255686,""longitude"":-3.7040894",Taberna La Lirio

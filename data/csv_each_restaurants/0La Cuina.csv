@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Teja de Calçots 12 unidades con Salsa Romescu y Baberos,Offer,14.5,EUR,Nuestra carta,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+1,1,MenuItem,Surtido de Embutidos Catalanes,Offer,12.5,EUR,Nuestra carta,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+2,2,MenuItem,Chipirones Frescos a la Plancha con Ajito y Perejil,Offer,12.5,EUR,Nuestra carta,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+3,3,MenuItem,Pulpo a La Brasa con Patata Asada Pimentón Ahumado y Aceite de Oliva,Offer,21.5,EUR,Nuestra carta,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+4,4,MenuItem,Caracoles a la Llauna con Alioli,Offer,14.5,EUR,Nuestra carta,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+5,5,MenuItem,Revuelto de Bacalao Dorado,Offer,12.5,EUR,Nuestra carta,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+6,6,MenuItem,"Alcachofas Salteadas con Calsots, Langostinos y Avellanas",Offer,12.5,EUR,Nuestra carta,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina

@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sashimi de salmón,Offer,11.8,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+1,1,MenuItem,Usuzukuri de pez limón,Offer,11.8,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+2,2,MenuItem,Sashimi de atún rojo,Offer,14.6,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+3,3,MenuItem,Sashimi variado,Offer,15.5,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+4,4,MenuItem,Tataki de pez espada,Offer,14.5,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+5,5,MenuItem,Tartar de salmón,Offer,15.9,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+6,6,MenuItem,Tartar de pez mantequilla,Offer,15.9,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+7,7,MenuItem,Tartar de atún rojo macerado,Offer,19.9,EUR,Tartares y Sashimis,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room

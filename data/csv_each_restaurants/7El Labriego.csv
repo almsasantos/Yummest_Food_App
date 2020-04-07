@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ponche segoviano,Offer,6.25,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+1,1,MenuItem,Leche frita,Offer,6.25,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+2,2,MenuItem,Filloas,Offer,7.25,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+3,3,MenuItem,Flan con nueces,Offer,4.5,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+4,4,MenuItem,Helados,Offer,5.5,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+5,5,MenuItem,Fruta,Offer,5.25,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+6,6,MenuItem,Piña natural con licor,Offer,5.25,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+7,7,MenuItem,Tarta del dia,Offer,6.26,EUR,Postre,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego

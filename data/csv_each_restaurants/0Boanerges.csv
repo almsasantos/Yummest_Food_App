@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos a la mexicana,Offer,8.95,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+1,1,MenuItem,Parrillada de Verduras,Offer,8.95,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+2,2,MenuItem,Ensalada Boanerges,Offer,9.0,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+3,3,MenuItem,Ensalada Americana,Offer,9.0,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges

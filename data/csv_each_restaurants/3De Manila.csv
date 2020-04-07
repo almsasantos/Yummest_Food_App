@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flan de la casa,Offer,4.75,EUR,Postres,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+1,1,MenuItem,Tarta de café,Offer,4.75,EUR,Postres,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+2,2,MenuItem,Sorbete de limón a la cava,Offer,4.75,EUR,Postres,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+3,3,MenuItem,Sorbete de vainilla al Grand Marnier,Offer,4.75,EUR,Postres,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+4,4,MenuItem,Helados,Offer,4.75,EUR,Postres,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+5,5,MenuItem,Fruta de temporada,Offer,4.75,EUR,Postres,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila

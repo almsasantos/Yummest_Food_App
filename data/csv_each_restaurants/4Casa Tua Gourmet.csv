@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gelato,Offer,4.5,EUR,DOLCI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+1,1,MenuItem,Tiramisú,Offer,6.0,EUR,DOLCI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+2,2,MenuItem,Torta di Limone e Meringa,Offer,6.0,EUR,DOLCI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+3,3,MenuItem,Brownie al Gelato,Offer,6.0,EUR,DOLCI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+4,4,MenuItem,Crumble di Mela,Offer,6.0,EUR,DOLCI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet

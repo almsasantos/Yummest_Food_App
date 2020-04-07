@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheesecake,Offer,5.5,EUR,Postre,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+1,1,MenuItem,Version de Café con leche,Offer,5.5,EUR,Postre,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo

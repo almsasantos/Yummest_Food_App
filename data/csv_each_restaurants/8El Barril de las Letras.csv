@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tomates de la Huerta de Madrid aliñados con piparras encurtidas,Offer,12.5,EUR,ENSALADAS FRESCAS Y VERDURAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+1,1,MenuItem,Ensaladilla rusa tradicional con merluza de pincho,Offer,14.8,EUR,ENSALADAS FRESCAS Y VERDURAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+2,2,MenuItem,"Ensalada verde de frutas frescas, avellanas caramelizadas y vinagreta de cítricos",Offer,14.8,EUR,ENSALADAS FRESCAS Y VERDURAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+3,3,MenuItem,Ensalada de lomos de bonito de campaña con tomate de temporada y cebolleta,Offer,16.5,EUR,ENSALADAS FRESCAS Y VERDURAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+4,4,MenuItem,Parrillada de espárragos trigueros con su romesco,Offer,14.5,EUR,ENSALADAS FRESCAS Y VERDURAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+5,5,MenuItem,Alcachofas naturales a la parrilla con escama de sal,Offer,16.0,EUR,ENSALADAS FRESCAS Y VERDURAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras

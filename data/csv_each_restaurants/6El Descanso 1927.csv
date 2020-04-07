@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Paella “El Descanso” con pollo, calamares, langostinos, mejillones, almejas y cangrejo",Offer,13.75,EUR,Paellas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+1,1,MenuItem,"Arroz marisquero meloso con calamares, langostinos, mejillones, almejas y cangrejo",Offer,13.75,EUR,Paellas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+2,2,MenuItem,"Arroz con rape, sepia y cocochas",Offer,15.9,EUR,Paellas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+3,3,MenuItem,Arroz caldoso con bogavante,Offer,17.9,EUR,Paellas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927

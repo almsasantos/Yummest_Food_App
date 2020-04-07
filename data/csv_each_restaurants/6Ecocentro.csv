@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,-Crema del día \n-Ensalada del día \n-Guiso del día,Fórmula 10.10 €,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+1,1,MenuItem,Plato,-Verduras\n-Proteina\n-Hidratos,Fórmula 10.10 €,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+2,2,MenuItem,Sutil,"Cada día platos diferentes, opciones veganas y para celiacos. Todo los menús diarios disponibles en nuestra Web.",Fórmula 10.10 €,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro

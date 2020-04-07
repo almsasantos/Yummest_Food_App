@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Steak tartar de solomillo, elaborado al momento",Offer,22.5,EUR,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+1,1,MenuItem,"Costillitas de cordero lechal fritas muy crujientes (6 Uds,)",Offer,18.5,EUR,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+2,2,MenuItem,Confit de pato de nuestra granja en su jugo con frutos del bosque,Offer,19.5,EUR,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+3,3,MenuItem,Daditos de solomillo al ajo-guindilla,Offer,19.5,EUR,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+4,4,MenuItem,Solomillo a la sartén en su jugo con setas silvestres y trufa negra,Offer,23.5,EUR,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+5,5,MenuItem,Chuleta de vaca madura a la parrilla con escama de sal (400 Grs.),Offer,29.5,EUR,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+6,6,MenuItem,*Pregunte por nuestras sopas frías y platos de temporada.,,,,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+7,7,MenuItem,Panes artesanos y aperitivos,Offer,2.5,EUR,CARNES SELECCIONADAS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras

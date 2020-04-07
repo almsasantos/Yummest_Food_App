@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Martes,hamburguesa con cebolla al carbón y salsa romesco \nIncluye Refresco o Cerveza y Postre o Cafe.,menu,None,None,None,Gobu - General Pardiñas
+1,1,MenuItem,MIercoles,Hamburguesa con bacon y mermelada de piquillo\nIncluye Refresco o Cerveza y Postre o Cafe.,menu,None,None,None,Gobu - General Pardiñas
+2,2,MenuItem,Jueves,Hamburguesa con queso de cabra y mostaza picante\nIncluye Refresco o Cerveza y Postre o Cafe.,menu,None,None,None,Gobu - General Pardiñas
+3,3,MenuItem,Viernes,Hamburguesa con queso de esgueva y crema de castañas\nIncluye Refresco o Cerveza y Postre o Cafe.,menu,None,None,None,Gobu - General Pardiñas

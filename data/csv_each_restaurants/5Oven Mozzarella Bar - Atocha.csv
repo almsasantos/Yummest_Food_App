@@ -1,0 +1,16 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Campana,Offer,10.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+1,1,MenuItem,Prosciutto,Offer,11.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+2,2,MenuItem,Peperonni,Offer,12.5,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+3,3,MenuItem,BBQ,Offer,12.5,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+4,4,MenuItem,Cuatro quesos,Offer,12.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+5,5,MenuItem,Diavola,Offer,12.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+6,6,MenuItem,Calzone Oven,Offer,12.5,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+7,7,MenuItem,Carbonara,Offer,12.5,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+8,8,MenuItem,Pampera,Offer,12.5,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+9,9,MenuItem,Mortadela trufada y parmigiano,Offer,13.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+10,10,MenuItem,Carpaccio de buey,Offer,13.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+11,11,MenuItem,Trufa y huevo poché,Offer,14.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+12,12,MenuItem,Burrata y jamón ibérico,Offer,14.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+13,13,MenuItem,Pizza criolla,Offer,13.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+14,14,MenuItem,Pizza campesina di verdura,Offer,13.0,EUR,Pizzas,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha

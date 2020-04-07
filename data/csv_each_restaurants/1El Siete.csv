@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tacos de lomo de cebón salteados con piperrada y aros de cebolla,Offer,19,EUR,Plato,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+1,1,MenuItem,"Callos, pata y morro a la madrileña",Offer,14,EUR,Plato,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+2,2,MenuItem,Merluza de Celeiro confitada en caldo de pimientos verdes,Offer,17,EUR,Plato,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete

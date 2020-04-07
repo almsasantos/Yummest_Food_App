@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jalapeños verdes rellenos de queso Cheddar,Offer,4.65,EUR,Entrante,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade
+1,1,MenuItem,Croquetas de huevos fritos con chorizo,Offer,6.5,EUR,Entrante,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade
+2,2,MenuItem,Alitas Luisiana con toque de barbacoa,Offer,7.5,EUR,Entrante,9.3,"""Americano""","""Calle De Virgen De Lluc","""geo"":{""latitude"":40.4371696,""longitude"":-3.6454508",Troade

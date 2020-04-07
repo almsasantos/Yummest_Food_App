@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de rúcula, cherrys, queso feta y brócoli",Offer,9.5,EUR,Primeros,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+1,1,MenuItem,"Ensaladilla de apionabo, trigueros, aguacate, espárragos blancos y salsa césar",Offer,13.0,EUR,Primeros,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+2,2,MenuItem,Setas a la plancha sobre paté de lentejas,Offer,10.0,EUR,Primeros,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+3,3,MenuItem,Verduras al horno gratinadas con parmesan,Offer,11.0,EUR,Primeros,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+4,4,MenuItem,"Sopa de quinoa, tomate, cebolla y daditos de ternera blanca",Offer,10.5,EUR,Primeros,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+5,5,MenuItem,Crema de zanahoria y calabaza con jengibre,Offer,9.5,EUR,Primeros,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ají de gallina,Offer,14.0,EUR,Segundos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+1,1,MenuItem,Lomo saltado,Offer,19.5,EUR,Segundos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+2,2,MenuItem,Seco de cabrito lechal,Offer,19.0,EUR,Segundos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+3,3,MenuItem,Pez mantequilla con chalaquita,Offer,18.0,EUR,Segundos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+4,4,MenuItem,Arroz chufa de langostino,Offer,15.0,EUR,Segundos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+5,5,MenuItem,Tallarín salteado con pollo y verduras,Offer,12.0,EUR,Segundos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua
+6,6,MenuItem,Sudado de pescado y langostinos,Offer,17.5,EUR,Segundos,8.9,"""Peruano""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172154,""longitude"":-3.708735",Kechua

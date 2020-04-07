@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Snack,Menú Degustacion 35€,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+1,1,MenuItem,2 Entrantes,Menú Degustacion 35€,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+2,2,MenuItem,Pescado,Menú Degustacion 35€,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+3,3,MenuItem,Carne,Menú Degustacion 35€,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+4,4,MenuItem,Postre,Menú Degustacion 35€,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo

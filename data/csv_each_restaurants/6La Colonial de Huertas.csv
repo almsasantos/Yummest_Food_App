@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PRIMEROS,"A elegir: ARROZ CON FRIJOLES Y PLATANO MADURO FRITO ó ESPAGUETTIS BOLOÑESA ó ENSALADA COLONIAL ó ARROZ A LA CUBANA ó AJIACO (INVIERNO) ó SALMOREJO (verano) ó ENSALADA DE AJÍ PIMIENTO CON CEBOLLA Y ATÚN ó TAMAL CUBANO (supl. de 0,90 ctms) ó PASTEL DE VERDURAS.",MENÚ COLONIAL,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+1,1,MenuItem,SEGUNDOS,Un segundo: POLLO A LA GUAJIRA ó PICADILLO A LA HABANERA ó CARNE BORRACHA ó ROPA VIEJA ó ENCHIlADO DE CALAMARES.,MENÚ COLONIAL,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+2,2,MenuItem,POSTRE,"A elegir: ARROZ CON LECHE, NATILLAS, COCKTEL DE FRUTAS, HELADO Ó CAFÉ.",MENÚ COLONIAL,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+3,3,MenuItem,BEBIDA INCLUIDA,Caña ó Vio y casera ó agua embotellada.,MENÚ COLONIAL,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas

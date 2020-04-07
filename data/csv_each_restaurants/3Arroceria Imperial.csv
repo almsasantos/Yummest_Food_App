@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+4,4,MenuItem,Media botella de agua,Offer,1.5,EUR,Bebidas,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+5,5,MenuItem,Botella de vino,Offer,11.5,EUR,Bebidas,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial

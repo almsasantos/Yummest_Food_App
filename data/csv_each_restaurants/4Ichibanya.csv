@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ternera salteada con salsa de ostra,Offer,6.2,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+1,1,MenuItem,Ternera al curry,Offer,6.2,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+2,2,MenuItem,Ternera salteada con leche de coco al curry,Offer,7.2,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+3,3,MenuItem,Ternera salteada con bambú y setas chinas,Offer,6.5,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+4,4,MenuItem,Ternera salteada con salsa de pimienta negra,Offer,6.2,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+5,5,MenuItem,Ternera Hong-Kong,Offer,8.5,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+6,6,MenuItem,Ternera salteada con salsa de X0,Offer,9.8,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+7,7,MenuItem,Ternera salteada con pimiento verde,Offer,6.5,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+8,8,MenuItem,Ternera salteada con verdura picante,Offer,6.8,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+9,9,MenuItem,Ternera sobre bandeja quemada,Offer,7.5,EUR,Ternera,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya

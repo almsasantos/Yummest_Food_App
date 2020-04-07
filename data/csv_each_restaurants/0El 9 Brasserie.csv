@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,tartar de atún,Offer,19.0,EUR,Entrante,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie
+1,1,MenuItem,"burrata, rúcula y trufa",Offer,15.8,EUR,Entrante,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie
+2,2,MenuItem,parrillada de verduras con queso de cabra,Offer,16.5,EUR,Entrante,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie
+3,3,MenuItem,Alcachofas tostadas en sartén,Offer,14.9,EUR,Entrante,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie
+4,4,MenuItem,Revolconas con torreznos a baja temperatura,Offer,13.9,EUR,Entrante,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie
+5,5,MenuItem,Huevos de corral con chistorra,Offer,13.9,EUR,Entrante,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie

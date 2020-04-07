@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Aperitivo,APERITIVO DEL CHEF Y PISCO SOUR,Menú MENÚ DEGUSTACIÓN EN 5 PASOS 29 €,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+1,1,MenuItem,Entrante,CEVICHE EN MIXTURAS,Menú MENÚ DEGUSTACIÓN EN 5 PASOS 29 €,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+2,2,MenuItem,Segundo entrante,"CANELÓN DE AJÍ DE GALLINA, GRATÉN DE ROCOTO Y QUESO MANCHEGO",Menú MENÚ DEGUSTACIÓN EN 5 PASOS 29 €,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+3,3,MenuItem,Plato,BACALAO AL PIL-PIL DE CILANTRO Y FETUCCINI DE CALABACÍN,Menú MENÚ DEGUSTACIÓN EN 5 PASOS 29 €,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+4,4,MenuItem,Segundo plato,SECRETO IBÉRICO D.O. LOS PEDROCHES CON PATATA Y MANZANA CONFITADA,Menú MENÚ DEGUSTACIÓN EN 5 PASOS 29 €,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+5,5,MenuItem,Postre,POSTRE ARTESANO EN DOS TEXTURAS,Menú MENÚ DEGUSTACIÓN EN 5 PASOS 29 €,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid

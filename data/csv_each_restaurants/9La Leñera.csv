@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cogote de merluza al pincho,Offer,23.5,EUR,Pescados al carbón de encina y su bilbaína suave,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+1,1,MenuItem,Rape de tripa negra a las brasas,Offer,23.5,EUR,Pescados al carbón de encina y su bilbaína suave,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+2,2,MenuItem,Rodaballo a la brasa,Offer,26.0,EUR,Pescados al carbón de encina y su bilbaína suave,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera

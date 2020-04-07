@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+1,1,MenuItem,Copa de champán,,,,Bebidas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+2,2,MenuItem,Café,Offer,1.3,EUR,Bebidas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+3,3,MenuItem,Botella de agua,Offer,2.0,EUR,Bebidas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+4,4,MenuItem,Media botella de agua,,,,Bebidas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+5,5,MenuItem,Botella de vino,Offer,5.5,EUR,Bebidas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+6,6,MenuItem,Copa de vino,Offer,1.5,EUR,Bebidas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza

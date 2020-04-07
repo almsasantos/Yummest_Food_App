@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primeros,- Empanada Gallega\n- Zamburiñas con Volaban de Gulas.\n- Almejas al Albariño\n- Lacón a la Gallega,RUTA GALLEGA,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Segundo plato a elegir,- Chuletas de Cordero Lechal\n- Lomo de Ternera Gallega con Pimientos del Padrón\n- Bacalao Gratén con Ali-Oli de Miel de Biomorto y Cebolla Caramelizada,RUTA GALLEGA,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Postre a elegir,- Filloa Gallega\n- Tarta Santiago,RUTA GALLEGA,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Bebida,Vino Tinto de la Casa - Blanco Ribeiro\n(1 botella/ 2 personas),RUTA GALLEGA,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

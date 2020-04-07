@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tocino de cielo al caramelo y nata montada casera de mi madre,Offer,6.05,EUR,Postre,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+1,1,MenuItem,Filloas crujientes rellenas de crema pastelera,Offer,6.0,EUR,Postre,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+2,2,MenuItem,Frutos rojos al P.X. en caliente con crema helada de nata o yogurt,Offer,6.0,EUR,Postre,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna

@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sashami tartar de atún con aguacate.,Offer,11.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+1,1,MenuItem,Sashami tartar de salmón con trufa.,Offer,10.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+2,2,MenuItem,Nigiri de salmón y aguacate 2 piezas.,Offer,4.0,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+3,3,MenuItem,Shusi tartar de atún 2 piezas.,Offer,5.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+4,4,MenuItem,"Tuna roll (atún, aguacate envuelto de sésamo) 8 piezas.",Offer,7.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+5,5,MenuItem,"Sake uramaki (salmón, aguacate, queso philadelphia envuelto de salmón) 8 piezas.",Offer,8.0,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+6,6,MenuItem,"Maki de pato crujiente (pato, pepino y cebollino evuelto de sésamo y fino de algas) 8 piezas.",Offer,8.0,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+7,7,MenuItem,"Mango roll (salmón, mango y queso philadelphia envuelto de sésamo) 8 piezas.",Offer,7.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+8,8,MenuItem,"Roll salmón tostado (surimi, goma wakame envuelto de almón tostado con cebollino) 8 piezas.",Offer,8.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+9,9,MenuItem,"Fresh roll ikura (salmón, ikura y aguacate con queso y cebollino) 8 piezas.",Offer,8.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+10,10,MenuItem,Temaki de anguila con aguacate y queso philadelphia 1 pieza.,Offer,5.0,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+11,11,MenuItem,"Temaki de pato (pato, pepino y cebollino) 1 pieza.",Offer,4.5,EUR,Principales,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi

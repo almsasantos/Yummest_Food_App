@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rabo de toro,Offer,13.5,EUR,Plato,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+1,1,MenuItem,Muslitos de codorniz (16 unidades),Offer,20.0,EUR,Plato,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+2,2,MenuItem,Pulpo a la gallega,Offer,18.5,EUR,Plato,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+3,3,MenuItem,Entrecot de carne roja,Offer,17.0,EUR,Plato,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+4,4,MenuItem,Carrillada de ternera al vino tinto,Offer,13.5,EUR,Plato,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+5,5,MenuItem,Carpaccio de buey con virutas de parmesano,Offer,12.5,EUR,Plato,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+6,6,MenuItem,Carpaccio de bacalao con virutas de parmesano,Offer,12.5,EUR,Plato,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito

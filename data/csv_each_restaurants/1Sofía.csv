@@ -1,0 +1,21 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico,Offer,18.0,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+1,1,MenuItem,Queso de oveja,Offer,12.0,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+2,2,MenuItem,Lomo ibérico,Offer,18.0,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+3,3,MenuItem,Chorizo a la brasa,Offer,8.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+4,4,MenuItem,Lacón a la gallega,Offer,10.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+5,5,MenuItem,Callos a la madrileña,Offer,12.0,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+6,6,MenuItem,Oreja a la plancha,Offer,9.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+7,7,MenuItem,Calamares a la romana,Offer,9.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+8,8,MenuItem,"Croquetas de bacalao, pollo o jamón",Offer,9.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+9,9,MenuItem,Ensaladilla rusa,Offer,7.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+10,10,MenuItem,Ensalada mixta de la casa,Offer,7.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+11,11,MenuItem,Huevos estrellados con jamón ibéricoy padrón,Offer,9.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+12,12,MenuItem,Champiñon al ajillo con jamón,Offer,9.0,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+13,13,MenuItem,Parrillada de verduras naturales,Offer,10.0,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+14,14,MenuItem,Pulpo a la gallega,Offer,16.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+15,15,MenuItem,Pulpo con gambas,Offer,18.0,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+16,16,MenuItem,Pimiento de padrón,Offer,8.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+17,17,MenuItem,Patatas bravas o Ali-Oli,Offer,5.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+18,18,MenuItem,Patatas mixtas ( bravas y Ali-Oli),Offer,8.5,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+19,19,MenuItem,Tortilla española ( pincho),Offer,2.8,EUR,Raciones,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía

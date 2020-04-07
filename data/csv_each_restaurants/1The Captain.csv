@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,The captain club sandwich,Offer,15,EUR,CON LAS MANOS,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+1,1,MenuItem,"Hamburguesa 100% vacuno (220 gr) a la parrilla con compota de tomate, cebolla asada y queso cheddar",Offer,17,EUR,CON LAS MANOS,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+2,2,MenuItem,Nuestro perrito “The Captain”,Offer,15,EUR,CON LAS MANOS,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain

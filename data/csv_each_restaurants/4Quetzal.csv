@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+5,5,MenuItem,Botella de vino,Offer,18.0,EUR,Bebidas,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal

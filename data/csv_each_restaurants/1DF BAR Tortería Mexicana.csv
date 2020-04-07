@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos con Guacamole,Offer,11.0,EUR,Entrante,8.9,"""Mexicano""","""Calle León","""geo"":{""latitude"":40.4128966,""longitude"":-3.6992373",DF BAR Tortería Mexicana
+1,1,MenuItem,Chilaquiles Rojos,Offer,6.5,EUR,Entrante,8.9,"""Mexicano""","""Calle León","""geo"":{""latitude"":40.4128966,""longitude"":-3.6992373",DF BAR Tortería Mexicana
+2,2,MenuItem,Tacos de Pollo Ahogados (Con consomé y salsa de la casa),Offer,6.5,EUR,Entrante,8.9,"""Mexicano""","""Calle León","""geo"":{""latitude"":40.4128966,""longitude"":-3.6992373",DF BAR Tortería Mexicana

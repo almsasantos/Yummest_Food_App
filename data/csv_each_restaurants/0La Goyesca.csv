@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la gallega,Offer,17,EUR,Entrante,8,"""Asturiano""","""C","""geo"":{""latitude"":40.420326982627,""longitude"":-3.6744699478149",La Goyesca
+1,1,MenuItem,Croquetas caseras,Offer,8,EUR,Entrante,8,"""Asturiano""","""C","""geo"":{""latitude"":40.420326982627,""longitude"":-3.6744699478149",La Goyesca
+2,2,MenuItem,Huevos rotos con jamón ibérico,Offer,16,EUR,Entrante,8,"""Asturiano""","""C","""geo"":{""latitude"":40.420326982627,""longitude"":-3.6744699478149",La Goyesca

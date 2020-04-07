@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot a la Plancha con Fritas y Pimientos de Padrón,Offer,16.0,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza
+1,1,MenuItem,Brochetas de Pollo con Fritas,Offer,10.5,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza
+2,2,MenuItem,Solomillo de Ternera con Fritas,Offer,16.0,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza
+3,3,MenuItem,Hamburguesa de Buey Rústica con Fritas,Offer,8.5,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza
+4,4,MenuItem,Tosta de Solomillo de Ternera con Brie,Offer,9.5,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza
+5,5,MenuItem,Tosta de Gulas y Gambas,Offer,5.5,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza
+6,6,MenuItem,Tosta de Lomo Ibérico con Confitura de Pimiento Verde,Offer,4.7,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza
+7,7,MenuItem,"Tosta de Jamón Ibérico, Brie y Espárragos Trigueros",Offer,5.5,EUR,Plato,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4478468,""longitude"":-3.7845674",El Vagón de la Cerveza

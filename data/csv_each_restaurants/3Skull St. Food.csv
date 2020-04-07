@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante a elegir:,Entrante a elegir entre 5 opciones.,Menú del día,8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food
+1,1,MenuItem,Plato principal (a elegir):,Plato principal a elegir entre 5 opciones.,Menú del día,8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food
+2,2,MenuItem,Postre (a elegir):,Postre a elegir entre 3 opciones.,Menú del día,8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food
+3,3,MenuItem,Bebida,A elegir:\n- Copa de vino\n- Caña.\n- Refresco\n- Botella de agua,Menú del día,8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food

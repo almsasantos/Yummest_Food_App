@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la brasa con Alioli suave,Offer,20.5,EUR,CAPRICHOS DEL MAR,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,Pulpo con cachelos al aceite de pimentón de La Vera,Offer,20.5,EUR,CAPRICHOS DEL MAR,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+2,2,MenuItem,"Tartar de atún rojo con cassé de tomate, aguacate, alga wakame y sésamo tostado",Offer,23.5,EUR,CAPRICHOS DEL MAR,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Mixta:,Offer,5.75,EUR,Ensalada / Salad:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+1,1,MenuItem,Ensalada Especial Himalayan:,Offer,7.25,EUR,Ensalada / Salad:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan

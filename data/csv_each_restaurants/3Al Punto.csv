@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak Tartar con patatas souffle,Offer,23.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+1,1,MenuItem,Solomillo a la Brasa o con Foie en salsa de Trufas,Offer,23.5,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+2,2,MenuItem,Villagodio de vacuno a la brasa de encinas,Offer,22.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+3,3,MenuItem,Cochinillo Lechal Confitado y Crujiente,Offer,22.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+4,4,MenuItem,Chuletitas o riñones de Lechal a la brasa,Offer,20.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+5,5,MenuItem,Carpaccio de lomo con rúcula y parmesano,Offer,20.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+6,6,MenuItem,Magret de Pato en Salsa Maracuya,Offer,16.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+7,7,MenuItem,Goulash de ciervo con setas de temporada,Offer,18.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+8,8,MenuItem,Hamburguesa de Wagyu con guarnición,Offer,18.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+9,9,MenuItem,Albóndigas de ternera caseras,Offer,16.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+10,10,MenuItem,Pimientos de Padrón,Offer,7.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto
+11,11,MenuItem,Patatas Souffle,Offer,7.0,EUR,CARNES,8.9,"""Mediterráneo""","""Avenida Machupichu","""geo"":{""latitude"":40.461118066486,""longitude"":-3.6345798969269",Al Punto

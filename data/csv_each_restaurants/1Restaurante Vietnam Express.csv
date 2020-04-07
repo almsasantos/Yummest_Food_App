@@ -1,0 +1,7 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Pho Bo / Ga,Offer,9.5,EUR,Principales,8.6,"""Vietnamita""","""Calle de Bretón de los Herreros","""geo"":{""latitude"":40.4395428,""longitude"":-3.6963787",Vietnam
+1,1,1,MenuItem,Bun Bo,Offer,9.9,EUR,Principales,8.6,"""Vietnamita""","""Calle de Bretón de los Herreros","""geo"":{""latitude"":40.4395428,""longitude"":-3.6963787",Vietnam
+2,2,2,MenuItem,Com Chien,Offer,8.9,EUR,Principales,8.6,"""Vietnamita""","""Calle de Bretón de los Herreros","""geo"":{""latitude"":40.4395428,""longitude"":-3.6963787",Vietnam
+3,3,3,MenuItem,Ca Ri Chay,Offer,12.9,EUR,Principales,8.6,"""Vietnamita""","""Calle de Bretón de los Herreros","""geo"":{""latitude"":40.4395428,""longitude"":-3.6963787",Vietnam
+4,4,4,MenuItem,Com Tam,Offer,13.9,EUR,Principales,8.6,"""Vietnamita""","""Calle de Bretón de los Herreros","""geo"":{""latitude"":40.4395428,""longitude"":-3.6963787",Vietnam
+5,5,5,MenuItem,Ca Ri Vietnamita,Offer,14.9,EUR,Principales,8.6,"""Vietnamita""","""Calle de Bretón de los Herreros","""geo"":{""latitude"":40.4395428,""longitude"":-3.6963787",Vietnam

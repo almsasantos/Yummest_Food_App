@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Helado de té,Offer,4.95,EUR,Postre,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+1,1,MenuItem,Plátano temporizado relleno de judías rojas,Offer,5.5,EUR,Postre,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+2,2,MenuItem,Mochi (pastel de arros relleno de judias rojas),Offer,4.95,EUR,Postre,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ají de gallina,Offer,15,EUR,Comida criolla,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+1,1,MenuItem,Seco a la norteña,Offer,17,EUR,Comida criolla,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+2,2,MenuItem,Lomo saltado,Offer,17,EUR,Comida criolla,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+3,3,MenuItem,Tacu tacu a lo pobre,Offer,17,EUR,Comida criolla,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+4,4,MenuItem,Tacu tacu con salsa de mariscos,Offer,15,EUR,Comida criolla,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid

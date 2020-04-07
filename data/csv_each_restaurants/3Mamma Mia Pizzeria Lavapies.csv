@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+2,2,MenuItem,Café,,,,Bebidas,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+4,4,MenuItem,Media botella de agua,Offer,1.5,EUR,Bebidas,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+5,5,MenuItem,Botella de vino,,,,Bebidas,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+6,6,MenuItem,Copa de vino,,,,Bebidas,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies

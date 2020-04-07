@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante a compartir,Jamón Ibérico de Guijuelo\nCogollos de Tudela con ventresca\nGambón XL a la parrilla,Menú Especial,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie
+1,1,MenuItem,Plato principal,Chuletón de vaca madurada trinchado ( 1 kg ) con patatas fritas y padrón,Menú Especial,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie
+2,2,MenuItem,Postre,Tarta de manzana caliente con helado de vainilla,Menú Especial,8.4,"""Español""","""Paseo de las Acacias","""geo"":{""latitude"":40.4023031,""longitude"":-3.7109932",El 9 Brasserie

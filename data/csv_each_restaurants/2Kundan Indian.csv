@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Murg Tandoori,Offer,13.95,EUR,Tandoori,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+1,1,MenuItem,Murg Tikka,Offer,7.25,EUR,Tandoori,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+2,2,MenuItem,Murg Malai Tikka,Offer,14.95,EUR,Tandoori,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+3,3,MenuItem,Tangri Kebab,Offer,7.95,EUR,Tandoori,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+4,4,MenuItem,Jhinga Tandoori,Offer,10.5,EUR,Tandoori,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian

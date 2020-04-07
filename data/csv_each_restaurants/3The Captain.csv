@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crumb de manzana y arándanos con helado de vainilla,Offer,6,EUR,POSTRES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+1,1,MenuItem,Crème brûlée con calabaza al carbón,Offer,5,EUR,POSTRES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+2,2,MenuItem,Brownie de chocolate & nueces con 3 helados,Offer,7,EUR,POSTRES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+3,3,MenuItem,Tarta de queso con compota de fresas y frutos rojos casera,Offer,5,EUR,POSTRES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain
+4,4,MenuItem,Helados variados,Offer,5,EUR,POSTRES,8.8,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4239523,""longitude"":-3.6852951",The Captain

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flores de calabacín rellenas de patata revolcona,Offer,12,EUR,Opción vegana,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+1,1,MenuItem,Borchetas de brócoli BBQ,Offer,9,EUR,Opción vegana,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+2,2,MenuItem,Tabla de verduras agripicantes,Offer,10,EUR,Opción vegana,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona

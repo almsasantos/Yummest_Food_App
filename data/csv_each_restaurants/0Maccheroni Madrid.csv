@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mortadella DOC,Offer,9,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+1,1,MenuItem,Bresaola con rúcula y parmesano,Offer,10,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+2,2,MenuItem,Burrata de bufala con tomate datterino y albahaca,Offer,10,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+3,3,MenuItem,Burrata de bufala con pesto,Offer,10,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+4,4,MenuItem,Burrata de bufala con trufa negra,Offer,12,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+5,5,MenuItem,Stracciatella con trufa negra,Offer,12,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+6,6,MenuItem,Patatitas con salmón ahumado y salsa holandesa,Offer,12,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+7,7,MenuItem,Salumi e formaggio,Offer,12,EUR,Antipasto,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid

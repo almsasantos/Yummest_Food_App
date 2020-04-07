@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza a la brasa,Offer,16.5,EUR,Pescados,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique
+1,1,MenuItem,Taco atún rojo,Offer,22.0,EUR,Pescados,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique
+2,2,MenuItem,Arenque marinado,Offer,12.5,EUR,Pescados,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique

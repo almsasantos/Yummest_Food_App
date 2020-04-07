@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletas de cordero lechal,Offer,18.0,EUR,Carnes,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+1,1,MenuItem,"Presa Ibérica, 5 Jotas, a la parrilla con patatas revolconas",Offer,18.0,EUR,Carnes,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+2,2,MenuItem,Solomillo a la parrilla de vaca rubia,Offer,22.5,EUR,Carnes,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+3,3,MenuItem,Solomillo con foie sobre cama de setas,Offer,23.0,EUR,Carnes,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+4,4,MenuItem,Entrecot a la parrilla de carbón,Offer,17.0,EUR,Carnes,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+5,5,MenuItem,Paletilla asada de cordero lechal,Offer,23.0,EUR,Carnes,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco

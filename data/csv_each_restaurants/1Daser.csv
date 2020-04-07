@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Daser,Offer,12.0,EUR,Ensaladas,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+1,1,MenuItem,Ensalada de pimiento con ventresca,Offer,15.0,EUR,Ensaladas,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+2,2,MenuItem,Alcachofas en flor a la plancha,Offer,14.5,EUR,Ensaladas,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+3,3,MenuItem,Berenjenas a la romana con miel de caña,Offer,12.5,EUR,Ensaladas,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser

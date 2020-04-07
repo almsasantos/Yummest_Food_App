@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Servicio de pan y aperitivo,Offer,2.5,EUR,Entrantes para compartir,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+1,1,MenuItem,Jamón Ibérico de Bellota,Offer,23.5,EUR,Entrantes para compartir,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+2,2,MenuItem,Queso curado de oveja,Offer,11.5,EUR,Entrantes para compartir,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+3,3,MenuItem,Caña de Lomo Ibérico de Bellota,Offer,21.0,EUR,Entrantes para compartir,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+4,4,MenuItem,Pulpo a a la Gallega con Cachelos,Offer,19.5,EUR,Entrantes para compartir,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco

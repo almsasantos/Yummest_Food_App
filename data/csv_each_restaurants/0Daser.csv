@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fajitas de carpaccio de buey con rúcula,Offer,13.9,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+1,1,MenuItem,Alcachofas rellenas de carne con crema de espinaca,Offer,13.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+2,2,MenuItem,Huevos rotos con jamón ibérico,Offer,16.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+3,3,MenuItem,Pulpo a la gallega con cachelos o revolcona,Offer,19.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+4,4,MenuItem,Tortillas de camarón,Offer,12.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+5,5,MenuItem,Lacón a la gallega,Offer,11.0,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+6,6,MenuItem,Saquitos de provolone con confitura de tomate,Offer,9.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+7,7,MenuItem,Alitas de pollo fritas,Offer,12.0,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+8,8,MenuItem,Jamón ibérico con picos al Jerez,Offer,22.0,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+9,9,MenuItem,Calamares a la andaluza,Offer,11.0,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+10,10,MenuItem,Sepia a la plancha con ali oli,Offer,12.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+11,11,MenuItem,Croquetas caseras de boletus,Offer,9.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser
+12,12,MenuItem,Nuestra oreja a la plancha,Offer,9.5,EUR,Para compartir,8.6,"""Español""","""Calle de Diego de León","""geo"":{""latitude"":40.4344435,""longitude"":-3.6771922",Daser

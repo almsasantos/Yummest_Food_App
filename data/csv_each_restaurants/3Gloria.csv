@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheesecake,Offer,4.9,EUR,Postre,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+1,1,MenuItem,Tarta de Manzana,Offer,4.5,EUR,Postre,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+2,2,MenuItem,Yogurt con salsa de Arándanos,Offer,3.9,EUR,Postre,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+3,3,MenuItem,Pudin - Flan,Offer,3.5,EUR,Postre,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+4,4,MenuItem,tentación de chocolate,Offer,4.9,EUR,Postre,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+5,5,MenuItem,Tarta de zanahoria,Offer,4.9,EUR,Postre,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria

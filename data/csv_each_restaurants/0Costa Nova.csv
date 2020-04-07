@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Almejas al vapor,Offer,10.9,EUR,Entrante,None,"""Portugués""","""calle aguetol","""geo"":{""latitude"":40.4702349,""longitude"":-3.5831416",Costa Nova
+1,1,MenuItem,Morcilla con puré de manzana y cebolla caramelizada,Offer,9.9,EUR,Entrante,None,"""Portugués""","""calle aguetol","""geo"":{""latitude"":40.4702349,""longitude"":-3.5831416",Costa Nova
+2,2,MenuItem,Buñuelos de bacalao caseros,Offer,10.9,EUR,Entrante,None,"""Portugués""","""calle aguetol","""geo"":{""latitude"":40.4702349,""longitude"":-3.5831416",Costa Nova

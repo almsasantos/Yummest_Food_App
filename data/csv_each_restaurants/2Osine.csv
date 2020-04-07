@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Natillas caseras,Offer,4,EUR,Postre,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine
+1,1,MenuItem,Arroz con leche,Offer,4,EUR,Postre,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine
+2,2,MenuItem,"Tartas (queso con arándanos, Santiago)",Offer,4,EUR,Postre,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine

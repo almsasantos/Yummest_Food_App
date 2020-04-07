@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche,Offer,4.5,EUR,Postre,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+1,1,MenuItem,Crepe,Offer,4.5,EUR,Postre,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+2,2,MenuItem,Coulant de chocolate,Offer,4.5,EUR,Postre,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus

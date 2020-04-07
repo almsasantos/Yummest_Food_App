@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Siopa miso,Offer,4.35,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+1,1,MenuItem,Gyoza de langostino y verduras (6 unidades),Offer,7.95,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+2,2,MenuItem,Gyoza de pollo y verduras (6 unidades),Offer,6.95,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+3,3,MenuItem,Gyoza de rabo de toro y foie (6 unidades),Offer,9.95,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+4,4,MenuItem,Yasai Tempura,Offer,9.95,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+5,5,MenuItem,Ebi mayo langostino tigre temporizado con caviar de arroz,Offer,12.95,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+6,6,MenuItem,Tempura mixta,Offer,12.95,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+7,7,MenuItem,Ceviche,Offer,13.95,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+8,8,MenuItem,Takoyaki (4 unidades),Offer,4.85,EUR,Entrantes,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar

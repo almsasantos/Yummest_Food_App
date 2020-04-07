@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rollito de chocolate,Offer,5.8,EUR,Postre,8,"""Asiático""","""Calle del Eucalipto","""geo"":{""latitude"":40.4535399,""longitude"":-3.66468",Xiang Asia
+1,1,MenuItem,Yukimi especial,Offer,5.8,EUR,Postre,8,"""Asiático""","""Calle del Eucalipto","""geo"":{""latitude"":40.4535399,""longitude"":-3.66468",Xiang Asia
+2,2,MenuItem,Tarta de queso a la naranja,Offer,4.3,EUR,Postre,8,"""Asiático""","""Calle del Eucalipto","""geo"":{""latitude"":40.4535399,""longitude"":-3.66468",Xiang Asia

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lubina a la brasa con salsa donostiarra,Offer,19,EUR,DEL MAR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,Lubina gratinada en salsa holandesa sobre cama de patatas,Offer,17,EUR,DEL MAR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+2,2,MenuItem,Bacalao a la brasa sobre wok de verduritas,Offer,16,EUR,DEL MAR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+3,3,MenuItem,Bacalao confitado sobre pilpil de calabaza y mango,Offer,16,EUR,DEL MAR,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

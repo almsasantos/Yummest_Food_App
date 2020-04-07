@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rabo de toro estofado al vino tinto sobre compota de manzana asada,Offer,16,EUR,CARNES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+1,1,MenuItem,Solomillo de ternera con salsa de trufa y foie con pastel de patata,Offer,22,EUR,CARNES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+2,2,MenuItem,Steak tartar de solomillo con huevo de codorniz y crema de jalapeño,Offer,21,EUR,CARNES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+3,3,MenuItem,Carrillera de ternera asada con mojo de estragón y cominos,Offer,18,EUR,CARNES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine

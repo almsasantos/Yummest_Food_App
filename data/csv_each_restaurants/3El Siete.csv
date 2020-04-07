@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Fórmula 12.50 €,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+1,1,MenuItem,Plato,Fórmula 12.50 €,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+2,2,MenuItem,Postre,Fórmula 12.50 €,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+3,3,MenuItem,Bebidas,Fórmula 12.50 €,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete

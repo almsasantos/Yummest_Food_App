@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas caseras,Offer,7.0,EUR,Entrante,None,"""Español""","""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Cervecería YPUNTO
+1,1,MenuItem,Tortilla de patatas,Offer,8.0,EUR,Entrante,None,"""Español""","""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Cervecería YPUNTO
+2,2,MenuItem,Fingers de Pollo,Offer,7.5,EUR,Entrante,None,"""Español""","""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Cervecería YPUNTO

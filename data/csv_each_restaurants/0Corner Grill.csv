@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lágrimas de pollo,Offer,9.5,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+1,1,MenuItem,Croquetas caseras,Offer,10.0,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+2,2,MenuItem,Nachos con queso,Offer,8.75,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+3,3,MenuItem,Tabla de quesos,Offer,13.0,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+4,4,MenuItem,Tataki de atún,Offer,15.0,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+5,5,MenuItem,Ensalada de Ventresca de atún,Offer,12.5,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+6,6,MenuItem,Ensalada César,Offer,9.5,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+7,7,MenuItem,Ensalada Caprese,Offer,10.9,EUR,Entrante,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill

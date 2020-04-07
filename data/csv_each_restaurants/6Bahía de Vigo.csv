@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sorbete de limón al cava,Offer,4.5,EUR,Postres,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+1,1,MenuItem,Tartas variadas,Offer,4.5,EUR,Postres,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+2,2,MenuItem,Púding,Offer,4.5,EUR,Postres,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+3,3,MenuItem,Flan de la casa,Offer,4.5,EUR,Postres,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+4,4,MenuItem,Pazakillo,Offer,4.5,EUR,Postres,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo

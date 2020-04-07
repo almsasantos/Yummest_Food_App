@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de tomate seco y queso Idiazábal,Offer,8.7,EUR,Las croquetas de mi madre,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+1,1,MenuItem,Croquetas de pollo a la cerveza negra,Offer,8.7,EUR,Las croquetas de mi madre,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+2,2,MenuItem,Croquetas clásicas de jamón,Offer,8.7,EUR,Las croquetas de mi madre,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+3,3,MenuItem,Croquetas variadas,Offer,8.7,EUR,Las croquetas de mi madre,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería

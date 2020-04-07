@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Helado de torrija en tempura,Offer,5.5,EUR,Helados ecológicos,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+1,1,MenuItem,Helado de té verde matcha con stracciatella de chocolate,Offer,4.5,EUR,Helados ecológicos,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+2,2,MenuItem,Helado de wasabi con stracciatella de chocolate blanco,Offer,4.5,EUR,Helados ecológicos,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+3,3,MenuItem,Helado de sorbete de limón con hierbabuena,Offer,4.5,EUR,Helados ecológicos,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+4,4,MenuItem,Mini polos artesanos de fruta natural (2 und),Offer,3.0,EUR,Helados ecológicos,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel

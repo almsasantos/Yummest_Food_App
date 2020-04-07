@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TAGIN DE CORDERO,Offer,12,EUR,SEGUNDOS,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara
+1,1,MenuItem,COUS-COUS DE POLLO,Offer,12,EUR,SEGUNDOS,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara
+2,2,MenuItem,Pastela de marisco o de pollo .( minimo 2P ),Offer,16,EUR,SEGUNDOS,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara
+3,3,MenuItem,TAGIN DE PESCADO ( MINIMO 2P),Offer,18,EUR,SEGUNDOS,9.3,"""Marroquí""","""Calle Alto del León","""geo"":{""latitude"":40.3997588,""longitude"":-3.6599229",Zahara

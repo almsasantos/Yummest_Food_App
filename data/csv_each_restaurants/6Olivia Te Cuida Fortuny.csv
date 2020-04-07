@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+5,5,MenuItem,Botella de vino,Offer,18.0,EUR,Bebidas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny

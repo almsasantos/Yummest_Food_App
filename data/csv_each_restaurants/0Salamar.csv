@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico de Bellota,Offer,19,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+1,1,MenuItem,Queso Manchego,Offer,13,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+2,2,MenuItem,Croquetas de Marisco,Offer,11,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+3,3,MenuItem,Anchoas de Santoña,Offer,15,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+4,4,MenuItem,Pulpo a la Gallega o Brasa,Offer,17,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+5,5,MenuItem,Navajas a la Plancha,Offer,12,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+6,6,MenuItem,Almejas a la Marinera o al Ajillo,Offer,17,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+7,7,MenuItem,Berberechos al Vapor,Offer,13,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+8,8,MenuItem,Mejillones al Vapor,Offer,10,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+9,9,MenuItem,Zamburiñas de la Ría plancha,Offer,15,EUR,Para empezar,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken samosa (hojas de hojaldre rellenas de pollo con especias y sofrito),Offer,5.2,EUR,Entrante,9,"""Indio""","""C","""geo"":{""latitude"":40.418041369266,""longitude"":-3.6735899448395",Fathe Pur
+1,1,MenuItem,Onion bhaji (cebolla rebozada en harina de garbanzo),Offer,5.2,EUR,Entrante,9,"""Indio""","""C","""geo"":{""latitude"":40.418041369266,""longitude"":-3.6735899448395",Fathe Pur
+2,2,MenuItem,Prawn puri (gambas cocidas con especias suaves y servidas con pan crujiente),Offer,7.5,EUR,Entrante,9,"""Indio""","""C","""geo"":{""latitude"":40.418041369266,""longitude"":-3.6735899448395",Fathe Pur

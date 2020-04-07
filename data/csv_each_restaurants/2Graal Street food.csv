@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tradicional,Offer,12.5,EUR,Pepitos ((escoge tu carne y van acompañadas con patatas Graal)),8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+1,1,MenuItem,Graal,Offer,13.9,EUR,Pepitos ((escoge tu carne y van acompañadas con patatas Graal)),8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+2,2,MenuItem,Ranchero,Offer,13.9,EUR,Pepitos ((escoge tu carne y van acompañadas con patatas Graal)),8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+3,3,MenuItem,Tucacas Beach,Offer,13.9,EUR,Pepitos ((escoge tu carne y van acompañadas con patatas Graal)),8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+4,4,MenuItem,4 Quesos,Offer,13.9,EUR,Pepitos ((escoge tu carne y van acompañadas con patatas Graal)),8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+5,5,MenuItem,Pepiteque (Pan de Tequeño),Offer,17.5,EUR,Pepitos ((escoge tu carne y van acompañadas con patatas Graal)),8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food

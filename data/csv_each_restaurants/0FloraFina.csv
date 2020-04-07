@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Paté de alcachofas, albahaca, pistachos, AOVE y un toque de lima",Offer,8.5,EUR,Entrantes,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+1,1,MenuItem,Hummus con crujiente de pan pita,Offer,7.5,EUR,Entrantes,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+2,2,MenuItem,Guacamole al Estilo Acapulco con sus Nachos y Jalapeños,Offer,11.0,EUR,Entrantes,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+3,3,MenuItem,Croquetas de ave con setas y cebolla caramelizada con ali-oli de yogur,Offer,8.5,EUR,Entrantes,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina
+4,4,MenuItem,"Burrata con Higos, Peras, Piñones y Vinagreta de Frutos Rojos",Offer,14.0,EUR,Entrantes,8.1,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4269345,""longitude"":-3.6873346",FloraFina

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ferni (Arroz con Leche),Offer,1.5,EUR,Postres Indios,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+1,1,MenuItem,Tarta de Coco,Offer,1.5,EUR,Postres Indios,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+2,2,MenuItem,Gulab Jamun,Offer,1.5,EUR,Postres Indios,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+3,3,MenuItem,Mango Lassi,Offer,2.5,EUR,Postres Indios,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+4,4,MenuItem,Lassi Dulce,Offer,1.5,EUR,Postres Indios,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche a elegir,Offer,12.0,EUR,Plato,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+1,1,MenuItem,Sepia a la plancha,Offer,11.5,EUR,Plato,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+2,2,MenuItem,Costillas a la Barbacoa,Offer,12.0,EUR,Plato,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+3,3,MenuItem,Hamburguesa Vegetariana,Offer,5.5,EUR,Plato,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus

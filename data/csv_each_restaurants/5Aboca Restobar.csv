@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Italiana (Nutella y fresas),Offer,5.5,EUR,Crépes Dulces,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+1,1,MenuItem,Argentina (dulce de leche y galletas),Offer,5.5,EUR,Crépes Dulces,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+2,2,MenuItem,Aboca (dulce de leche con plátano),Offer,5.5,EUR,Crépes Dulces,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+3,3,MenuItem,Al Gusto (2 ingredientes a elegir),Offer,5.5,EUR,Crépes Dulces,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar

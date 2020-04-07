@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bourbon,Offer,12.5,EUR,Special burgers,9.3,"""Internacional""","""Calle Concepción Jerónima","""geo"":{""latitude"":40.4137838,""longitude"":-3.7070661",Sublime Dreams Food
+1,1,MenuItem,Veggies,Offer,10.95,EUR,Special burgers,9.3,"""Internacional""","""Calle Concepción Jerónima","""geo"":{""latitude"":40.4137838,""longitude"":-3.7070661",Sublime Dreams Food
+2,2,MenuItem,Ribs BBQ,Offer,10.95,EUR,Special burgers,9.3,"""Internacional""","""Calle Concepción Jerónima","""geo"":{""latitude"":40.4137838,""longitude"":-3.7070661",Sublime Dreams Food

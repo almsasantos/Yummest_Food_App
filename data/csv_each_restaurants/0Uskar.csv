@@ -1,0 +1,15 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de cebo campo Salamanca,Offer,19.0,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+1,1,MenuItem,Jamón de cordero segureño con IGP,Offer,10.0,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+2,2,MenuItem,Ensalada de tomate de temporada con burrata trufada,Offer,11.5,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+3,3,MenuItem,Queso curado de Mahón,Offer,13.0,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+4,4,MenuItem,Tabla de quesos de Huéscar,Offer,15.0,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+5,5,MenuItem,Papas a la huancaína,Offer,8.5,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+6,6,MenuItem,Croquetas jamón,Offer,1.2,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+7,7,MenuItem,Croquetas cecina y queso,Offer,1.3,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+8,8,MenuItem,Croquetas chipirón,Offer,1.3,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+9,9,MenuItem,Solomillitos de pollo envueltos en polvo de kikos y alga nori con salsa agridulce,Offer,10.5,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+10,10,MenuItem,Ensaladilla rusa con espuma de mayonesa,Offer,13.5,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+11,11,MenuItem,Remojón de San Antón,Offer,13.5,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+12,12,MenuItem,"Garbanzos al wok con kimchiee, queso de cabra y calabaza",Offer,12.5,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar
+13,13,MenuItem,Ajo papa con huevos fritos de Gallinas y Cobardes y trufa de temporada,Offer,20.0,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Alonso del Barco","""geo"":{""latitude"":40.404643,""longitude"":-3.7012672",Uskar

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón de Vaca Vieja a la Encina (1Kg),Offer,50.0,EUR,Carnes...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+1,1,MenuItem,Entrecote de Vaca Vieja a la Encina,Offer,22.5,EUR,Carnes...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+2,2,MenuItem,Solomillo de Vaca Vieja,Offer,24.0,EUR,Carnes...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+3,3,MenuItem,Nuestro Tradicional Rabo de Toro,Offer,21.0,EUR,Carnes...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+4,4,MenuItem,Melosa de Ternera al Vino Tinto,Offer,19.0,EUR,Carnes...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí

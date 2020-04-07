@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Corazones de alcachofas confitadas,Offer,16,EUR,De la huerta,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+1,1,MenuItem,Ensalada de perdiz escabechada,Offer,16,EUR,De la huerta,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+2,2,MenuItem,Habitas baby confitadas con huevo frito,Offer,16,EUR,De la huerta,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta

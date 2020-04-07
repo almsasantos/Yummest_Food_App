@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Macarrones o spaghettis a la boloñesa,Offer,11.5,EUR,Pasta Italiana,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+1,1,MenuItem,Raviolis rellenos de carne al pesto,Offer,12.5,EUR,Pasta Italiana,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+2,2,MenuItem,Espaguetis a la carbonara al punto de cremosidad,Offer,11.5,EUR,Pasta Italiana,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+3,3,MenuItem,Tallarines al funghi con ceps y champiñones,Offer,11.5,EUR,Pasta Italiana,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+4,4,MenuItem,"Tallarines con salsa marinera, gambas peladas y mejillones",Offer,12.5,EUR,Pasta Italiana,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor

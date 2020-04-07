@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"4 platos a elegir entre Pizzas, Pastas y Ensaladas",,,,Pasta Fresca,8.8,"""Italiano""","""Calle de Isaac Peral","""geo"":{""latitude"":40.4348587,""longitude"":-3.7181643",Massart Pizza - Moncloa
+1,1,MenuItem,Wok Thai,Offer,12.0,EUR,Pasta Fresca,8.8,"""Italiano""","""Calle de Isaac Peral","""geo"":{""latitude"":40.4348587,""longitude"":-3.7181643",Massart Pizza - Moncloa
+2,2,MenuItem,Ravioli de calabaza,Offer,11.5,EUR,Pasta Fresca,8.8,"""Italiano""","""Calle de Isaac Peral","""geo"":{""latitude"":40.4348587,""longitude"":-3.7181643",Massart Pizza - Moncloa

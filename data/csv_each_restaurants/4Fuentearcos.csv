@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tournedó de solomillo de vaca Premium a la parrilla de carbón,Offer,17,EUR,DE LA TIERRA,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,Solomillo de vaca Premium al foie,Offer,20,EUR,DE LA TIERRA,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+2,2,MenuItem,Entrecotte de ternera asturiana a la parrilla de carbón,Offer,17,EUR,DE LA TIERRA,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+3,3,MenuItem,Cochinillo confitado al aroma de romero sobre revolconas,Offer,17,EUR,DE LA TIERRA,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+4,4,MenuItem,Chuletitas de Lecahl con patatas paja y pimientos de Padrón,Offer,18,EUR,DE LA TIERRA,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+5,5,MenuItem,Hamburguesa Gourmet (vaca 100%) con pan brioche y confitura de tomate,Offer,14,EUR,DE LA TIERRA,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+6,6,MenuItem,"Solomillo Ibérico a la brasa con emulsión de naranja, soja y jengibre",Offer,16,EUR,DE LA TIERRA,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

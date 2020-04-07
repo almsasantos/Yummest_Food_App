@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sashimi salmón (8 uds),Offer,11.9,EUR,"Tartar, Tiraditos y Sashimi",9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+1,1,MenuItem,Tartar de salmón,Offer,12.9,EUR,"Tartar, Tiraditos y Sashimi",9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+2,2,MenuItem,Tartar de atún,Offer,14.5,EUR,"Tartar, Tiraditos y Sashimi",9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+3,3,MenuItem,Tiradito de salmón salvaje,Offer,14.5,EUR,"Tartar, Tiraditos y Sashimi",9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+4,4,MenuItem,Usuzukuri de toro con pan tumaca y jamón ibérico al aceite de arbequina,Offer,14.5,EUR,"Tartar, Tiraditos y Sashimi",9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+5,5,MenuItem,Sashimi de atún con arroz inflado,Offer,14.9,EUR,"Tartar, Tiraditos y Sashimi",9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+6,6,MenuItem,Tacos de toro con kimuchi,Offer,15.9,EUR,"Tartar, Tiraditos y Sashimi",9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel

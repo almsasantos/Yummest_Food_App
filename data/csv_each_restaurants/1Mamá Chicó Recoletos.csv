@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Ventresca de atún,Offer,14.8,EUR,Ensaladas,None,None,None,Mamá Chicó Recoletos
+1,1,MenuItem,"Salmón ahumado,",Offer,15.8,EUR,Ensaladas,None,None,None,Mamá Chicó Recoletos
+2,2,MenuItem,Aguacate braseado,Offer,15.8,EUR,Ensaladas,None,None,None,Mamá Chicó Recoletos

@@ -1,0 +1,20 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusa,Offer,6,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+1,1,MenuItem,Setas salteadas con ajos tiernos y jamón,Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+2,2,MenuItem,Habitas baby con jamón y huevo frito,Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+3,3,MenuItem,Palitos de pasta brick rellenos de queso Brie y morcilla,Offer,11,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+4,4,MenuItem,Croquetas de rabo de toro con jamón ibérico,Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+5,5,MenuItem,"Nachos con chiles, carne especiada y queso cheddar",Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+6,6,MenuItem,Patatas dos salsas,Offer,7,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+7,7,MenuItem,Risotto de setas y pollo,Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+8,8,MenuItem,Huevos rotos con boletus y berenjenas,Offer,12,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+9,9,MenuItem,Huevos rotos con jamón ibérico y pimientos de Padrón,Offer,11,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+10,10,MenuItem,Huevos estrellados con chistorra y patatas fritas,Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+11,11,MenuItem,Rabas de calamar a la andaluza con salsa ali-oli,Offer,8,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+12,12,MenuItem,Tartar de atún rojo,Offer,12,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+13,13,MenuItem,Delicias de pollo,Offer,8,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+14,14,MenuItem,Salchichas alemanas con dos salsas y patatas fritas,Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+15,15,MenuItem,Tabla de jamón ibérico,Offer,21,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+16,16,MenuItem,Tabla de queso curado puro de oveja,Offer,12,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+17,17,MenuItem,Tabla mixta de jamón ibérico y queso curado,Offer,16,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+18,18,MenuItem,Chanquetes a la andaluz con huevo frito,Offer,10,EUR,Entrantes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern

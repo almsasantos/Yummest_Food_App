@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cookie de Chocolate Blanco y Frambuesa con helado de Violeta,Offer,9,EUR,Postre,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+1,1,MenuItem,Tarta de queso con jalea de limón,Offer,9,EUR,Postre,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+2,2,MenuItem,Sobao caramelizado con crema de Baileys y su helado,Offer,9,EUR,Postre,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+3,3,MenuItem,Tarta de manzana con helado de Marrón Glacé,Offer,9,EUR,Postre,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa

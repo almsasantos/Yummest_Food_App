@@ -1,0 +1,15 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla (pincho),Offer,5.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+1,1,MenuItem,Ración de hummus,Offer,9.5,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+2,2,MenuItem,Ración de hummus,Offer,10.5,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+3,3,MenuItem,Ración de hummus,Offer,8.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+4,4,MenuItem,Juego de hummus,Offer,12.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+5,5,MenuItem,Tabla de quesos,Offer,9.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+6,6,MenuItem,Quiche del día,Offer,14.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+7,7,MenuItem,Pizza,Offer,12.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+8,8,MenuItem,Ensalada,Offer,9.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+9,9,MenuItem,Provoleta,Offer,9.5,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+10,10,MenuItem,Guacamole,Offer,9.5,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+11,11,MenuItem,Berenjenas rellenas,Offer,8.5,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+12,12,MenuItem,Piropita,Offer,12.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café
+13,13,MenuItem,Cazuelita guiso de lentejas,Offer,12.0,EUR,Para comer,None,"""Mediterráneo""","""Calle de la Encomienda","""geo"":{""latitude"":40.4109227,""longitude"":-3.705192",Matilda Café

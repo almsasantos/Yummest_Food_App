@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Callos a la madrileña de la madre de Pepe Rodriguez,Offer,18,EUR,DE CUCHARA MASTERCHEF,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+1,1,MenuItem,Crema de calabaza thai con dados de calabaza caramelizada y sus pipas,Offer,15,EUR,DE CUCHARA MASTERCHEF,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+2,2,MenuItem,Guiso del día,Offer,14,EUR,DE CUCHARA MASTERCHEF,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef

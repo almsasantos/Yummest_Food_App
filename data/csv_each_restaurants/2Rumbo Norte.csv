@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nécora,Nuestros mariscos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+1,1,MenuItem,Buey de Mar,Nuestros mariscos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+2,2,MenuItem,Langostinos Cocidos / Plancha,Nuestros mariscos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,27,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+1,1,MenuItem,Toro (Ventresca de Atún),Offer,34,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+2,2,MenuItem,Pescado blanco s/m,Offer,20,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+3,3,MenuItem,Salmón,Offer,16,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+4,4,MenuItem,Calamar,Offer,20,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+5,5,MenuItem,Tataki de Atún estilo Miyama,Offer,27,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+6,6,MenuItem,Tataki de Toro estilo Miyama,Offer,35,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+7,7,MenuItem,Carpaccio de Pescado blanco,Offer,24,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+8,8,MenuItem,Variados 3 clases (a elegir),Offer,26,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+9,9,MenuItem,Variados 5 clases,Offer,37,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+10,10,MenuItem,Sashimi especial de Chef (7 clases),Offer,47,EUR,Sashimi,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja

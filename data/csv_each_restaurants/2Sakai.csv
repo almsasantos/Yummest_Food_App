@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mochi de fresa,Offer,4.85,EUR,Postre,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai
+1,1,MenuItem,Jardín de la thai,Offer,4.95,EUR,Postre,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai
+2,2,MenuItem,Crema de mango y coco,Offer,4.65,EUR,Postre,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai

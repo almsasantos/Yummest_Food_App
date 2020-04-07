@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta Napoleón,Offer,4.0,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+1,1,MenuItem,Sorbete de limón con vodka,Offer,5.0,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+2,2,MenuItem,Tarta medovik,Offer,4.0,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+3,3,MenuItem,Tarta sharlutka,Offer,4.0,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+4,4,MenuItem,Blini de chocolate y naranja,Offer,4.0,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+5,5,MenuItem,fruta de temporada,Offer,3.5,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+6,6,MenuItem,Syrniki (tortitas de requeson con arándano y nata),Offer,4.0,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+7,7,MenuItem,sorbete de mango con vodka,Offer,5.0,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+8,8,MenuItem,tarta tatiana,Offer,4.5,EUR,Postre,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú

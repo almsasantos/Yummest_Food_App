@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Bao de ternera, crudites encurtidos, salsa ácida y siracha",Offer,12.0,EUR,Carnes,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal
+1,1,MenuItem,"Ssam de cerdo conftado a baja temperatura, crudites encurtidos y hierbas aromáticas",Offer,12.0,EUR,Carnes,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal
+2,2,MenuItem,Pastel de cochinillo con espuma de patata,Offer,21.0,EUR,Carnes,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal
+3,3,MenuItem,Steak tartar ahumado con aromas de Jack Daniel´s y pan sardo,Offer,21.5,EUR,Carnes,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal
+4,4,MenuItem,Chuletón de buey,Offer,59.0,EUR,Carnes,8.3,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.415997,""longitude"":-3.7080888",Arrabal

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pastel Persa,Offer,13.9,EUR,Plato,None,"""Vegetariano""","""C","""geo"":{""latitude"":40.416365590695,""longitude"":-3.6988298892975",Artemisa Ventura de la Vega
+1,1,MenuItem,Pastel Farah Diba,Offer,14.9,EUR,Plato,None,"""Vegetariano""","""C","""geo"":{""latitude"":40.416365590695,""longitude"":-3.6988298892975",Artemisa Ventura de la Vega
+2,2,MenuItem,Supremo del Casar,Offer,15.6,EUR,Plato,None,"""Vegetariano""","""C","""geo"":{""latitude"":40.416365590695,""longitude"":-3.6988298892975",Artemisa Ventura de la Vega

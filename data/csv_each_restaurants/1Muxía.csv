@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Caldereta de Arroz con Bogavante (precio por persona, mínimo 2 personas)",Offer,14.5,EUR,Arroces,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,"Arroz Seco con Carabineros ( precio por persona, mínimo 2 personas)",Offer,18.0,EUR,Arroces,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,"Arroz con verdura y pollo ( precio por persona, mínimo 2 personas)",Offer,10.0,EUR,Arroces,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,"Fideua ( precio por persona, mínimo 2 personas)",Offer,12.0,EUR,Arroces,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche de pescados,Offer,15.4,EUR,Para Compartir,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+1,1,MenuItem,Croquetas de ibéricos,Offer,8.2,EUR,Para Compartir,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+2,2,MenuItem,Bacalao en tempura con muselina de soja y miel,Offer,12.6,EUR,Para Compartir,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+3,3,MenuItem,Huevos camperos a lo ibérico y cachelos fritos,Offer,12.2,EUR,Para Compartir,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+4,4,MenuItem,Albóndigas guisadas de carne de vacuno y boletus al Idiazabal,Offer,12.1,EUR,Para Compartir,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+5,5,MenuItem,Causa limeña de pulpo a la parrilla al aroma de achiote,Offer,12.8,EUR,Para Compartir,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid
+6,6,MenuItem,Crujientes de queso de cabra y nueces con caramelo de rocoto,Offer,6.9,EUR,Para Compartir,8.9,None,"""Calle de Raimundo Fernández Villaverde","""geo"":{""latitude"":40.446713,""longitude"":-3.696311",El Taller Restaurante Madrid

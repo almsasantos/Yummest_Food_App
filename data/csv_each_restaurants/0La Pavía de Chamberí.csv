@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,250gr. Gambas Blancas de Huelva,Offer,30.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+1,1,MenuItem,250grGambas Rojas de Denia,Offer,35.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+2,2,MenuItem,Ración de Jamón Ibérico de Bellota,Offer,24.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+3,3,MenuItem,Almejas a la Marinera,Offer,22.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+4,4,MenuItem,Anchoas de Santoña (con su pan y Tomate),Offer,19.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+5,5,MenuItem,Tortillitas de Camarones Gaditana (unidad),Offer,2.5,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+6,6,MenuItem,Nuestra Ensaladilla Pavía,Offer,12.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+7,7,MenuItem,Ensalada de Aguacate sobre cama de salmorejo y langostinos,Offer,18.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+8,8,MenuItem,Ensalada Tomate con Ventresca de Bonito,Offer,16.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+9,9,MenuItem,Dados de Pulpo a la Brasa con Patatas,Offer,21.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+10,10,MenuItem,Rabas a la Santanderina,Offer,20.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+11,11,MenuItem,Mejillones de Boiro al Vapor (Temporada),Offer,11.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+12,12,MenuItem,Huevos Rotos con Papas y Jamón Ibérico,Offer,18.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+13,13,MenuItem,Albóndigas de Rabo de Toro,Offer,19.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+14,14,MenuItem,Salmorejo Estilo Cordobés,Offer,12.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+15,15,MenuItem,Carpaccio de Foie de Oca con Sal Marina y Aceite de Trufado,Offer,23.0,EUR,Nuestra Carta al Centro,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí

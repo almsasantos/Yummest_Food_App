@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sapi Cah Brokoli,Offer,14.5,EUR,Carnes,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+1,1,MenuItem,Sapi Cah Sayur,Offer,14.5,EUR,Carnes,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+2,2,MenuItem,Sapi Kari Hijau,Offer,14.5,EUR,Carnes,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+3,3,MenuItem,Gulai Sapi,Offer,14.5,EUR,Carnes,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+4,4,MenuItem,Sapi Hot Plate,Offer,15.5,EUR,Carnes,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+5,5,MenuItem,Rendang Sapi,Offer,14.5,EUR,Carnes,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+6,6,MenuItem,Sapi Lada Hitam,Offer,14.5,EUR,Carnes,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara

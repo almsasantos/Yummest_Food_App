@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche blanco,Offer,18.0,EUR,Agua,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+1,1,MenuItem,Pescado del día a la creatividad de la Chef,Offer,19.0,EUR,Agua,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+2,2,MenuItem,Ensalada de salmón con vinagreta de cítricos,Offer,13.5,EUR,Agua,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+3,3,MenuItem,Pulpo con crujiente de anacardos y parmentier trufado,Offer,19.0,EUR,Agua,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+4,4,MenuItem,Salmón a la plancha con linguini de calabacín bañado en yogurt,Offer,16.5,EUR,Agua,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano

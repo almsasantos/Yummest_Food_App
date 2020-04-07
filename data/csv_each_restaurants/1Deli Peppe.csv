@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lasaña de carne a la boloñese,Offer,7.9,EUR,Platos caseros,9.3,"""Italiano""","""Calle Virgen de la Alegria 10 Mercado de Las Ventas","""geo"":{""latitude"":40.4331742,""longitude"":-3.6566507",Deli Peppe
+1,1,MenuItem,Berenjenas a la parmesana,Offer,8.5,EUR,Platos caseros,9.3,"""Italiano""","""Calle Virgen de la Alegria 10 Mercado de Las Ventas","""geo"":{""latitude"":40.4331742,""longitude"":-3.6566507",Deli Peppe

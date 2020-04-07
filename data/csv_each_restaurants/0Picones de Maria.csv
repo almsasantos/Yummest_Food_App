@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas caseras de cecina ahumada.,Offer,13.6,EUR,Nuestros clásicos.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+1,1,MenuItem,Ensaladilla rusa estilo Picones.,Offer,12.2,EUR,Nuestros clásicos.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+2,2,MenuItem,Cazuelita de gamba rota blanca de Huelva.,Offer,17.8,EUR,Nuestros clásicos.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+3,3,MenuItem,Tortilla de patata al estilo de Lesaka y seta portobello.,Offer,15.7,EUR,Nuestros clásicos.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+4,4,MenuItem,Anchoas dobles de costera del Cantábrico.,Offer,28.8,EUR,Nuestros clásicos.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria

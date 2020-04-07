@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Margherita,Offer,8.5,EUR,Pizza,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+1,1,MenuItem,Prosciutto,Offer,9.0,EUR,Pizza,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+2,2,MenuItem,Diavola,Offer,9.5,EUR,Pizza,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+3,3,MenuItem,Al pesto,Offer,9.0,EUR,Pizza,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+4,4,MenuItem,Bolognesa,Offer,9.5,EUR,Pizza,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+5,5,MenuItem,Quattro formaggi,Offer,11.0,EUR,Pizza,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar

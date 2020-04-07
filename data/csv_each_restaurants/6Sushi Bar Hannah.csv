@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Wagyu tartar,Offer,42.5,EUR,Wagyu,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+1,1,MenuItem,Wagyu maki,Offer,42.5,EUR,Wagyu,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+2,2,MenuItem,Nigiri A5 Wagyu,Offer,38.0,EUR,Wagyu,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+3,3,MenuItem,Wagyu tataki,Offer,85.0,EUR,Wagyu,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+4,4,MenuItem,Wagyu hoba,Offer,85.0,EUR,Wagyu,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah

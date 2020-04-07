@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de Salmón,Offer,11.0,EUR,De las Costas Asturianas,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+1,1,MenuItem,Gambones al Ajillo,Offer,13.9,EUR,De las Costas Asturianas,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+2,2,MenuItem,Fritos de Pixín,Offer,17.9,EUR,De las Costas Asturianas,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+3,3,MenuItem,Fritos de Bacalao,Offer,12.0,EUR,De las Costas Asturianas,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+4,4,MenuItem,Calamares Fritos,Offer,16.0,EUR,De las Costas Asturianas,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+5,5,MenuItem,Arroz Marinero,Offer,15.8,EUR,De las Costas Asturianas,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia

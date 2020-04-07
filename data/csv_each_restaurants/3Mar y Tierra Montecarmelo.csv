@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella Mar y Tierra,Offer,12.5,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+1,1,MenuItem,Campera,Offer,12.5,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+2,2,MenuItem,A Banda,Offer,13.5,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+3,3,MenuItem,Arroz Negro,Offer,13.5,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+4,4,MenuItem,Verduras y pollo de campo,Offer,12.5,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+5,5,MenuItem,Paella o Fideuá Senyoret,Offer,14.9,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+6,6,MenuItem,Arroz ciego marinero,Offer,15.9,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+7,7,MenuItem,Arroz de Bogavante,Offer,22.0,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+8,8,MenuItem,Pulpo y langostinos,Offer,17.9,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+9,9,MenuItem,Boletus y rape,Offer,15.9,EUR,Arroces,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo

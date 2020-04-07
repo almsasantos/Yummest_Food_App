@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo ibérico con salsa a la pimienta,Offer,11.9,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+1,1,MenuItem,Chuletón de Ávila (330 gr aprox),Offer,19.9,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+2,2,MenuItem,Lomos de Merluza a la vasca,Offer,11.5,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+3,3,MenuItem,Lubina a la Espalda con patata panadera,Offer,12.5,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+4,4,MenuItem,Rabo de Toro de nuestro cheff Alfonso,Offer,11.9,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+5,5,MenuItem,Entrecott a la Plancha con patata a lo pobre y pimiento (350g aprox),Offer,15.9,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+6,6,MenuItem,Cachopo de Pollo o Ternera con patatas fritas y pimientos,Offer,10.9,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+7,7,MenuItem,Lomo bajo de vaca (500g aprox) ideal para compartir,Offer,23.5,EUR,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+8,8,MenuItem,Crujiente de Bacalao con patatas panaderas y pimientos,,,,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+9,9,MenuItem,Chipirones a la plancha,,,,Plato,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria

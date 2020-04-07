@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tataki de Atún con salsa Naranja Sanguina, Aguacate y Emulsión de Albahaca",Offer,24.5,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+1,1,MenuItem,Ensalada de Alcachofas Fritas,Offer,14.95,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+2,2,MenuItem,Ssam de Rodaballo con Daikon y Chipotle,Offer,13.9,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+3,3,MenuItem,Tartar de Cordero con Tahini y Piñones,Offer,21.5,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+4,4,MenuItem,Spring Rolls de Verduras Encurtidas y Langostino con salsa Fire Cracker,Offer,13.5,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+5,5,MenuItem,"Black Bao de Langostino, Curry Rojo y Avellanas",Offer,13.95,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+6,6,MenuItem,Bao de Panceta cocida en caldo Cantonés y frita,Offer,12.55,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+7,7,MenuItem,Sopa Tom Yum,Offer,15.5,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+8,8,MenuItem,Pad Thai,Offer,19.95,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+9,9,MenuItem,Cangrejo salteado con Curry en polvo,Offer,24.5,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+10,10,MenuItem,"Curry verde de Mar con Corvina, Langostino, Mejillones, Chipirones y Albahaca Thai",Offer,26.0,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+11,11,MenuItem,"Carrillera de Cerdo con Curry El Flaco, Lichis y Chalota Frita",Offer,22.5,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+12,12,MenuItem,Picantón a la Brasa con Pack Choi,Offer,19.95,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+13,13,MenuItem,Magret de Pato en Hoja de Plátano,Offer,24.95,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+14,14,MenuItem,Mero Crujiente con Emulsión de Chilli Jam,Offer,21.5,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman
+15,15,MenuItem,Lomo de Vaca con Rosti de Patata y Mantequilla de Algas,Offer,27.9,EUR,Plato,9.6,None,"""Calle Javier Ferrero","""geo"":{""latitude"":40.4483577,""longitude"":-3.6706868",El Flaco by Andy Boman

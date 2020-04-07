@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de algas wakame,Offer,8.5,EUR,Entrantes fríos,9.1,None,"""Calle de Hermosilla","""geo"":{""latitude"":40.4263996,""longitude"":-3.6833335",Kanbun Metrópoli
+1,1,MenuItem,Tiradito de salmón o Hamachi,Offer,8.1,EUR,Entrantes fríos,9.1,None,"""Calle de Hermosilla","""geo"":{""latitude"":40.4263996,""longitude"":-3.6833335",Kanbun Metrópoli
+2,2,MenuItem,Ceviche cremoso,Offer,8.5,EUR,Entrantes fríos,9.1,None,"""Calle de Hermosilla","""geo"":{""latitude"":40.4263996,""longitude"":-3.6833335",Kanbun Metrópoli

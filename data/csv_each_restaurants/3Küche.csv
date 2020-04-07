@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carpacho de gamones,Offer,18.5,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+1,1,MenuItem,Sashimi de atún y salmón,Offer,22.0,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+2,2,MenuItem,Tartar de atún con aguacate,Offer,24.0,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+3,3,MenuItem,Zamburiñas braceadas con salsa de ostras y emulsión de cítricos,Offer,26.0,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+4,4,MenuItem,Pulpo a la brasa sobre cama de parmentier y patatas con trufa,Offer,26.0,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+5,5,MenuItem,Gambones en salsa de ostras,Offer,20.5,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+6,6,MenuItem,Risotto de setas con trufa,Offer,20.0,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+7,7,MenuItem,Corazones de alcachofas en flor(temporada),Offer,16.0,EUR,ENTRADAS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche

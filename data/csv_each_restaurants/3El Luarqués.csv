@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche asturiano,Offer,4.5,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+1,1,MenuItem,Flan de la casa al limón con Pedro Ximénez,Offer,4.95,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+2,2,MenuItem,Membrillo de la abuela con queso fresco y miel,Offer,5.5,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+3,3,MenuItem,Helados de la casa,Offer,4.95,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+4,4,MenuItem,Sorbete al cava,Offer,4.5,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+5,5,MenuItem,Tarta de queso con dulce de membrillo casero,Offer,5.25,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+6,6,MenuItem,Tarta Carbayona (de almendras),Offer,5.25,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+7,7,MenuItem,Tarta tatín de manzana,Offer,5.25,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+8,8,MenuItem,Tocino de cielo,Offer,4.95,EUR,Postre,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués

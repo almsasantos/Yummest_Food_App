@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla de bacalao de Feroe,Offer,11.9,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+1,1,MenuItem,Pulpo con patatas ahumadas,Offer,13.9,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+2,2,MenuItem,Berenjenas y calabacín con queso de cabra,Offer,9.5,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+3,3,MenuItem,Pimientos de Piquillo con brandada de Bacalao,Offer,8.9,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+4,4,MenuItem,Marmitako de atun,Offer,9.7,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+5,5,MenuItem,Parrillada de verduras naturales,Offer,10.7,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+6,6,MenuItem,Croquetas de bacalao,Offer,11.9,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+7,7,MenuItem,Antxoas y boquerones de Getaria en matrimonio,Offer,13.9,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+8,8,MenuItem,Morcilla y Txistorra de Bera de Bidasoa,Offer,11.9,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+9,9,MenuItem,Paleta Iberica de Bellota y Queso de Idiazabal,Offer,11.8,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+10,10,MenuItem,Jamon Iberico de Bellota,Offer,24.0,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+11,11,MenuItem,Pimientos de Guernika,Offer,14.5,EUR,Entrante,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe

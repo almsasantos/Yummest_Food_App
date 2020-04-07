@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz meloso del señorito con marisco pelado,Offer,17,EUR,ARROCES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+1,1,MenuItem,Arroz mar y montaña,Offer,17,EUR,ARROCES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+2,2,MenuItem,Arroz negro con chipirones y alioli,Offer,17,EUR,ARROCES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+3,3,MenuItem,Fideuá con marisco pelado,Offer,17,EUR,ARROCES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+4,4,MenuItem,Arroz vegetariano,Offer,17,EUR,ARROCES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club

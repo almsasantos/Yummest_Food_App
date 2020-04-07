@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+2,2,MenuItem,Café,,,,Bebidas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+4,4,MenuItem,Media botella de agua,,,,Bebidas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+5,5,MenuItem,Botella de vino,,,,Bebidas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+6,6,MenuItem,Copa de vino,,,,Bebidas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi

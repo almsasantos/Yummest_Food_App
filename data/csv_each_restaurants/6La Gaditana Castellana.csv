@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cocochas de bacalao a la vasca con angulas del Cantábrico,Offer,34,EUR,Pescados,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+1,1,MenuItem,Tartar de atún rojo con caviar de Mujol,Offer,17,EUR,Pescados,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+2,2,MenuItem,Solomillo de atún rojo con ajo malagueño y gelatina de mango,Offer,17,EUR,Pescados,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+3,3,MenuItem,Atún rojo de almadraba salteado con habitas baby,Offer,17,EUR,Pescados,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+4,4,MenuItem,Cazuela de merluza con frutos del mar,Offer,18,EUR,Pescados,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+5,5,MenuItem,Atún Rojo soplao (Aderezado y preparado en mesa),Offer,22,EUR,Pescados,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+6,6,MenuItem,Carpaccio de atún rojo de almadraba con espuma exótica,Offer,17,EUR,Pescados,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana

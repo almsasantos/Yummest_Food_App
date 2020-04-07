@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"QUESADILLAS, 6 UNIDADES",Offer,6.6,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+1,1,MenuItem,BACON CHEESE FRIES,Offer,6.5,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+2,2,MenuItem,NACHOS,Offer,6.6,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+3,3,MenuItem,NUGGETS DE POLLO,Offer,3.5,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+4,4,MenuItem,ALITAS DE POLLO,Offer,4.5,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+5,5,MenuItem,ENSALADA MEDITERRÁNEA,Offer,6.2,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+6,6,MenuItem,ENSALADA CÉSAR,Offer,5.5,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+7,7,MenuItem,ENSALADA GRIEGA,Offer,5.8,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+8,8,MenuItem,ENSALADA FAST & GOOD,Offer,7.0,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good
+9,9,MenuItem,ENSALADA DE PASTA,Offer,6.5,EUR,Entrante,None,"""Americano""","""Calle Alcaudón","""geo"":{""latitude"":40.396919,""longitude"":-3.7316656",Fast & Good

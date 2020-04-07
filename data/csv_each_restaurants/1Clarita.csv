@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto de setas con trompetas de la muerte,Offer,14.0,EUR,Arroces y pasta,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+1,1,MenuItem,Raviolis de calabaza,Offer,13.5,EUR,Arroces y pasta,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+2,2,MenuItem,Nuestros linguinis con foie y trufa,Offer,15.0,EUR,Arroces y pasta,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita

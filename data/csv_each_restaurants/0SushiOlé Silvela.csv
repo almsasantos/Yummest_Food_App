@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bravas Olé,Offer,3.9,EUR,Para Picar,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+1,1,MenuItem,Gyozas de pollo,Offer,4.5,EUR,Para Picar,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+2,2,MenuItem,Samosas vegetales,Offer,4.5,EUR,Para Picar,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+3,3,MenuItem,Alitas Olé,Offer,4.9,EUR,Para Picar,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Enotaberna: mézclum, tomate, maíz, ventresca, zanahoria y huevo",Offer,11.9,EUR,Ensaladas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+1,1,MenuItem,Templada: queso de cabra con cobertura crujiente de kikos y vinagreta de miel y mostaza,Offer,12.9,EUR,Ensaladas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+2,2,MenuItem,De setas de temporada y gambones a la plancha con salmorejo,Offer,12.9,EUR,Ensaladas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+3,3,MenuItem,"De Espinacas,mango y jamon de pato acompañada de vinagreta de grosellas",Offer,13.9,EUR,Ensaladas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+4,4,MenuItem,Burrata con tomate Kumato y albahaca,Offer,13.9,EUR,Ensaladas,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro

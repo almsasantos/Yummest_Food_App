@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Filete de ternera,Offer,8,EUR,Platos combinados,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+1,1,MenuItem,Filete de pollo,Offer,8,EUR,Platos combinados,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza

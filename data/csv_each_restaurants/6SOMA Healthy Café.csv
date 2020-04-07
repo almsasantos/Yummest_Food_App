@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla de espinaca y patatas confitadas,Offer,8.0,EUR,Tortilla de espinaca y patatas confitadas,7.8,"""Vegetariano""","""Calle Menorca","""geo"":{""latitude"":40.4196548,""longitude"":-3.6787286",SOMA Healthy Café
+1,1,MenuItem,"Tortilla de espinaca, patatas confitadas y bacalao",Offer,10.5,EUR,Tortilla de espinaca y patatas confitadas,7.8,"""Vegetariano""","""Calle Menorca","""geo"":{""latitude"":40.4196548,""longitude"":-3.6787286",SOMA Healthy Café

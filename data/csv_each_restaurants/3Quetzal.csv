@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú Casero con Chupito de Café de Olla,Offer,6,EUR,Postres,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+1,1,MenuItem,Tarta de Queso Galardonada con dulce de leche,Offer,6,EUR,Postres,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+2,2,MenuItem,Tarta de Mousse de Chocolate con Nata,Offer,6,EUR,Postres,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+3,3,MenuItem,Tamal relleno de Piña con Fruta en taquitos,Offer,4,EUR,Postres,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal

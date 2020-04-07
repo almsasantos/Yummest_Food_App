@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Kikisake Set (degustación de 3 sakes),Offer,12,EUR,Sake,9.3,"""Japonés""","""Calle Conde de Xiquena 12","""geo"":{""latitude"":40.4230426,""longitude"":-3.694125",Shuwa Shuwa
+1,1,MenuItem,Copa de sake Junmai (120ml),Offer,7,EUR,Sake,9.3,"""Japonés""","""Calle Conde de Xiquena 12","""geo"":{""latitude"":40.4230426,""longitude"":-3.694125",Shuwa Shuwa
+2,2,MenuItem,Sake Cocktail,Offer,9,EUR,Sake,9.3,"""Japonés""","""Calle Conde de Xiquena 12","""geo"":{""latitude"":40.4230426,""longitude"":-3.694125",Shuwa Shuwa

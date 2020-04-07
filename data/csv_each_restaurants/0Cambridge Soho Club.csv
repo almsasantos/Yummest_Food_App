@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuestra selección de quesos,Offer,22.0,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+1,1,MenuItem,Jamón ibérico con pan de cristal,Offer,22.0,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+2,2,MenuItem,Croquetas de rabo de toro (6ud),Offer,10.5,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+3,3,MenuItem,Dip de mozzarella y focaccitas de oliva negra,Offer,11.0,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+4,4,MenuItem,Molcajete de guacamole y nachos,Offer,10.0,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+5,5,MenuItem,Croquetas de jamón,Offer,9.0,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+6,6,MenuItem,"Focaccia de queso de cabra, calabaza y rucula",Offer,9.0,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+7,7,MenuItem,Rollito Sam de ternera y emulsión de kimchi,Offer,13.5,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+8,8,MenuItem,Steak tartar sobre pan carasau y totopos de chipotle,Offer,16.0,EUR,ENTRANTES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club

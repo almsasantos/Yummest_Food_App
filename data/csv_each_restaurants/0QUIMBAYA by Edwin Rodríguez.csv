@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Changua santafereña,Offer,9,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez
+1,1,MenuItem,Como una empanada bogotana,Offer,10,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez
+2,2,MenuItem,"Carimañolas de queso, carne o mixtas (4 uds.)",Offer,12,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez
+3,3,MenuItem,Ostra enlulada y Ostra con hogao,Offer,12,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez
+4,4,MenuItem,"Brevas, sancocho de gallina ahumada y paté",Offer,14,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez
+5,5,MenuItem,"Trucha, uchuvas y plátano verde",Offer,15,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez
+6,6,MenuItem,"Arepa de huevo, vieira y suero costeño",Offer,16,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez
+7,7,MenuItem,Langostinos en ceviche colombiano y bollo limpio,Offer,18,EUR,Para Empezar,None,None,None,QUIMBAYA by Edwin Rodríguez

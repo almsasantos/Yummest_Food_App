@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sensaciones lemon cake,Offer,7,EUR,"Para terminar, los postres",8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+1,1,MenuItem,Sorpresa de milanesa de leche,Offer,8,EUR,"Para terminar, los postres",8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+2,2,MenuItem,Invención de pantera rosa,Offer,7,EUR,"Para terminar, los postres",8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+3,3,MenuItem,Brownie Templado con Helado de Choco Blanco,Offer,7,EUR,"Para terminar, los postres",8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+4,4,MenuItem,Cítricos de Oriente y Occidente,Offer,8,EUR,"Para terminar, los postres",8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+5,5,MenuItem,Nuestra Locura de Tiramisú,Offer,7,EUR,"Para terminar, los postres",8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+6,6,MenuItem,La Declinación de la Manzana,Offer,7,EUR,"Para terminar, los postres",8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29

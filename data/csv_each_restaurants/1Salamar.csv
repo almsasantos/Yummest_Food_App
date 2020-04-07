@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gamba Blanca de Huelva (100 grs.),Offer,10.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+1,1,MenuItem,Gamba Roja de Almería (Garrucha) (100 grs.),Offer,11.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+2,2,MenuItem,Cigalas (100 grs.),Offer,10.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+3,3,MenuItem,Carabineros (100 grs.),Offer,11.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+4,4,MenuItem,Langostinos (100 grs.),Offer,8.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+5,5,MenuItem,Bogavante (100 grs.),Offer,8.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+6,6,MenuItem,Buey de Mar (100 grs.),Offer,5.8,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+7,7,MenuItem,Ostras (unidad) (100 grs.),Offer,3.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+8,8,MenuItem,"Parrillada de Marisco (gambas, Carabineros, Cigalas, Langostinos, Navajas, Mejillones y Sepia)",Offer,55.0,EUR,Marisco al peso,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CEVICHE CLÁSICO,Offer,15,EUR,Primeros,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+1,1,MenuItem,CEVICHE DE AJÍ AMARILLO,Offer,16,EUR,Primeros,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+2,2,MenuItem,CEVICHE DE ROCOTO,Offer,16,EUR,Primeros,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+3,3,MenuItem,TARTAR DE SOLOMILLO,Offer,16,EUR,Primeros,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary

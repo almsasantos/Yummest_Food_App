@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas de Santoña con tomate rayado,Offer,17.0,EUR,Entrantes,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+1,1,MenuItem,Huevos fritos con jamón,Offer,12.5,EUR,Entrantes,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+2,2,MenuItem,Bocaditos de morcilla,Offer,10.5,EUR,Entrantes,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal

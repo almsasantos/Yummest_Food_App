@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Medallones de solomillo de cerdo con gremolata de naranja, limón y piñones",Offer,11.5,EUR,Principales,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+1,1,MenuItem,Pollo en salsa de soja y mirin con verduras y setas shitake,Offer,11.5,EUR,Principales,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+2,2,MenuItem,"Atún en costra de cilantro e hinojo con salsa fresca de mango, pimiento y hierbabuena",Offer,15.0,EUR,Principales,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+3,3,MenuItem,Ceviche de lubina,Offer,15.0,EUR,Principales,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+4,4,MenuItem,Carrillada de ternera con gremolata de naranja,Offer,11.5,EUR,Principales,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny

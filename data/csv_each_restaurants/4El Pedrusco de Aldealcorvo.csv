@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Botella de champán,Offer,48.0,EUR,Bebidas,None,None,None,El Pedrusco de Aldealcorvo
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,None,None,El Pedrusco de Aldealcorvo
+2,2,MenuItem,Café,Offer,2.5,EUR,Bebidas,None,None,None,El Pedrusco de Aldealcorvo
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,None,None,None,El Pedrusco de Aldealcorvo
+4,4,MenuItem,Media botella de agua,,,,Bebidas,None,None,None,El Pedrusco de Aldealcorvo
+5,5,MenuItem,Botella de vino,Offer,16.5,EUR,Bebidas,None,None,None,El Pedrusco de Aldealcorvo
+6,6,MenuItem,Copa de vino,Offer,3.8,EUR,Bebidas,None,None,None,El Pedrusco de Aldealcorvo

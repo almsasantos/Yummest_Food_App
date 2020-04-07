@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coquinas al ajillo con manzanilla,Offer,12.0,EUR,Marisco,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+1,1,MenuItem,Ostra gratinada con foie (pieza),Offer,4.5,EUR,Marisco,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+2,2,MenuItem,Ostra gratinada con txangurro,Offer,4.5,EUR,Marisco,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+3,3,MenuItem,Gamba blanca de Huelva 1/4,Offer,21.0,EUR,Marisco,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+4,4,MenuItem,Langostinos plancha o cocidos (100gr),Offer,7.0,EUR,Marisco,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+5,5,MenuItem,Cigalas de tronco (Por Encargo),,,,Marisco,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+6,6,MenuItem,Navajas Gallegas,Offer,16.0,EUR,Marisco,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño

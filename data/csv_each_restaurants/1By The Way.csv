@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de burrata, con pesto rojo y verde, tomates asados, brotes y cebollitas crujientes",Offer,15,EUR,GREEN,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+1,1,MenuItem,"Ensalada de pollo panko, con crema de panceta ahumada, pasas, nueces y mostaza dulce",Offer,14,EUR,GREEN,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+2,2,MenuItem,"Ensalada de quinoa, tomate confitado, salmón ahumado y cremoso de aguacate",Offer,14,EUR,GREEN,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way

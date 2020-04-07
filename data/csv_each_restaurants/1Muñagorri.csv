@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmorejo con crujiente de jamón y picatostes,Offer,10,EUR,De Cuchara,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+1,1,MenuItem,Pochas a la navarra,Offer,12,EUR,De Cuchara,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri

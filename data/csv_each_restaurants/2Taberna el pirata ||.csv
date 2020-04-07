@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mixta,Offer,10,EUR,Ensaladas,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||
+1,1,MenuItem,César,Offer,11,EUR,Ensaladas,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||

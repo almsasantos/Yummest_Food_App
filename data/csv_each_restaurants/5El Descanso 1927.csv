@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmorejo cordobés,Offer,5.9,EUR,Sopas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+1,1,MenuItem,Gazpacho andaluz,Offer,5.9,EUR,Sopas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+2,2,MenuItem,Caldo Gallego,Offer,5.9,EUR,Sopas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+3,3,MenuItem,Sopa de Pescado,Offer,11.9,EUR,Sopas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927

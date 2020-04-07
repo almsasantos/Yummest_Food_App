@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pastel de cabracho,Offer,14,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+1,1,MenuItem,Ensalada de bonito del norte,Offer,16,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+2,2,MenuItem,Sardinas ahumadas de Santoña,Offer,18,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+3,3,MenuItem,Rabas de calamar estilo de Cantabria,Offer,16,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+4,4,MenuItem,Arroz meloso con carabineros y teja de camarones,Offer,24,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+5,5,MenuItem,Rodaballo al horno con patatas panaderas,Offer,28,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+6,6,MenuItem,Steak tartar tradicional de raza Tudanca,Offer,24,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+7,7,MenuItem,Solomillo frisón con salsa de Tresviso,Offer,24,EUR,Nuestra carta Cántabra,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pochas con Almejas,Offer,19,EUR,Nuestros Guisos del Día...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+1,1,MenuItem,Callos a la Madrileña,Offer,18,EUR,Nuestros Guisos del Día...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí

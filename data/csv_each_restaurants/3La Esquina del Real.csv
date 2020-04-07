@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillitos de pato con champiñones braseados y salsa de pera,Offer,23.0,EUR,Las aves,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+1,1,MenuItem,"Pechuga de pintada asada al horno, puré gratinado de patatas y verduras con salsa de naranja al aroma de azahar Demi-Glacé",Offer,22.0,EUR,Las aves,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+2,2,MenuItem,Codornices semi deshuesadas y empanadas con salsa agridulce,Offer,21.5,EUR,Las aves,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real

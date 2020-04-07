@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Menú degustación corto 35€,Offer,35.0,EUR,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora
+1,1,MenuItem,Menú degustación medio 45€,Offer,45.0,EUR,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora
+2,2,MenuItem,Menú degustación largo 55€,Offer,55.0,EUR,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora
+3,3,MenuItem,A continuación puedes encontrar algunos de sus platos a modo de ejemplo:,,,,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora
+4,4,MenuItem,Entrantes,,,,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora
+5,5,MenuItem,Plato Principal,,,,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora
+6,6,MenuItem,Plato Principal,,,,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora
+7,7,MenuItem,Postre,,,,Este restaurante únicamente ofrece menús degustación a sus clientes.,9.2,None,"""Calle edgar neville","""geo"":{""latitude"":40.4521028,""longitude"":-3.696748",Lúbora

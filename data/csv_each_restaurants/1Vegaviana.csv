@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Canelones de 3 quesos,Offer,9,EUR,Plato,None,None,None,Vegaviana
+1,1,MenuItem,Berenjenas a la parmesana,Offer,9,EUR,Plato,None,None,None,Vegaviana
+2,2,MenuItem,Raviolis de boletus,Offer,9,EUR,Plato,None,None,None,Vegaviana

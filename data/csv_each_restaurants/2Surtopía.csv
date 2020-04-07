@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tarta fina de manzana asada, almendras y crema helada de toffee",Offer,10,EUR,Postre,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+1,1,MenuItem,"Kinder (Chocolate blanco, mango y fruta de la pasión)",Offer,11,EUR,Postre,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+2,2,MenuItem,"Tiramisú andaluz (Pionono, café, queso, cacao y Pedro Ximénez)",Offer,10,EUR,Postre,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+3,3,MenuItem,"Rebujito sanluqueño (Lima, limón, yerbabuena y manzanilla)",Offer,10,EUR,Postre,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+4,4,MenuItem,"Coconguito (Chocolate, cacahuete y coco)",Offer,11,EUR,Postre,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+5,5,MenuItem,Quesos curados de oveja y cabra payoya de la sierra de Cádiz,Offer,11,EUR,Postre,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía

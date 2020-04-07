@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cake de Maracuya,Offer,6.0,EUR,Postre,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+1,1,MenuItem,Café auténtico de Vietnam (con leche condensada),Offer,4.0,EUR,Postre,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+2,2,MenuItem,Lingote de chocolate,Offer,7.5,EUR,Postre,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+3,3,MenuItem,Finger sabor de Japón,Offer,6.0,EUR,Postre,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+4,4,MenuItem,Fondant de praliné sin gluten,Offer,6.0,EUR,Postre,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam

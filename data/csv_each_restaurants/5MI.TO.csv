@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Aperitivo,Aperitivo del Chef,Cena con espectáculo,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+1,1,MenuItem,Entrante a compartir,Tabla de croquetas de cecina y buñuelos de queso manchego (6 uds),Cena con espectáculo,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+2,2,MenuItem,Segundo entrante a compartir,Ensalada (puede variar en función del día),Cena con espectáculo,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+3,3,MenuItem,Plato a elegir,Carne o pescado (pueden variar en función del día),Cena con espectáculo,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+4,4,MenuItem,Postre,Tarta Casera,Cena con espectáculo,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO

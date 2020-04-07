@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,"Miso ramen (chashu, huevo pochado, cebolleta, wakame, tofu)",Offer,9.5,EUR,Platos Principales,None,None,None,Sky Sushi & Ramen
+1,1,MenuItem,"Tartar de salmón (macerado en salsa sweet/spicy, cebollino sobre base de arroz y aguacate)",Offer,13.5,EUR,Platos Principales,None,None,None,Sky Sushi & Ramen
+2,2,MenuItem,"Roll spider (pez mantequilla tempurizado, salsa tiger, aguacate cubierto de sésamo y salsa de anguila)",Offer,14.0,EUR,Platos Principales,None,None,None,Sky Sushi & Ramen

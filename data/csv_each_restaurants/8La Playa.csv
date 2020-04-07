@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza a la Gallega con sus cachelos,Offer,21.5,EUR,ESPECIALISTAS EN MERLUZA DE PINCHO,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+1,1,MenuItem,Merluza al horno con su refrito de ajos,Offer,21.5,EUR,ESPECIALISTAS EN MERLUZA DE PINCHO,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+2,2,MenuItem,Merluza a la Romana con patata hilada,Offer,21.5,EUR,ESPECIALISTAS EN MERLUZA DE PINCHO,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa

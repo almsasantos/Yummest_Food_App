@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Jamón de bellota 100% ibérico con tomate y pan cristal,Menú Experiencia MasterChef Junior,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+1,1,MenuItem,Plato,Cono de Fish & Chips con tres salsas ó Hamburguesa MasterChef de chuleta de vaca madurada,Menú Experiencia MasterChef Junior,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+2,2,MenuItem,Postre,Coulant de chocolate,Menú Experiencia MasterChef Junior,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef

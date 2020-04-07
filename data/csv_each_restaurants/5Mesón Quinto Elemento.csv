@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante a elegir:,Ensaladas\nRevueltos\nLegumbres (st)\nGazpachos ó salmorejos (st)\nPasta\nArroces,"Menú del día 11,50 €",8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+1,1,MenuItem,Segundo a elegir:,Carne\nPescado\nPollo\nHuevos,"Menú del día 11,50 €",8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+2,2,MenuItem,Postre ó café,Helados\nFruta natural\nTartas de la casa,"Menú del día 11,50 €",8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+3,3,MenuItem,Bebida,Una consumición.,"Menú del día 11,50 €",8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento

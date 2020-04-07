@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tempura de vegetales,Offer,8,EUR,Tempuras,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+1,1,MenuItem,Tempura de langostino,Offer,12,EUR,Tempuras,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+2,2,MenuItem,Tempura mixta,Offer,10,EUR,Tempuras,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer

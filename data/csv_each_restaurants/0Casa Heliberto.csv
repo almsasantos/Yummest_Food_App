@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de brotes tiernos y perdiz escabechada con uvas pasas,Offer,12,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+1,1,MenuItem,Atún rojo marinado con cama de guacamole,Offer,16,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+2,2,MenuItem,Huevos de corral trufados con jamón ibérico,Offer,16,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+3,3,MenuItem,Berenjenas en tempura con miel de caña y humus,Offer,13,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+4,4,MenuItem,Bienmesabe con salsa tartara,Offer,15,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+5,5,MenuItem,Pulpo a la parrilla con chimi-churri,Offer,14,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+6,6,MenuItem,Croquetas casera de jamon iberico o de gambas curry,Offer,12,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+7,7,MenuItem,Carpaccio de cecina con almendras tostadas virutas de foi,Offer,18,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+8,8,MenuItem,Ensalada de tomate ventresca escabechada de atun rojo y cebolla morada,Offer,12,EUR,Entrantes,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto

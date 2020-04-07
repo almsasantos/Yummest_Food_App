@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,BRONX,Offer,11.5,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+1,1,MenuItem,NEW YORK,Offer,12.5,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+2,2,MenuItem,MANHATTAN,Offer,11.9,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+3,3,MenuItem,BROOKLYN,Offer,12.9,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+4,4,MenuItem,QUEENS,Offer,12.9,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+5,5,MenuItem,HARLEM,Offer,10.5,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+6,6,MenuItem,STATEN ISLAND,Offer,12.9,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+7,7,MenuItem,HAMBURGUESA VEGANA,Offer,12.5,EUR,HAMBURGUESAS,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10

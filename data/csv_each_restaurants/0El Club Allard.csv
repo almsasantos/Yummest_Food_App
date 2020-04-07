@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón de Bellota Fisan Alta Gastronomía 2012,Offer,36,EUR,Entrante,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+1,1,MenuItem,Nos vamos a la huerta con un tomate Kinder,Offer,18,EUR,Entrante,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+2,2,MenuItem,Tarte tatin de calabacín y foie-gras con helado ibérico,Offer,32,EUR,Entrante,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+3,3,MenuItem,"Langostino de Sanlúcar, gazpacho de champiñon, yema curada y pepino",Offer,32,EUR,Entrante,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+4,4,MenuItem,"Caballa marinada en miso, judías verdes con granizado",Offer,35,EUR,Entrante,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard

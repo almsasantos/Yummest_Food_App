@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Combinado sushi & maki (15 pzas),Offer,21.8,EUR,Plato,None,None,None,Shintori
+1,1,MenuItem,Uramaki tartar de salmón,Offer,13.8,EUR,Plato,None,None,None,Shintori
+2,2,MenuItem,Gyu tataki (de solomillo de ternera),Offer,14.8,EUR,Plato,None,None,None,Shintori

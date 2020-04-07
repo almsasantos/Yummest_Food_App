@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Corazones de alcachofa de Navarra en salsa verde, con almejas y gambas (1/2: 11,00€)",Offer,17,EUR,Entrantes de cuchara,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+1,1,MenuItem,Sopa de pescado con rape y almejas finas,Offer,19,EUR,Entrantes de cuchara,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+2,2,MenuItem,"Puchero de Alubias de Tolosa con sus Sacramentos (Para 2 personas) (1p.: 25,00€)",Offer,38,EUR,Entrantes de cuchara,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid

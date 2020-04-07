@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rollitos vietnamitas nem,Offer,5.75,EUR,Entrante,8.9,"""Asiático""","""Calle de Orense","""geo"":{""latitude"":40.4477371,""longitude"":-3.6957256",Shan Hai City
+1,1,MenuItem,Empanadas de gambas fritas thai,Offer,10.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Orense","""geo"":{""latitude"":40.4477371,""longitude"":-3.6957256",Shan Hai City
+2,2,MenuItem,Yakitoro de pollo,Offer,7.95,EUR,Entrante,8.9,"""Asiático""","""Calle de Orense","""geo"":{""latitude"":40.4477371,""longitude"":-3.6957256",Shan Hai City

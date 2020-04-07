@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipirones encebollados y arroz guisado,Offer,12,EUR,Plato,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato
+1,1,MenuItem,Carrillada de cerdo guisadas con chocolate negro y naranja,Offer,14,EUR,Plato,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato
+2,2,MenuItem,Guiso de cabra al jerez con patatas arrugadas,Offer,10,EUR,Plato,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato
+3,3,MenuItem,Bienmesabe de rape con almendras y puré de boniato,Offer,10,EUR,Plato,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burrata fresca con tomates y rúcula,Offer,14,EUR,Entrante,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+1,1,MenuItem,"Tortilla de patata trufada, hecha al momento",Offer,14,EUR,Entrante,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+2,2,MenuItem,Morcilla de Burgos con mermelada de guindilla,Offer,12,EUR,Entrante,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+4,4,MenuItem,Media botella de agua,Offer,1.0,EUR,Bebidas,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+5,5,MenuItem,Botella de vino,Offer,10.0,EUR,Bebidas,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+6,6,MenuItem,Copa de vino,Offer,1.8,EUR,Bebidas,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana

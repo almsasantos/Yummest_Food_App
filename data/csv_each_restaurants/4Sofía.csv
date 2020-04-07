@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mixto con huevo,Offer,4.0,EUR,Sandwiches,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+1,1,MenuItem,Mixto,Offer,3.3,EUR,Sandwiches,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+2,2,MenuItem,Vegetal,Offer,4.0,EUR,Sandwiches,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+3,3,MenuItem,Sandwich de la casa,Offer,6.0,EUR,Sandwiches,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía

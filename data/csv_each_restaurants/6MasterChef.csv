@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Aperitivo,Tartar de atún rojo Balfegó con ajoblanco de faifort y perlas de yuzu,Menú Experiencia MasterChef,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+1,1,MenuItem,Entrante,Mini verduritas de temporada con emulsión de apionabo,Menú Experiencia MasterChef,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+2,2,MenuItem,Segundo entrante,Arroz meloso trufado de setas y emulsión de trufa,Menú Experiencia MasterChef,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+3,3,MenuItem,Plato,"Ssam de merluza Orly con mayonesa de café, lima y hierbas aromáticas",Menú Experiencia MasterChef,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+4,4,MenuItem,Segundo plato,Cochinillo de Pepe Rodriguez con puré de castañas y tamarindo,Menú Experiencia MasterChef,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+5,5,MenuItem,Postre,El postre de Jordi: Espuma de coco con limón y helado de yogurt,Menú Experiencia MasterChef,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef

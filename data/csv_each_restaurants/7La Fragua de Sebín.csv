@@ -1,0 +1,5 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Entrante,HUEVO TRUFADO EN SOPA DE PARMESANO Y MOUSE DE MORCILLA DE BURGOS,None,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+1,1,1,MenuItem,ENTRANTE PARA COMPARTIR,"Ensalada de Kale con ralladura de queso, lima y picada de frutos secos, Risotto de foie y hongos",None,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+2,2,2,MenuItem,Principal (a elegir),"Corvina confitada en aceite con fondo de salsa de dátiles y aceituna con risotto de pipas, Hamburguesa de vaca vieja (la Finca ) con tomate a la plancha con queso ahumado y guarnición de patatas fritas",None,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+3,3,3,MenuItem,Postre,Fuente de frutas y roscón de reyes,None,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua

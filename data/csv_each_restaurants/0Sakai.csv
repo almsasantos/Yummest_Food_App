@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mushi de langostinos con piñones,Offer,9.65,EUR,Entrante,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai
+1,1,MenuItem,Guiozas de pollo,Offer,5.65,EUR,Entrante,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai
+2,2,MenuItem,Brocheta de salmón,Offer,6.85,EUR,Entrante,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai

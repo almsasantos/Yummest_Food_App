@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú de Ivonne con crema helada de café,Offer,5.5,EUR,Lo Más Dulce,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+1,1,MenuItem,Crema de yogur al limón,Offer,5.5,EUR,Lo Más Dulce,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+2,2,MenuItem,Coulant de choclate con crema helada de frambuesa,Offer,6.4,EUR,Lo Más Dulce,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+3,3,MenuItem,cookie caliente con helado de vainilla,Offer,6.2,EUR,Lo Más Dulce,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida

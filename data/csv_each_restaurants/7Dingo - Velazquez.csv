@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+2,2,MenuItem,Café,Offer,1.8,EUR,Bebidas,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+5,5,MenuItem,Botella de vino,Offer,14.0,EUR,Bebidas,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez

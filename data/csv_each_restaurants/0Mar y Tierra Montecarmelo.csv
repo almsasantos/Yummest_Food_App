@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla,Offer,7.9,EUR,Entrantes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+1,1,MenuItem,Croquetas de jamón ibérico o carabinero,Offer,9.5,EUR,Entrantes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+2,2,MenuItem,Sardina ahumada con tartar de tomate,Offer,12.9,EUR,Entrantes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+3,3,MenuItem,Mejillones tigre,Offer,10.9,EUR,Entrantes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+4,4,MenuItem,Boquerones caseros en vinagre,Offer,11.9,EUR,Entrantes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+5,5,MenuItem,Cecina de León,Offer,10.9,EUR,Entrantes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+6,6,MenuItem,Jamón Ibérico de bellota D.O Guijuelo,Offer,21.9,EUR,Entrantes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo

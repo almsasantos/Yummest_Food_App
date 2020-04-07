@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot de vaca con patatitas,Offer,13,EUR,Carnes,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+1,1,MenuItem,"Chuletón de vaca ibérica de 500gr, maduración 30 días",Offer,19,EUR,Carnes,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+2,2,MenuItem,Pluma ibérica a baja temperatura con salsa romescú,Offer,17,EUR,Carnes,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+3,3,MenuItem,Solomillo de vaca ibérica al foie de oca,Offer,21,EUR,Carnes,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+4,4,MenuItem,Timbal de rabo de toro con foie y trufa,Offer,18,EUR,Carnes,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+5,5,MenuItem,Secreto ibérico macerado con crujiente de patata y tomate caramelizado,Offer,15,EUR,Carnes,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana

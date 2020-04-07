@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Poke de atún rojo,Offer,15.9,EUR,De Mar y Montaña,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+1,1,MenuItem,Chipirones con mayonesa de ajo negro,Offer,12.5,EUR,De Mar y Montaña,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+2,2,MenuItem,Costillas con salsa teriyaki,Offer,14.9,EUR,De Mar y Montaña,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+3,3,MenuItem,Tataki de Dr. Limón,Offer,9.5,EUR,De Mar y Montaña,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+4,4,MenuItem,Butter chicken masala,Offer,11.9,EUR,De Mar y Montaña,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón

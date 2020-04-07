@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+2,2,MenuItem,Café,,,,Bebidas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+3,3,MenuItem,Botella de agua,Offer,2.0,EUR,Bebidas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+4,4,MenuItem,Media botella de agua,,,,Bebidas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+5,5,MenuItem,Botella de vino,,,,Bebidas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani

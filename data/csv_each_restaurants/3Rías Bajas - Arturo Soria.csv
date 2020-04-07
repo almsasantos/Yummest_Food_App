@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PULPO A FEIRA,Offer,25.9,EUR,PARA PICAR Y COMPARTIR,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+1,1,MenuItem,PAN CON TOMATE,Offer,20.9,EUR,PARA PICAR Y COMPARTIR,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+2,2,MenuItem,TRIPTICO (para probar un poco de cada uno de ellos),Offer,43.9,EUR,PARA PICAR Y COMPARTIR,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria

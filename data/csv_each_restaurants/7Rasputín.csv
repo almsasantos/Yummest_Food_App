@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+2,2,MenuItem,Café,Offer,2.2,EUR,Bebidas,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+3,3,MenuItem,Botella de agua,Offer,2.9,EUR,Bebidas,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+4,4,MenuItem,Media botella de agua,,,,Bebidas,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+5,5,MenuItem,Botella de vino,Offer,16.0,EUR,Bebidas,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,8.9,"""Ruso""","""Calle de Yeseros","""geo"":{""latitude"":40.4120861,""longitude"":-3.7133162",Rasputín

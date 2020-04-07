@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Provolone fundido,Offer,7.5,EUR,PARA PICAR,9.1,"""Italiano""","""Calle de Antonio Acuña","""geo"":{""latitude"":40.4226598,""longitude"":-3.6789499",Massart Pizza - Goya
+1,1,MenuItem,Burrata con pesto,Offer,11.0,EUR,PARA PICAR,9.1,"""Italiano""","""Calle de Antonio Acuña","""geo"":{""latitude"":40.4226598,""longitude"":-3.6789499",Massart Pizza - Goya
+2,2,MenuItem,Croquetas Ibericas,Offer,8.0,EUR,PARA PICAR,9.1,"""Italiano""","""Calle de Antonio Acuña","""geo"":{""latitude"":40.4226598,""longitude"":-3.6789499",Massart Pizza - Goya

@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa Semipicante Vegetal con Crema Agria,Offer,6,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+1,1,MenuItem,Nuestro Tamal Casero con Vegetales horneados,Offer,7,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+2,2,MenuItem,Nuestras Empanadas QUETZAL con Carne,Offer,8,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+3,3,MenuItem,Wraps de Lechuga relleno con tu ceviche,Offer,10,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+4,4,MenuItem,Nuestro Tamal Casero de Pollo con Ensalada,Offer,7,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+5,5,MenuItem,Quesadillas de Maíz Azul con Queso Oaxaca,Offer,8,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+6,6,MenuItem,Wraps De Salmon con Aguacate y cebolla,Offer,10,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+7,7,MenuItem,Guacamole Casero hecho en tu presencia,Offer,10,EUR,Para comenzar,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal

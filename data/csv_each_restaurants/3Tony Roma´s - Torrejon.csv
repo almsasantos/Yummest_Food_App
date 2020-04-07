@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón 900 gr. (para 2 personas),Offer,35.9,EUR,Steak house,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+1,1,MenuItem,Entrecot,Offer,18.95,EUR,Steak house,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+2,2,MenuItem,Medallón solomillo 210 gr.,Offer,19.95,EUR,Steak house,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+3,3,MenuItem,Barbecued chicken,Offer,8.95,EUR,Steak house,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+4,4,MenuItem,Pechugas asadas,Offer,9.95,EUR,Steak house,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+5,5,MenuItem,Pollo frito,Offer,9.95,EUR,Steak house,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon

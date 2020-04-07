@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada Especial FERREIRO (Tomate ,Endivia, Aguacate, Queso fresco y Nueces)",Offer,14.96,EUR,Ensaladas verduras y hortalizas,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+1,1,MenuItem,Ensalada de Tomate Especial Rosado con Ventresca de Bonito,Offer,17.05,EUR,Ensaladas verduras y hortalizas,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+2,2,MenuItem,Espárragos Gordos de Navarra con Ventresca de Bonito,Offer,19.11,EUR,Ensaladas verduras y hortalizas,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+3,3,MenuItem,Alcachofas Blanca de Tudela Naturales Fritas con Láminas de Jamón Ibérico,Offer,17.52,EUR,Ensaladas verduras y hortalizas,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+4,4,MenuItem,Habitas Baby Salteadas con Taquitos de Jamón y Huevo Frito,Offer,19.67,EUR,Ensaladas verduras y hortalizas,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+5,5,MenuItem,Espárragos Verdes a la Parrilla con Aceite de Oliva Virgen Extra,Offer,15.12,EUR,Ensaladas verduras y hortalizas,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+6,6,MenuItem,Fritos de Berenjena y Calabacín en Suave Tempura con Mermelada de Tomate,Offer,16.4,EUR,Ensaladas verduras y hortalizas,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro

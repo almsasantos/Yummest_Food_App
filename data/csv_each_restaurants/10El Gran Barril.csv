@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak tartar cortado a cuchillo y preparado a la vista,Offer,24.5,EUR,CARNES ELABORADAS CON CARIÑO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,Costillitas de cordero lechal fritas y crujientes (6 Uds.),Offer,19.5,EUR,CARNES ELABORADAS CON CARIÑO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+2,2,MenuItem,"Daditos de solomillo salteados al jugo de Oporto, habitas y ajos tiernos.",Offer,20.8,EUR,CARNES ELABORADAS CON CARIÑO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+3,3,MenuItem,Entrecot de vacuno mayor con pimientos del piquillo caramelizados,Offer,24.5,EUR,CARNES ELABORADAS CON CARIÑO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+4,4,MenuItem,Solomillo de buey de los valles de Somiedo hecho en parrilla al punto de sal,Offer,24.5,EUR,CARNES ELABORADAS CON CARIÑO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+5,5,MenuItem,Taco de solomillo al foie fresco de pato y reducción de Pedro Ximénez,Offer,20.5,EUR,CARNES ELABORADAS CON CARIÑO,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

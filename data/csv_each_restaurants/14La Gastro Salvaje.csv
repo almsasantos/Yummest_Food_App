@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Koch,Offer,10,EUR,MEZCALES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+1,1,MenuItem,Danzantes,Offer,9,EUR,MEZCALES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+2,2,MenuItem,Amores,Offer,9,EUR,MEZCALES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+3,3,MenuItem,Río revuelto,Offer,10,EUR,MEZCALES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje

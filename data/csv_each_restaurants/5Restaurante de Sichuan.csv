@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,LONCHA DE CERDO IBERICO SALTEADO CON PUERRO,Offer,8.5,EUR,PLATO DE LA CASA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+1,1,MenuItem,COSTILLA CEREZA,Offer,7.9,EUR,PLATO DE LA CASA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+2,2,MenuItem,GAMBON CON SALSA ROJA DE SICHUAN PICANTE,Offer,13.9,EUR,PLATO DE LA CASA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+3,3,MenuItem,POLLO GONG-BAO,Offer,7.9,EUR,PLATO DE LA CASA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+4,4,MenuItem,CARNE CRUJIENTE,Offer,6.9,EUR,PLATO DE LA CASA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lima Pie,Offer,5.0,EUR,Postre,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+1,1,MenuItem,Panqueque de dulce de leche con helado,Offer,5.0,EUR,Postre,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+2,2,MenuItem,Crumble de manzana con helado de vainilla,Offer,5.5,EUR,Postre,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+3,3,MenuItem,"Coulant de chocolate negro,mermelada de naranja amarga y helado de café",Offer,6.2,EUR,Postre,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+4,4,MenuItem,Helados Artesanales,Offer,4.2,EUR,Postre,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga

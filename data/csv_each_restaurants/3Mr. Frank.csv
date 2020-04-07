@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao confitado al pilpil,Offer,18,EUR,Madrid puerto de mar,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+1,1,MenuItem,Salmón a la miel y mostaza,Offer,18,EUR,Madrid puerto de mar,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+2,2,MenuItem,Atún tataki,Offer,18,EUR,Madrid puerto de mar,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+3,3,MenuItem,Tostas de merluza al curri,Offer,17,EUR,Madrid puerto de mar,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank

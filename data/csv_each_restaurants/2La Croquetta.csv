@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,De tortilla de patatas,Offer,2.6,EUR,Croquetas de sibarita ( 2 unidades),None,"""Mediterráneo""","""Calle de la Fuente del Berro","""geo"":{""latitude"":40.4239386,""longitude"":-3.6708777",La Croquetta
+1,1,MenuItem,De boletus con un toque de trufa,Offer,3.45,EUR,Croquetas de sibarita ( 2 unidades),None,"""Mediterráneo""","""Calle de la Fuente del Berro","""geo"":{""latitude"":40.4239386,""longitude"":-3.6708777",La Croquetta
+2,2,MenuItem,Picantes de jalapeño verde y carne,Offer,3.3,EUR,Croquetas de sibarita ( 2 unidades),None,"""Mediterráneo""","""Calle de la Fuente del Berro","""geo"":{""latitude"":40.4239386,""longitude"":-3.6708777",La Croquetta

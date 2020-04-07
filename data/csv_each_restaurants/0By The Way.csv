@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Carpaccio de tomate rosa de la huerta, con bacalao ahumado",Offer,12,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+1,1,MenuItem,Salmorejo con helado de requesón gallego y jamón obérico,Offer,12,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+2,2,MenuItem,Hummus de calabaza con sésamo negro y cruditees,Offer,10,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+3,3,MenuItem,Alcachofas en flor con jamón ibérico,Offer,14,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+4,4,MenuItem,"Ensaladilla de gambón, con sus picos",Offer,12,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+5,5,MenuItem,"Patatas Bloody Mary, barvísimas",Offer,10,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+6,6,MenuItem,Cucurucho de chopitos con alioli de memmbrillo,Offer,16,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+7,7,MenuItem,Mejillones al vapor y otras salsas,Offer,18,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+8,8,MenuItem,Surtido de croquetas,Offer,12,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+9,9,MenuItem,Surtido Thai,Offer,10,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way
+10,10,MenuItem,"Pan Bao con pato confitado, salsa hoisin, manzana y lima",Offer,14,EUR,PARA COMENZAR,8.5,"""Español""","""Calle de Josefa Valcárcel","""geo"":{""latitude"":40.448114,""longitude"":-3.6480864",By The Way

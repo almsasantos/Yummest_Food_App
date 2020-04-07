@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Vacío de vaca vieja gallega (300 gr),Offer,15.5,EUR,Plato,None,None,None,Gobu - General Pardiñas
+1,1,MenuItem,Hamburguesa del mes cecina de león y huevo hilado(160grm),Offer,12.9,EUR,Plato,None,None,None,Gobu - General Pardiñas
+2,2,MenuItem,Hamburguesa Idiazábal con queso idiazabal y su salsa(160gr),Offer,11.9,EUR,Plato,None,None,None,Gobu - General Pardiñas
+3,3,MenuItem,"Hamburguesa del mes con lombarda rehogada, pasas y piñones(160grm)",Offer,12.9,EUR,Plato,None,None,None,Gobu - General Pardiñas

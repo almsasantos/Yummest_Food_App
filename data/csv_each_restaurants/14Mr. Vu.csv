@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Maki salmon,Offer,3.8,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+1,1,MenuItem,Maki atun,Offer,4.2,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+2,2,MenuItem,Maki gambas,Offer,3.6,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+3,3,MenuItem,Maki Kani,Offer,3.5,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+4,4,MenuItem,Maki aguacate,Offer,3.3,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+5,5,MenuItem,Maki pepino,Offer,3.2,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+6,6,MenuItem,Maki wakame,Offer,4.5,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+7,7,MenuItem,Maki mango,Offer,4.0,EUR,Maki (6 piezas),9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu

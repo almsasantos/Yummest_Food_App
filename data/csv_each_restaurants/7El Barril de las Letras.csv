@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla melosa de puerros y bacalao,Offer,14.5,EUR,CON LOS MEJORES HUEVOS CAMPEROS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+1,1,MenuItem,Rabas de calamar y huevos camperos fritos,Offer,18.0,EUR,CON LOS MEJORES HUEVOS CAMPEROS,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras

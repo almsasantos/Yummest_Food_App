@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuggets Pollo,Offer,8.95,EUR,Entrante,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+1,1,MenuItem,Nachos,Offer,8.45,EUR,Entrante,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+2,2,MenuItem,Onion Rings,Offer,7.45,EUR,Entrante,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+3,3,MenuItem,Ensalada Santa Fe,Offer,10.95,EUR,Entrante,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via
+4,4,MenuItem,Ensalada Caesar de pollo,Offer,10.95,EUR,Entrante,8.2,"""Americano""","""Gran Vía","""geo"":{""latitude"":40.4226391,""longitude"":-3.7092923",Tony Roma´s - Gran via

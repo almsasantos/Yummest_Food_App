@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Vuelve a la Vida Mexicano,Offer,10,EUR,Ceviches,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+1,1,MenuItem,Verde,Offer,10,EUR,Ceviches,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+2,2,MenuItem,Oriental,Offer,10,EUR,Ceviches,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+3,3,MenuItem,Mexicano,Offer,10,EUR,Ceviches,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+4,4,MenuItem,Peruano,Offer,10,EUR,Ceviches,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal
+5,5,MenuItem,Vuelve a la Vida Peruano,Offer,10,EUR,Ceviches,9.1,"""Mexicano""","""Calle Hermosilla","""geo"":{""latitude"":40.4256477,""longitude"":-3.6767438",Quetzal

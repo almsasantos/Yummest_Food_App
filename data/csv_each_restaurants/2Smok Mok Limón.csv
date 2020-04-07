@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,3 Humos,Offer,8.0,EUR,Mundo Vegeta,8.7,None,"""Calle del Limón","""geo"":{""latitude"":40.4263117,""longitude"":-3.710509",Smok Mok Limón
+1,1,MenuItem,Apu Love,Offer,7.5,EUR,Mundo Vegeta,8.7,None,"""Calle del Limón","""geo"":{""latitude"":40.4263117,""longitude"":-3.710509",Smok Mok Limón
+2,2,MenuItem,Gyozas de Verduras,Offer,8.0,EUR,Mundo Vegeta,8.7,None,"""Calle del Limón","""geo"":{""latitude"":40.4263117,""longitude"":-3.710509",Smok Mok Limón
+3,3,MenuItem,To-Fu Love,Offer,7.5,EUR,Mundo Vegeta,8.7,None,"""Calle del Limón","""geo"":{""latitude"":40.4263117,""longitude"":-3.710509",Smok Mok Limón
+4,4,MenuItem,Wookie V,Offer,7.5,EUR,Mundo Vegeta,8.7,None,"""Calle del Limón","""geo"":{""latitude"":40.4263117,""longitude"":-3.710509",Smok Mok Limón

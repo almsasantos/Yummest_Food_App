@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes para compartir,Jamón ibérico\nPatatas revolconas con torreznos\nBrandada de bacalao\nSetas con almejas,Menú Menú Dudua 32 €,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+1,1,MenuItem,Plato principal a elegir,"Entrecot, cochinillo, dorada o rodaballo",Menú Menú Dudua 32 €,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio
+2,2,MenuItem,Postre para compartir,Surtido de pastelería,Menú Menú Dudua 32 €,8.9,"""Castellano""","""Cuesta de San Vicente","""geo"":{""latitude"":40.421812,""longitude"":-3.7136607",Dudua Palacio

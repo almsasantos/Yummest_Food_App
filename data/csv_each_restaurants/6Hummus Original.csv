@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Con el hummus vienen 2 pitas,,,,Extras,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+1,1,MenuItem,Pita extra,Offer,0.65,EUR,Extras,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+2,2,MenuItem,Pan sin gluten,Offer,0.35,EUR,Extras,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+3,3,MenuItem,Huevo,Offer,0.7,EUR,Extras,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa miso de tofu y algas,Offer,5,EUR,Sopas & Al Vapor,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+1,1,MenuItem,"Sopa clara “Dobin mushi” de pollo, pescado, marisco y setas",Offer,9,EUR,Sopas & Al Vapor,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+2,2,MenuItem,"Chawanmushi: Sopa de huevo cuajado con pollo, langostino y setas",Offer,9,EUR,Sopas & Al Vapor,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+3,3,MenuItem,Bolitas de Pulpo al vapor con salsa ponzu,Offer,9,EUR,Sopas & Al Vapor,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+4,4,MenuItem,Gyouza: Empanadillas de cerdo con verduras al vapor,Offer,12,EUR,Sopas & Al Vapor,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+5,5,MenuItem,Fideos de Udon (o soba de te verde)con tempura de langostino,Offer,16,EUR,Sopas & Al Vapor,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja

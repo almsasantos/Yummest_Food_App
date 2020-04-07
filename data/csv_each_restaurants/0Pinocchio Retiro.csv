@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salpicón de Sepia y Gambas (vinagreta),Offer,9.0,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+1,1,MenuItem,Pulpo a la gallega,Offer,16.0,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+2,2,MenuItem,Mejillones a la marinera (picantes),Offer,10.0,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+3,3,MenuItem,Sepia a la Plancha,Offer,11.0,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+4,4,MenuItem,Chopitos Fritos,Offer,9.5,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+5,5,MenuItem,Chipirones Plancha,Offer,15.0,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+6,6,MenuItem,Almejas Marinera (picantes),Offer,17.0,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+7,7,MenuItem,Ahumados Variados,Offer,10.5,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+8,8,MenuItem,Paté de Pato ( con pan tostado),Offer,10.5,EUR,Entrante,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ASARI NO MISO SHIRU Sopa de miso con almeja japonesa,Offer,6.5,EUR,Entrante,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+1,1,MenuItem,"OSTRAS Cruda o cocida, ajillo y pomelo.",Offer,4.5,EUR,Entrante,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+2,2,MenuItem,EDAMAME SAKE KOSU Habitas de soja al vapor.,Offer,5.5,EUR,Entrante,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house

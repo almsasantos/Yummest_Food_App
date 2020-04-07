@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,17.0,EUR,Bebidas,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+2,2,MenuItem,Café,Offer,2.05,EUR,Bebidas,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+4,4,MenuItem,Media botella de agua,Offer,3.0,EUR,Bebidas,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+5,5,MenuItem,Botella de vino,Offer,12.4,EUR,Bebidas,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+6,6,MenuItem,Copa de vino,Offer,3.25,EUR,Bebidas,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la brasa con Alioli suave,Offer,19.5,EUR,Los pulpos de Mila,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila
+1,1,MenuItem,Pulpo a la Gallega con cachelos,Offer,19.5,EUR,Los pulpos de Mila,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo bajo de ternera trinchado con patatas,Offer,14.9,EUR,Carnes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+1,1,MenuItem,Entrecot de vaca alta maduración,Offer,21.9,EUR,Carnes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+2,2,MenuItem,Tomahawk de aguja de vaca de alta maduración.,Offer,39.0,EUR,Carnes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+3,3,MenuItem,Taco de solomillo de ternera a la plancha con sal Maldón,Offer,17.9,EUR,Carnes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+4,4,MenuItem,Hamburguesa de ternera rosada de La Finca en pan de brioche,Offer,12.9,EUR,Carnes,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo

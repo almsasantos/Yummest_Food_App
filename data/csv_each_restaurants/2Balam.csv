@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"TARTAS CASERAS (zanahoria, red velvet, chocolate y dulce de leche, 3 leches)",Offer,3.5,EUR,Postres,8.8,"""Mexicano""","""Calle de Hortaleza","""geo"":{""latitude"":40.4218725,""longitude"":-3.7000192",Balam
+1,1,MenuItem,BOWL DE FRUTA (servido con yogurt ó granola y miel),Offer,3.7,EUR,Postres,8.8,"""Mexicano""","""Calle de Hortaleza","""geo"":{""latitude"":40.4218725,""longitude"":-3.7000192",Balam
+2,2,MenuItem,TORTITAS Y CREPES (con ingredientes a elegir),Offer,3.9,EUR,Postres,8.8,"""Mexicano""","""Calle de Hortaleza","""geo"":{""latitude"":40.4218725,""longitude"":-3.7000192",Balam

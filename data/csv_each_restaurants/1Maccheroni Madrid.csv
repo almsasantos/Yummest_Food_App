@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Berenjenas al parmesano,Offer,10,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+1,1,MenuItem,Ensalada panzanella,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+2,2,MenuItem,Tonnarelli a la amatriciana,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+3,3,MenuItem,Fettucine a la gricia,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+4,4,MenuItem,Gnocchi a la arrabbiata con ricotta,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+5,5,MenuItem,Tonnarelli cacio e pepe,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+6,6,MenuItem,Ravioli 4 quesos con tomate datterino y albahaca,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+7,7,MenuItem,Tonnarelli alla carbonara,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+8,8,MenuItem,Gnocchi al pesto,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+9,9,MenuItem,Gnocchi con gorgonzola y pera,Offer,12,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid
+10,10,MenuItem,Fettuccine con trufa negra,Offer,18,EUR,Primeros,9,"""Italiano""","""Plaza San Anacleto","""geo"":{""latitude"":40.4584225,""longitude"":-3.78264",Maccheroni Madrid

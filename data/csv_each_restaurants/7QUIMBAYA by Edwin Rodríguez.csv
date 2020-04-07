@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Amasijos y Mantequillas,Amasijos y Mantequillas de autor,MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+1,1,MenuItem,Aperitivos de la Casa,"Mejillón, chontaduro y coco.\nTamal, arepa y chocolate.\nCangrejo y coco.\nCasabe, anchoa y mango.\nMasato, achira y queso.",MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+2,2,MenuItem,Entrantes,"Brevas, sancocho de gallina y mousse de sus hígados",MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+3,3,MenuItem,Segundo entrante,Carabinero achiotado y mazamorra chiquita,MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+4,4,MenuItem,Tercer entrante,"Arepa de huevo, vieira y suero",MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+5,5,MenuItem,Principales,Pargo rojo y cayeye,MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+6,6,MenuItem,Segundo plato,"Cordero al estilo santandereano, bocadillo veleño y calao",MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+7,7,MenuItem,Prepostre,Lulada,MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+8,8,MenuItem,Postres,"Merengón de guanábana, fresas y saúco",MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez
+9,9,MenuItem,Segundo postre,"Paisaje cafetero (café, cacao y maracuyá)",MENÚ DEGUSTACIÓN QUIMBAYA,None,None,None,QUIMBAYA by Edwin Rodríguez

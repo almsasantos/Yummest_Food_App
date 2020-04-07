@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tosta de aguacate y mozzarella con calabacín, rábano, sésamo",Offer,6.5,EUR,Tostas (all day),9.2,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.4257365,""longitude"":-3.7129657",Barona Madrid
+1,1,MenuItem,"Tosta de pollo con mayonesa chipotle, tomate, gratinado, cebolla crunchy y cebollino",Offer,5.9,EUR,Tostas (all day),9.2,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.4257365,""longitude"":-3.7129657",Barona Madrid

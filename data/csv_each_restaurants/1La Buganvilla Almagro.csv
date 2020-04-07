@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Burrata con Pesto,Offer,14.5,EUR,Ensaladas y verduras,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+1,1,MenuItem,Ensalada de Queso de Cabra,Offer,13.0,EUR,Ensaladas y verduras,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+2,2,MenuItem,Ensalada “Buganvilla”,Offer,13.0,EUR,Ensaladas y verduras,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+3,3,MenuItem,Ensalada Mediterránea,Offer,13.5,EUR,Ensaladas y verduras,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+4,4,MenuItem,Selección de Verduras de Temporada a la Plancha,Offer,12.0,EUR,Ensaladas y verduras,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro

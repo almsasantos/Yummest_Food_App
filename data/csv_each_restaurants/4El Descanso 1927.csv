@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Huevos especiales “El Descanso” (Huevos, pimientos de padrón y patatas cubiertos con jamón ibérico)",Offer,10.9,EUR,Huevos y pastas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+1,1,MenuItem,"Huevos, patatas y gulas a la bilbaína.",Offer,9.9,EUR,Huevos y pastas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+2,2,MenuItem,Huevo de oca con patatas panaderas y jamón iberico,Offer,12.9,EUR,Huevos y pastas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+3,3,MenuItem,Pisto con huevos de corral y jamón ibérico,Offer,9.5,EUR,Huevos y pastas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+4,4,MenuItem,Espaguetis con salsa boloñesa o carbonara,Offer,8.9,EUR,Huevos y pastas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+5,5,MenuItem,Huevos Camperos con Patatas Trufada y Crujiente de Panceta Ibérica,Offer,9.5,EUR,Huevos y pastas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927

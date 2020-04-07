@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cuarto de corderito Lechal con panaderas,Offer,48,EUR,ASADOS Y ARROCES (POR ENCARGO),8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,Paletilla Lechal asada con panaderas,Offer,23,EUR,ASADOS Y ARROCES (POR ENCARGO),8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+2,2,MenuItem,Tostón segoviano al horno,Offer,21,EUR,ASADOS Y ARROCES (POR ENCARGO),8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+3,3,MenuItem,Arroz con bogavante,Offer,18,EUR,ASADOS Y ARROCES (POR ENCARGO),8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

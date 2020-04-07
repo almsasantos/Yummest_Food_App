@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Licor copa,Offer,3.4,EUR,Licores & Cocteleria,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+1,1,MenuItem,Baleys copa,Offer,4.5,EUR,Licores & Cocteleria,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+2,2,MenuItem,"Cocteleria entre €5,00 y €7,00",,,,Licores & Cocteleria,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+3,3,MenuItem,Copa nacionál,Offer,7.0,EUR,Licores & Cocteleria,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+4,4,MenuItem,"Copa premium entre €10,00 y €15,00",,,,Licores & Cocteleria,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera

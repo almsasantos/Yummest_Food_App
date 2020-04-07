@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz de almejas y rape con placton marino con all-i-oli y limón,Offer,20,EUR,Plato,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina
+1,1,MenuItem,Arroz meloso de boletus y foie,Offer,18,EUR,Plato,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina
+2,2,MenuItem,Lomo de ternera danesa a la parrilla con patatas fritas y pimientos de padrón,Offer,15,EUR,Plato,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina
+3,3,MenuItem,Secreto de cerdo ibérico a la plancha,Offer,15,EUR,Plato,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina
+4,4,MenuItem,Lomo de lubina a la bilbaina,Offer,15,EUR,Plato,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina

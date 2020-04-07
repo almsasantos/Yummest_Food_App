@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Kunafa,Offer,9,EUR,Postres,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna
+1,1,MenuItem,Mouhalabieh con naranja,Offer,7,EUR,Postres,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna

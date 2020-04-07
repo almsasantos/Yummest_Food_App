@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pantxineta (Hojaldre de Crema Almendrada),Offer,3.75,EUR,Postre,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+1,1,MenuItem,Carpaccio de Frutas Naturales con Salsa de Yoghourt,Offer,3.75,EUR,Postre,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+2,2,MenuItem,Tarta de Queso en Tarro con Dulce de Frambuesa,Offer,3.75,EUR,Postre,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo

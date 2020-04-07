@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yuca frita acompañada de guasacaca (mojo verde venezolano),Offer,6.2,EUR,Entrante,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+1,1,MenuItem,Tequeños de maíz (6 unidades),Offer,8.8,EUR,Entrante,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+2,2,MenuItem,Nachos,Offer,9.9,EUR,Entrante,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+3,3,MenuItem,Tequeños (6 unidades),Offer,7.5,EUR,Entrante,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+4,4,MenuItem,Tostones (6 unidades),Offer,7.5,EUR,Entrante,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+5,5,MenuItem,Chicken Fingers ( 6 unidades),Offer,7.9,EUR,Entrante,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken Biryani,Offer,7.0,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+1,1,MenuItem,Chingari Biryani,Offer,7.5,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+2,2,MenuItem,Shahi Biryani,Offer,7.5,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+3,3,MenuItem,Biryani Vegetal,Offer,6.0,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+4,4,MenuItem,Polao,Offer,3.0,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+5,5,MenuItem,Arroz Blanco Basmati,Offer,2.0,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+6,6,MenuItem,Chicken Polao Rice,Offer,4.5,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+7,7,MenuItem,Lamb Polao Rice,Offer,5.0,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+8,8,MenuItem,Beef Polao Rice,Offer,4.5,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+9,9,MenuItem,Verdura Polao Rice,Offer,4.0,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+10,10,MenuItem,Gambas Polao Rice,Offer,6.0,EUR,Arroz (Basmati) Especial de Basiakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi

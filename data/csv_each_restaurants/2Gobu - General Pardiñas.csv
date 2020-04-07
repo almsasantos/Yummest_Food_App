@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Tarta de queso con salsa de frutos rojos,Offer,5.7,EUR,Postre,None,None,None,Gobu - General Pardiñas
+1,1,MenuItem,"Galleta con perlas de chocolate, chocolate fundido al carbón y helado de vainilla",Offer,6.2,EUR,Postre,None,None,None,Gobu - General Pardiñas
+2,2,MenuItem,Tarta tatín con helado de vainilla,Offer,6.2,EUR,Postre,None,None,None,Gobu - General Pardiñas

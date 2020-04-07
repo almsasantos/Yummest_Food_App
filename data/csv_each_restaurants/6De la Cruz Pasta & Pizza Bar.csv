@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,A elegir de cuatro platos del día.,Menú del día,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+1,1,MenuItem,Plato,A elegir de cuatro segundos del día.,Menú del día,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+2,2,MenuItem,Postre o café,***,Menú del día,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+3,3,MenuItem,Bebida,Una bebida por persona.,Menú del día,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar

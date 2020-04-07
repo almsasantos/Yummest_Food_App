@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Marisco,Offer,12,EUR,Arroces (por encargo con un dia mín),9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+1,1,MenuItem,Negro de sepia,Offer,12,EUR,Arroces (por encargo con un dia mín),9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+2,2,MenuItem,Verduras,Offer,10,EUR,Arroces (por encargo con un dia mín),9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+3,3,MenuItem,Con costillas y setas,Offer,11,EUR,Arroces (por encargo con un dia mín),9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella

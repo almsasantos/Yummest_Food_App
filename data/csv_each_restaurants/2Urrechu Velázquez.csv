@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Atún marinado con soja, luego plancha y gnocchis a la crema",Offer,24.5,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+1,1,MenuItem,"La mejor selección de kokotxas de merluza del Cantábrico, pil-pil y rebozadas",Offer,34.65,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+2,2,MenuItem,Taco de ventresca de bonito con su refrito,Offer,22.75,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+3,3,MenuItem,Rape asado con refrito tradicional sobre txangurro a la donostiarra,Offer,24.8,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+4,4,MenuItem,"Bacalao con ajoarriero, kokotxas y su pil-pil",Offer,23.9,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+5,5,MenuItem,Merluza en salsa verde con almejas y verduras de temporada,Offer,24.6,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+6,6,MenuItem,Arroz cremoso con cigalas y patatas crujientes de pulpo,Offer,23.35,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+7,7,MenuItem,"Txangurro a la Donostiarra, tradición marinera",Offer,23.65,EUR,Pescados,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez

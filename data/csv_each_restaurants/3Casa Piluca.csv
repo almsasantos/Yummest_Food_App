@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso,Offer,6,EUR,Postres,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+1,1,MenuItem,Natillas caseras,Offer,6,EUR,Postres,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+2,2,MenuItem,Tatín de manzana,Offer,6,EUR,Postres,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+3,3,MenuItem,Brownie de chocolate,Offer,6,EUR,Postres,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+4,4,MenuItem,Helados artesanos,Offer,6,EUR,Postres,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+5,5,MenuItem,Fruta de temporada,Offer,6,EUR,Postres,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca
+6,6,MenuItem,Postre de la semana,Offer,6,EUR,Postres,9.3,"""Español""","""Plaza de Gabriel Miró","""geo"":{""latitude"":40.4119397,""longitude"":-3.7147766",Casa Piluca

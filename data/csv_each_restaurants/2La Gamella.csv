@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Steak tartar al Jack Daniels, oriental o al método tradicional",Offer,22.5,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+1,1,MenuItem,"Trio de tartares (La vuelta al mundo en tres tartares, Francia, USA y Japón)",Offer,24.5,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+2,2,MenuItem,Entrecote de ternera de casa Gutier a la parrilla con su guarnición,Offer,23.5,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+3,3,MenuItem,Tacos mexicanos de pollo de corral y verduritas,Offer,17.5,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+4,4,MenuItem,"Hamburguesa americana a la parrilla, cebolla, queso, patatas y ensalada",Offer,18.2,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+5,5,MenuItem,"Hamburguesa de Bisonte de Canadá a la parrilla, cebolla, queso, patatas y ensalada",Offer,19.0,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+6,6,MenuItem,Hamburguesa de rabo de toro con salsa de Bourbon,Offer,19.0,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+7,7,MenuItem,Hamburguesa vegetariana de verdura y queso manchego fundido,Offer,17.5,EUR,De la tierra,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella

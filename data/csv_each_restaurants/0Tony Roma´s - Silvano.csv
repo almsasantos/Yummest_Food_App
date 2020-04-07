@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuggets,Offer,8.95,EUR,Entrante,8.4,"""Americano""","""Calle de Silvano","""geo"":{""latitude"":40.4624843,""longitude"":-3.6378318",Tony Roma´s - Silvano
+1,1,MenuItem,Pollo Nachos,Offer,8.45,EUR,Entrante,8.4,"""Americano""","""Calle de Silvano","""geo"":{""latitude"":40.4624843,""longitude"":-3.6378318",Tony Roma´s - Silvano
+2,2,MenuItem,Onion Rings,Offer,7.45,EUR,Entrante,8.4,"""Americano""","""Calle de Silvano","""geo"":{""latitude"":40.4624843,""longitude"":-3.6378318",Tony Roma´s - Silvano
+3,3,MenuItem,Ensalada Santa Fe,Offer,10.95,EUR,Entrante,8.4,"""Americano""","""Calle de Silvano","""geo"":{""latitude"":40.4624843,""longitude"":-3.6378318",Tony Roma´s - Silvano
+4,4,MenuItem,Ensalada Caesar de pollo,Offer,10.95,EUR,Entrante,8.4,"""Americano""","""Calle de Silvano","""geo"":{""latitude"":40.4624843,""longitude"":-3.6378318",Tony Roma´s - Silvano

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuestra tarta fina de manzana,Offer,7.14,EUR,Postre,9.2,"""Gastronómico""","""C","""geo"":{""latitude"":40.433951924982,""longitude"":-3.6839299201965",Maldonado 14
+1,1,MenuItem,Pudin de chocolate amargo con salsa de chocolate blanco al ron,Offer,7.14,EUR,Postre,9.2,"""Gastronómico""","""C","""geo"":{""latitude"":40.433951924982,""longitude"":-3.6839299201965",Maldonado 14
+2,2,MenuItem,Tarta de queso suave con caramelo,Offer,7.14,EUR,Postre,9.2,"""Gastronómico""","""C","""geo"":{""latitude"":40.433951924982,""longitude"":-3.6839299201965",Maldonado 14

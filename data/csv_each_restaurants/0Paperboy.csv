@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tequeño (palitos de queso al estilo Venezolano acompañados con guasacaca criolla),Offer,6.5,EUR,Entrante,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy
+1,1,MenuItem,"Alitas de pollo con ligero toque picante, acompañadas de nuestra salsa exclusiva y BBQ Casera",Offer,6.0,EUR,Entrante,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy
+2,2,MenuItem,"Nachos con queso cheddar, chili con carne, pico e gallo, guacamole y crema agria",Offer,8.0,EUR,Entrante,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy

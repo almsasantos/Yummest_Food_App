@@ -1,0 +1,47 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,KYURI MAKI,Offer,6.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+1,1,MenuItem,ABOKADO MAKI,Offer,6.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+2,2,MenuItem,NAKURO MAKI,Offer,7.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+3,3,MenuItem,SAKE MAKI,Offer,7.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+4,4,MenuItem,TOPICO MAKI,Offer,8.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+5,5,MenuItem,AKI URAMAKI,Offer,8.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+6,6,MenuItem,CALIFORNIA MAKI,Offer,7.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+7,7,MenuItem,MAKI FRITO,Offer,9.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+8,8,MenuItem,MAKI REBOZADO,Offer,8.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+9,9,MenuItem,TEMAKI ATUN ROJO,Offer,4.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+10,10,MenuItem,TEMAKI SALMON,Offer,4.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+11,11,MenuItem,TEMAKI ANGUILA,Offer,5.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+12,12,MenuItem,SASHIMI MAKURO,Offer,10.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+13,13,MenuItem,SASHIMI SALMON,Offer,9.25,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+14,14,MenuItem,SASHIMI HAMACHI,Offer,9.25,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+15,15,MenuItem,TORO DE ATUN,Offer,15.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+16,16,MenuItem,SASHIMI SHIAWASE,Offer,10.25,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+17,17,MenuItem,CHIRASHI SUSHI,Offer,15.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+18,18,MenuItem,SASHIMI FUNAMORI,Offer,19.85,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+19,19,MenuItem,TATAKI ATUN,Offer,14.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+20,20,MenuItem,SUSHI UDESI,Offer,9.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+21,21,MenuItem,SUSHI HANA,Offer,9.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+22,22,MenuItem,SUSHI FUNAMORI,Offer,12.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+23,23,MenuItem,MAKI MIX,Offer,12.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+24,24,MenuItem,SUSHI MORIAWASE,Offer,39.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+25,25,MenuItem,ARROZ BLANCO,Offer,2.0,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+26,26,MenuItem,ARROZ DE SUSHI,Offer,3.5,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+27,27,MenuItem,CHAHAN,Offer,6.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+28,28,MenuItem,ARROZ SALTEADO CON VERDURAS,Offer,5.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+29,29,MenuItem,ARROZ CON KIMCHIN,Offer,7.25,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+30,30,MenuItem,OMURAISU,Offer,8.0,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+31,31,MenuItem,ARROZ TERIYAKI,Offer,8.5,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+32,32,MenuItem,UNAGI DONBURI,Offer,13.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+33,33,MenuItem,YAKISOPA,Offer,7.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+34,34,MenuItem,BEIFUN,Offer,8.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+35,35,MenuItem,WUDON,Offer,8.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+36,36,MenuItem,RAMEN DE MISO,Offer,8.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+37,37,MenuItem,RAMEN DE MARISCO,Offer,8.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+38,38,MenuItem,TEMPURA,Offer,13.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+39,39,MenuItem,VIEIRA TEPANYAKI,Offer,12.15,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+40,40,MenuItem,SALMON A LA PLANCHA CON SALSA JAPONESA,Offer,10.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+41,41,MenuItem,SOLOMILLO TEPANYAKI,Offer,15.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+42,42,MenuItem,POLLO TERIYAKI,Offer,7.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+43,43,MenuItem,CHIKIN,Offer,7.55,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+44,44,MenuItem,AHIRU,Offer,15.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+45,45,MenuItem,PATO CRUJIENTE,Offer,10.95,EUR,Plato,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU

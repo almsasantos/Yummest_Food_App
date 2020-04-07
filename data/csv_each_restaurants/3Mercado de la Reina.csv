@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta caliente de chocolate intenso,Offer,5.5,EUR,Postre,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+1,1,MenuItem,Crema catalana con azúcar quemado,Offer,5.5,EUR,Postre,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+2,2,MenuItem,Tarta crumble de manzana caliente y helado de vainilla,Offer,6.5,EUR,Postre,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina

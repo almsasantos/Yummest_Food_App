@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante a elegir,PLATO DE CUCHARA DEL DÍA\nENSALADA DE TOMATE CON BONITO\nO\nREVUELTO DE PISTO,Menú Ainhoa 34 €,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+1,1,MenuItem,Plato a elegir,ALBONDIGAS CASERAS\nESCALOPE DE TERNERA BLANCA DE ÁVILA \nANCHOAS A LA BILBAINA\nMERLUZA AL HORNO,Menú Ainhoa 34 €,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+2,2,MenuItem,Postre,POSTRE DE LA CASA,Menú Ainhoa 34 €,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa
+3,3,MenuItem,Bebidas,"VINO DE LA CASA, AGUA Y CAFE. CERVEZAS Y REFRESCOS NO INCLUIDOS",Menú Ainhoa 34 €,8.8,"""Vasco""","""C","""geo"":{""latitude"":40.423294969474,""longitude"":-3.6923201084137",Ainhoa

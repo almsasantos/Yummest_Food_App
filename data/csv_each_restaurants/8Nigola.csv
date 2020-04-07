@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrantes,aguacates rellenos \ntabla de ibéricos (jamón/chorizo/queso curado)\nsetas empanadas rellenas de jamón con ali-oli\ncroquetas de jamón \nnuestras tostas a elegir,tapas NEVILLE,None,None,None,Nigola
+1,1,MenuItem,Plato principal a elegir,cachopo relleno de queso cabrales\ncachopo relleno de cecina & queso\ncachopo relleno de pimiento verde & jamón \npescados de día a elegir,tapas NEVILLE,None,None,None,Nigola
+2,2,MenuItem,Vinos,botella de vino rioja\nbotella de vino rueda,tapas NEVILLE,None,None,None,Nigola
+3,3,MenuItem,Otros,"pan, postre & café",tapas NEVILLE,None,None,None,Nigola
+4,4,MenuItem,Observación ,pedidos a partir de 3 personas,tapas NEVILLE,None,None,None,Nigola
+5,5,MenuItem,Recomendación ,el establecimiento no se sirve agua & bebidas gratuitamente,tapas NEVILLE,None,None,None,Nigola

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"De tomate de la huerta, aguacate y ventresca de atún confitada",Offer,9,EUR,Ensaladas,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+1,1,MenuItem,De Burrata sobre tomate Kumato con Albahaca frita,Offer,9,EUR,Ensaladas,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+2,2,MenuItem,De tomate con ventresca de atún y cebolla morada,Offer,9,EUR,Ensaladas,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+3,3,MenuItem,Ensaladilla Rusa casera con ventresca de atún,Offer,9,EUR,Ensaladas,9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan

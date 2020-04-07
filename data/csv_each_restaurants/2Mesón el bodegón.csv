@@ -1,0 +1,16 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,HUEVOS ROTOS CON JAMON,Offer,8.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+1,1,MenuItem,HUEVOS ROTOS CON CHORIZO,Offer,8.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+2,2,MenuItem,HUEVOS ROTOS CON MORCILLA,Offer,8.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+3,3,MenuItem,MORCILLA A LA PLANCHA CON HUEVOS DE CODORNIZ,Offer,8.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+4,4,MenuItem,TEQUEÑOS,Offer,7.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+5,5,MenuItem,EMPANADITAS,Offer,6.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+6,6,MenuItem,ENSALADA CESAR,Offer,7.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+7,7,MenuItem,ENSALADA DE QUESO DE CABRA Y NUECES,Offer,7.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+8,8,MenuItem,PATATAS RANCHERAS,Offer,5.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+9,9,MenuItem,PATATAS BRAVAS,Offer,5.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+10,10,MenuItem,PATATAS ALIOLI,Offer,5.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+11,11,MenuItem,PATATAS BRALIOLI,Offer,5.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+12,12,MenuItem,CROQUETAS DE POLLO,Offer,4.5,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+13,13,MenuItem,CROQUETAS DE JAMON,Offer,4.5,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+14,14,MenuItem,ALITAS DE POLLO,Offer,9.0,EUR,ENTRADAS Y RACIONES,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón

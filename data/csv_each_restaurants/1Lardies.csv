@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cecina de Astorga (León),Offer,15.5,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+1,1,MenuItem,Rabas de calamar salvaje con salsa de reducción de ajo,Offer,17.5,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+2,2,MenuItem,Ensaladilla rusa con bonito del norte,Offer,8.9,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+3,3,MenuItem,Croquetas caseras (6 unidades),Offer,9.5,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+4,4,MenuItem,Bravas caseras,Offer,7.8,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+5,5,MenuItem,Crujientes de carrillera ibérica (Guijuelo) con reducción de salsa de vino tinto,Offer,13.5,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+6,6,MenuItem,Boquerones del Cantábrico con patatas chips,Offer,9.9,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+7,7,MenuItem,Torreznos de Soria,Offer,9.9,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+8,8,MenuItem,Huevos camperos de Galicia con sus patatas y Cecina de León/ Morcilla/ Longaniza de Graus,Offer,15.9,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+9,9,MenuItem,Bacalao confitado con pisto de hierbas y piquillo de Tudela,Offer,13.9,EUR,Raciones,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+1,1,MenuItem,Copa de champán,Offer,3.0,EUR,Bebidas,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+2,2,MenuItem,Café,Offer,1.75,EUR,Bebidas,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+3,3,MenuItem,Botella de agua,Offer,3.5,EUR,Bebidas,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar

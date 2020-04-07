@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huevos rotos con jamón o chorizo,Offer,10.0,EUR,Raciones,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+1,1,MenuItem,Croquetas de jamón caseras,Offer,8.0,EUR,Raciones,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+2,2,MenuItem,Gambas al ajillo,Offer,13.0,EUR,Raciones,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+3,3,MenuItem,Boquerones a la andaluza,Offer,9.0,EUR,Raciones,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+4,4,MenuItem,Patatas bravas o alioli,Offer,6.5,EUR,Raciones,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+5,5,MenuItem,Sepia a la plancha,Offer,10.0,EUR,Raciones,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II

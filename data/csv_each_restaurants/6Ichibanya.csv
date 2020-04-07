@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Verdura variada salteada,Offer,4.0,EUR,Verdura,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+1,1,MenuItem,Verdura variada salteada estilo cantón agripicante,Offer,4.5,EUR,Verdura,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+2,2,MenuItem,Bambú y seta china salteados,Offer,4.8,EUR,Verdura,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya

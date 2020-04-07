@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Buñuelos (4 unidades),Offer,5,EUR,Postre,8.9,"""Latino""","""Calle Movinda","""geo"":{""latitude"":40.4373116,""longitude"":-3.6371882",Volcanes - Movinda
+1,1,MenuItem,Tarta de queso,Offer,5,EUR,Postre,8.9,"""Latino""","""Calle Movinda","""geo"":{""latitude"":40.4373116,""longitude"":-3.6371882",Volcanes - Movinda
+2,2,MenuItem,Tarta 3 leches,Offer,5,EUR,Postre,8.9,"""Latino""","""Calle Movinda","""geo"":{""latitude"":40.4373116,""longitude"":-3.6371882",Volcanes - Movinda

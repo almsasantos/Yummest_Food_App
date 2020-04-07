@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Filete de pollo a la plancha con patatas y pimientos del Parón,Offer,12.9,EUR,Carnes & Pescados,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+1,1,MenuItem,Solomillo de ternera con oporto y trufa con patatas torneadas,Offer,22.5,EUR,Carnes & Pescados,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+2,2,MenuItem,Hamburguesa del Leon de Oro,Offer,13.9,EUR,Carnes & Pescados,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+3,3,MenuItem,Tacos de salmón marinado con cremoso de coliflor y alga wakame,Offer,17.9,EUR,Carnes & Pescados,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+4,4,MenuItem,Merluza con salsa ligera de ajillo y nido de puerros,Offer,18.9,EUR,Carnes & Pescados,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+5,5,MenuItem,Lomo de bacalao confitado con su crujiente sobre cama de pisto manchego,Offer,18.9,EUR,Carnes & Pescados,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+6,6,MenuItem,Chipirones frescos a la parrilla,Offer,16.9,EUR,Carnes & Pescados,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro

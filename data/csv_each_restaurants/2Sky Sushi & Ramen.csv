@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Coulant de chocolate,Offer,6,EUR,Postre,None,None,None,Sky Sushi & Ramen
+1,1,MenuItem,Sablé de yuzu,Offer,6,EUR,Postre,None,None,None,Sky Sushi & Ramen
+2,2,MenuItem,Cheese cake,Offer,6,EUR,Postre,None,None,None,Sky Sushi & Ramen

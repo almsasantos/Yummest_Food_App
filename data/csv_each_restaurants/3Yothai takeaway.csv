@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Padpak,Offer,7.5,EUR,Salteados,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway
+1,1,MenuItem,Kai pad med,Offer,8.9,EUR,Salteados,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway
+2,2,MenuItem,Kapraw pollo,Offer,9.5,EUR,Salteados,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway
+3,3,MenuItem,Solomillo Yothai,Offer,15.5,EUR,Salteados,9.1,"""Tailandés""","""Cuesta de San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",Yothai takeaway

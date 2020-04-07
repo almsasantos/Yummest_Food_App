@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartufo quarglia,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+1,1,MenuItem,Burrata di Parma,Offer,9.4,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+2,2,MenuItem,Orgullo ibérico,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+3,3,MenuItem,Tartufo di Parma,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+4,4,MenuItem,Rústica,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+5,5,MenuItem,Tartufo & Funghi,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+6,6,MenuItem,Masala,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+7,7,MenuItem,Capricciosa,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+8,8,MenuItem,Margherita Burrata,Offer,8.9,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+9,9,MenuItem,Fresca di Burrata,Offer,9.4,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza
+10,10,MenuItem,Repera,Offer,9.4,EUR,Pinsas Speciale,9.2,"""Italiano""","""Calle de María de Molina","""geo"":{""latitude"":40.4376932,""longitude"":-3.687819",Pinsa Pizza

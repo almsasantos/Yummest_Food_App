@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CALABACINES SALTEADOS,Offer,9.8,EUR,VERDURITAS,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa
+1,1,MenuItem,VERDURITAS A LA PLANCHA,Offer,13.5,EUR,VERDURITAS,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa
+2,2,MenuItem,SETAS EMPANADAS,Offer,12.9,EUR,VERDURITAS,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa

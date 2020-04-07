@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak tartar de solomillo (+39 de vaca vieja de importación,Offer,15.9,EUR,Carnes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+1,1,MenuItem,Solomillo (+3) de vaca vieja de importación ( 200gr),Offer,18.9,EUR,Carnes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+2,2,MenuItem,Chuleta de lomo alto de vaca vieja de importación (500gr),Offer,24.9,EUR,Carnes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+3,3,MenuItem,Chuletón cabecero lomo alto de vaca vieja de importación (1 kg),Offer,59.9,EUR,Carnes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera

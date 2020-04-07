@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rueda ibérica con queso manchego,Offer,22.9,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+1,1,MenuItem,Pulpo a la brasa,Offer,19.9,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+2,2,MenuItem,Parrillada de verduras,Offer,13.0,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+3,3,MenuItem,Pimientos asados con ventresca,Offer,15.0,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+4,4,MenuItem,Burata en salsa de albahaca con tomate cherry,Offer,14.0,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+5,5,MenuItem,Huevos rotos en cuenco de jamón serrano crujiente,Offer,14.0,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+6,6,MenuItem,Croquetas de la casa,Offer,12.9,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+7,7,MenuItem,Croquetas de rabo de toro,Offer,12.9,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+8,8,MenuItem,Ensalada César con pollo crujiente a la miel y mostaza,Offer,12.5,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+9,9,MenuItem,"Ensalada de brotes tiernos, tomate cherry y queso de cabra con salsa de miel mostaza y vinagreta de limón",Offer,12.5,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+10,10,MenuItem,Risotto de surtido de setas con polvo Ibérico,Offer,13.0,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo
+11,11,MenuItem,Jamón Iberico,Offer,15.5,EUR,Platos para abrir boca,9,"""Mediterráneo""","""Calle Infanta María Teresa","""geo"":{""latitude"":40.45397,""longitude"":-3.6797795",El Altillo

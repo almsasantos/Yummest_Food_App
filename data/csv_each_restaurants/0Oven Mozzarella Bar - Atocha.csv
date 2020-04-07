@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,La Tavola,Offer,14.5,EUR,Entrantes,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+1,1,MenuItem,Carpaccio de buey de La Finca,Offer,12.5,EUR,Entrantes,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+2,2,MenuItem,Provolone al forno,Offer,9.5,EUR,Entrantes,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha
+3,3,MenuItem,Parmiggiana de melanzane,Offer,10.0,EUR,Entrantes,9,"""Italiano""","""Calle de Atocha","""geo"":{""latitude"":40.4094376,""longitude"":-3.6933107",Oven Mozzarella Bar - Atocha

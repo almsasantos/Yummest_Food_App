@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Con setas chinas y bambu,Offer,6.0,EUR,Pollo,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+1,1,MenuItem,Con salsa agridulce,Offer,5.7,EUR,Pollo,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+2,2,MenuItem,Con salsa picante,Offer,5.7,EUR,Pollo,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+3,3,MenuItem,Chop suey de pollo,Offer,5.7,EUR,Pollo,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+4,4,MenuItem,Con salsa al limón,Offer,5.7,EUR,Pollo,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+5,5,MenuItem,Con almendras,Offer,5.7,EUR,Pollo,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei

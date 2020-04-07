@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Aros caseros de cebolla, pimientos o mixtos",Offer,6.5,EUR,Entrante,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+1,1,MenuItem,"Croquetas caseras de jamón, bacalao o mixtas",Offer,8.0,EUR,Entrante,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+2,2,MenuItem,Alitas de pollo a la barbacoa,Offer,8.9,EUR,Entrante,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+3,3,MenuItem,Patatas con salchichas irlandesas 6 salsas,Offer,7.95,EUR,Entrante,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+4,4,MenuItem,Bacon cheese & fries,Offer,8.9,EUR,Entrante,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+5,5,MenuItem,Huevos rotos,Offer,6.9,EUR,Entrante,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gamba roja de Alicante.\t100 grs,Offer,17,EUR,MARISCOS DEL DÍA - Del Sur,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,Cigala tronco hervida - plancha 100 grs,Offer,17,EUR,MARISCOS DEL DÍA - Del Sur,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+2,2,MenuItem,Carabinero de Isla Cristina al horno,Offer,14,EUR,MARISCOS DEL DÍA - Del Sur,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+3,3,MenuItem,Gamba blanca de Huelva hervida / plancha 100 grs,Offer,17,EUR,MARISCOS DEL DÍA - Del Sur,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

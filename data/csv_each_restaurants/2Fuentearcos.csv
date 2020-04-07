@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de quinoa con verduritas y hummus de remolacha,Offer,12,EUR,VARIADITOS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,Salmorejo cordobés con helado de aceite de oliva y virutas de Ibérico,Offer,6,EUR,VARIADITOS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+2,2,MenuItem,"Crema de calabaza en texturas: crujiente, cremosa y confitada",Offer,6,EUR,VARIADITOS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+3,3,MenuItem,"Risotto cremoso de boletus, hongos y setas",Offer,12,EUR,VARIADITOS,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

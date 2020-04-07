@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Croquetas caseras, diferentes cada día. (8 Unidades)",Offer,13.8,EUR,Fritos en aceite de oliva (acompañados de asadillo de pimientos),8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,"Boquerones plateados, fritos al momento",Offer,12.5,EUR,Fritos en aceite de oliva (acompañados de asadillo de pimientos),8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+2,2,MenuItem,Cazón en adobo al estilo de San Fernando,Offer,13.5,EUR,Fritos en aceite de oliva (acompañados de asadillo de pimientos),8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+3,3,MenuItem,"Calamares de potera a la Andaluza, fritos y crujientes",Offer,18.5,EUR,Fritos en aceite de oliva (acompañados de asadillo de pimientos),8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

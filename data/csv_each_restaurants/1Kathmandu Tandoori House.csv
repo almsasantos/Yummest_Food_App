@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,KATHMANDU HOUSE SOUP / SOPA DE LA CASA,Offer,4.95,EUR,Sopas,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+1,1,MenuItem,DAL SOUP/ SOPA DE LENTEJAS,Offer,3.95,EUR,Sopas,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+2,2,MenuItem,CHICKEN SOUP / SOPA DE POLLO,Offer,4.5,EUR,Sopas,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+3,3,MenuItem,MUSHROOM SOUP / SOPA DE CHAMPIÑONES,Offer,3.95,EUR,Sopas,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+4,4,MenuItem,VEGETABLE SOUP/ SOPA DE VERDURAS,Offer,3.95,EUR,Sopas,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House

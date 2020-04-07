@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ice Burger,Offer,3.5,EUR,Postre,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+1,1,MenuItem,Batidos de helado,Offer,4.9,EUR,Postre,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+2,2,MenuItem,Cookie al horno,Offer,5.5,EUR,Postre,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+3,3,MenuItem,Apple Crumble,Offer,6.5,EUR,Postre,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+4,4,MenuItem,Helados Caseros,Offer,3.5,EUR,Postre,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+5,5,MenuItem,Cheese Cake,Offer,5.5,EUR,Postre,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal

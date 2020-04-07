@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de manzana y crocanti,Offer,7,EUR,Postre,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.417965858478,""longitude"":-3.6762499809265",Rafa
+1,1,MenuItem,Tarta capuchina,Offer,7,EUR,Postre,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.417965858478,""longitude"":-3.6762499809265",Rafa
+2,2,MenuItem,Trío de sorbetes,Offer,6,EUR,Postre,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.417965858478,""longitude"":-3.6762499809265",Rafa

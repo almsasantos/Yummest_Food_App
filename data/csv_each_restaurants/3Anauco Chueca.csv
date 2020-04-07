@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Secreto Hoisin,Offer,15.5,EUR,Especial Slow Cook,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca
+1,1,MenuItem,Pollo al curry,Offer,12.9,EUR,Especial Slow Cook,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca
+2,2,MenuItem,Costillas Anauco,Offer,15.9,EUR,Especial Slow Cook,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca

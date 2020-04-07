@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Postre Gucho (Flan de queso sin huevo),Offer,4.5,EUR,Postre,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+1,1,MenuItem,Tiramisú casero de Anna Paola,Offer,6.0,EUR,Postre,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+2,2,MenuItem,Tabla de quesos,Offer,13.2,EUR,Postre,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho

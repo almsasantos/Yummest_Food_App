@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz Jazmin (no se sirve media raciones),Offer,3.0,EUR,Guarniciones (descuento no aplicable),9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)
+1,1,MenuItem,Arroz frito verduras (no se sirve media raciones),Offer,7.5,EUR,Guarniciones (descuento no aplicable),9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)
+2,2,MenuItem,Arroz frito con huevo (no se sirve media raciones),Offer,5.95,EUR,Guarniciones (descuento no aplicable),9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)

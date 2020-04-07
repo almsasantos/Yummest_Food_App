@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico puro 100% bellota,Offer,23.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+1,1,MenuItem,Tartar de bacalao con lemon grass,Offer,13.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+2,2,MenuItem,Croquetas de solomillo/chipirón/puerro confitado/pollo asado/huevo frito y chorizo,Offer,2.1,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+3,3,MenuItem,Chistorra,Offer,11.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+4,4,MenuItem,Tartar de salmón ahumado,Offer,15.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+5,5,MenuItem,Carpaccio de chuleta Premium (Okelan),Offer,15.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+6,6,MenuItem,Oreja crujiente con salsa barbacoa,Offer,12.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+7,7,MenuItem,Kokotxas de bacalao al pil pil o rebozadas,Offer,19.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+8,8,MenuItem,Buñuelos de bacalao,Offer,10.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati
+9,9,MenuItem,Verdinas con carabineros y carrilleras de rape,Offer,16.0,EUR,Entrantes,8.6,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.417494,""longitude"":-3.674327",La taberna de Irati

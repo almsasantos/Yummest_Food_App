@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brochetas de cerdo ibérico,Offer,8.9,EUR,Combinados,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+1,1,MenuItem,Brochetas de pollo,Offer,8.9,EUR,Combinados,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+2,2,MenuItem,Chorizo campero,Offer,10.5,EUR,Combinados,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+3,3,MenuItem,Hamburguesa,Offer,11.5,EUR,Combinados,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+4,4,MenuItem,Croquetas de calabaza,Offer,8.9,EUR,Combinados,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake

@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Mixto de jamón ibérico, lomo ibérico y queso idiazábal",Offer,17.6,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio
+1,1,MenuItem,Puding de cabracho,Offer,8.25,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio
+2,2,MenuItem,Chipirones encebollados,Offer,10.45,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio
+3,3,MenuItem,"Revuelto de ajetes, setas y gambas",Offer,9.9,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio
+4,4,MenuItem,Anchoa fresca a la bilbaína o rebozada,Offer,8.25,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio
+5,5,MenuItem,Espárragos blancos de Tolosa,Offer,8.8,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio
+6,6,MenuItem,Menestra de verduras,Offer,11.0,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio
+7,7,MenuItem,Alcachofas con almejas en salsa verde,Offer,11.55,EUR,Entrante,9.1,"""Vasco""","""Calle de Uruguay","""geo"":{""latitude"":40.4548941,""longitude"":-3.6724537",Asador Lekeitio

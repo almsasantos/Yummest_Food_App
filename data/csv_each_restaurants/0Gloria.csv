@@ -1,0 +1,26 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de queso de cabra con cebolla caramelizada,Offer,8.7,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+1,1,MenuItem,Parillada de verduras,Offer,9.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+2,2,MenuItem,Revuelto de setas y gambas,Offer,8.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+3,3,MenuItem,Huevos Estrellados con Jamón y pimientos de padrón,Offer,9.8,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+4,4,MenuItem,Ensalada de Tomate con Ventresca,Offer,7.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+5,5,MenuItem,Croquetas del Chef,Offer,7.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+6,6,MenuItem,Ensalada César,Offer,7.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+7,7,MenuItem,Tabla de Ibéricos,Offer,16.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+8,8,MenuItem,Wok de Verduras,Offer,10.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+9,9,MenuItem,Pimientos rellenos de Bacalao,Offer,8.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+10,10,MenuItem,Ensalada Mixta,Offer,6.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+11,11,MenuItem,Braviolis con taquitos de Pollo y cebolla crujiente,Offer,7.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+12,12,MenuItem,Oreja a la plancha con nuestra salsa brava,Offer,8.0,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+13,13,MenuItem,Lágrimas de Pollo con patatas y salsa de mostaza y miel,Offer,8.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+14,14,MenuItem,Tabla de Queso Manchego con miel,Offer,11.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+15,15,MenuItem,Tosta de solomillo ibérico con cebolla caramelizadaa y queso brie,Offer,6.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+16,16,MenuItem,Tosta de salmón ahumado con gambas y gulas,Offer,7.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+17,17,MenuItem,Tosta de Jamón Ibérico con tomate,Offer,7.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+18,18,MenuItem,Tosta de queso de cabra y frutos rojos,Offer,5.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+19,19,MenuItem,Pulpo a la a la gallega,Offer,17.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+20,20,MenuItem,Gambas al ajillo,Offer,9.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+21,21,MenuItem,Gambones a la plancha,Offer,9.4,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+22,22,MenuItem,Calamares a la andaluza,Offer,10.5,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+23,23,MenuItem,Sepia a la plancha,Offer,11.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria
+24,24,MenuItem,Pulpo a la parrilla con nuestra base de revolcona,Offer,17.9,EUR,Entrante,None,"""Español""","""Calle de Cavanilles","""geo"":{""latitude"":40.4042081,""longitude"":-3.6726047",Gloria

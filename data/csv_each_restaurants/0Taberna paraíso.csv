@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatas bravas,Offer,7.9,EUR,Para compartir,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+1,1,MenuItem,Patatas bravioli,Offer,8.3,EUR,Para compartir,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+2,2,MenuItem,Berenjenas a la miel,Offer,8.6,EUR,Para compartir,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+3,3,MenuItem,Alitas de pollo barbacoa,Offer,7.9,EUR,Para compartir,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+4,4,MenuItem,Palomitas de pollo,Offer,8.7,EUR,Para compartir,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+5,5,MenuItem,Finger de pollo,Offer,9.3,EUR,Para compartir,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+6,6,MenuItem,Jamón ibérico de cebo,Offer,15.8,EUR,Para compartir,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso

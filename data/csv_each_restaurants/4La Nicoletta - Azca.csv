@@ -1,0 +1,19 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carbonara,Offer,13.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+1,1,MenuItem,Aglio e Olio,Offer,13.2,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+2,2,MenuItem,Nicoletta,Offer,13.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+3,3,MenuItem,Tomate casero,Offer,12.2,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+4,4,MenuItem,Cuatro Quesos,Offer,14.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+5,5,MenuItem,Boloñesa,Offer,14.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+6,6,MenuItem,Amatriciana,Offer,14.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+7,7,MenuItem,Arrabiata,Offer,14.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+8,8,MenuItem,Pesto Genovés,Offer,14.8,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+9,9,MenuItem,Peperoncino con Gambas y Langostinos,Offer,14.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+10,10,MenuItem,Veneciana,Offer,14.5,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+11,11,MenuItem,Tartufo y Funghi,Offer,14.8,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+12,12,MenuItem,Salmón y eneldo,Offer,14.8,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+13,13,MenuItem,Gulas y langostinos,Offer,14.8,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+14,14,MenuItem,Pesto Calabrese,Offer,14.8,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+15,15,MenuItem,Frutti Di Mare,Offer,16.9,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+16,16,MenuItem,Vongole,Offer,14.2,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+17,17,MenuItem,Foie y Funghi,Offer,14.8,EUR,Pastas preparadas al momento,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Veg. Samosa,Offer,6.25,EUR,Samosas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+1,1,MenuItem,Chiken Samosa,Offer,6.25,EUR,Samosas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+2,2,MenuItem,Onion Bhaji,Offer,5.95,EUR,Samosas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+3,3,MenuItem,Pakora,Offer,5.95,EUR,Samosas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+4,4,MenuItem,Aloo Papri Chaat,Offer,6.25,EUR,Samosas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+5,5,MenuItem,Surtido de aperitivos,Offer,12.2,EUR,Samosas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+6,6,MenuItem,Paneer Tandoori,Offer,12.5,EUR,Samosas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant

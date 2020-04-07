@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Gigot de cordero a baja temperatura, setas y patatas dos cocciones",Offer,20,EUR,Las carnes,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+1,1,MenuItem,"Nuestro solomillo de ternera Wellington, zanahorias antiguas, portobello y espárragos",Offer,29,EUR,Las carnes,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+2,2,MenuItem,"Solomillo de añojo con confitura de cebolla roja, queso de cabra, y salsa oporto",Offer,26,EUR,Las carnes,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+3,3,MenuItem,"Steak tartar, aliño de anchoas y encurtidos y pan carasau",Offer,24,EUR,Las carnes,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+4,4,MenuItem,Pollito de corral texturizado con lima kaffir y guacamole,Offer,22,EUR,Las carnes,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29

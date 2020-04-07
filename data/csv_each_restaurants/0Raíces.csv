@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hummus de almendras con ventresca de atún,Offer,8,EUR,Entrantes y Ensaladas,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+1,1,MenuItem,Ensalada de 3 ahumados,Offer,14,EUR,Entrantes y Ensaladas,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+2,2,MenuItem,Ensalada de quinoa,Offer,12,EUR,Entrantes y Ensaladas,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+3,3,MenuItem,Salmorejo con cruiente de jamon iberico,Offer,7,EUR,Entrantes y Ensaladas,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces

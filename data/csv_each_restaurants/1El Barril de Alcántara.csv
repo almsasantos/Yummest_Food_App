@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas Doble cero sobre tomate de temporada y aguacate,Offer,19.8,EUR,"Chacinas finas, quesos y salazones",8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,Jamón ibérico de bellota al corte,Offer,25.0,EUR,"Chacinas finas, quesos y salazones",8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+2,2,MenuItem,Mojama de atún de Barbate,Offer,16.0,EUR,"Chacinas finas, quesos y salazones",8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+3,3,MenuItem,Selección de quesos artesanos con confitura de higos natural y frutos secos,Offer,16.5,EUR,"Chacinas finas, quesos y salazones",8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

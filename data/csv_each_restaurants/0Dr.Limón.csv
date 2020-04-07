@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mini quiche de champiñones y puerros,Offer,4.7,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+1,1,MenuItem,Mini quiche de jamón y queso,Offer,4.7,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+2,2,MenuItem,Hummus libanés con pan de pita,Offer,6.5,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+3,3,MenuItem,La Ensaladilla clásica de atún,Offer,4.6,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+4,4,MenuItem,Shakshuka,Offer,11.5,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+5,5,MenuItem,Tacos del Pastor (2 und.),Offer,8.9,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+6,6,MenuItem,Tacos veggie rosas ( 2 und.),Offer,8.5,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+7,7,MenuItem,Arepa Reina Pepiada,Offer,7.0,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+8,8,MenuItem,Arepa Pelúa,Offer,7.0,EUR,Para Empezar,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pimientos de padrón,Offer,8.5,EUR,Raciones,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||
+1,1,MenuItem,Pulpo a la gallega,Offer,19.0,EUR,Raciones,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||
+2,2,MenuItem,Huevos rotos con jamón,Offer,12.0,EUR,Raciones,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||
+3,3,MenuItem,Patatas bravas,Offer,7.0,EUR,Raciones,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||
+4,4,MenuItem,Chipirones a la plancha,Offer,18.0,EUR,Raciones,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||

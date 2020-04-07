@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pisco sour,Offer,6,EUR,COCTELES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+1,1,MenuItem,Machu pichu,Offer,6,EUR,COCTELES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+2,2,MenuItem,Chilcano,Offer,6,EUR,COCTELES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+3,3,MenuItem,Hawaiano azul,Offer,6,EUR,COCTELES,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay

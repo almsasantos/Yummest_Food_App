@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croca con Grelo Saltedo é pataca frita,Offer,16.5,EUR,Principais,8.3,"""Gallego""","""Calle de Valverde","""geo"":{""latitude"":40.4231561,""longitude"":-3.7015168",Picholeiros
+1,1,MenuItem,Arroz caldoso con boletus,Offer,14.0,EUR,Principais,8.3,"""Gallego""","""Calle de Valverde","""geo"":{""latitude"":40.4231561,""longitude"":-3.7015168",Picholeiros
+2,2,MenuItem,Pescado do día,Offer,16.5,EUR,Principais,8.3,"""Gallego""","""Calle de Valverde","""geo"":{""latitude"":40.4231561,""longitude"":-3.7015168",Picholeiros

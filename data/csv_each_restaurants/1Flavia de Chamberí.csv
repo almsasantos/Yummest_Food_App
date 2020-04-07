@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Insalata Caprese,Offer,12,EUR,Insalate,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+1,1,MenuItem,Insalata pomodori perini di Sicilia con stracciatella di burrata,Offer,12,EUR,Insalate,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+2,2,MenuItem,Ensaladilla Rusa,Offer,11,EUR,Insalate,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí

@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,media tortilla española,Offer,6.0,EUR,RACIONES,None,None,None,Nigola
+1,1,MenuItem,patatas bravas,Offer,7.0,EUR,RACIONES,None,None,None,Nigola
+2,2,MenuItem,patatas bravioli,Offer,7.0,EUR,RACIONES,None,None,None,Nigola
+3,3,MenuItem,oreja a la plancha,Offer,8.5,EUR,RACIONES,None,None,None,Nigola
+4,4,MenuItem,calamares romana,Offer,10.0,EUR,RACIONES,None,None,None,Nigola
+5,5,MenuItem,croquetas de jamón,Offer,10.0,EUR,RACIONES,None,None,None,Nigola
+6,6,MenuItem,setas rellenas de jamón,Offer,10.0,EUR,RACIONES,None,None,None,Nigola
+7,7,MenuItem,huevos rotos con gulas,Offer,10.0,EUR,RACIONES,None,None,None,Nigola
+8,8,MenuItem,huevos rotos con jamón,Offer,10.0,EUR,RACIONES,None,None,None,Nigola
+9,9,MenuItem,boquerones fritos,Offer,10.0,EUR,RACIONES,None,None,None,Nigola
+10,10,MenuItem,alitas de pollo fritos,Offer,10.0,EUR,RACIONES,None,None,None,Nigola
+11,11,MenuItem,mollejas de cordero lechal,Offer,12.0,EUR,RACIONES,None,None,None,Nigola
+12,12,MenuItem,cazuela de gulas con gambas,Offer,12.0,EUR,RACIONES,None,None,None,Nigola
+13,13,MenuItem,huevos rotos con jamón de bellota jabugo,Offer,18.0,EUR,RACIONES,None,None,None,Nigola
+14,14,MenuItem,sepia a la plancha(bajo encargo),Offer,18.0,EUR,RACIONES,None,None,None,Nigola
+15,15,MenuItem,pulpo a la gallega(bajo encargo),Offer,18.0,EUR,RACIONES,None,None,None,Nigola

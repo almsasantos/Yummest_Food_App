@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mollejas de ternera,Offer,14,EUR,"La vaca, mejor guisada",9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+1,1,MenuItem,Carrilleras de ternera gallega,Offer,13,EUR,"La vaca, mejor guisada",9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+2,2,MenuItem,Albóndigas de rabo de vaca gallega,Offer,14,EUR,"La vaca, mejor guisada",9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+3,3,MenuItem,Tuétano de vaca al horno,Offer,14,EUR,"La vaca, mejor guisada",9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella Valenciana,Offer,14,EUR,Arroces y Paellas,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+1,1,MenuItem,Arroz con Bogavante seco o caldoso,Offer,19,EUR,Arroces y Paellas,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+2,2,MenuItem,Arroz abanda,Offer,17,EUR,Arroces y Paellas,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+3,3,MenuItem,Paella de Marisco,Offer,15,EUR,Arroces y Paellas,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar

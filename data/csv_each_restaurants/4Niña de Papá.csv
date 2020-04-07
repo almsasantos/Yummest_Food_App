@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Soufflé de chocolate,Offer,6.5,EUR,Dulce tentación,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+1,1,MenuItem,Tiramisú de maracuyá,Offer,6.0,EUR,Dulce tentación,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá
+2,2,MenuItem,"Tacos de manzana caramelizada, canela y dulce de leche",Offer,5.5,EUR,Dulce tentación,8.9,None,"""Calle del Alcalde Sáinz de Baranda","""geo"":{""latitude"":40.4167468,""longitude"":-3.6700562",Niña de Papá

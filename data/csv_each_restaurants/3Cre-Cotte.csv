@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tabla de Quesos,Offer,14,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+1,1,MenuItem,Media tabla de Quesos,Offer,11,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+2,2,MenuItem,Tabla de Patés,Offer,14,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+3,3,MenuItem,Media tabla de Patés,Offer,11,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+4,4,MenuItem,Tabla Mixta,Offer,14,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+5,5,MenuItem,Media tabla Mixta,Offer,11,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+6,6,MenuItem,Tabla de Ahumados,Offer,15,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+7,7,MenuItem,Media tabla de Ahumados,Offer,11,EUR,Tablas,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte

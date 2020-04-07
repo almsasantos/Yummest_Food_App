@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pizza de ternera, bacon y cebolla crujiente con queso cheddar fundido y salsa barbacoa",Offer,10.5,EUR,Plato,8.9,"""Mediterráneo""","""Paseo del Doctor Vallejo Nájera","""geo"":{""latitude"":40.40264,""longitude"":-3.70998",Café Europa
+1,1,MenuItem,"Rosbif de ternera con mezcla de lechugas, tomate natural y salsa de mostaza verde",Offer,10.2,EUR,Plato,8.9,"""Mediterráneo""","""Paseo del Doctor Vallejo Nájera","""geo"":{""latitude"":40.40264,""longitude"":-3.70998",Café Europa
+2,2,MenuItem,"Hamburguesa con queso gorgonzola, nueces, manzana caramelizada y rúcula",Offer,11.9,EUR,Plato,8.9,"""Mediterráneo""","""Paseo del Doctor Vallejo Nájera","""geo"":{""latitude"":40.40264,""longitude"":-3.70998",Café Europa

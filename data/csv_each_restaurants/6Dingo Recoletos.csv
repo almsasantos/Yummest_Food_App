@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Dingo,Offer,12.9,EUR,Burgers,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+1,1,MenuItem,Café París,Offer,13.9,EUR,Burgers,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+2,2,MenuItem,Chevre,Offer,13.9,EUR,Burgers,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+3,3,MenuItem,Pollo,Offer,12.5,EUR,Burgers,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+4,4,MenuItem,Pulled Pork,Offer,11.9,EUR,Burgers,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos

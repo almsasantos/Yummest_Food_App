@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PESCADO DEL MEDITERRÁNEO,Offer,24,EUR,PESCADOS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+1,1,MenuItem,PESCADO DE ROCA DEL MEDITERRANEO,Offer,22,EUR,PESCADOS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+2,2,MenuItem,PULPO A LA BRASA CON SU CALDO NIMONO,Offer,18,EUR,PESCADOS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+3,3,MenuItem,BULLIT DE PEIX (plato típico ibicenco),Offer,25,EUR,PESCADOS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+4,4,MenuItem,GAMBA ROJA IBICENCA,Offer,40,EUR,PESCADOS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid

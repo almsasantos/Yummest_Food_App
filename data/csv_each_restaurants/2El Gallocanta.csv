@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de Jamón y Pollo,Offer,10,EUR,El Pollo pica...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+1,1,MenuItem,Cecina,Offer,11,EUR,El Pollo pica...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+2,2,MenuItem,Bienmesabe,Offer,11,EUR,El Pollo pica...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+3,3,MenuItem,Boletus y Setas Tacos de Jamón,Offer,12,EUR,El Pollo pica...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+4,4,MenuItem,Flores de Alcachofas Con Taquitos de Jamón.,Offer,13,EUR,El Pollo pica...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta

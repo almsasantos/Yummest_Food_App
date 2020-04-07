@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Helado de té verde,Offer,5.4,EUR,Postre,8.6,"""Japonés""","""C","""geo"":{""latitude"":40.419792614921,""longitude"":-3.6983098983765",Nippon 2
+1,1,MenuItem,Helado de sésamo,Offer,5.4,EUR,Postre,8.6,"""Japonés""","""C","""geo"":{""latitude"":40.419792614921,""longitude"":-3.6983098983765",Nippon 2
+2,2,MenuItem,Tarta casera de chocolate,Offer,5.4,EUR,Postre,8.6,"""Japonés""","""C","""geo"":{""latitude"":40.419792614921,""longitude"":-3.6983098983765",Nippon 2

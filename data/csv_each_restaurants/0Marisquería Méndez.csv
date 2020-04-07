@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gambas cocidas (1/4 kg),Offer,36,EUR,Entrante,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.418270805371,""longitude"":-3.6746299266815",Marisquería Méndez
+1,1,MenuItem,Pulpo a la gallega,Offer,15,EUR,Entrante,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.418270805371,""longitude"":-3.6746299266815",Marisquería Méndez
+2,2,MenuItem,Cigalitas fritas (1/4 kg),Offer,20,EUR,Entrante,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.418270805371,""longitude"":-3.6746299266815",Marisquería Méndez

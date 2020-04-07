@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Zumo de Naranja Granini 0.20L,Offer,2.25,EUR,Postres,9.4,"""Italiano""","""Calle Escosura","""geo"":{""latitude"":40.4351957,""longitude"":-3.7067459",Virtu italiana
+1,1,MenuItem,Zumo de Melocotón Granini 0.20L,Offer,2.5,EUR,Postres,9.4,"""Italiano""","""Calle Escosura","""geo"":{""latitude"":40.4351957,""longitude"":-3.7067459",Virtu italiana
+2,2,MenuItem,Cannoli Siciliano,Offer,4.95,EUR,Postres,9.4,"""Italiano""","""Calle Escosura","""geo"":{""latitude"":40.4351957,""longitude"":-3.7067459",Virtu italiana
+3,3,MenuItem,Soufflé al Chocolate,Offer,4.95,EUR,Postres,9.4,"""Italiano""","""Calle Escosura","""geo"":{""latitude"":40.4351957,""longitude"":-3.7067459",Virtu italiana

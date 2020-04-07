@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomos de sardina ahumada (4 uds),Offer,13,EUR,SIN ESPINAS,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+1,1,MenuItem,Tartar de atún rojo certificado,Offer,14,EUR,SIN ESPINAS,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+2,2,MenuItem,Tartar de salmón con guacamole y salsa de mango,Offer,13,EUR,SIN ESPINAS,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+3,3,MenuItem,Delicias de chipirón,Offer,10,EUR,SIN ESPINAS,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+4,4,MenuItem,Gambones rebozados con panko y mahonesa de mango,Offer,14,EUR,SIN ESPINAS,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio

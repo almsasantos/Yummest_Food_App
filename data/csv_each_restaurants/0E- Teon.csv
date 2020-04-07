@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla de calabaza,Offer,10,EUR,Entrantes,None,"""Mediterráneo""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172886,""longitude"":-3.7088665",E- Teon
+1,1,MenuItem,Croquetas,Offer,6,EUR,Entrantes,None,"""Mediterráneo""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172886,""longitude"":-3.7088665",E- Teon
+2,2,MenuItem,Hummus,Offer,8,EUR,Entrantes,None,"""Mediterráneo""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172886,""longitude"":-3.7088665",E- Teon
+3,3,MenuItem,Nachos,Offer,8,EUR,Entrantes,None,"""Mediterráneo""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172886,""longitude"":-3.7088665",E- Teon
+4,4,MenuItem,Quesadilla gourmet,Offer,8,EUR,Entrantes,None,"""Mediterráneo""","""Calle de las Fuentes","""geo"":{""latitude"":40.4172886,""longitude"":-3.7088665",E- Teon

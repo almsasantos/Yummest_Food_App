@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamon de bellota,Offer,25.55,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+1,1,MenuItem,Cremoso de salmorejo,Offer,9.35,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+2,2,MenuItem,Croquetas caseras de bellota,Offer,10.45,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+3,3,MenuItem,Crepe de Chipiron en su tinta,Offer,14.85,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+4,4,MenuItem,Ensaladilla de Pulpo y gamba,Offer,15.07,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+5,5,MenuItem,Chipirones de Anzuelo a la plancha,Offer,18.92,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+6,6,MenuItem,Pulpo a la gallega,Offer,20.68,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+7,7,MenuItem,Lomos de Sardina Ahumada,Offer,12.65,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+8,8,MenuItem,Chistorra de Arbizu,Offer,9.35,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+9,9,MenuItem,Revuelto de setas con morcilla,Offer,11.22,EUR,NUESTROS ENTRANTES,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz

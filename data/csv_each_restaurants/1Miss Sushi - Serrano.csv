@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmon cake,Offer,12.5,EUR,Plato,8.6,"""Japonés""","""Calle de Padilla","""geo"":{""latitude"":40.431615,""longitude"":-3.686338",Miss Sushi - Serrano
+1,1,MenuItem,Tataki de atún,Offer,13.7,EUR,Plato,8.6,"""Japonés""","""Calle de Padilla","""geo"":{""latitude"":40.431615,""longitude"":-3.686338",Miss Sushi - Serrano
+2,2,MenuItem,Dragon,Offer,10.9,EUR,Plato,8.6,"""Japonés""","""Calle de Padilla","""geo"":{""latitude"":40.431615,""longitude"":-3.686338",Miss Sushi - Serrano

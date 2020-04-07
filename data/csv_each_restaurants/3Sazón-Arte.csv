@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coulant de chocolate con helado de galleta María,Offer,6,EUR,Postre,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+1,1,MenuItem,Tarta de café al Pedro Ximenez,Offer,6,EUR,Postre,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte
+2,2,MenuItem,Pannacotta con crema de fresa natural,Offer,6,EUR,Postre,9.4,"""Español""","""C","""geo"":{""latitude"":40.4196,""longitude"":-3.67703",Sazón-Arte

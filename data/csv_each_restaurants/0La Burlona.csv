@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de atún rojo con gazpacho de ají amarillo,Offer,14.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+1,1,MenuItem,Mejillones con salsa de callos y mini torreznos,Offer,13.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+2,2,MenuItem,"Tortilla vaga con queso camenbert, trufa y patatas de triple cocción",Offer,19.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+3,3,MenuItem,Navajas glaseadas con aromáticos orientales,Offer,14.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+4,4,MenuItem,Ensaladilla con mayonesa espumosa de caviar de salmón,Offer,8.5,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+5,5,MenuItem,"Aguacate ahumado con caldo dashi, emulsión de chiles y cangrejo de caparazón blando",Offer,14.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona
+6,6,MenuItem,"Sardinas marinadas con néctar de oliva, picatostes y cebollitas encurtidas",Offer,8.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Santa Isabel","""geo"":{""latitude"":40.4102758,""longitude"":-3.6976851",La Burlona

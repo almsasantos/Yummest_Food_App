@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizarra de ibéricos con queso gran reserva (se recomienda con pan de cristal y tomate),Offer,15.9,EUR,De la Bodega,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+1,1,MenuItem,Jamón ibérico de bellota,Offer,19.9,EUR,De la Bodega,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+2,2,MenuItem,"Queso gran reserva con nueces, pasas y tomate confitado",Offer,8.9,EUR,De la Bodega,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+3,3,MenuItem,½ de Jamón y ½ de Queso,Offer,16.9,EUR,De la Bodega,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+4,4,MenuItem,Pan de cristal con Tumaca (3 tostas),Offer,3.5,EUR,De la Bodega,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927

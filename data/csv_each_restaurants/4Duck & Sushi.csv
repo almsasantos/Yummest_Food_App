@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PATO A LA NARANJA,Offer,15.8,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+1,1,MenuItem,CRISPY BEEF,Offer,14.0,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+2,2,MenuItem,TEPPANYAKI DE SOLOMILLO,Offer,19.5,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+3,3,MenuItem,TERNERA EN SALSA DE OSTRAS,Offer,14.5,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+4,4,MenuItem,TATAKI de salmón,Offer,12.8,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+5,5,MenuItem,TATAKI de atún,Offer,16.8,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+6,6,MenuItem,KATSU DE POLLO con un crujiente panko y salsa de lima,Offer,12.8,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+7,7,MenuItem,KONGPAO CHICKEN,Offer,12.8,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+8,8,MenuItem,GREEN THAI CURRY CHICKEN,Offer,13.8,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+9,9,MenuItem,LANGOSTINOS AL ESTILO VIETNAMITA con sus barquitas de lechuga y hierbas aromáticas,Offer,16.5,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+10,10,MenuItem,BUNS AL VAPOR (2 uds.),Offer,11.0,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+11,11,MenuItem,JAPO-TAKOS crujientes tacos rellenos de tartar de hamachi con guacamole y lima,Offer,12.8,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+12,12,MenuItem,TACKOS KOREANOS rellenos de solomillo a la plancha con verduras y salsa kimchi,Offer,13.9,EUR,PLATOS PRINCIPALES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi

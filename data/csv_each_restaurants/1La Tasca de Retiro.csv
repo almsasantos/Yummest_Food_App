@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Falso Risotto con tajada de foie fresco a la plancha, boletus y tartufata",Offer,17.9,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro
+1,1,MenuItem,Wok de chipirones,Offer,15.9,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro
+2,2,MenuItem,Tartar de atún rojo,Offer,19.9,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro
+3,3,MenuItem,Lomo de merluza con salsa de carabineros,Offer,17.9,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro
+4,4,MenuItem,Pulpo a la brasa de leña,Offer,22.9,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro
+5,5,MenuItem,Rabo de toro,Offer,15.9,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro
+6,6,MenuItem,Hamburguesa de vaca rubia,Offer,13.9,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro
+7,7,MenuItem,Txuleta de ternera Del Valle de Broto,Offer,56.0,EUR,Plato,9,"""Español""","""Av","""geo"":{""latitude"":40.420772,""longitude"":-3.6794265",La Tasca de Retiro

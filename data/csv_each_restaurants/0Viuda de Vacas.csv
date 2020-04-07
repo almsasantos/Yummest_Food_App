@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Judiones de la granja,Offer,12,EUR,Entrante,9,"""Español""","""Calle Águila","""geo"":{""latitude"":40.4100923,""longitude"":-3.7120495",Viuda de Vacas
+1,1,MenuItem,Croquetas de calamares en su tinta,Offer,12,EUR,Entrante,9,"""Español""","""Calle Águila","""geo"":{""latitude"":40.4100923,""longitude"":-3.7120495",Viuda de Vacas
+2,2,MenuItem,Berenjenas en tempura con salmorejo,Offer,10,EUR,Entrante,9,"""Español""","""Calle Águila","""geo"":{""latitude"":40.4100923,""longitude"":-3.7120495",Viuda de Vacas

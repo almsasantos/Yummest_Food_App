@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Focacce Due Terre,Offer,10.2,EUR,Entrante,8.6,"""Italiano""","""CALLE DE PRECIADOS 36","""geo"":{""latitude"":40.41974,""longitude"":-3.70681",La Tagliatella Preciados
+1,1,MenuItem,Tagliata Napoletana,Offer,15.35,EUR,Entrante,8.6,"""Italiano""","""CALLE DE PRECIADOS 36","""geo"":{""latitude"":40.41974,""longitude"":-3.70681",La Tagliatella Preciados
+2,2,MenuItem,Insalata cremoso di rullo di capra,Offer,12.85,EUR,Entrante,8.6,"""Italiano""","""CALLE DE PRECIADOS 36","""geo"":{""latitude"":40.41974,""longitude"":-3.70681",La Tagliatella Preciados

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie casero con helado de vainilla,Offer,6,EUR,DULCE FINAL,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+1,1,MenuItem,Cheescake con frutos rojos,Offer,5,EUR,DULCE FINAL,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+2,2,MenuItem,Suspiro de yuzu,Offer,6,EUR,DULCE FINAL,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+3,3,MenuItem,Tiramisu casero,Offer,5,EUR,DULCE FINAL,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club

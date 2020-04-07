@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lasagna di Carne,Offer,9.9,EUR,Primi Piatti / Lasagne,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+1,1,MenuItem,Lasagna Verde,Offer,9.9,EUR,Primi Piatti / Lasagne,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo crujiente sobre parmentier de patata,Offer,28.0,EUR,Para Picar....,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+1,1,MenuItem,Pequeños chipirones encebollados,Offer,18.5,EUR,Para Picar....,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+2,2,MenuItem,Croquetas melosas de jamón ibérico con chips de verduras,Offer,12.0,EUR,Para Picar....,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Alitas de pollo,Offer,7.0,EUR,Entrante,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+1,1,MenuItem,Aros de Cebolla,Offer,7.0,EUR,Entrante,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+2,2,MenuItem,Croquetas caseras grandes de Jamón,Offer,7.5,EUR,Entrante,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+3,3,MenuItem,Mixta de alitas y Nugetts,Offer,8.5,EUR,Entrante,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+4,4,MenuItem,Nugetts de pollo,Offer,7.5,EUR,Entrante,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+5,5,MenuItem,Patatas Bravas,Offer,3.9,EUR,Entrante,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+6,6,MenuItem,Patatas Fritas,Offer,3.9,EUR,Entrante,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger

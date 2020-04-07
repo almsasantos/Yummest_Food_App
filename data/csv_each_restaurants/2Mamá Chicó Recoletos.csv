@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Burger de vaca rubia gallega,Offer,16.4,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos
+1,1,MenuItem,Risotto de boletus y trufa,Offer,16.4,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos
+2,2,MenuItem,Lasaña de rabo de toro,Offer,16.8,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos
+3,3,MenuItem,Steak tartar,Offer,16.8,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos
+4,4,MenuItem,Magret de pato,Offer,18.4,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos
+5,5,MenuItem,Tataki de atún,Offer,18.4,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos
+6,6,MenuItem,Picaña de novillo de Black Angus,Offer,19.4,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos
+7,7,MenuItem,Solomillo de vaca gallega,Offer,21.8,EUR,Sugerencias del Chef,None,None,None,Mamá Chicó Recoletos

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pastel de chocolate blanco con helado de limón y crispy de yogur,Offer,5.5,EUR,Postre,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+1,1,MenuItem,Piña en infusión fría de haba tonka,Offer,5.0,EUR,Postre,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete
+2,2,MenuItem,Brownie casero de chocolate y nueces con helado de plátano,Offer,5.5,EUR,Postre,9.1,"""Español""","""C","""geo"":{""latitude"":40.482876730055,""longitude"":-3.668210029602051",El Siete

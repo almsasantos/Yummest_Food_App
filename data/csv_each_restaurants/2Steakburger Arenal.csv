@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sandwich de Abanico Ibérico,Offer,9.5,EUR,Sandwiches,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+1,1,MenuItem,Classic Chicken Sandwich,Offer,9.0,EUR,Sandwiches,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal

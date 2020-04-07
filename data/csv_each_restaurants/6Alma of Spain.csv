@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Timbal de Rabo de Toro con Estofado de Pochas y Cebolla Roja,Offer,15,EUR,LAS CARNES DE NUESTRA FINCA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+1,1,MenuItem,"Costillas Ibéricas a baja Temperatura sobre Parmentier de Patata, Trufa y Miel",Offer,17,EUR,LAS CARNES DE NUESTRA FINCA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+2,2,MenuItem,Callos a la Madrileña con Pata y Morro,Offer,15,EUR,LAS CARNES DE NUESTRA FINCA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+3,3,MenuItem,"400g de Lomo de Vaca Gallega osmotizado con Lagavulin, Jugo de Carne y Cremoso de Apionabo",Offer,26,EUR,LAS CARNES DE NUESTRA FINCA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+4,4,MenuItem,Pierna de Cabrito Asada con Patatas Baby a las Finas Hierbas y Cebolletas Glaseadas al Oporto,Offer,26,EUR,LAS CARNES DE NUESTRA FINCA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+5,5,MenuItem,Tira de Asado de Black Angus Nacional a Baja Temperatura,Offer,21,EUR,LAS CARNES DE NUESTRA FINCA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huramaki,Offer,3.2,EUR,Emtrantes y fritos,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+1,1,MenuItem,Wan tun frito,Offer,3.2,EUR,Emtrantes y fritos,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+2,2,MenuItem,Bolas de pulpo fritas,Offer,5.0,EUR,Emtrantes y fritos,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+3,3,MenuItem,Tortita japonesa,Offer,4.0,EUR,Emtrantes y fritos,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+4,4,MenuItem,Pollo rebozado,Offer,6.0,EUR,Emtrantes y fritos,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos

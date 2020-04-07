@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entraña de vaca gallega,Offer,11.9,EUR,La puerta grande (carnes a la parrilla),9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+1,1,MenuItem,Picanha de novillo argentino,Offer,14.5,EUR,La puerta grande (carnes a la parrilla),9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+2,2,MenuItem,Lomo alto de novillo argentino,Offer,15.9,EUR,La puerta grande (carnes a la parrilla),9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+3,3,MenuItem,Solomillo de cebón argentino trufado,Offer,15.9,EUR,La puerta grande (carnes a la parrilla),9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+4,4,MenuItem,Filete de pollo del corral,Offer,8.9,EUR,La puerta grande (carnes a la parrilla),9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+5,5,MenuItem,Parrilla para 2,Offer,24.95,EUR,La puerta grande (carnes a la parrilla),9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arenque Marinado,Offer,12,EUR,Entrantes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+1,1,MenuItem,Mini Blinis de Caviar Rojo,Offer,6,EUR,Entrantes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+2,2,MenuItem,Mini Blinis de Arenque,Offer,6,EUR,Entrantes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+3,3,MenuItem,Mini Blilnis de Schproti,Offer,6,EUR,Entrantes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+4,4,MenuItem,Surtido de Mini Blinis,Offer,14,EUR,Entrantes,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja

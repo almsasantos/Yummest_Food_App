@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Almejas a la marinera,Offer,22.0,EUR,Pescados,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+1,1,MenuItem,Cachopo escabechado artesanal,Offer,21.5,EUR,Pescados,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+2,2,MenuItem,Calamares en su tinta con arroz blanco,Offer,19.0,EUR,Pescados,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+3,3,MenuItem,Cocochas de merluza (de pincho) a la romana,Offer,24.5,EUR,Pescados,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+4,4,MenuItem,Merluza de pincho a la plancha o romana,Offer,21.5,EUR,Pescados,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+5,5,MenuItem,Merluza de pincho “Luarqués”,Offer,23.5,EUR,Pescados,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués
+6,6,MenuItem,Pixin “Luarqués” (Rape),Offer,22.0,EUR,Pescados,9.1,"""Asturiano""","""C","""geo"":{""latitude"":40.415224178621,""longitude"":-3.6989500522614",El Luarqués

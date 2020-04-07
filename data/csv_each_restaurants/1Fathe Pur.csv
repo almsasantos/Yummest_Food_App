@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Fathepur tandoori mixto grill (pollo tandoori, pollo tikka y cordero adobado)",Offer,19.9,EUR,Plato,9,"""Indio""","""C","""geo"":{""latitude"":40.418041369266,""longitude"":-3.6735899448395",Fathe Pur
+1,1,MenuItem,Chicken tikka masala (curry de pollo tikka con especias),Offer,12.9,EUR,Plato,9,"""Indio""","""C","""geo"":{""latitude"":40.418041369266,""longitude"":-3.6735899448395",Fathe Pur
+2,2,MenuItem,"King prawn curry (típico hindú, gambas preparadas con tomates frescos y pimiento verdes)",Offer,19.5,EUR,Plato,9,"""Indio""","""C","""geo"":{""latitude"":40.418041369266,""longitude"":-3.6735899448395",Fathe Pur

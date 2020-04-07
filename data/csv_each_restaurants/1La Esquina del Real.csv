@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Riñones de ternera con salsa al vino de Oporto,Offer,20.5,EUR,Casquería,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+1,1,MenuItem,Mollejas de ternera con salsa de Colmenillas,Offer,24.0,EUR,Casquería,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+2,2,MenuItem,Fricassée de riñones y mollejas con su jugo al aroma de romero,Offer,22.5,EUR,Casquería,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real

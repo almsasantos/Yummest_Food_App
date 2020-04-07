@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada “Primavera”,Offer,9,EUR,Ensaladas y Ensaladilla,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+1,1,MenuItem,Ensalada “3 quesos”,Offer,9,EUR,Ensaladas y Ensaladilla,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+2,2,MenuItem,Ensaladilla “Dnister”,Offer,9,EUR,Ensaladas y Ensaladilla,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+3,3,MenuItem,Ensaladilla “Shuba”,Offer,9,EUR,Ensaladas y Ensaladilla,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,55.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+5,5,MenuItem,Botella de vino,Offer,17.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+6,6,MenuItem,Copa de vino,Offer,4.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz

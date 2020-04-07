@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos,Offer,7.9,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+1,1,MenuItem,Combo de entrantes,Offer,12.9,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+2,2,MenuItem,Delicias de pollo,Offer,7.9,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+3,3,MenuItem,Aros de cebolla,Offer,6.9,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+4,4,MenuItem,Delicias de queso,Offer,9.0,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+5,5,MenuItem,Alitas de pollo BBQ,Offer,7.9,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+6,6,MenuItem,Ensalada Genovesa,Offer,9.5,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+7,7,MenuItem,Ensalada César,Offer,9.0,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá
+8,8,MenuItem,Ensalada Azteca,Offer,9.5,EUR,ENTRANTES,8.4,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4207266,""longitude"":-3.686501",Hamburguesa Nostra - Alcalá

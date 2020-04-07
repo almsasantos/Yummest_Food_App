@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,"Oblea, arequipe, mora y queso",Offer,8,EUR,Portal De Los Dulces,None,None,None,QUIMBAYA by Edwin Rodríguez
+1,1,MenuItem,"Borojó, chontaduro, maní y coco",Offer,8,EUR,Portal De Los Dulces,None,None,None,QUIMBAYA by Edwin Rodríguez
+2,2,MenuItem,"Merengón de guanábana, fresas y saúco",Offer,8,EUR,Portal De Los Dulces,None,None,None,QUIMBAYA by Edwin Rodríguez
+3,3,MenuItem,"Paisaje cafetero (café, cacao y maracuyá)",Offer,8,EUR,Portal De Los Dulces,None,None,None,QUIMBAYA by Edwin Rodríguez

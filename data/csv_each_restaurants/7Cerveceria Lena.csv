@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso,Offer,4.0,EUR,Postres,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+1,1,MenuItem,Natillas,Offer,4.0,EUR,Postres,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+2,2,MenuItem,Crema catalana,Offer,4.0,EUR,Postres,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+3,3,MenuItem,Tarta al Whisky,Offer,4.5,EUR,Postres,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+4,4,MenuItem,Tarta contesa,Offer,4.0,EUR,Postres,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+5,5,MenuItem,Tarta de santiago,Offer,4.0,EUR,Postres,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena
+6,6,MenuItem,Fruta de temporada,Offer,4.0,EUR,Postres,5.7,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4222449,""longitude"":-3.7076288",Cerveceria Lena

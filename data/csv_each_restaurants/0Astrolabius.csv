@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusandina (unidad),Offer,3.75,EUR,El Tapeo,8.9,None,"""Calle de Serrano","""geo"":{""latitude"":40.4361465,""longitude"":-3.686112",Astrolabius
+1,1,MenuItem,Mejillón Gocho (4 unidades),Offer,9.9,EUR,El Tapeo,8.9,None,"""Calle de Serrano","""geo"":{""latitude"":40.4361465,""longitude"":-3.686112",Astrolabius
+2,2,MenuItem,Fría tradición,Offer,13.0,EUR,El Tapeo,8.9,None,"""Calle de Serrano","""geo"":{""latitude"":40.4361465,""longitude"":-3.686112",Astrolabius
+3,3,MenuItem,Ostra plana gallega - Nikkei (UD),Offer,4.9,EUR,El Tapeo,8.9,None,"""Calle de Serrano","""geo"":{""latitude"":40.4361465,""longitude"":-3.686112",Astrolabius
+4,4,MenuItem,Patakagua,Offer,13.5,EUR,El Tapeo,8.9,None,"""Calle de Serrano","""geo"":{""latitude"":40.4361465,""longitude"":-3.686112",Astrolabius
+5,5,MenuItem,Tosa-Mi de ventresca de atún rojo,Offer,18.5,EUR,El Tapeo,8.9,None,"""Calle de Serrano","""geo"":{""latitude"":40.4361465,""longitude"":-3.686112",Astrolabius
+6,6,MenuItem,Bao Chifero,Offer,6.9,EUR,El Tapeo,8.9,None,"""Calle de Serrano","""geo"":{""latitude"":40.4361465,""longitude"":-3.686112",Astrolabius

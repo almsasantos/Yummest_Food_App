@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares frescos,Offer,15.0,EUR,Pescados,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+1,1,MenuItem,Merluza a la plancha o a la romana,Offer,15.0,EUR,Pescados,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II
+2,2,MenuItem,Lomo de salmón,Offer,16.5,EUR,Pescados,8.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4649575,""longitude"":-3.6933277",Lisanti II

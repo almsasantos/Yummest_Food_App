@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Clásica (Suizos),Offer,20.9,EUR,Fondues y Raclettes,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+1,1,MenuItem,Azul,Offer,20.9,EUR,Fondues y Raclettes,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+2,2,MenuItem,Raclette de vaca,Offer,20.9,EUR,Fondues y Raclettes,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+3,3,MenuItem,Raclette de Comte,Offer,20.9,EUR,Fondues y Raclettes,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+4,4,MenuItem,Raclette de Gouda con trufa,Offer,21.9,EUR,Fondues y Raclettes,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid

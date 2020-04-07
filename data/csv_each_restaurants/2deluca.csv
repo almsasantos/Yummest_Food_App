@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,VELLUTATA DI ZUCCA E ARANCE,Offer,8,EUR,ZUPPE Y CREMAS,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+1,1,MenuItem,CREMA DI POMODORO,Offer,8,EUR,ZUPPE Y CREMAS,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+2,2,MenuItem,MINISTRONE ALLA GENOVESE,Offer,8,EUR,ZUPPE Y CREMAS,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca

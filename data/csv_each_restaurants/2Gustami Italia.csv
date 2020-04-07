@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza Parigina,Offer,13.9,EUR,Plato,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+1,1,MenuItem,Pizza Calabrese,Offer,12.9,EUR,Plato,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+2,2,MenuItem,Pizza Bufala,Offer,13.9,EUR,Plato,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+3,3,MenuItem,Pizza Ortolana,Offer,12.9,EUR,Plato,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+4,4,MenuItem,Pasta Bolognese,Offer,12.9,EUR,Plato,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+5,5,MenuItem,Pasta ai formaggi,Offer,11.9,EUR,Plato,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso de dulce de leche,Offer,8,EUR,Postres,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+1,1,MenuItem,"Bizcocho de chocolate venezolano, intxaursalsa",Offer,8,EUR,Postres,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko

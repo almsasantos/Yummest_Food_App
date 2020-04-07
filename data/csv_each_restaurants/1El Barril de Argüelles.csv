@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas de la Escala sobre pulpa de tomate,Offer,19.5,EUR,Chacinas y salazones,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+1,1,MenuItem,Mojama de atún de Barbate,Offer,16.0,EUR,Chacinas y salazones,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+2,2,MenuItem,Jamón ibérico de bellota al corte\t1/2 PORTION,Offer,26.0,EUR,Chacinas y salazones,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles

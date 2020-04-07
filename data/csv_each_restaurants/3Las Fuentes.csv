@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+3,3,MenuItem,Botella de agua,Offer,2.6,EUR,Bebidas,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+4,4,MenuItem,Media botella de agua,Offer,1.7,EUR,Bebidas,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+5,5,MenuItem,Botella de vino,Offer,17.0,EUR,Bebidas,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+6,6,MenuItem,Copa de vino,Offer,2.8,EUR,Bebidas,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes

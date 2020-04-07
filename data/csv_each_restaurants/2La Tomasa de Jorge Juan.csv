@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de entraña,Offer,12.9,EUR,Carnes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+1,1,MenuItem,Solomillo con queso de cabra,Offer,17.9,EUR,Carnes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+2,2,MenuItem,Entrecot trinchado,Offer,17.9,EUR,Carnes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+3,3,MenuItem,Lomo alto de vaca vieja (600g),Offer,20.9,EUR,Carnes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan

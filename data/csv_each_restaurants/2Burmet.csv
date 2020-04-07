@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,C.L.K. (300g),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+1,1,MenuItem,BBQ Lovers (300g),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+2,2,MenuItem,Delphia (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+3,3,MenuItem,Ban B (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+4,4,MenuItem,Eggy (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+5,5,MenuItem,Gonzo (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+6,6,MenuItem,Burmet (300g),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+7,7,MenuItem,Spicy (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+8,8,MenuItem,Crispy (300 gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+9,9,MenuItem,Cheese (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+10,10,MenuItem,Lucas (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+11,11,MenuItem,Especial (300gr),Offer,13.0,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+12,12,MenuItem,Chicken,Offer,10.9,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+13,13,MenuItem,Ribs,Offer,10.9,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+14,14,MenuItem,V.G.B,Offer,10.9,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+15,15,MenuItem,Pulled,Offer,10.9,EUR,Burgers,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet

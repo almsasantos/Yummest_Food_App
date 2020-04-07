@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carrillera de ternera con salsa de ciruelas y puré de castañas,Offer,15.5,EUR,CON HUESO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+1,1,MenuItem,Cochinillo deshuesado confitado con patatas parisien,Offer,19.0,EUR,CON HUESO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+2,2,MenuItem,Alitas de pollo con miel de trufa negra.,Offer,9.0,EUR,CON HUESO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+3,3,MenuItem,Costillar deshuesado de cerdo ibérico,Offer,12.5,EUR,CON HUESO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+4,4,MenuItem,Tataki de presa ibérica con cebolla agridulce,Offer,15.0,EUR,CON HUESO,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio

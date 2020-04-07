@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,"ALCACHOFA GLASEADA A BAJA TEMPERATURA CON HUEVOS FRITOS DE CODORNIZ, SALSA DE NARANJA Y CREMA DE FOIE",Offer,10.8,EUR,Entrante,None,None,None,Taberna Antonio Sánchez
+1,1,MenuItem,HUEVOS ROTOS CON JAMÓN,Offer,11.2,EUR,Entrante,None,None,None,Taberna Antonio Sánchez

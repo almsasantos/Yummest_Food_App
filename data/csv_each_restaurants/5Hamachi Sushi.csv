@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nigiri de Atún / maguro,Offer,5.5,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+1,1,MenuItem,Nigiri de Salmón / sake,Offer,4.5,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+2,2,MenuItem,Nigiri de Pez mantequilla con trufa,Offer,4.95,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+3,3,MenuItem,Nigiri de Lubina,Offer,4.5,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+4,4,MenuItem,Nigiri de Toro,Offer,6.3,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+5,5,MenuItem,Nigiri de Anguila con salsa tare,Offer,5.5,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+6,6,MenuItem,Nigiri de Huevo de codorniz con trufa,Offer,4.5,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+7,7,MenuItem,Nigiri de Rodaballo flambeado,Offer,4.8,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+8,8,MenuItem,Nigiri de Toro flambeado,Offer,6.8,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+9,9,MenuItem,Nigiri de Salmon flambeado,Offer,5.5,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+10,10,MenuItem,Niguiri de Foie con salsa de frutas,Offer,6.9,EUR,Nigiri Sushi 2 UND,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi

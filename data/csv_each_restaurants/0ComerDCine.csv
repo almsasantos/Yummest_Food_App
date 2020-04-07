@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tomate confitado relleno de provolone, vinagreta de frutos secos y miel",Offer,11,EUR,ENTRANTES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+1,1,MenuItem,"Canelón de aguacate con tartar de bonito, alioli de ajo asado y pico de gallo",Offer,15,EUR,ENTRANTES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+2,2,MenuItem,Almeja rubia a la marinera o al cava,Offer,19,EUR,ENTRANTES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+3,3,MenuItem,Pulpo a la Gallega,Offer,20,EUR,ENTRANTES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+4,4,MenuItem,Zamburiñas asadas con chutney de tomate y gratinadas al champagne,Offer,18,EUR,ENTRANTES,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza de pincho a la sidranatural y manzana a la pimienta,Offer,24,EUR,De la mar,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+1,1,MenuItem,Pixín con crema de oricios y esparragos de mar,Offer,26,EUR,De la mar,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+2,2,MenuItem,Rodaballo en trancha al horno con ajada sobre algas,Offer,26,EUR,De la mar,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+3,3,MenuItem,Lomo de bacalao confitado con sus callos,Offer,23,EUR,De la mar,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+4,4,MenuItem,Chipirones de anzuelo sobre falso arroz con su jugo de tinta,Offer,18,EUR,De la mar,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,tosta de solomillo a la pimienta,Offer,6,EUR,TOSTAS,None,None,None,Nigola
+1,1,MenuItem,tosta de gulas con gambas,Offer,6,EUR,TOSTAS,None,None,None,Nigola
+2,2,MenuItem,tosta de jamón de bellota jabugo,Offer,7,EUR,TOSTAS,None,None,None,Nigola
+3,3,MenuItem,tosta de lomo de bellota jabugo,Offer,7,EUR,TOSTAS,None,None,None,Nigola
+4,4,MenuItem,tosta de salmón ahumado y alioli,Offer,7,EUR,TOSTAS,None,None,None,Nigola

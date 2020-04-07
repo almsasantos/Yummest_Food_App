@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Refrescos,Offer,2.5,EUR,Refrescos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+1,1,MenuItem,Cerveza de barril,Offer,3.0,EUR,Refrescos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+2,2,MenuItem,Cerveza sin alcohol,Offer,3.0,EUR,Refrescos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+3,3,MenuItem,Agua mineral 1/5 l.,Offer,1.95,EUR,Refrescos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+4,4,MenuItem,Zumo de naranja natural,Offer,3.0,EUR,Refrescos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte

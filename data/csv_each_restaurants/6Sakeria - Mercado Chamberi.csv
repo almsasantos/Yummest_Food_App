@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Aperitivo,del dia,Menu del dia,9.5,None,"""Calle de Alonso Cano","""geo"":{""latitude"":40.4361926,""longitude"":-3.6975885",Sakeria - Mercado Chamberi
+1,1,MenuItem,Entrante,sopa de miso,Menu del dia,9.5,None,"""Calle de Alonso Cano","""geo"":{""latitude"":40.4361926,""longitude"":-3.6975885",Sakeria - Mercado Chamberi
+2,2,MenuItem,Plato,3 platos a elegir- sushi o yakiudon o del dia -,Menu del dia,9.5,None,"""Calle de Alonso Cano","""geo"":{""latitude"":40.4361926,""longitude"":-3.6975885",Sakeria - Mercado Chamberi

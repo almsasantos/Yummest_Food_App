@@ -1,0 +1,4 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Bogavante a la parrilla acompañado de reducción de mantequilla especial,Offer,35,EUR,Lobster plates,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+1,1,1,MenuItem,Bogavante cocinado en aceite de oliva y hierbas aromáticas,Offer,35,EUR,Lobster plates,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+2,2,2,MenuItem,Bogavante preparado al estilo thermidor,Offer,32,EUR,Lobster plates,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carne de Wagyu salteado con setas japonesas,Offer,26,EUR,Plato Especial,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+1,1,MenuItem,G.T.K. (Bacalao negro macerado 4 dias en salsa de miso especial),Offer,25,EUR,Plato Especial,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+2,2,MenuItem,Anguila fresca del Ebro,Offer,25,EUR,Plato Especial,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key

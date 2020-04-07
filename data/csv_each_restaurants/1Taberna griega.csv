@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tsatsiki,Offer,7,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+1,1,MenuItem,Taramosalata,Offer,7,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+2,2,MenuItem,Feta sto ladi,Offer,7,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+3,3,MenuItem,Skordalia,Offer,7,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+4,4,MenuItem,Fava,Offer,7,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+5,5,MenuItem,Horiatiki,Offer,8,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+6,6,MenuItem,Domato,Offer,8,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+7,7,MenuItem,Dolmadakia,Offer,8,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+8,8,MenuItem,Melitanosalata,Offer,7,EUR,Entrantes fríos,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega

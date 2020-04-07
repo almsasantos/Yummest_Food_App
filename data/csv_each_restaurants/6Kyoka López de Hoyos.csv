@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,5,EUR,Maki-Uramaki,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+1,1,MenuItem,Salmón y aguacate,Offer,6,EUR,Maki-Uramaki,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+2,2,MenuItem,"Salmón, aguacate y queso",Offer,7,EUR,Maki-Uramaki,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+3,3,MenuItem,Plátano,Offer,5,EUR,Maki-Uramaki,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos

@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa wantan,Offer,7.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+1,1,MenuItem,Aeropuerto,Offer,14.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+2,2,MenuItem,Chaufa de carne,Offer,14.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+3,3,MenuItem,Chaufa de pollo,Offer,12.5,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+4,4,MenuItem,Chaufa de cerdo,Offer,12.5,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+5,5,MenuItem,Chaufa de mariscos,Offer,15.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+6,6,MenuItem,Chaufa mixto,Offer,13.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+7,7,MenuItem,Pollo oriental chi jau kai,Offer,15.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+8,8,MenuItem,Tallarines salteados de verduras,Offer,14.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+9,9,MenuItem,Tallarines salteados de ternera,Offer,15.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+10,10,MenuItem,Tallarines salteados de pollo,Offer,13.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid
+11,11,MenuItem,Tallarines salteados con mariscos,Offer,15.0,EUR,Comida Chifa,8.9,"""Peruano""","""Calle del Amor de Dios","""geo"":{""latitude"":40.412811,""longitude"":-3.698338",Kausa Madrid

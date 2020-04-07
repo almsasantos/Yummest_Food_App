@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cuscus de pollo con pasas (Marruecos),Offer,10,EUR,Platos Internacionales,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+1,1,MenuItem,Tajin de pollo con higos y miel (Marruecos),Offer,10,EUR,Platos Internacionales,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+2,2,MenuItem,Tajin de pollo con limon macerado (Marruecos),Offer,10,EUR,Platos Internacionales,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"CAR-PASSION: Laminas de Salmon, miel de maracuya, e hilos crujientes.",Offer,11,EUR,TIRADITOS & TATAKI,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+1,1,MenuItem,OLIVADO: Laminas de Pulpo con aceite de oliva y crema de aceituna de botija.,Offer,13,EUR,TIRADITOS & TATAKI,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+2,2,MenuItem,TATAKI DE ATUN: Cortes gruesos de atún con emulsión de aguacate y siracha,Offer,18,EUR,TIRADITOS & TATAKI,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill

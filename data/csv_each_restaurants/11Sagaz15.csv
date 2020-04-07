@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primer vuelco,Sopa con Fideos,Menú Cocido,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+1,1,MenuItem,Segundo vuelco,Garbanzos mas verduras,Menú Cocido,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+2,2,MenuItem,Tercer vuelco,Carnes,Menú Cocido,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Alcuzcuz (cous cous),Offer,14.0,EUR,Plato,8.9,"""Marroquí""","""Calle Farmacia","""geo"":{""latitude"":40.4238917,""longitude"":-3.6996675",Alcuzcuz de Alhuzema
+1,1,MenuItem,Pastela de ave,Offer,11.5,EUR,Plato,8.9,"""Marroquí""","""Calle Farmacia","""geo"":{""latitude"":40.4238917,""longitude"":-3.6996675",Alcuzcuz de Alhuzema
+2,2,MenuItem,Tajin de pollo,Offer,10.5,EUR,Plato,8.9,"""Marroquí""","""Calle Farmacia","""geo"":{""latitude"":40.4238917,""longitude"":-3.6996675",Alcuzcuz de Alhuzema

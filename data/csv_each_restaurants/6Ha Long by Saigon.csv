@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pho bo de solomillo de buey con tallarín de arroz,Offer,14,EUR,Los clásicos de café saigon,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+1,1,MenuItem,Dim Sum variados,Offer,12,EUR,Los clásicos de café saigon,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+2,2,MenuItem,Dumpling de verduras con goji,Offer,9,EUR,Los clásicos de café saigon,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon

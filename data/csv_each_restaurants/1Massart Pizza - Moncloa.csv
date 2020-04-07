@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,2 Entrantes de la Carta,,,,Ensaladas,8.8,"""Italiano""","""Calle de Isaac Peral","""geo"":{""latitude"":40.4348587,""longitude"":-3.7181643",Massart Pizza - Moncloa
+1,1,MenuItem,Pesto y jamón ibérico,Offer,11.0,EUR,Ensaladas,8.8,"""Italiano""","""Calle de Isaac Peral","""geo"":{""latitude"":40.4348587,""longitude"":-3.7181643",Massart Pizza - Moncloa
+2,2,MenuItem,Nórdica,Offer,10.5,EUR,Ensaladas,8.8,"""Italiano""","""Calle de Isaac Peral","""geo"":{""latitude"":40.4348587,""longitude"":-3.7181643",Massart Pizza - Moncloa

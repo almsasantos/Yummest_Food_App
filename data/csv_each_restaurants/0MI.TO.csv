@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de cecina y chocolate 70%,Offer,14.9,EUR,Para compartir,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+1,1,MenuItem,Parrillada de verdura de temporada con aceite de albahaca,Offer,14.5,EUR,Para compartir,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+2,2,MenuItem,Huevos rotos con Jamón ibérico,Offer,12.5,EUR,Para compartir,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+3,3,MenuItem,Buñuelos de queso manchego y trufa,Offer,13.9,EUR,Para compartir,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+4,4,MenuItem,Tabla de quesos con sus contrapuntos,Offer,15.0,EUR,Para compartir,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO

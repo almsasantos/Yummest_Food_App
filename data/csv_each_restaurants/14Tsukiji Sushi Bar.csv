@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie,Offer,5.95,EUR,Postre,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+1,1,MenuItem,Coulant de chocolate,Offer,5.95,EUR,Postre,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+2,2,MenuItem,Mochi japonés,Offer,6.95,EUR,Postre,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+3,3,MenuItem,Mousse de coco,Offer,5.95,EUR,Postre,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+4,4,MenuItem,Helado japonés (2 bolas),Offer,5.85,EUR,Postre,9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar

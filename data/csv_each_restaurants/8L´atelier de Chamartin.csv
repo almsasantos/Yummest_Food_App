@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de chocolate,Offer,4.0,EUR,POSTRES ( 100% CASEROS),8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+1,1,MenuItem,T. chocolate con helado vainilla,Offer,5.5,EUR,POSTRES ( 100% CASEROS),8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+2,2,MenuItem,Helado B&W (helado vainilla blanca y negra),Offer,2.7,EUR,POSTRES ( 100% CASEROS),8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+3,3,MenuItem,Postre L’Atelier de Chamartin,Offer,5.5,EUR,POSTRES ( 100% CASEROS),8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+4,4,MenuItem,Postre del mes,Offer,5.5,EUR,POSTRES ( 100% CASEROS),8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Picadillo de pollo de Tori-Key encima de arroz,Offer,10.0,EUR,ARROZ Y FIDEO,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+1,1,MenuItem,Pollo al curry seco estilo de mi madre,Offer,10.0,EUR,ARROZ Y FIDEO,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+2,2,MenuItem,Udón salteado,Offer,9.4,EUR,ARROZ Y FIDEO,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+3,3,MenuItem,Shoyu Ramen Tokyo style,Offer,15.0,EUR,ARROZ Y FIDEO,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key
+4,4,MenuItem,Oyakodon (muslo o pechuga de pollo de corral),Offer,9.9,EUR,ARROZ Y FIDEO,9.5,"""Japonés""","""Plaza del Descubridor Diego de Ordás","""geo"":{""latitude"":40.4405443,""longitude"":-3.7007029",Tori-Key

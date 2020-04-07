@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de Ventresca y Tomate de Tudela,Offer,17,EUR,Nuestras Ensaladas,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+1,1,MenuItem,Ensaladilla Rusa de Bonito Casero,Offer,14,EUR,Nuestras Ensaladas,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+2,2,MenuItem,"Ensalada de Pasta Fresca con Pato, Rúcula y Vinagreta de frambuesas",Offer,14,EUR,Nuestras Ensaladas,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria

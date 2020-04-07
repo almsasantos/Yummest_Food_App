@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de pollo a la parrilla,Offer,9,EUR,Hamburguesas de corral,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+1,1,MenuItem,Hamburguesa de pollo crispy,Offer,9,EUR,Hamburguesas de corral,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía

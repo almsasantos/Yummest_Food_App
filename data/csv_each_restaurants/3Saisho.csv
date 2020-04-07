@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,9.0,EUR,Nigiris Saisho,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho
+1,1,MenuItem,Calamar,Offer,7.5,EUR,Nigiris Saisho,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho
+2,2,MenuItem,Anguila,Offer,8.0,EUR,Nigiris Saisho,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho
+3,3,MenuItem,Lubina,Offer,8.0,EUR,Nigiris Saisho,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tempura de verduras,Offer,12.5,EUR,Nuestra Huerta...,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado
+1,1,MenuItem,Calçots en tempura en temporada,Offer,13.5,EUR,Nuestra Huerta...,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado
+2,2,MenuItem,Chips de alcachofas en temporada,Offer,11.5,EUR,Nuestra Huerta...,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado
+3,3,MenuItem,Ensalada Agrado con Ventresca,Offer,12.0,EUR,Nuestra Huerta...,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado

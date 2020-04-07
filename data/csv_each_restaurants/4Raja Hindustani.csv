@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken biryani,Offer,9.7,EUR,Arroz biryani,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+1,1,MenuItem,Lamb biryani,Offer,11.4,EUR,Arroz biryani,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+2,2,MenuItem,Prawn biryani,Offer,10.9,EUR,Arroz biryani,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani

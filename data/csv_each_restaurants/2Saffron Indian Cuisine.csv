@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken Tikka Masala,Offer,12.99,EUR,Platos De Pollo,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+1,1,MenuItem,Chicken Curry,Offer,11.95,EUR,Platos De Pollo,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+2,2,MenuItem,Chicken Madras,Offer,11.95,EUR,Platos De Pollo,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+3,3,MenuItem,Butter Chicken,Offer,11.95,EUR,Platos De Pollo,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+4,4,MenuItem,Chicken Balti,Offer,12.95,EUR,Platos De Pollo,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine

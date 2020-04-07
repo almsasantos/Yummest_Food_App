@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burrata Della casa.,Offer,10.9,EUR,Ensaladas,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+1,1,MenuItem,Ensalada Caprese di Búfala,Offer,8.95,EUR,Ensaladas,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+2,2,MenuItem,Ensalada César,Offer,6.95,EUR,Ensaladas,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia

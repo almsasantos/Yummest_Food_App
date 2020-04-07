@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bocconcini de Mozzarella de Búfala,Offer,7.0,EUR,Mozzarellas,9.3,"""Italiano""","""Calle de Embajadores","""geo"":{""latitude"":40.4090723,""longitude"":-3.7056485",Éccolo
+1,1,MenuItem,Burrata Pugliese,Offer,8.5,EUR,Mozzarellas,9.3,"""Italiano""","""Calle de Embajadores","""geo"":{""latitude"":40.4090723,""longitude"":-3.7056485",Éccolo
+2,2,MenuItem,Burratina ahumada al heno,Offer,7.0,EUR,Mozzarellas,9.3,"""Italiano""","""Calle de Embajadores","""geo"":{""latitude"":40.4090723,""longitude"":-3.7056485",Éccolo
+3,3,MenuItem,Mozzarella de Búfala Campana D.O.P.,Offer,6.5,EUR,Mozzarellas,9.3,"""Italiano""","""Calle de Embajadores","""geo"":{""latitude"":40.4090723,""longitude"":-3.7056485",Éccolo

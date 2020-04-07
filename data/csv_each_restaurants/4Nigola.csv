@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,lubina a la plancha,Offer,10,EUR,PESCADOS,None,None,None,Nigola
+1,1,MenuItem,dorada a la plancha,Offer,10,EUR,PESCADOS,None,None,None,Nigola
+2,2,MenuItem,salmón a la plancha,Offer,10,EUR,PESCADOS,None,None,None,Nigola
+3,3,MenuItem,filete de lenguado romana,Offer,10,EUR,PESCADOS,None,None,None,Nigola

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheesecake New York,Offer,4.5,EUR,Postre,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto
+1,1,MenuItem,Muerte por chocolate,Offer,4.5,EUR,Postre,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto
+2,2,MenuItem,Torrija con helado de turrón,Offer,4.5,EUR,Postre,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto

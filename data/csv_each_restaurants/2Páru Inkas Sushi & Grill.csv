@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CLASICO PERUANO: Corvina fresca marinada en leche de tigre clásicamente y ajíes peruanos.,Offer,17,EUR,CEVICHES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+1,1,MenuItem,CEVICHE NIKKEI: Atun en leche de tigre oriental y wantan crocante.,Offer,18,EUR,CEVICHES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill

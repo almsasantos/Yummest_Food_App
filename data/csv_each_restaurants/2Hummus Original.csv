@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Shakshuka VEGANA O VEGETARIANA,Offer,7.0,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+1,1,MenuItem,"Hamburguesa doble vegetal de kale y quinoa al horno con ensalada, hummus, arroz, pita y tahini",Offer,7.0,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+2,2,MenuItem,Berenjena asada rellena de pisto y queso vegano,Offer,7.2,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+3,3,MenuItem,"Cuscús con pisto de verduras, boniato asado y garbanzos cocidos",Offer,6.6,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+4,4,MenuItem,"Trigo con pisto de verduras, boniato asado y garbanzos cocidos",Offer,6.6,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+5,5,MenuItem,"Arroz con pisto de verduras, boniato asado y garbanzos cocidos",Offer,6.6,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+6,6,MenuItem,Berenjena asada al tahini acompañada de patatas al gajo,Offer,6.5,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+7,7,MenuItem,Paella de verduras (solos los jueves),Offer,6.9,EUR,Plato,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original

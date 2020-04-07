@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,AL Pil Pil,Offer,23.0,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+1,1,MenuItem,El Foque (Changurro Napado por Encima),Offer,24.0,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+2,2,MenuItem,A la Brasa con Piperrada (con un Fondo de Pisto),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+3,3,MenuItem,A la Sidra con Manzana Natural (y su Propia Salsa),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+4,4,MenuItem,A la Vizcaína (Frito Pimiento Choricero),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+5,5,MenuItem,Nuestros Famosos Soldaditos de Pavía (Tiras de Bacalao Rebozados),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+6,6,MenuItem,Revuelto Dourado (Desmenuzado con Huevo y Patatas Paja),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+7,7,MenuItem,Brandada (Mouse Bacalao Suavecita),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+8,8,MenuItem,Asado al Horno (con Patatas a lo Pobre),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+9,9,MenuItem,Encebollado (Horno con Cebolla Pochada),Offer,22.5,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+10,10,MenuItem,"Nuestra Rueda (Soldaditos de Pavía, Pil Pil, Club Ranero y Vizcaína)",Offer,25.0,EUR,Nuestras Formas de Bacalao,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí

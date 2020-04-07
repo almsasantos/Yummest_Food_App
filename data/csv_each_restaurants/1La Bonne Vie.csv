@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,tarrina de cochinillo,Offer,15,EUR,Plato,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+1,1,MenuItem,falso rissotto de calabaza,Offer,7,EUR,Plato,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+2,2,MenuItem,Migas de quinoa,Offer,7,EUR,Plato,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+3,3,MenuItem,Quiche del día,Offer,5,EUR,Plato,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+4,4,MenuItem,Ventresca de atún con escalivada caliente de tomate y puerros confitados,Offer,10,EUR,Plato,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie
+5,5,MenuItem,Tataky de atún con alga wakame,Offer,15,EUR,Plato,None,"""Español""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4233755,""longitude"":-3.70373",La Bonne Vie

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz Blanco (Simplemente arroz basmati al vapor),Offer,3.0,EUR,PLATOS DE ARROZ,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian
+1,1,MenuItem,"Pilaw Rice (Arroz basati con cardamomo, canela, anís estrellado y azafrán)",Offer,4.0,EUR,PLATOS DE ARROZ,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian
+2,2,MenuItem,Mashmiri Rice (Arroz basmati con champiñón),Offer,5.2,EUR,PLATOS DE ARROZ,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian
+3,3,MenuItem,"Kashmiri Rice (Arroz basmati con pasas, miel, frutos secos y azafrán)",Offer,6.0,EUR,PLATOS DE ARROZ,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian
+4,4,MenuItem,Especial Arroz (Arroz basmati con huevos y guisantes),Offer,6.5,EUR,PLATOS DE ARROZ,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian

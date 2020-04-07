@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,american ribs (entero),Offer,16.95,EUR,PIG,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+1,1,MenuItem,american ribs (medio costillar),Offer,9.0,EUR,PIG,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+2,2,MenuItem,smokie´s burger,Offer,8.95,EUR,PIG,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies

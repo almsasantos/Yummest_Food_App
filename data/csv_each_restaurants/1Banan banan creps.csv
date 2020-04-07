@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pollo, cebolla salteada y curry",Offer,8.5,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+1,1,MenuItem,Tacos de lomo de buey con pimientos rojos asados con salsa de tomate y nata y un toque de albahaca fresca,Offer,10.5,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+2,2,MenuItem,"Bacalao, zanahoria, nata y guindilla dulce",Offer,9.5,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+3,3,MenuItem,Pisto con huevo frito,Offer,8.5,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+4,4,MenuItem,"Pollo, queso y nata",Offer,8.5,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+5,5,MenuItem,Verduras con langostinos,Offer,9.5,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+6,6,MenuItem,Salmón ahumado con bechamel,Offer,9.0,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+7,7,MenuItem,"Espinacas, champiñones, bechamel y huevo frito",Offer,8.5,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+8,8,MenuItem,"Pollo, guacamole, champiñones, queso, cebolla, tacos de tomate natural con salsa pesto",Offer,9.0,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+9,9,MenuItem,"Salmón, queso y puerros",Offer,9.0,EUR,Creps salados,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps

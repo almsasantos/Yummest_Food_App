@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Plato del día,"Seleccion de un plato de carne, pescado o ensaladas",Plato del día 9 €,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+1,1,MenuItem,Postre,Postres elaborados por nosotros,Plato del día 9 €,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio
+2,2,MenuItem,Bebida a elegir,Agua\nRefresco \nCerveza\nCopa de vino,Plato del día 9 €,8.7,"""Español""","""Calle del Corazón de María","""geo"":{""latitude"":40.4473174,""longitude"":-3.6667157",Deliquio

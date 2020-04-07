@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie,Offer,2.5,EUR,Postre,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+1,1,MenuItem,Tarta de queso con arándanos,Offer,2.5,EUR,Postre,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+2,2,MenuItem,Coulant de chocolate,Offer,3.0,EUR,Postre,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+3,3,MenuItem,Fruta de temporada,Offer,2.5,EUR,Postre,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+4,4,MenuItem,Postres caseros,Offer,2.5,EUR,Postre,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez

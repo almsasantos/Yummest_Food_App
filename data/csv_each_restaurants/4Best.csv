@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CRUMBLE DE MANZANA,Offer,6,EUR,LO MÁS DULCE,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+1,1,MenuItem,TABLA DE QUESOS,Offer,9,EUR,LO MÁS DULCE,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+2,2,MenuItem,BROWNIE,Offer,6,EUR,LO MÁS DULCE,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+3,3,MenuItem,TARTA DE QUESO CASERA,Offer,6,EUR,LO MÁS DULCE,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best
+4,4,MenuItem,TARTAR DE FRUTA,Offer,6,EUR,LO MÁS DULCE,9,"""Mediterráneo""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4297274,""longitude"":-3.6749687",Best

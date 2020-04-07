@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Quesos galegos con membrillo natural, confitura de higos y frutos secos",Offer,16.0,EUR,Chacinas finas y quesos gallegos,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila
+1,1,MenuItem,Jamón ibérico de montanera,Offer,24.5,EUR,Chacinas finas y quesos gallegos,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila

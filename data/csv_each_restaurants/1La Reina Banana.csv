@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,La Reina Burger XL,Offer,8.45,EUR,Plato,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+1,1,MenuItem,Spaghetti a la boloñesa (soja texturizada),Offer,6.95,EUR,Plato,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+2,2,MenuItem,Tallarines de calabacin,Offer,8.5,EUR,Plato,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana

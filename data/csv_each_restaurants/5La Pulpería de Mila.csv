@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Boquerones del Cantábrico fritos al momento,Offer,13.5,EUR,Fritos do mar,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila
+1,1,MenuItem,"Croquetas cremosas (de centollo, de carabinero y de de xamón)",Offer,13.8,EUR,Fritos do mar,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila
+2,2,MenuItem,Luras de potera fritas con asadillo de pimientos (calamares),Offer,17.5,EUR,Fritos do mar,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila
+3,3,MenuItem,Lubina frita al adobo de limón,Offer,18.0,EUR,Fritos do mar,8.8,"""Gallego""","""C","""geo"":{""latitude"":40.422075264701,""longitude"":-3.6857199668884",La Pulpería de Mila

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brandada de bacalao,Offer,11.0,EUR,Entrante,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+1,1,MenuItem,Tartar de Atún Rojo “Yellowfine” con Aguacate y Dados de Tomate,Offer,15.0,EUR,Entrante,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+2,2,MenuItem,Pastel de Cabracho con Salsa de Yogur,Offer,15.5,EUR,Entrante,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+3,3,MenuItem,Foie de Pato Mi-cuit con Mermelada de Higos & Mini Blinis,Offer,17.0,EUR,Entrante,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+4,4,MenuItem,Revuelto de Boletus Edulis,Offer,12.0,EUR,Entrante,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro

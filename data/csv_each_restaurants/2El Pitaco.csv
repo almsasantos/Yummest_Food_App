@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartaleta de manzana de la casa,Offer,7.15,EUR,Postre,9.4,"""Vasco""","""Avenida de Badajoz","""geo"":{""latitude"":40.441486273519,""longitude"":-3.6548600196838",El Pitaco
+1,1,MenuItem,Arroz con leche casero,Offer,6.05,EUR,Postre,9.4,"""Vasco""","""Avenida de Badajoz","""geo"":{""latitude"":40.441486273519,""longitude"":-3.6548600196838",El Pitaco
+2,2,MenuItem,Profiteroles con chocolate caliente,Offer,6.05,EUR,Postre,9.4,"""Vasco""","""Avenida de Badajoz","""geo"":{""latitude"":40.441486273519,""longitude"":-3.6548600196838",El Pitaco

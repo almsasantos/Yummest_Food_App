@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burger Miami,Offer,10.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+1,1,MenuItem,Roma Burger desde 1994,Offer,10.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+2,2,MenuItem,Guacamole Burguer,Offer,9.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+3,3,MenuItem,Burger Ribs,Offer,10.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+4,4,MenuItem,Empire Burger,Offer,11.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+5,5,MenuItem,Crispy Chicken,Offer,9.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+6,6,MenuItem,Goat Cheese Burguer,Offer,10.45,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+7,7,MenuItem,Baby Back ¡+60 premios internacionales!,Offer,16.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+8,8,MenuItem,Costillas ST. Louis Carolina,Offer,18.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+9,9,MenuItem,Costillas de Ternera (2uds),Offer,16.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+10,10,MenuItem,Chuletón 900 gr. (para 2 personas),Offer,35.9,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+11,11,MenuItem,Entrecotte Medallón,Offer,18.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+12,12,MenuItem,Solomillo 210 gr.,Offer,19.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+13,13,MenuItem,Barbecued Chicken,Offer,8.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+14,14,MenuItem,Pechugas Asadas,Offer,9.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana
+15,15,MenuItem,Pollo Frito,Offer,9.95,EUR,Plato,8.1,"""Americano""","""Paseo de la Castellana","""geo"":{""latitude"":40.4273888,""longitude"":-3.689359",Tony Roma´s - Castellana

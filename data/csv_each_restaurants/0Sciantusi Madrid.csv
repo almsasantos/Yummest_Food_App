@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bruschetta tradizionale,Offer,3.5,EUR,Entrante,9,"""Italiano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4190893,""longitude"":-3.7071883",Sciantusi Madrid
+1,1,MenuItem,Burrata di Andria (segun disponibilidad),Offer,12.5,EUR,Entrante,9,"""Italiano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4190893,""longitude"":-3.7071883",Sciantusi Madrid
+2,2,MenuItem,Provolone (2 personas),Offer,8.9,EUR,Entrante,9,"""Italiano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4190893,""longitude"":-3.7071883",Sciantusi Madrid

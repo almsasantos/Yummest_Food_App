@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fabada asturiana,Offer,16.0,EUR,Entrante,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+1,1,MenuItem,Fabes con almejas,Offer,16.0,EUR,Entrante,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+2,2,MenuItem,Callos con garbanzos,Offer,16.5,EUR,Entrante,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar

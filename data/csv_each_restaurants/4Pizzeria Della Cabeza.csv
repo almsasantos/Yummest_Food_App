@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa casera de carne,Offer,6.5,EUR,Hamburguesas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+1,1,MenuItem,"Hamburguesa carne, bacon y huevo",Offer,7.8,EUR,Hamburguesas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+2,2,MenuItem,Hamburguesa vegetariana,Offer,7.5,EUR,Hamburguesas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+3,3,MenuItem,Hamburguesa de pollo,Offer,6.5,EUR,Hamburguesas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Sopa de cebolla,Offer,7,EUR,De cuchara según temporada,None,None,None,Lion café
+1,1,MenuItem,Sopa de verduras,Offer,6,EUR,De cuchara según temporada,None,None,None,Lion café
+2,2,MenuItem,Sopa de pescado,Offer,10,EUR,De cuchara según temporada,None,None,None,Lion café
+3,3,MenuItem,Gazpacho andaluz,Offer,8,EUR,De cuchara según temporada,None,None,None,Lion café
+4,4,MenuItem,Salmorejo cordobés,Offer,8,EUR,De cuchara según temporada,None,None,None,Lion café

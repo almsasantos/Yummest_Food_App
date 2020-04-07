@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pollo Flavia,Offer,16,EUR,Carni e pesci,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+1,1,MenuItem,Burger di vitello grigliato,Offer,15,EUR,Carni e pesci,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+2,2,MenuItem,Bacalao al forno,Offer,16,EUR,Carni e pesci,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+3,3,MenuItem,Salmone grigliato,Offer,16,EUR,Carni e pesci,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí

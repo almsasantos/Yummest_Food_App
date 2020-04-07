@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de Vaca Madurada,Offer,13.5,EUR,Tierra a la vista,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner
+1,1,MenuItem,Picantón a la brasa con adobo Vinha dÁlhos y cinco cítricos,Offer,16.9,EUR,Tierra a la vista,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner
+2,2,MenuItem,Carillada melosa,Offer,17.6,EUR,Tierra a la vista,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner
+3,3,MenuItem,Arroz de pato,Offer,18.4,EUR,Tierra a la vista,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner

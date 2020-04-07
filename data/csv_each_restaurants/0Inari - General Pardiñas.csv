@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tuna maki crunchy,Offer,15.0,EUR,Novedades,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+1,1,MenuItem,Inari mango roll,Offer,15.5,EUR,Novedades,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+2,2,MenuItem,Wakame tartar roll,Offer,16.5,EUR,Novedades,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+3,3,MenuItem,Mollete japonés de soft shell crab,Offer,6.95,EUR,Novedades,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+4,4,MenuItem,"Mini hamburguesa Wagyu (Kagoshima, Japón)",Offer,5.95,EUR,Novedades,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+5,5,MenuItem,Udon salteados,Offer,14.0,EUR,Novedades,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+6,6,MenuItem,Usuzukuri de atún,Offer,18.5,EUR,Novedades,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas

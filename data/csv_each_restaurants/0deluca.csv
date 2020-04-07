@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ANTIPASTO DELLA CASA,Offer,18,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+1,1,MenuItem,ANTIPASTO ITALIA,Offer,18,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+2,2,MenuItem,BURRATA PARMA,Offer,15,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+3,3,MenuItem,BURRATA E PISTACCHIO,Offer,15,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+4,4,MenuItem,BURRATA E DATTERINI,Offer,15,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+5,5,MenuItem,VITELLO TONNATO,Offer,14,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+6,6,MenuItem,CARPACCIO DI MANZO,Offer,14,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+7,7,MenuItem,INVOLTINI DI MELANZANA ALLA PARMIGIANA,Offer,13,EUR,Gli Antipasti - Entrantes,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca

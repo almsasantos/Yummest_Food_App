@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Caesar,Offer,10.9,EUR,Ensaladas,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+1,1,MenuItem,Ensalada Multicolor,Offer,11.9,EUR,Ensaladas,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia

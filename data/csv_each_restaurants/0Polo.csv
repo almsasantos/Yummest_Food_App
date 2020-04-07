@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fuente de Ibéricos y queso,Offer,22,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+1,1,MenuItem,Jamón Ibérico,Offer,20,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+2,2,MenuItem,Lomo Ibérico,Offer,20,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+3,3,MenuItem,Queso manchego curado,Offer,10,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+4,4,MenuItem,Gambas a la plancha,Offer,18,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+5,5,MenuItem,Gambón a la plancha,Offer,10,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+6,6,MenuItem,Pulpo a la gallega,Offer,18,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+7,7,MenuItem,Pulpo a la plancha,Offer,18,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+8,8,MenuItem,Croquetas caseras de jamón y pollo,Offer,8,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+9,9,MenuItem,Calamares a la andaluza,Offer,9,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+10,10,MenuItem,Choricitos a la parrilla,Offer,8,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+11,11,MenuItem,Morcilla de Burgos a la parrilla,Offer,8,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+12,12,MenuItem,Huevos rotos con jamón y pimientos de Padrón,Offer,9,EUR,PARA EMPEZAR,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak Tartar de Buey con Tostas de Pan,Offer,26.18,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+1,1,MenuItem,Solomillo de Buey a la Parrilla con Patatas Fritas,Offer,28.05,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+2,2,MenuItem,Chuletón de Buey (2 Personas) 1.100 Kg. Asado a la Parrilla con su guarnición,Offer,60.5,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+3,3,MenuItem,Entrecotte de Buey a la Parrilla con Patatas Panaderas,Offer,26.34,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+4,4,MenuItem,Tacos de Solomillo de Buey Salteado con Ajitos y Patatas Fritas,Offer,25.19,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+5,5,MenuItem,Cachopo de Ternera Blanca Relleno de Jamón Ibérico y Queso Manchego con Patata Fritas,Offer,22.55,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+6,6,MenuItem,Paletilla de Cordero de Lechal Asada en su Jugo con Patatas Panaderas,Offer,28.49,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+7,7,MenuItem,Escalopines de Ternera Blanca a la Madrileña con pisto de Verduritas,Offer,17.38,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+8,8,MenuItem,Chuletíllas de Cordero Lechal con Patatas Fritas y Padrones,Offer,24.86,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+9,9,MenuItem,Solomillo de Res Madurado con Foie de Pato a la Salsa de Oporto,Offer,30.25,EUR,Carnes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro

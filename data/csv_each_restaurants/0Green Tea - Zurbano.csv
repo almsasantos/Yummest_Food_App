@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Selección de Dim sim,Offer,14.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+1,1,MenuItem,Ensalada de fideos estilo tailandes,Offer,10.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+2,2,MenuItem,Green Tea House Salad,Offer,10.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+3,3,MenuItem,Seleccion de entrantes Green Tea House,Offer,22.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+4,4,MenuItem,Gyoza de pollo crujiente,Offer,10.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+5,5,MenuItem,Rollitos vietnamitas ¨nems¨,Offer,10.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+6,6,MenuItem,Gambas tempurizadas en salsa cremosa picante,Offer,14.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+7,7,MenuItem,Sopa de miso con tofu,Offer,7.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+8,8,MenuItem,Sopa Tom Kha Kai,Offer,8.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+9,9,MenuItem,Sopa Tom Yum kung,Offer,9.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+10,10,MenuItem,Tempura de berenjenas con salsa agripicante,Offer,9.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+11,11,MenuItem,Tempura de langostinos y verduras,Offer,14.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano
+12,12,MenuItem,Dumpling de cerdo a la plancha,Offer,11.5,EUR,Entrante,8.9,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4390495,""longitude"":-3.6929208",Green Tea - Zurbano

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Lomo de ciervo a la plancha con batata asada, ciruelas negras salteadas y castañas gallegas",Offer,35,EUR,Carnes,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+1,1,MenuItem,"Lomo de vaca de media maduración a la parrilla, escoltado por una mantequilla de hierbas y las mejores patatas",Offer,33,EUR,Carnes,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+2,2,MenuItem,"Pichón de bresse brevemente asado, con cebada a la crema y salteado de verduras de invierno",Offer,38,EUR,Carnes,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García
+3,3,MenuItem,Pluma ibérica a la plancha con salmorejo de tomate asado y “papas aliñás” al azafrán,Offer,33,EUR,Carnes,9.2,None,"""Calle de Juan de Mena","""geo"":{""latitude"":40.4172382,""longitude"":-3.6895956",Viridiana Abraham García

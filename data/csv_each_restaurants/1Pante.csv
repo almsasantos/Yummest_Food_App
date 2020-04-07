@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caponata Siciliana,Offer,11,EUR,Antipasti,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+1,1,MenuItem,"Pizzette funghi, scamorza affumicata & speck",Offer,13,EUR,Antipasti,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+2,2,MenuItem,"Pizzette San Marzano, Bufala e Origano",Offer,13,EUR,Antipasti,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+3,3,MenuItem,Carpaccio di manzo,Offer,14,EUR,Antipasti,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+4,4,MenuItem,Insalata de carciofe a crudo/ Carciofi Fritti,Offer,13,EUR,Antipasti,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+5,5,MenuItem,Tartare di Tonno Rosso,Offer,19,EUR,Antipasti,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante

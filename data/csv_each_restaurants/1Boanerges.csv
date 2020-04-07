@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burger XXL,Offer,11.95,EUR,Plato,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+1,1,MenuItem,Costillar de cerdo entero,Offer,18.95,EUR,Plato,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+2,2,MenuItem,Chuletón,Offer,21.95,EUR,Plato,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+3,3,MenuItem,Burger Boanerges,Offer,10.95,EUR,Plato,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+4,4,MenuItem,Burger Americana,Offer,9.95,EUR,Plato,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges
+5,5,MenuItem,Burger de costilla,Offer,12.95,EUR,Plato,9.2,"""Mediterráneo""","""Calle Leoneses","""geo"":{""latitude"":40.3816706,""longitude"":-3.6473103",Boanerges

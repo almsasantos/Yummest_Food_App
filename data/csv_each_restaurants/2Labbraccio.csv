@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Solomillo de corzo con higos en salsa de vino, chutney de albaricoque y manzana",Offer,20.95,EUR,Carnes,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+1,1,MenuItem,Steak tartare de solomillo,Offer,20.9,EUR,Carnes,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+2,2,MenuItem,Chuletitas de cordero lechal a la parrilla ó fritas con ajo,,,,Carnes,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+3,3,MenuItem,"1/4 de cordero lechal asado en horno de leña o ajillo, 2 Px (precio Px)",,,,Carnes,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+4,4,MenuItem,Lagarto iberico con mojo porteño,,,,Carnes,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+5,5,MenuItem,Solomillo de corzo con higos y puré de manzana,,,,Carnes,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+6,6,MenuItem,Solomillo de buey con guarnición,,,,Carnes,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio

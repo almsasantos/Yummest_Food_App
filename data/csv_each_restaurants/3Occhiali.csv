@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta Red Velvet con crema de queso,Offer,7.0,EUR,Postre,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+1,1,MenuItem,Tiramisú de donuts,Offer,7.5,EUR,Postre,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+2,2,MenuItem,Pizza nutella y galleta oreo,Offer,7.5,EUR,Postre,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+3,3,MenuItem,Tarta de cerveza,Offer,7.5,EUR,Postre,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali

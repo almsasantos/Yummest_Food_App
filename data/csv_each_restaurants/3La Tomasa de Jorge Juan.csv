@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de atún rojo,Offer,16.9,EUR,Pescados,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+1,1,MenuItem,Bacalao,Offer,15.9,EUR,Pescados,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+2,2,MenuItem,Merluza Menier,Offer,16.9,EUR,Pescados,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan

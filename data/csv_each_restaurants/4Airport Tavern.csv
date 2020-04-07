@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo de ternera con piquillos y salsa de champiñones,Offer,19,EUR,Carnes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+1,1,MenuItem,Entrecot de lomo bajo al grill con pimientos verdes y salsa de Roquefort,Offer,17,EUR,Carnes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+2,2,MenuItem,Costillar de cerdo ibérico a la parrilla con salsa barbacoa,Offer,14,EUR,Carnes,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern

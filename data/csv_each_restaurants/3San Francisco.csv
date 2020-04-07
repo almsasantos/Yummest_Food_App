@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con bogavante (mínimo 2 personas),Offer,19.0,EUR,"Arroz, pescados y mariscos",9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+1,1,MenuItem,Arroz meloso de ciervo (mínimo 2 personas),Offer,15.0,EUR,"Arroz, pescados y mariscos",9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+2,2,MenuItem,Sopa de mariscos,Offer,16.5,EUR,"Arroz, pescados y mariscos",9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+3,3,MenuItem,Guiso del día (prefuntar al Maitre),Offer,16.0,EUR,"Arroz, pescados y mariscos",9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+4,4,MenuItem,Lubina salvaje a la Bilbaína,Offer,27.0,EUR,"Arroz, pescados y mariscos",9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+5,5,MenuItem,Langostinos a la plancha (1/4 kg),Offer,25.0,EUR,"Arroz, pescados y mariscos",9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco

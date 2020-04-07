@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de bogavante, rape y langostinos con vinagreta de manzana especial de la casa",Offer,32.0,EUR,Ensaladas y verduras,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+1,1,MenuItem,Ensalada gourmet de mango y lascas de foie con almendras tostadas y vinagreta de mango,Offer,15.5,EUR,Ensaladas y verduras,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+2,2,MenuItem,Berenjenas fritas con miel de caña,Offer,10.5,EUR,Ensaladas y verduras,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+3,3,MenuItem,Verdura de temporada,Offer,11.5,EUR,Ensaladas y verduras,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco
+4,4,MenuItem,Tomate raf con ventresca escabechada en la casa,Offer,16.5,EUR,Ensaladas y verduras,9,"""Español""","""Carretera Cristo del Pardo","""geo"":{""latitude"":40.51983113705,""longitude"":-3.7900400161743",San Francisco

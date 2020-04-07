@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carpaccio de Foie de Oca con Sal Marina y Aceite Trufado,Offer,23,EUR,Seguimos con...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+1,1,MenuItem,Alcachofas confitadas a la Plancha (Temporada),Offer,18,EUR,Seguimos con...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí
+2,2,MenuItem,Crujientes de Langostinos con: Salsa Teriyaki y Miel,Offer,19,EUR,Seguimos con...,9,None,"""Calle de Ríos Rosas","""geo"":{""latitude"":40.4416497,""longitude"":-3.697864",La Pavía de Chamberí

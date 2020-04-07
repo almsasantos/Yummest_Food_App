@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TARTAR DE SALMON Y AGUACATE,Offer,14.5,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+1,1,MenuItem,TARTAR DE ATUN Y AGUACATE,Offer,16.5,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+2,2,MenuItem,TARTAR DE PEZ LIMON Y MANGO,Offer,15.9,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+3,3,MenuItem,TARTAR DE PEZ MANTEQUILLA Y MANZANA FUJI,Offer,15.9,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+4,4,MenuItem,CHIRASHI MARINAD,Offer,17.5,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+5,5,MenuItem,SALMON TEPPANYAKI,Offer,13.5,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+6,6,MenuItem,POLLO TEPPANYAKI,Offer,11.5,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+7,7,MenuItem,TONKATSU,Offer,12.5,EUR,SUGERENCIAS DE CHEF,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar

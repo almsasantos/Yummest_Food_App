@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa americana a la parrilla con patatas fritas y ensalada...SG,Offer,18.2,EUR,Hamburguesas Gourmet,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+1,1,MenuItem,"Hamburguesa de Bisonte a la parrilla, cebolla, queso, patatas y ensalada...SG",Offer,19.0,EUR,Hamburguesas Gourmet,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+2,2,MenuItem,"Hamburguesa de rabo de toro con salsa de bourbon, cebolla, patatas y ensalada",Offer,19.0,EUR,Hamburguesas Gourmet,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo a la brasa,Offer,26,EUR,A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+1,1,MenuItem,Chuletón o Tomahauk de vaca vieja Limusina al peso maduración media 45 días (57 EUROS / KG),Offer,57,EUR,A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+2,2,MenuItem,"Steak tartar picado a cuchillo, aguacate tatemado y semillas de calabaza",Offer,19,EUR,A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+3,3,MenuItem,"Costillas glaseadas en miel de caña, naranja y mostaza",Offer,18,EUR,A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+4,4,MenuItem,"Brocheta de pollo de corral, adobo de achiote y tzatziki",Offer,16,EUR,A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia

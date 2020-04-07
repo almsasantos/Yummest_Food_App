@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusa,Offer,8.5,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+1,1,MenuItem,Baos de costilla ibérica,Offer,10.5,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+2,2,MenuItem,Cazuela de Provoleta,Offer,9.5,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+3,3,MenuItem,Paté de Centollo,Offer,8.5,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+4,4,MenuItem,Empanadilla de maíz (precio por unidad),Offer,3.5,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+5,5,MenuItem,Huevos estrellados,Offer,12.5,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+6,6,MenuItem,Nachos,Offer,12.0,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+7,7,MenuItem,Croquetas cremosas,Offer,10.0,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+8,8,MenuItem,Fajitas Cochinita pibil,Offer,15.5,EUR,Picoteo,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique

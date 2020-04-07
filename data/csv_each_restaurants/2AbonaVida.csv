@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bizcocho,Offer,3.1,EUR,Postre,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida
+1,1,MenuItem,Cookies,Offer,2.5,EUR,Postre,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida

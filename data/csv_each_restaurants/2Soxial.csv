@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chusco de pernil ibérico,Offer,10.5,EUR,Nuestros chuscos de pan afamados,9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+1,1,MenuItem,Chusco de ternera,Offer,10.5,EUR,Nuestros chuscos de pan afamados,9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+2,2,MenuItem,Chusco de gambas cítricas,Offer,12.5,EUR,Nuestros chuscos de pan afamados,9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial

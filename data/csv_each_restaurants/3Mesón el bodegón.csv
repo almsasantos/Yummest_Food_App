@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CALAMARES A LA ROMANA,Offer,9.5,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+1,1,MenuItem,POLLO A LA SUIZA,Offer,7.5,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+2,2,MenuItem,POLLO A LA ALBAHACA,Offer,7.5,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+3,3,MenuItem,POLLO SALTEADO CON VEGETALES,Offer,7.5,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+4,4,MenuItem,TIRAS DE POLLO EN SALSA DE VINO DULCE,Offer,7.5,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+5,5,MenuItem,TENDERS DE POLLO,Offer,7.5,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+6,6,MenuItem,PARRILLA DE POLLO,Offer,12.0,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+7,7,MenuItem,PARRILLA DE TERNERA Y POLLO,Offer,14.0,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+8,8,MenuItem,TIRAS DE TERNERA SALTEADAS CON VEGETALES,Offer,15.0,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+9,9,MenuItem,PARRILLA DE SOLOMILLO DE CERDO,Offer,13.0,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+10,10,MenuItem,PARRILLA DE SOLOMILLO DE CERDO Y POLLO,Offer,12.5,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+11,11,MenuItem,PINCHO DE SOLOMILLO,Offer,12.0,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+12,12,MenuItem,PAELLA DE MARISCOS,Offer,15.0,EUR,A LA CARTA,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón

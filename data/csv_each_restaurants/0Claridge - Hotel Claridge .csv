@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Guacamole en tempura con huevas de salmón y nachos con queso,Offer,9.9,EUR,Entrante,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 
+1,1,MenuItem,Croquetas caseras de jamón,Offer,9.5,EUR,Entrante,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 
+2,2,MenuItem,Pulpo plancha con patatas revolconas,Offer,15.5,EUR,Entrante,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 
+3,3,MenuItem,Bacalao en tempura con patatas chip de colores,Offer,18.2,EUR,Entrante,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 
+4,4,MenuItem,Tostas de sardinas ahumadas con brunoise de tomate,Offer,10.2,EUR,Entrante,8.5,None,"""Plaza de Conde Casal","""geo"":{""latitude"":40.406391376166,""longitude"":-3.6696701049804688",Claridge - Hotel Claridge 

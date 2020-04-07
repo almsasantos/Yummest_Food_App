@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatas bravioli,Offer,6.4,EUR,picoteo,8.7,"""Mediterráneo""","""Calle Velarde","""geo"":{""latitude"":40.4268132,""longitude"":-3.7031221",Tía Candela
+1,1,MenuItem,tequeños de quesos,Offer,8.0,EUR,picoteo,8.7,"""Mediterráneo""","""Calle Velarde","""geo"":{""latitude"":40.4268132,""longitude"":-3.7031221",Tía Candela
+2,2,MenuItem,tender de pollo,Offer,8.8,EUR,picoteo,8.7,"""Mediterráneo""","""Calle Velarde","""geo"":{""latitude"":40.4268132,""longitude"":-3.7031221",Tía Candela
+3,3,MenuItem,tortilla candela,Offer,9.5,EUR,picoteo,8.7,"""Mediterráneo""","""Calle Velarde","""geo"":{""latitude"":40.4268132,""longitude"":-3.7031221",Tía Candela
+4,4,MenuItem,alitas barbacoa,Offer,8.0,EUR,picoteo,8.7,"""Mediterráneo""","""Calle Velarde","""geo"":{""latitude"":40.4268132,""longitude"":-3.7031221",Tía Candela
+5,5,MenuItem,nachos,Offer,10.8,EUR,picoteo,8.7,"""Mediterráneo""","""Calle Velarde","""geo"":{""latitude"":40.4268132,""longitude"":-3.7031221",Tía Candela

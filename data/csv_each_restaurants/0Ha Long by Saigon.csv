@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de canónigos y wuakamen con vinagreta de cítricos, cebolla crujiente y sésamo",Offer,12,EUR,Entrantes y ensalada,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+1,1,MenuItem,Mushi de buey,Offer,16,EUR,Entrantes y ensalada,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+2,2,MenuItem,Ensalada de gambas al toronjil,Offer,14,EUR,Entrantes y ensalada,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+3,3,MenuItem,Zanahorias tandoori con salsa de yogurt,Offer,7,EUR,Entrantes y ensalada,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon

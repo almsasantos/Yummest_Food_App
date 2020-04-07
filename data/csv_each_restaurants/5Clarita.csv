@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante a elegir,3 Entrantes a elegir,Menú Diario,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+1,1,MenuItem,Plato a elegir,3 Principales a elegir,Menú Diario,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+2,2,MenuItem,Postre,2 Postres a elegir,Menú Diario,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita

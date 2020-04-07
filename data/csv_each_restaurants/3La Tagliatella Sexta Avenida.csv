@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,17.1,EUR,Bebidas,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+2,2,MenuItem,Café,,,,Bebidas,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+4,4,MenuItem,Media botella de agua,Offer,1.93,EUR,Bebidas,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+5,5,MenuItem,Botella de vino,Offer,11.5,EUR,Bebidas,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+6,6,MenuItem,Copa de vino,Offer,2.15,EUR,Bebidas,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida

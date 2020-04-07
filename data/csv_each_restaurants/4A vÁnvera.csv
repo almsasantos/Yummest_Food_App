@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,La tagliata,Carnes,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+1,1,MenuItem,Milanesa de pollo al provolone,Carnes,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+2,2,MenuItem,Le scaloppine de ternera al limón o al marsala,Carnes,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+3,3,MenuItem,Solomillo de buey a la plancha,Carnes,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+4,4,MenuItem,Solomillode buey en salsa de boletus,Carnes,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+5,5,MenuItem,Hamburguesa de buey a la rogmanola,Carnes,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+6,6,MenuItem,Entrecot de vaca a la plancha,Carnes,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz al azafrán,Offer,8,EUR,Arroz,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna
+1,1,MenuItem,Arroz Kabseh,Offer,8,EUR,Arroz,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna
+2,2,MenuItem,Freekeh,Offer,8,EUR,Arroz,9.2,"""Árabe""","""Calle del Moscatelar","""geo"":{""latitude"":40.4568544,""longitude"":-3.648126",Beytna

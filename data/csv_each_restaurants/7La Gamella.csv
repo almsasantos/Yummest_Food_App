@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+1,1,MenuItem,Copa de champán,Offer,11.0,EUR,Bebidas,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+2,2,MenuItem,Café,Offer,2.1,EUR,Bebidas,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+3,3,MenuItem,Botella de agua,,,,Bebidas,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+4,4,MenuItem,Media botella de agua,Offer,3.0,EUR,Bebidas,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+5,5,MenuItem,Botella de vino,Offer,14.0,EUR,Bebidas,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+6,6,MenuItem,Copa de vino,Offer,3.75,EUR,Bebidas,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella

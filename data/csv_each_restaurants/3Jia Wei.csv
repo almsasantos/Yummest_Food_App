@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pato pekin,Offer,14.25,EUR,Platos especiales,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+1,1,MenuItem,Pato asado con setas chinas y bambu,Offer,9.25,EUR,Platos especiales,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+2,2,MenuItem,Pato asado con salsa de limón,Offer,9.25,EUR,Platos especiales,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+3,3,MenuItem,Pato asado con salsa de naranja,Offer,9.25,EUR,Platos especiales,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+4,4,MenuItem,Pata asado a la plancha,Offer,9.25,EUR,Platos especiales,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+5,5,MenuItem,Ternera asada a la plancha,Offer,8.25,EUR,Platos especiales,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+6,6,MenuItem,Gambas a la plancha,Offer,9.2,EUR,Platos especiales,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei

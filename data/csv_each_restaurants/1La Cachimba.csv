@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche clásico,Offer,16.0,EUR,Primeros,8.9,None,"""Calle de Guzmán el Bueno","""geo"":{""latitude"":40.435669,""longitude"":-3.7133467",La Cachimba
+1,1,MenuItem,Ceviche corvina y pulpo,Offer,17.0,EUR,Primeros,8.9,None,"""Calle de Guzmán el Bueno","""geo"":{""latitude"":40.435669,""longitude"":-3.7133467",La Cachimba
+2,2,MenuItem,Ceviche mixto al wok,Offer,18.5,EUR,Primeros,8.9,None,"""Calle de Guzmán el Bueno","""geo"":{""latitude"":40.435669,""longitude"":-3.7133467",La Cachimba
+3,3,MenuItem,Tiradito de la pasión,Offer,16.0,EUR,Primeros,8.9,None,"""Calle de Guzmán el Bueno","""geo"":{""latitude"":40.435669,""longitude"":-3.7133467",La Cachimba
+4,4,MenuItem,Tiradito nikkei atún rojo y kimchi,Offer,16.0,EUR,Primeros,8.9,None,"""Calle de Guzmán el Bueno","""geo"":{""latitude"":40.435669,""longitude"":-3.7133467",La Cachimba
+5,5,MenuItem,Ensalada tropical de quinoa y pulpo,Offer,14.0,EUR,Primeros,8.9,None,"""Calle de Guzmán el Bueno","""geo"":{""latitude"":40.435669,""longitude"":-3.7133467",La Cachimba
+6,6,MenuItem,Pulpo al olivo,Offer,15.0,EUR,Primeros,8.9,None,"""Calle de Guzmán el Bueno","""geo"":{""latitude"":40.435669,""longitude"":-3.7133467",La Cachimba

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta tatín de manzana con helado de vainilla,Offer,5.9,EUR,Postre,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+1,1,MenuItem,Coulant de Chocolate,Offer,6.4,EUR,Postre,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+2,2,MenuItem,Tarta de Queso,Offer,5.9,EUR,Postre,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+3,3,MenuItem,Tiramisú,Offer,5.9,EUR,Postre,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+4,4,MenuItem,Arroz con Leche,Offer,5.9,EUR,Postre,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro

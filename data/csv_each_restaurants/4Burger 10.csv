@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ESCALOPE RELLENO,Offer,16.5,EUR,CARNES,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+1,1,MenuItem,POLLO FRITO,Offer,12.0,EUR,CARNES,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+2,2,MenuItem,JAMÓN ASADO A BAJA TEMPERATURA,Offer,14.9,EUR,CARNES,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+3,3,MenuItem,COSTILLA DE TERNERA TOSTADA,Offer,14.9,EUR,CARNES,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+4,4,MenuItem,ENTRECOTTE DE VACA,Offer,17.5,EUR,CARNES,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+5,5,MenuItem,TIRA DE COSTILLA DE CERDO BBQ,Offer,14.9,EUR,CARNES,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10
+6,6,MenuItem,CARRILLERA IBÉRICA,Offer,14.9,EUR,CARNES,8.7,"""Americano""","""Glorieta de las Pirámides","""geo"":{""latitude"":40.4011137,""longitude"":-3.7154224",Burger 10

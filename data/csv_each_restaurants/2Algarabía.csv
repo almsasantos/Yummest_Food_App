@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lámina crujiente de chocolate y frambuesa,Offer,7,EUR,Postre,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+1,1,MenuItem,Copa de manzana con espuma de toffee,Offer,7,EUR,Postre,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+2,2,MenuItem,Crema fría de caramelo,Offer,7,EUR,Postre,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+3,3,MenuItem,Peras de Ricón de Soto al vino tinto,Offer,7,EUR,Postre,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía

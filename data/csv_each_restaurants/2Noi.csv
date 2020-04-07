@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cotoletta a la milanesa,Offer,24,EUR,Secondi - Carne y Pescado,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+1,1,MenuItem,Lasaña crujiente de ternera y brócoli,Offer,21,EUR,Secondi - Carne y Pescado,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+2,2,MenuItem,"Pulpo, jugo de cebolla asada y guisantes",Offer,22,EUR,Secondi - Carne y Pescado,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi
+3,3,MenuItem,Bacalao con salsa cacciucco,Offer,20,EUR,Secondi - Carne y Pescado,9.3,"""Italiano""","""Calle de Recoletos","""geo"":{""latitude"":40.4219629,""longitude"":-3.690712",Noi

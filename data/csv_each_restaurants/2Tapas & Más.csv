@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie casero con helado de vainilla,Offer,5.9,EUR,Postre,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más
+1,1,MenuItem,Helado de bailey´s,Offer,6.0,EUR,Postre,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más
+2,2,MenuItem,"Creppes caseros de dulce de leche, nutella o mermelada de arándanos",Offer,5.5,EUR,Postre,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más

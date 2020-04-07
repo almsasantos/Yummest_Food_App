@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Lomo de Salmon con Yakisoba, vegetales y Noodles",Offer,26,EUR,Plato,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+1,1,MenuItem,Tataki de Ternera Madurada con Patatas y Pimientos Fritos,Offer,27,EUR,Plato,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+2,2,MenuItem,Calamar de Potera sobre arroz cremoso de placton y camarones fritos,Offer,25,EUR,Plato,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa
+3,3,MenuItem,Secreto de Cerdo al Estilo Char Siu con Panecillos al Vapor,Offer,25,EUR,Plato,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.6782400608063",SoMa - Hotel Vincci SoMa

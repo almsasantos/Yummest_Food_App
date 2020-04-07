@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de montanera,Offer,25.5,EUR,"CHACINAS, QUESOS Y SALAZONES",9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+1,1,MenuItem,Quesos seleccionados con frutos secos y membrillo natural,Offer,16.5,EUR,"CHACINAS, QUESOS Y SALAZONES",9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+2,2,MenuItem,Mojama de atún de Barbate y huevas de Maruca,Offer,17.5,EUR,"CHACINAS, QUESOS Y SALAZONES",9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras

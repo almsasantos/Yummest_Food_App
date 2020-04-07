@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de plátano,Offer,5.9,EUR,Postre,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+1,1,MenuItem,Flan de coco,Offer,6.5,EUR,Postre,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+2,2,MenuItem,Mango con arroz dulce,Offer,6.5,EUR,Postre,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+3,3,MenuItem,Helados (2 bolas),Offer,5.5,EUR,Postre,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+4,4,MenuItem,Frutas de temporada,Offer,5.5,EUR,Postre,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+5,5,MenuItem,Es Campur,Offer,5.5,EUR,Postre,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara

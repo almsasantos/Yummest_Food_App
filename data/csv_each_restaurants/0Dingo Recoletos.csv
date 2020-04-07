@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fingers de pollo,Offer,8.9,EUR,Para Picar,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+1,1,MenuItem,Paletilla de jamón ibérico,Offer,14.9,EUR,Para Picar,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+2,2,MenuItem,Nachos con cheddar,Offer,11.9,EUR,Para Picar,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+3,3,MenuItem,Croquetas de Pulled Pork,Offer,7.5,EUR,Para Picar,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+4,4,MenuItem,Quesadilla,Offer,8.2,EUR,Para Picar,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+5,5,MenuItem,Ensaladilla de patata asada,Offer,8.9,EUR,Para Picar,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+6,6,MenuItem,Provolone a la brasa,Offer,8.9,EUR,Para Picar,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos

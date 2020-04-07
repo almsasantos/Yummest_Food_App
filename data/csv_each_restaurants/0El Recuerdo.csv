@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hojaldre de puerros y espinacas con salsa de hongos,Offer,7.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+1,1,MenuItem,Alcachofas a la plancha con Aceite de Sésamo y Sal Maldon,Offer,10.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+2,2,MenuItem,Virutas De Foie,Offer,7.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+3,3,MenuItem,"Quesadilla con pollo, champiñón y tomate a los tres quesos",Offer,7.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+4,4,MenuItem,Nuestro gazpacho,Offer,7.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+5,5,MenuItem,Bienmesabe,Offer,7.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+6,6,MenuItem,Ensaladilla Rusa,Offer,7.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+7,7,MenuItem,Hojaldre De Puerros,Offer,7.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+8,8,MenuItem,Pollo Asado,Offer,10.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+9,9,MenuItem,Pechuga De Pollo,Offer,13.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo
+10,10,MenuItem,hamburguesa De vaca Gallega,Offer,10.49,EUR,Entrante,9,"""Internacional""","""C","""geo"":{""latitude"":40.447498629485,""longitude"":-3.69854998588562",El Recuerdo

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Almejas en salsa marinera ó salsa verde 100 gr.,Offer,9.5,EUR,Del mar.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+1,1,MenuItem,Berberechos de la ría a la sartén 100 gr,Offer,7.2,EUR,Del mar.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+2,2,MenuItem,Navajas Gallegas a la plancha Ud,Offer,2.5,EUR,Del mar.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo

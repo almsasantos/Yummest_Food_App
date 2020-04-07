@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot de Ternera a la Parrilla,Offer,16.5,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Tournedo de Solomillo Ibérico Asado en su Jugo,Offer,12.5,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,"Cochinillo Asado Estilo Sepulveda (minimo 2 personas/por encargo, precio persona)",Offer,25.0,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Solomillo de Ternera a la Plancha,Offer,18.0,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+4,4,MenuItem,"Cuarto lechal asado ( mínimo 2 personas/ Por encargo, precio persona)",Offer,20.0,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+5,5,MenuItem,Chuletón de Vaca a la Sal Gorda,Offer,18.0,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+6,6,MenuItem,Chuletillas de Cordero Lechal,Offer,15.0,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+7,7,MenuItem,Solomillo al Foie Fresco de Pato y Boletus,Offer,21.0,EUR,Carnes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tequeños (6 Unidades),Offer,8.0,EUR,Entrantes,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+1,1,MenuItem,Parmigiana Melanzane,Offer,9.5,EUR,Entrantes,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+2,2,MenuItem,Provolon al Horno con Pesto de Albahaca,Offer,9.95,EUR,Entrantes,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+3,3,MenuItem,Scamorza Al Horno con bacon y salsa Pomodoro,Offer,9.25,EUR,Entrantes,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+4,4,MenuItem,Creps de boletos Mixtos en su salsa,Offer,9.5,EUR,Entrantes,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+5,5,MenuItem,Creps Esfesiosa,Offer,9.5,EUR,Entrantes,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+6,6,MenuItem,Bruschetta Pomodoro,Offer,8.5,EUR,Entrantes,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar

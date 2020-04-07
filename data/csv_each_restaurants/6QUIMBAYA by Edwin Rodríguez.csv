@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Amasijos y Mantequillas,Amasijos y Mantequillas de Autor,MENÚ DEGUSTACIÓN HERENCIAS,None,None,None,QUIMBAYA by Edwin Rodríguez
+1,1,MenuItem,Aperitivos de la Casa,"Mejillón, chontaduro y coco.\nTamal, arepa y chocolate.\nPaté, café y maracuyá.\nMasato, achira y queso.",MENÚ DEGUSTACIÓN HERENCIAS,None,None,None,QUIMBAYA by Edwin Rodríguez
+2,2,MenuItem,Entrantes,"Trucha, uchuvas y plátano verde",MENÚ DEGUSTACIÓN HERENCIAS,None,None,None,QUIMBAYA by Edwin Rodríguez
+3,3,MenuItem,Segundo entrante,"Arepa de huevo, vieira y suero",MENÚ DEGUSTACIÓN HERENCIAS,None,None,None,QUIMBAYA by Edwin Rodríguez
+4,4,MenuItem,Principales,"Róbalo encocado, arroz con coco y boronía",MENÚ DEGUSTACIÓN HERENCIAS,None,None,None,QUIMBAYA by Edwin Rodríguez
+5,5,MenuItem,Segundo plato,"Presa ibérica lacada en panela, fríjol, chicharrón y carantantas",MENÚ DEGUSTACIÓN HERENCIAS,None,None,None,QUIMBAYA by Edwin Rodríguez
+6,6,MenuItem,Postres,"Oblea, arequipe, mora y queso",MENÚ DEGUSTACIÓN HERENCIAS,None,None,None,QUIMBAYA by Edwin Rodríguez

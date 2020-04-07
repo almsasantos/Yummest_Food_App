@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Andaluza,Offer,9,EUR,Para compartir,8.3,"""Español""","""Calle de Coslada","""geo"":{""latitude"":40.4383294,""longitude"":-3.6735148",El Rincón de Mapi
+1,1,MenuItem,Ensalada especial del Chef,Offer,10,EUR,Para compartir,8.3,"""Español""","""Calle de Coslada","""geo"":{""latitude"":40.4383294,""longitude"":-3.6735148",El Rincón de Mapi
+2,2,MenuItem,Berenjenas fritas con miel,Offer,8,EUR,Para compartir,8.3,"""Español""","""Calle de Coslada","""geo"":{""latitude"":40.4383294,""longitude"":-3.6735148",El Rincón de Mapi

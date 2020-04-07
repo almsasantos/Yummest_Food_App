@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ravioli De Calabacín Y Ajoarriero,Offer,10.55,EUR,PARA COMPARTIR,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+1,1,MenuItem,Jamón Ibérico De Bellota (Con Pan A La Brasa Y Tomate),Offer,22.25,EUR,PARA COMPARTIR,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+2,2,MenuItem,Bacalao Rebozado Al Estilo Kupela,Offer,12.25,EUR,PARA COMPARTIR,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+3,3,MenuItem,Croquetas De Almejas Y Gambas En Pasta Brick,Offer,11.85,EUR,PARA COMPARTIR,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela

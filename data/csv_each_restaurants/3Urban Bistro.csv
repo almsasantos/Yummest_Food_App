@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche con crujiente de caramelo,Offer,5,EUR,Postres caseros,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+1,1,MenuItem,Tiramisú en copa,Offer,5,EUR,Postres caseros,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+2,2,MenuItem,Tarta de queso casera,Offer,5,EUR,Postres caseros,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+3,3,MenuItem,Coulant de chocolate para celíacos,Offer,5,EUR,Postres caseros,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Menu Mama Teresa Burger,Offer,11.5,EUR,Menus,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+1,1,MenuItem,Menu Chicken Burger,Offer,8.9,EUR,Menus,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+2,2,MenuItem,Menu Bacon Burger,Offer,8.9,EUR,Menus,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+3,3,MenuItem,Menu Mama Teresa Ribs,Offer,8.9,EUR,Menus,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger
+4,4,MenuItem,Puedes añadir a nuestros menus mas ingredientes y salsas si te apetece,,,,Menus,8.9,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4038336,""longitude"":-3.6962805",Mama Teresa Burger

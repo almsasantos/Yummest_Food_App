@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tacos mexicanos de salmón salvaje de Alaska y mango con mayonesa de cilantro,Offer,22.5,EUR,De la mar,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+1,1,MenuItem,"Tarantela de atun rojo a la plancha, con pisto o en tartar",Offer,22.5,EUR,De la mar,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+2,2,MenuItem,"Salteado de rape, langostinos tigre y verduritas, con ali oli de albahaca",Offer,22.5,EUR,De la mar,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+3,3,MenuItem,Lomo de bacalao salvaje de Alaska en salsa Vizcaina,Offer,22.5,EUR,De la mar,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella

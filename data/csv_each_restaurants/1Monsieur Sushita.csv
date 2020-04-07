@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada crispy duck,Offer,9.9,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+1,1,MenuItem,Pimientos de Padrón con salsa miso,Offer,5.9,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+2,2,MenuItem,Verduras salteadas 3 texturas con huevo ecológico escalfado (ligeramente picante),Offer,8.9,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+3,3,MenuItem,Ensalada de kale con garbanzos crujientes,Offer,8.9,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+4,4,MenuItem,Ensalada de quinoa y chía,Offer,8.9,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+5,5,MenuItem,Garbanzos al curry con langostinos y piña,Offer,9.9,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+6,6,MenuItem,Edamame con shichimi,Offer,5.5,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+7,7,MenuItem,Ensalada wakame,Offer,5.5,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+8,8,MenuItem,Sopa miso,Offer,3.5,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+9,9,MenuItem,Sopa dobin mushi,Offer,4.5,EUR,Ensaladas y Sopas,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Zamburiñas al horno (6 Unidades),Offer,18.5,EUR,MARISCO FRESCO DEL DÍA - De concha,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+1,1,MenuItem,Ostra plana de la Ría de arosa (En temporada) Uds.,Offer,4.5,EUR,MARISCO FRESCO DEL DÍA - De concha,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+2,2,MenuItem,Almejas finas a la sartén al punto picante,Offer,26.0,EUR,MARISCO FRESCO DEL DÍA - De concha,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras

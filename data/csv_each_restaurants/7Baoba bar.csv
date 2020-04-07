@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella mixta,Offer,12,EUR,Arroces,None,"""Asturiano""","""Calle de Villablanca","""geo"":{""latitude"":40.4083885,""longitude"":-3.6061291",Baoba bar
+1,1,MenuItem,Arroz negro de la casa,Offer,12,EUR,Arroces,None,"""Asturiano""","""Calle de Villablanca","""geo"":{""latitude"":40.4083885,""longitude"":-3.6061291",Baoba bar
+2,2,MenuItem,Arroz meloso,Offer,12,EUR,Arroces,None,"""Asturiano""","""Calle de Villablanca","""geo"":{""latitude"":40.4083885,""longitude"":-3.6061291",Baoba bar

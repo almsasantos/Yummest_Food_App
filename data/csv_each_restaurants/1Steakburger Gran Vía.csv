@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de queso de cabra,Offer,9.0,EUR,Ensaladas,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+1,1,MenuItem,Ensalada César,Offer,10.0,EUR,Ensaladas,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+2,2,MenuItem,Sandwich de abanico ibérico,Offer,9.5,EUR,Ensaladas,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía
+3,3,MenuItem,Classic chicken sandwich,Offer,9.0,EUR,Ensaladas,9.2,"""Americano""","""Calle Gran Vía","""geo"":{""latitude"":40.4198413,""longitude"":-3.6993863",Steakburger Gran Vía

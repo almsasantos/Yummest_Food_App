@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nigiri de aguacate con tempura flakes y miso a la trufa,Offer,2.2,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+1,1,MenuItem,Oshi de anguila con foie micuit braseado,Offer,2.2,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+2,2,MenuItem,Nigiri pez limón con sésamo,Offer,2.2,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+3,3,MenuItem,Nigiri de salmón con chip de loto,Offer,2.5,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+4,4,MenuItem,Nigiri pez mantequilla con trufa,Offer,2.2,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+5,5,MenuItem,Hamburguesita de wagyu estilo japo,Offer,3.5,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+6,6,MenuItem,Nigiri de huevo de codorniz con jamón y crujiente de patata,Offer,2.5,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+7,7,MenuItem,Nigiri de huevo de codorniz y chanquetes,Offer,2.5,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+8,8,MenuItem,Nigiri de toro con mostaza de Dijon,Offer,2.5,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+9,9,MenuItem,Nigiri de salmón braseado con salsa teriyaki,Offer,2.5,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+10,10,MenuItem,Nigiri de salmón con mahonesa wasabi y huevas de salmón ikura,Offer,2.2,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+11,11,MenuItem,Nigiri de atún,Offer,2.2,EUR,Piezas de Sushi (mínimo dos piezas),9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Plain Naan,Offer,3.25,EUR,Acompañamiento Pan Tandoori,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+1,1,MenuItem,Chapati,Offer,2.95,EUR,Acompañamiento Pan Tandoori,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+2,2,MenuItem,Tandoori Roti,Offer,2.9,EUR,Acompañamiento Pan Tandoori,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+3,3,MenuItem,Onion Naan,Offer,3.45,EUR,Acompañamiento Pan Tandoori,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+4,4,MenuItem,Garlic Naan,Offer,3.9,EUR,Acompañamiento Pan Tandoori,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+5,5,MenuItem,Butter Naan,Offer,4.45,EUR,Acompañamiento Pan Tandoori,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+6,6,MenuItem,Cheese Naan,Offer,4.95,EUR,Acompañamiento Pan Tandoori,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra

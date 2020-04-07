@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Carne roja de vaca madurada,Offer,26.9,EUR,Plato,None,None,None,El Pedrusco de Aldealcorvo
+1,1,MenuItem,1/4 de lechal asado (2 personas) en horno de leña con agua y sal,Offer,46.0,EUR,Plato,None,None,None,El Pedrusco de Aldealcorvo
+2,2,MenuItem,Merluza de pincho en salsa verde,Offer,23.0,EUR,Plato,None,None,None,El Pedrusco de Aldealcorvo
+3,3,MenuItem,1/4 de cochinillo (2 personas) en horno de leña con agua y sal,Offer,45.0,EUR,Plato,None,None,None,El Pedrusco de Aldealcorvo

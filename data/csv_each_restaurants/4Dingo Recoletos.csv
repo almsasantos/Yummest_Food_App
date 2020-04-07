@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Benedictine,Offer,10.5,EUR,Huevos,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+1,1,MenuItem,Florentine,Offer,10.9,EUR,Huevos,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+2,2,MenuItem,Nordicos,Offer,12.5,EUR,Huevos,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+3,3,MenuItem,Rotos con paletilla Ibérica,Offer,11.9,EUR,Huevos,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+4,4,MenuItem,Avocado,Offer,10.9,EUR,Huevos,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos

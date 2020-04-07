@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+2,2,MenuItem,Café,Offer,1.9,EUR,Bebidas,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+3,3,MenuItem,Botella de agua,Offer,2.1,EUR,Bebidas,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+4,4,MenuItem,Media botella de agua,,,,Bebidas,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+5,5,MenuItem,Botella de vino,Offer,7.95,EUR,Bebidas,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,None,"""Japonés""","""C","""geo"":{""latitude"":40.4449295,""longitude"":-3.6682271",Nagoya Clara Del Rey

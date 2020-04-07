@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mortadella Trufada,Offer,10.0,EUR,Entrante,9.5,"""Italiano""","""Calle de Augusto Figueroa","""geo"":{""latitude"":40.4221046,""longitude"":-3.6968362",Davanti Food & Market
+1,1,MenuItem,Parmigiana di Melanzane con Burrata,Offer,13.5,EUR,Entrante,9.5,"""Italiano""","""Calle de Augusto Figueroa","""geo"":{""latitude"":40.4221046,""longitude"":-3.6968362",Davanti Food & Market
+2,2,MenuItem,Burrata di Andria Italia,Offer,14.5,EUR,Entrante,9.5,"""Italiano""","""Calle de Augusto Figueroa","""geo"":{""latitude"":40.4221046,""longitude"":-3.6968362",Davanti Food & Market
+3,3,MenuItem,Tabla Clásica Italiana,Offer,18.0,EUR,Entrante,9.5,"""Italiano""","""Calle de Augusto Figueroa","""geo"":{""latitude"":40.4221046,""longitude"":-3.6968362",Davanti Food & Market

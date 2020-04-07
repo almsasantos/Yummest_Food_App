@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,De la huerta,Offer,9.6,EUR,Ensaladas,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+1,1,MenuItem,"De tomate, atún y cebolla",Offer,10.9,EUR,Ensaladas,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+2,2,MenuItem,De salmón ahumado marinado con queso,Offer,11.3,EUR,Ensaladas,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+3,3,MenuItem,De mozzarella y tomate,Offer,12.4,EUR,Ensaladas,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco

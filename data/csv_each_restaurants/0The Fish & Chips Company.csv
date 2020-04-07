@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada con tallarines de arroz, pepino, tomate cherry, zanahoria, judías bobby, cebolla, brotes de soja, cilantro, menta y cacahuete con una vinagreta de soja, vinagre de arroz, miel, aceite de sésamo, jengibre y lemmon grass.",Offer,6.95,EUR,Ensaladas,9,"""Inglés""","""Calle de Colón 3","""geo"":{""latitude"":40.423744,""longitude"":-3.7010169",The Fish & Chips Company
+1,1,MenuItem,"Ensalada de remolacha, pera, berros, nueces, queso azul, cebolla morada con una vinagreta de lima, miel y aceite de oliva.",Offer,6.95,EUR,Ensaladas,9,"""Inglés""","""Calle de Colón 3","""geo"":{""latitude"":40.423744,""longitude"":-3.7010169",The Fish & Chips Company
+2,2,MenuItem,Edamame agridulces.,Offer,4.95,EUR,Ensaladas,9,"""Inglés""","""Calle de Colón 3","""geo"":{""latitude"":40.423744,""longitude"":-3.7010169",The Fish & Chips Company
+3,3,MenuItem,Chips con dos salsas caseras a elegir.,Offer,4.95,EUR,Ensaladas,9,"""Inglés""","""Calle de Colón 3","""geo"":{""latitude"":40.423744,""longitude"":-3.7010169",The Fish & Chips Company

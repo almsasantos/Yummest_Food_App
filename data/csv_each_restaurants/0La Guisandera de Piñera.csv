@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón de bellota D.O. Los Pedroches,Offer,26,EUR,Para abrir boca,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+1,1,MenuItem,Sopa de pixín y marisco,Offer,14,EUR,Para abrir boca,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+2,2,MenuItem,Crema de nécoras,Offer,15,EUR,Para abrir boca,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+3,3,MenuItem,Caldo de pita al azafrán con berberechos,Offer,8,EUR,Para abrir boca,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+4,4,MenuItem,Croquetas cremosas de picadillo,Offer,14,EUR,Para abrir boca,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera

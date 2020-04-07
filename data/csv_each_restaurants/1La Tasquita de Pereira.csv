@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Pescado del día,Offer,8.5,EUR,Plato,None,None,None,La Tasquita de Pereira
+1,1,MenuItem,Huevos rotos con jamón ibérico,Offer,9.6,EUR,Plato,None,None,None,La Tasquita de Pereira
+2,2,MenuItem,Crujiente de Bacalao,Offer,9.5,EUR,Plato,None,None,None,La Tasquita de Pereira
+3,3,MenuItem,Chuleton o entrecot a la brasa,Offer,19.0,EUR,Plato,None,None,None,La Tasquita de Pereira
+4,4,MenuItem,Secreto Iberico a la parrilla,,,,Plato,None,None,None,La Tasquita de Pereira

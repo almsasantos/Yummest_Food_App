@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,45.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+5,5,MenuItem,Botella de vino,Offer,10.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique

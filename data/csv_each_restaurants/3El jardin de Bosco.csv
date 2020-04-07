@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas y queso,Offer,5.6,EUR,Bocadillos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+1,1,MenuItem,Jamón con tomate y aceite de oliva,Offer,4.5,EUR,Bocadillos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+2,2,MenuItem,Queso en aceite de romero,Offer,4.2,EUR,Bocadillos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+3,3,MenuItem,Lomo ibérico,Offer,5.6,EUR,Bocadillos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+4,4,MenuItem,Chorizo,Offer,3.9,EUR,Bocadillos,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco

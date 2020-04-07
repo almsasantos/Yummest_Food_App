@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rollo de Langostino con Tempura,Offer,21.5,EUR,SUSHI ROOL,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+1,1,MenuItem,Rollo de Atun Picante,Offer,22.5,EUR,SUSHI ROOL,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+2,2,MenuItem,Rollo de Carne Kobe y Wagyu,Offer,48.5,EUR,SUSHI ROOL,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya

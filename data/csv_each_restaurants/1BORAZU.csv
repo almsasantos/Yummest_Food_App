@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sushi Pizza de Salmon,Offer,12.95,EUR,Plato,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU
+1,1,MenuItem,Borazu Dog,Offer,11.95,EUR,Plato,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU
+2,2,MenuItem,Cangreburger,Offer,11.95,EUR,Plato,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU

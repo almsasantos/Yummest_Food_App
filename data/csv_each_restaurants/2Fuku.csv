@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sésamo 3 estilos,Offer,8.0,EUR,Postre,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.43113540065,""longitude"":-3.6872200965881",Fuku
+1,1,MenuItem,Mont Blanc,Offer,5.5,EUR,Postre,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.43113540065,""longitude"":-3.6872200965881",Fuku
+2,2,MenuItem,Helado de jengibre,Offer,5.0,EUR,Postre,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.43113540065,""longitude"":-3.6872200965881",Fuku

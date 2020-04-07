@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sesitos de lechal crujientes,Offer,15.5,EUR,Cordero lechal,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+1,1,MenuItem,Mollejitas de lechal salteadas en sartén con ajos tiernos y habitas baby,Offer,18.5,EUR,Cordero lechal,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles

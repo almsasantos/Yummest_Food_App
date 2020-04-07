@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burrata,Offer,12.25,EUR,Ensaladas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+1,1,MenuItem,Diplomático,Offer,10.95,EUR,Ensaladas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+2,2,MenuItem,Ensalada de pollo,Offer,8.3,EUR,Ensaladas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+3,3,MenuItem,César con pollo,Offer,9.6,EUR,Ensaladas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento

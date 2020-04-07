@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,YAKIKAMO,Offer,15.5,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+1,1,MenuItem,BUEY AL TERIYAKI,Offer,13.5,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+2,2,MenuItem,MISO RAMEN,Offer,13.5,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+3,3,MenuItem,YAKISOBA,Offer,10.9,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+4,4,MenuItem,NOODLES DE BATATA,Offer,11.5,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+5,5,MenuItem,PAT THAI,Offer,11.5,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+6,6,MenuItem,ARROZ CON VERDURA,Offer,8.9,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+7,7,MenuItem,UNADON,Offer,16.9,EUR,WOK,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar

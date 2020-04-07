@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Verdura Mango,Offer,13.5,EUR,Platos de Verduras al Curry,9.4,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4352562,""longitude"":-3.6839354",Doli
+1,1,MenuItem,Verdura Korma,Offer,13.5,EUR,Platos de Verduras al Curry,9.4,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4352562,""longitude"":-3.6839354",Doli
+2,2,MenuItem,Aloo Gobhi,Offer,12.5,EUR,Platos de Verduras al Curry,9.4,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4352562,""longitude"":-3.6839354",Doli

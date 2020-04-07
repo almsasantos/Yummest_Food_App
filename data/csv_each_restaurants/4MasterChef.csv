@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,El postre de Jordi Cruz: espuma de coco y limón con helado de yogur,Offer,11,EUR,POSTRES,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+1,1,MenuItem,Nuestro coulant de chocolate,Offer,9,EUR,POSTRES,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+2,2,MenuItem,Tarta Tatin de manzana con helado de vainilla,Offer,12,EUR,POSTRES,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+3,3,MenuItem,"Torrija ahumada de pan de brioche con helado de café, toffee y crumble",Offer,10,EUR,POSTRES,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+4,4,MenuItem,Milhojas de fresas con nata avainillada y sopa de crema inglesa de Samantha,Offer,10,EUR,POSTRES,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef

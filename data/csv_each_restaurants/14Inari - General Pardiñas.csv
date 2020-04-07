@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+1,1,MenuItem,Copa de champán,,,,Bebidas,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+3,3,MenuItem,Botella de agua,,,,Bebidas,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+6,6,MenuItem,Copa de vino,Offer,3.6,EUR,Bebidas,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas

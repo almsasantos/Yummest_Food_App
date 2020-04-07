@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hummus solo con tahini,Offer,6.6,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+1,1,MenuItem,Hummus con garbanzos cocidos calientes,Offer,6.6,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+2,2,MenuItem,Hummus con cebolla caramelizada,Offer,7.0,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+3,3,MenuItem,Hummus con boniato asado,Offer,7.0,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+4,4,MenuItem,Hummus con champiñones al ajillo salteados calientes,Offer,7.0,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+5,5,MenuItem,"Hummus completo (champiñones, garbanzos cocidos y tahini)",Offer,7.0,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+6,6,MenuItem,"Hummus mixto (cebolla caramelizada, boniato asada y tahini)",Offer,7.0,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+7,7,MenuItem,Hummus con pisto caliente,Offer,7.0,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original
+8,8,MenuItem,Huevo cocido por encima,Offer,0.7,EUR,HUMMUS,8.5,"""Vegetariano""","""Centro Comercial Moda Shopping","""geo"":{""latitude"":40.4512792,""longitude"":-3.6926706",Hummus Original

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pularda trufada y humus, jugo de oporto",Offer,24,EUR,Carnes,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+1,1,MenuItem,"Chuletas cordero, migas y tomatitos cherry salteados",Offer,27,EUR,Carnes,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+2,2,MenuItem,Solomillo de buey a la parrilla con foie y salsa pimienta Sichuan,Offer,26,EUR,Carnes,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+3,3,MenuItem,"Black Angus americano, fileteado al carbón, con salsa bernesa",Offer,37,EUR,Carnes,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+4,4,MenuItem,"Steak tartar de añojo, pincelada de anchoas y crujiente de pan",Offer,24,EUR,Carnes,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel

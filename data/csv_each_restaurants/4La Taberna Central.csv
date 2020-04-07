@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Costillar Ibérico,Offer,14.0,EUR,DE PASO POR CASCORRO,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+1,1,MenuItem,Rabo de Toro,Offer,14.0,EUR,DE PASO POR CASCORRO,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+2,2,MenuItem,Entrecot de Ternera,Offer,15.0,EUR,DE PASO POR CASCORRO,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+3,3,MenuItem,Solomillo de Ternera,Offer,18.0,EUR,DE PASO POR CASCORRO,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+4,4,MenuItem,Hamburguesa de Ternera,Offer,12.5,EUR,DE PASO POR CASCORRO,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central

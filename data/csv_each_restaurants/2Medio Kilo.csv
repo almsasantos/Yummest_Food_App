@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patata asada con salvia y crema deluxe,Offer,4,EUR,Verduras y tuberculos,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+1,1,MenuItem,Patatas fritas caseras,Offer,4,EUR,Verduras y tuberculos,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+2,2,MenuItem,Puré de patatas con mantequilla,Offer,4,EUR,Verduras y tuberculos,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+3,3,MenuItem,Boniatos asados,Offer,4,EUR,Verduras y tuberculos,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+4,4,MenuItem,Pimientos asados con caramelo de su jugo,Offer,4,EUR,Verduras y tuberculos,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+5,5,MenuItem,Berenjenas asadas con pomodoro y crema de burrata,Offer,4,EUR,Verduras y tuberculos,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo

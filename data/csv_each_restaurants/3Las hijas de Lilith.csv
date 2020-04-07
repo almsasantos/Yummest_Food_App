@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mojito,Offer,8,EUR,CÓCTELES DEL PARAISO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+1,1,MenuItem,Mojito de fresa,Offer,8,EUR,CÓCTELES DEL PARAISO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+2,2,MenuItem,Caipiriña de mango,Offer,8,EUR,CÓCTELES DEL PARAISO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+3,3,MenuItem,Caipiroska de frutas de la pasión,Offer,8,EUR,CÓCTELES DEL PARAISO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+4,4,MenuItem,Daikiri frozen de fresa,Offer,8,EUR,CÓCTELES DEL PARAISO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+5,5,MenuItem,Elixir de arándano,Offer,8,EUR,CÓCTELES DEL PARAISO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith

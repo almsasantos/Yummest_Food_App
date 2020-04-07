@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Cazuela 4 quesos (base de tomate y combinación de quesos: mozzarella, cabra, emmental y azul, gratinado al horno)",Offer,8.0,EUR,Entrantes,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+1,1,MenuItem,Cazuela a la napolitana (berenjena gratinada en queso mozzarella y salsa de tomate),Offer,8.0,EUR,Entrantes,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+2,2,MenuItem,"Tabla alemana (elige dos de nuestras salchichas: Bratwurst, Curry, Frankfurt o Picante, acompañada de patatas y chucrut)",Offer,8.5,EUR,Entrantes,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+3,3,MenuItem,Burrata Aboca (Burrata servida en un pan de pizza y acompañado de lechuga y tomate cherry),Offer,10.5,EUR,Entrantes,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+4,4,MenuItem,Pan de ajo,Offer,3.5,EUR,Entrantes,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar

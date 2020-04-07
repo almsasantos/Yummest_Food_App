@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Poké de salmón,Offer,10.9,EUR,Buddha bowls & Pokés,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+1,1,MenuItem,Crispy shrimp Bowl,Offer,15.9,EUR,Buddha bowls & Pokés,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+2,2,MenuItem,Buddha Bowl Fresh&Fit,Offer,15.9,EUR,Buddha bowls & Pokés,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita

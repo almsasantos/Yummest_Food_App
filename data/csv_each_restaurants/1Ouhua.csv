@@ -1,0 +1,25 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Costilla frita,Offer,4.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+1,1,MenuItem,Ensalada de pata de pollo,Offer,4.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+2,2,MenuItem,Cabeza de pato,Offer,1.5,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+3,3,MenuItem,Lengua de pato,Offer,9.5,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+4,4,MenuItem,Ensalada de medusa,Offer,8.5,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+5,5,MenuItem,Ensalada de bambú,Offer,4.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+6,6,MenuItem,Pato ahumado,Offer,10.5,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+7,7,MenuItem,Fiambre de ternera,Offer,6.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+8,8,MenuItem,Camarones secos con perejil,Offer,4.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+9,9,MenuItem,Ensalada de doufu con huevos negros,Offer,4.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+10,10,MenuItem,Ensalada de algas,Offer,4.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+11,11,MenuItem,Pasta de pescado,Offer,5.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+12,12,MenuItem,Ensalada de callos de ternera,Offer,5.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+13,13,MenuItem,Ensalada de pepino,Offer,3.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+14,14,MenuItem,Vainas de soja,Offer,3.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+15,15,MenuItem,Ensalda de doufu,Offer,4.0,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+16,16,MenuItem,Bogavante con ajos,,,,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+17,17,MenuItem,Bogavante con sal y pimienta,,,,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+18,18,MenuItem,Cangrejo con puerros,,,,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+19,19,MenuItem,Rodaballo con puerros,Offer,15.8,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+20,20,MenuItem,Lubina con puerros,Offer,12.8,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+21,21,MenuItem,Lubina con soja,Offer,12.8,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+22,22,MenuItem,Gambas a la sal y pimiento,Offer,8.8,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+23,23,MenuItem,Gambas con soja,Offer,8.8,EUR,Plato Frito,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua

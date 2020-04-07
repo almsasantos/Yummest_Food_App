@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Entrecote de buey de la tierra, con escamas de sal Maldon",Offer,24,EUR,Plato,8,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4315811,""longitude"":-3.6628632",El Corral de la Pacheca
+1,1,MenuItem,Confit de pato azulón a la pulpa de naranja,Offer,18,EUR,Plato,8,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4315811,""longitude"":-3.6628632",El Corral de la Pacheca
+2,2,MenuItem,Solomillo ibérico con dulce de oporto,Offer,18,EUR,Plato,8,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4315811,""longitude"":-3.6628632",El Corral de la Pacheca

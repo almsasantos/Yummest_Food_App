@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso con frutos rojos,Offer,6,EUR,Postre,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená
+1,1,MenuItem,Cremoso de yogurt acompañado de fruta de temporada,Offer,6,EUR,Postre,9.2,"""Mediterráneo""","""Calle de Antonio López Aguado","""geo"":{""latitude"":40.482428,""longitude"":-3.701146",La Tená

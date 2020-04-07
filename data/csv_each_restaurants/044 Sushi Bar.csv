@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,KIMCHI,Offer,5.5,EUR,ENTRANTES,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+1,1,MenuItem,NEMS,Offer,6.0,EUR,ENTRANTES,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+2,2,MenuItem,GWA BAO,Offer,6.9,EUR,ENTRANTES,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+3,3,MenuItem,GYOZA,Offer,6.0,EUR,ENTRANTES,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+4,4,MenuItem,YASAI TEMPURA,Offer,8.9,EUR,ENTRANTES,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar

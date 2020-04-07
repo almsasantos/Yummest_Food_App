@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ESPAÑOL,Offer,3.5,EUR,DESAYUNOS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+1,1,MenuItem,ANDALUZ,Offer,4.0,EUR,DESAYUNOS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+2,2,MenuItem,AMERICANO,Offer,5.0,EUR,DESAYUNOS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+3,3,MenuItem,VENEZOLANO,Offer,6.0,EUR,DESAYUNOS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+4,4,MenuItem,CROISSANT,Offer,2.0,EUR,DESAYUNOS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+5,5,MenuItem,CROISSANT RELLENO,Offer,3.5,EUR,DESAYUNOS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón

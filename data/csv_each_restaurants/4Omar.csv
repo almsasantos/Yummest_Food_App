@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Variado de nueve entrantes.\nRollitos de hojaldre rellenos de queso fresco,Menú Degustación,9.1,"""Turco""","""Calle Prof","""geo"":{""latitude"":40.4561433,""longitude"":-3.6876752",Omar
+1,1,MenuItem,Plato,Variado de carnes.,Menú Degustación,9.1,"""Turco""","""Calle Prof","""geo"":{""latitude"":40.4561433,""longitude"":-3.6876752",Omar
+2,2,MenuItem,Postre,De la casa.,Menú Degustación,9.1,"""Turco""","""Calle Prof","""geo"":{""latitude"":40.4561433,""longitude"":-3.6876752",Omar

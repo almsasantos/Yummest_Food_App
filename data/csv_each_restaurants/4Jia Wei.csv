@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+2,2,MenuItem,Café,,,,Bebidas,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+5,5,MenuItem,Botella de vino,,,,Bebidas,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+6,6,MenuItem,Copa de vino,,,,Bebidas,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei

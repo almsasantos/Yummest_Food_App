@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak Tartare,Offer,25.08,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+1,1,MenuItem,Manitas de Cerdo Deshuesadas,Offer,18.48,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+2,2,MenuItem,Chuletitas de cordero lechal,Offer,25.08,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+3,3,MenuItem,Solomillo a la Parrilla con Panaderas,Offer,24.0,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+4,4,MenuItem,Lomo alto de vaca (2 pax),Offer,53.9,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+5,5,MenuItem,Manitas de Cordero a la Madrileña,Offer,19.25,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+6,6,MenuItem,Medallones de Cerdo Ibérico Empanados,Offer,16.39,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+7,7,MenuItem,Albóndigas caseras de ternera y jamon,Offer,17.6,EUR,Carnes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez

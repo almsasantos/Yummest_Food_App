@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes:,Pastel de bacalao (receta tradicional angoleña)\nKoki (pastel de alubias\nCroquetas de brócoli y piña \nCroquetas de cebra y papaya,Menú Degustación 25€,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela
+1,1,MenuItem,Segundos:,"Ternera salsa de cacahuetes\nAttieke (yuka seca, acompañado de carne o pescado)\nPollo DG",Menú Degustación 25€,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela
+2,2,MenuItem,Postre:,Piña con chocolate,Menú Degustación 25€,9.5,"""Africano""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7100698947906",El Mandela

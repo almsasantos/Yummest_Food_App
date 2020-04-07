@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Doro tibs (muslos de pollo fritos con especias con o sin picante),Offer,12,EUR,Plato,9.1,"""Etíope""","""Calle Grafal","""geo"":{""latitude"":40.41314,""longitude"":-3.7081681",Gonder
+1,1,MenuItem,Key wot (ternera estofada con especias y berbere),Offer,12,EUR,Plato,9.1,"""Etíope""","""Calle Grafal","""geo"":{""latitude"":40.41314,""longitude"":-3.7081681",Gonder
+2,2,MenuItem,Doro web (pollo estofado con salsa suave),Offer,12,EUR,Plato,9.1,"""Etíope""","""Calle Grafal","""geo"":{""latitude"":40.41314,""longitude"":-3.7081681",Gonder

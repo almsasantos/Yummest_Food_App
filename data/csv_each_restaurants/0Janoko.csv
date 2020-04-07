@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gilda Latina,Offer,5,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+1,1,MenuItem,Mini Reina de Txangurro,Offer,5,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+2,2,MenuItem,Ceviche Templado de Mejillones,Offer,13,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+3,3,MenuItem,"Mollejas con maíz, Huitlacoche, Idiazábal",Offer,13,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+4,4,MenuItem,Quinoa Cremosa,Offer,12,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+5,5,MenuItem,Huevo Crujiente con Jamón,Offer,15,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+6,6,MenuItem,"Coquelet confitado, mole de cacao, kale frito",Offer,18,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+7,7,MenuItem,Sudado de rape,Offer,22,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+8,8,MenuItem,"Carrilleras en salsa de asado negro, pure de raíz de apio",Offer,18,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko
+9,9,MenuItem,Picanha a la Brasa con tartar de aguacate y piquillo,Offer,19,EUR,Carta,9.3,"""Latino""","""Calle Príncipe de Asturias","""geo"":{""latitude"":40.427752,""longitude"":-3.6718486",Janoko

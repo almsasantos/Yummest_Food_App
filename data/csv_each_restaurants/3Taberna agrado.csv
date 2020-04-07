@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pincho Moruno de Cordero de Lechal Adobado con Pimienta Moruna (ud),Offer,4,EUR,Nuestras carnes,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado
+1,1,MenuItem,Callos a la Madrileña,Offer,12,EUR,Nuestras carnes,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado
+2,2,MenuItem,Cazuelón de Rabo de Toro,Offer,15,EUR,Nuestras carnes,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado
+3,3,MenuItem,Hamburguesa de Buey y Presa Ibérica Cortada a Cuchillo Acompañada de kétchup Casero,Offer,15,EUR,Nuestras carnes,None,"""Español""","""Calle de la Ballesta","""geo"":{""latitude"":40.4211657,""longitude"":-3.7036894",Taberna agrado

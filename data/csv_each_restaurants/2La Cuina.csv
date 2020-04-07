@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Arroz Abanda con Pescado, Chipirones y Langostinos. Con Alioli",Offer,17.5,EUR,Arroces y Fideua,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+1,1,MenuItem,Fideua del Mar,Offer,17.5,EUR,Arroces y Fideua,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina

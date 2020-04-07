@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Maki de Langostino o Salmón & Queso Crema, 9 Piezas (frito)",Offer,14.0,EUR,Makis Especiales,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+1,1,MenuItem,"California Con Aguacate & Cangrejo, 8 Piezas",Offer,16.5,EUR,Makis Especiales,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+2,2,MenuItem,"Maki De Atún Picante & Crujiente De Tempura, 8 Piezas",Offer,16.5,EUR,Makis Especiales,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+3,3,MenuItem,"Maki Vegetariano De Calabaza, Seta, Pepino & Aguacate",Offer,11.0,EUR,Makis Especiales,9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana

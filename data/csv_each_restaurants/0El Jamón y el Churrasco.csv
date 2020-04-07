@@ -1,0 +1,18 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de Bellota,Offer,21.55,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+1,1,MenuItem,Ibéricos de la casa,Offer,21.55,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+2,2,MenuItem,Mermelada de pimientos a los dos quesos,Offer,7.05,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+3,3,MenuItem,"Ensalada de la casa (lechugas variadas, crujiente de jamón y churrasco confitado)",Offer,9.9,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+4,4,MenuItem,Ensalada de tiras de pimientos con cebolla asada y bonito,Offer,10.5,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+5,5,MenuItem,Ensalada templada de queso de cabra y frutos secos,Offer,9.9,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+6,6,MenuItem,Ensalada de tomate de la huerta pelado con sal gorda y aceite de oliva,Offer,8.6,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+7,7,MenuItem,"Ensalada mixta (Lechuga, tomate, espárragos blancos, cebolla, huevo y bonito)",Offer,10.5,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+8,8,MenuItem,Espárragos rellenos de gambas con salsa aurora (1 pieza),Offer,3.2,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+9,9,MenuItem,Huevos rotos con patata panadera y jamón ibérico,Offer,11.8,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+10,10,MenuItem,Croquetas de jamón caseras,Offer,12.0,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+11,11,MenuItem,Verduras naturales a la plancha con gotas de aceite de oliva virgen,Offer,9.95,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+12,12,MenuItem,Callos a la madrileña,Offer,14.95,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+13,13,MenuItem,Mousse de foie caramelizado con chutney de mango al cilantro,Offer,8.9,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+14,14,MenuItem,Morcilla de burgos frita,Offer,7.5,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+15,15,MenuItem,Pulpo a la gallega con cachelo,Offer,18.95,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco
+16,16,MenuItem,Gambas a la plancha,Offer,24.9,EUR,Entradas,9.2,"""Gallego""","""C","""geo"":{""latitude"":40.460737851124,""longitude"":-3.6962199211120605",El Jamón y el Churrasco

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,A elegir entre 4 entrantes,Menú del día,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+1,1,MenuItem,Plato,Plato principal a elegir entre 4 platos,Menú del día,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+2,2,MenuItem,Postre o café,Postre a elegir o café,Menú del día,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares andaluza,Offer,7.9,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+1,1,MenuItem,Sepia a la plancha,Offer,9.9,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+2,2,MenuItem,Huevos rotos,Offer,7.9,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+3,3,MenuItem,Chorizo frito,Offer,4.5,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+4,4,MenuItem,Patatas bravas,Offer,4.5,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+5,5,MenuItem,Ensaladilla rusa,Offer,4.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+6,6,MenuItem,Croquetas,Offer,7.9,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea

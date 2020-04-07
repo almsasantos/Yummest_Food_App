@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con verduras y vainas de primavera*,Offer,20.5,EUR,Los arroces y pastas...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+1,1,MenuItem,Fideua con hígado de pato y boletus,Offer,22.75,EUR,Los arroces y pastas...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+2,2,MenuItem,Tagliatelle negros con sepia y colas de cigala,Offer,24.0,EUR,Los arroces y pastas...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+3,3,MenuItem,Arroz abanda de gambas y chirlas,Offer,24.75,EUR,Los arroces y pastas...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid

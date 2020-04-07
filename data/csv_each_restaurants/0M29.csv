@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"El jamón de Jabugo, el pan y el tomate",Offer,26,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+1,1,MenuItem,Nuestro lingote de foie con gelatina de frutos rojos y reducción de Pedro Ximénez,Offer,19,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+2,2,MenuItem,"Anchoas del cantábrico, tartar de tomate y pan carasau",Offer,23,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+3,3,MenuItem,"Bastones de berenjenas crujientes, miel de trufa y cremoso de queso de cabra",Offer,15,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+4,4,MenuItem,Croquetas melosas de mejillones con verduras en tempura y salsa brava,Offer,16,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+5,5,MenuItem,Chipironcitos romana y alioli de cítricos,Offer,18,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+6,6,MenuItem,Crema tibia de calabaza y perlitas crujientes de mozzarella,Offer,12,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+7,7,MenuItem,Nuestra campera templada y carpaccio de atún con huevo a baja temperatura,Offer,16,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+8,8,MenuItem,Verduritas de la huerta al carbón con aliño de aceite de picual,Offer,15,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+9,9,MenuItem,Mar de sepia y tierra de albondiguitas de ternera y alcachofas,Offer,20,EUR,Para comenzar,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29

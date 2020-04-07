@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Papa a la huancaina,Offer,8.0,EUR,Para picar,8.3,"""Peruano""","""Calle de la Cebada","""geo"":{""latitude"":40.4107135,""longitude"":-3.7099175",Pisco y Lima - La Latina
+1,1,MenuItem,Causa limeña,Offer,9.5,EUR,Para picar,8.3,"""Peruano""","""Calle de la Cebada","""geo"":{""latitude"":40.4107135,""longitude"":-3.7099175",Pisco y Lima - La Latina
+2,2,MenuItem,Yucas fritas,Offer,7.0,EUR,Para picar,8.3,"""Peruano""","""Calle de la Cebada","""geo"":{""latitude"":40.4107135,""longitude"":-3.7099175",Pisco y Lima - La Latina

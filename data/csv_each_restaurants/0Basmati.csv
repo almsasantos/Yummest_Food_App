@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Samosa de carne,Offer,3.95,EUR,Entrante,9.4,"""Indio""","""Calle de Sandoval","""geo"":{""latitude"":40.4302628,""longitude"":-3.7049307",Basmati
+1,1,MenuItem,Rollito de queso,Offer,4.95,EUR,Entrante,9.4,"""Indio""","""Calle de Sandoval","""geo"":{""latitude"":40.4302628,""longitude"":-3.7049307",Basmati
+2,2,MenuItem,Vegetal pakura,Offer,3.75,EUR,Entrante,9.4,"""Indio""","""Calle de Sandoval","""geo"":{""latitude"":40.4302628,""longitude"":-3.7049307",Basmati

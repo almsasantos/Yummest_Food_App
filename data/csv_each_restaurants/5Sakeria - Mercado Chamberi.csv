@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hosomaki,Offer,5.0,EUR,Sushi,9.5,None,"""Calle de Alonso Cano","""geo"":{""latitude"":40.4361926,""longitude"":-3.6975885",Sakeria - Mercado Chamberi
+1,1,MenuItem,California o Uramakis,Offer,8.5,EUR,Sushi,9.5,None,"""Calle de Alonso Cano","""geo"":{""latitude"":40.4361926,""longitude"":-3.6975885",Sakeria - Mercado Chamberi
+2,2,MenuItem,Niguiris,Offer,4.0,EUR,Sushi,9.5,None,"""Calle de Alonso Cano","""geo"":{""latitude"":40.4361926,""longitude"":-3.6975885",Sakeria - Mercado Chamberi

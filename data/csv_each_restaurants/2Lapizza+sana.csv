@@ -1,0 +1,34 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Toscana,Offer,10.85,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+1,1,MenuItem,Marguerita,Offer,8.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+2,2,MenuItem,Vegetal,Offer,10.5,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+3,3,MenuItem,Veneto,Offer,9.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+4,4,MenuItem,Lapizza+sana,Offer,11.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+5,5,MenuItem,3 Cerditos,Offer,9.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+6,6,MenuItem,Isabella,Offer,9.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+7,7,MenuItem,Nicanora,Offer,10.7,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+8,8,MenuItem,Especial,Offer,10.4,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+9,9,MenuItem,Al gusto,Offer,12.5,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+10,10,MenuItem,Ananas,Offer,11.0,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+11,11,MenuItem,Liborio,Offer,12.85,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+12,12,MenuItem,5 Formaggi,Offer,11.85,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+13,13,MenuItem,Mila,Offer,12.15,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+14,14,MenuItem,Bimba,Offer,9.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+15,15,MenuItem,Calabria,Offer,9.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+16,16,MenuItem,Mediterránea,Offer,10.7,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+17,17,MenuItem,5P-,Offer,10.25,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+18,18,MenuItem,Suprema,Offer,12.1,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+19,19,MenuItem,Nórdica,Offer,12.5,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+20,20,MenuItem,Corvara,Offer,11.0,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+21,21,MenuItem,Thai,Offer,11.5,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+22,22,MenuItem,Marroquí,Offer,11.5,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+23,23,MenuItem,Napolitana,Offer,10.4,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+24,24,MenuItem,Pepperoni,Offer,10.4,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+25,25,MenuItem,Chef,Offer,9.9,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+26,26,MenuItem,Brasileña,Offer,11.0,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+27,27,MenuItem,Pelícano,Offer,11.7,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+28,28,MenuItem,Ansotana,Offer,11.85,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+29,29,MenuItem,Masala,Offer,11.85,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+30,30,MenuItem,Zen,Offer,11.65,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+31,31,MenuItem,Campania,Offer,12.45,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+32,32,MenuItem,Breva,Offer,12.15,EUR,PIZZAS,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana

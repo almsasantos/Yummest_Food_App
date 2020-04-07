@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,La violetera,Offer,6,EUR,Postre,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato
+1,1,MenuItem,Cheesecake Gato Gato,Offer,6,EUR,Postre,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato
+2,2,MenuItem,"Ensalada de frutas, helado de yogur y miel de brezo",Offer,5,EUR,Postre,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato
+3,3,MenuItem,"Bartolillos con mousse de lima, helado de chocolate y pimienta rosa",Offer,6,EUR,Postre,9.2,"""Español""","""Calle del Marqués de Toca","""geo"":{""latitude"":40.4101573,""longitude"":-3.6961774",Gato Gato

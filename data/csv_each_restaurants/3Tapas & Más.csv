@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Cinco entrantes a elegir,Menú del Día,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más
+1,1,MenuItem,Plato,Cuatro segundos a elegir,Menú del Día,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más
+2,2,MenuItem,Postre,"Postres caseros, fruta o helado",Menú del Día,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatas Bravas con dos salsas,Offer,8,EUR,A Compartir,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+1,1,MenuItem,Ensaladilla Rusa con Huevo a baja temperatura,Offer,10,EUR,A Compartir,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+2,2,MenuItem,Alitas en Tempura,Offer,12,EUR,A Compartir,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+3,3,MenuItem,Croquetas de Jamón Y Salmorejo,Offer,10,EUR,A Compartir,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+4,4,MenuItem,Delicias de Morcilla a la brasa,Offer,9,EUR,A Compartir,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+5,5,MenuItem,Mejillones al vapor o la crema de puerro y nata,Offer,12,EUR,A Compartir,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN

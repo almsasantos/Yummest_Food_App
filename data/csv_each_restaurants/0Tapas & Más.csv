@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Queso de cabra frito con salsa de mostaza y miel,Offer,7.9,EUR,Entrante,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más
+1,1,MenuItem,Ensalada Tapas & Más,Offer,8.5,EUR,Entrante,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más
+2,2,MenuItem,Brick de morcilla con un toque dulce,Offer,8.9,EUR,Entrante,8.5,"""Español""","""C","""geo"":{""latitude"":40.4163,""longitude"":-3.70229",Tapas & Más

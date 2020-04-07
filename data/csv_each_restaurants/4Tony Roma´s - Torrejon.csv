@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burger Miami,Offer,10.95,EUR,Burger,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+1,1,MenuItem,Roma burger desde 1994,Offer,10.95,EUR,Burger,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+2,2,MenuItem,Guacamole burguer,Offer,9.95,EUR,Burger,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+3,3,MenuItem,Burger ribs,Offer,10.95,EUR,Burger,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+4,4,MenuItem,Empire burger,Offer,11.95,EUR,Burger,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+5,5,MenuItem,Burger crispy chicken,Offer,9.95,EUR,Burger,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon
+6,6,MenuItem,Goat cheese burguer,Offer,10.45,EUR,Burger,8.4,"""Americano""","""Av","""geo"":{""latitude"":40.4578918,""longitude"":-3.4697448",Tony Roma´s - Torrejon

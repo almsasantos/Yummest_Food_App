@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TARTA FINA DE MANZANA,Offer,7.5,EUR,SIGUEN LOS POSTRES....,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+1,1,MenuItem,CHOCOLATE COSTRADO,Offer,7.5,EUR,SIGUEN LOS POSTRES....,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+2,2,MenuItem,TARTA DE QUESO,Offer,7.5,EUR,SIGUEN LOS POSTRES....,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+3,3,MenuItem,TORRIJA Y SU HELADO,Offer,7.5,EUR,SIGUEN LOS POSTRES....,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+4,4,MenuItem,ENSALADA DE FRUTAS FRESCAS,Offer,7.5,EUR,SIGUEN LOS POSTRES....,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+5,5,MenuItem,HELADOS,Offer,7.5,EUR,SIGUEN LOS POSTRES....,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+6,6,MenuItem,SELECCIÓN DE QUESOS DEL PAIS,,,,SIGUEN LOS POSTRES....,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró

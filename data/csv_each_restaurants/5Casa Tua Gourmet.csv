@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,16,EUR,Bebidas,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+1,1,MenuItem,Copa de champán,Offer,4,EUR,Bebidas,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+2,2,MenuItem,Café,Offer,2,EUR,Bebidas,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+3,3,MenuItem,Botella de agua,Offer,3,EUR,Bebidas,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+4,4,MenuItem,Media botella de agua,Offer,3,EUR,Bebidas,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+5,5,MenuItem,Botella de vino,Offer,17,EUR,Bebidas,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+6,6,MenuItem,Copa de vino,Offer,4,EUR,Bebidas,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet

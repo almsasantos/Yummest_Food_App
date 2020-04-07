@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de jamon iberico (5 unidades),Offer,9.5,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+1,1,MenuItem,Foie gras mi-cuit trufado con puré de manzana asada,Offer,16.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+2,2,MenuItem,"Anchoas en salazón (8 lomos), crema de erizos y A.O.V.E",Offer,18.5,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+3,3,MenuItem,"Lomo de sardina ahumada, salmorejo y persilada de yogurt",Offer,5.5,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+4,4,MenuItem,"San choy de anguila ahumada, con tartar de algas y encurtidos (3 piezas)",Offer,10.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+5,5,MenuItem,Ensaladilla de txangurro con huevas de trucha,Offer,13.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+6,6,MenuItem,Jamón ibérico de bellota “Lazo-Cortegana”,Offer,25.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+7,7,MenuItem,"Ensalada de queso de cabra grillé, miel, rucula y helado de almendras",Offer,13.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+8,8,MenuItem,"Ensalada de tomates ecológicos asados , atún en conserva casera, a.o.v.e y piñones",Offer,13.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+9,9,MenuItem,"Pimientos rojos asados en casa, sardina ahumada, rúcula y pimienta rosa",Offer,16.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+10,10,MenuItem,Revuelto de huevas de erizo y algas wakame,Offer,15.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+11,11,MenuItem,Pulpo a la brasa con crema de patata y escabeche ligero de tomate y pimentón,Offer,22.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+12,12,MenuItem,"Patatas al mortero con mollejas de ternera, foie y jugo de pichón",Offer,18.0,EUR,Entrante,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri

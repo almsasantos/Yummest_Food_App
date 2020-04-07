@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tabla de embutidos ibéricos con picos, pan tostado y tomate natural",Offer,13.9,EUR,Para ir picando,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+1,1,MenuItem,Hummus a nuestro estilo con pan de pita,Offer,7.2,EUR,Para ir picando,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+2,2,MenuItem,Pinchos de salmón relleno de queso crema y nueces con ensaladita de frutas de temporada,Offer,9.5,EUR,Para ir picando,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+3,3,MenuItem,Ensalada fresca de la Huevería,Offer,7.4,EUR,Para ir picando,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+4,4,MenuItem,Cazuelita de quesos fundidos con pimientos del piquillo caramelizados,Offer,8.3,EUR,Para ir picando,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+5,5,MenuItem,Calamares a la andaluza con alioli de wasabi,Offer,10.9,EUR,Para ir picando,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería
+6,6,MenuItem,Patatas a las tres salsas,Offer,7.5,EUR,Para ir picando,8.7,"""Español""","""Calle San Vicente Ferrer","""geo"":{""latitude"":40.4258262,""longitude"":-3.7040058",Antigua Huevería

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gyozas fritas,Offer,5.5,EUR,Entrante,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"
+1,1,MenuItem,Ensalada de vitamina con salmon,Offer,14.0,EUR,Entrante,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"
+2,2,MenuItem,Ensalada de lomo shabu-shabu,Offer,12.5,EUR,Entrante,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"

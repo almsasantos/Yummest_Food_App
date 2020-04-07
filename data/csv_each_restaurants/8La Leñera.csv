@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipirones de anzuelo a la parrilla y su ajili-mojili,Offer,18.5,EUR,Pescados de anzuelo,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+1,1,MenuItem,Lomitos de pixin de tripa negra albardados,Offer,19.5,EUR,Pescados de anzuelo,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+2,2,MenuItem,Lubina a a la parrilla con tomate casse al pesto suave,Offer,23.5,EUR,Pescados de anzuelo,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera

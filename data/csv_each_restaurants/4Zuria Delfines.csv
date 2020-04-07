@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao a la Brasa con Patatas a la Sartén,Offer,21.0,EUR,Zuría y El Mar…..,8.9,"""Mediterráneo""","""Pl","""geo"":{""latitude"":40.4449536,""longitude"":-3.6849564",Zuria Delfines
+1,1,MenuItem,Lomitos de Merluza Frita con Piquillos Confitados,Offer,21.0,EUR,Zuría y El Mar…..,8.9,"""Mediterráneo""","""Pl","""geo"":{""latitude"":40.4449536,""longitude"":-3.6849564",Zuria Delfines
+2,2,MenuItem,Pulpo Asado con Cremoso de Patata y Láfrima de Pimentón,Offer,20.0,EUR,Zuría y El Mar…..,8.9,"""Mediterráneo""","""Pl","""geo"":{""latitude"":40.4449536,""longitude"":-3.6849564",Zuria Delfines
+3,3,MenuItem,Txipironcitos Enceboollados,Offer,16.0,EUR,Zuría y El Mar…..,8.9,"""Mediterráneo""","""Pl","""geo"":{""latitude"":40.4449536,""longitude"":-3.6849564",Zuria Delfines
+4,4,MenuItem,Txangurro a la Donostierra,Offer,16.5,EUR,Zuría y El Mar…..,8.9,"""Mediterráneo""","""Pl","""geo"":{""latitude"":40.4449536,""longitude"":-3.6849564",Zuria Delfines

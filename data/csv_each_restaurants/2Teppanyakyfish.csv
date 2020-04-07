@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rollito de chocolate,Offer,4.95,EUR,Postre,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+1,1,MenuItem,Helado con té verde,Offer,4.95,EUR,Postre,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+2,2,MenuItem,Maki de fruta,Offer,4.95,EUR,Postre,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish

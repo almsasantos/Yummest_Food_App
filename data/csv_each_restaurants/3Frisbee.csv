@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Toscana,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+1,1,MenuItem,Frisbee,Offer,11.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+2,2,MenuItem,Black Angus,Offer,11.9,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+3,3,MenuItem,Gandhi,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+4,4,MenuItem,Bacon Extreme,Offer,10.9,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+5,5,MenuItem,Juliette,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+6,6,MenuItem,Germany,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+7,7,MenuItem,Honey,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+8,8,MenuItem,La Extremeña,Offer,11.9,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+9,9,MenuItem,Pancho Villa,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+10,10,MenuItem,Manchega,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+11,11,MenuItem,Pastora,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+12,12,MenuItem,Rústika,Offer,11.9,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+13,13,MenuItem,Texana,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+14,14,MenuItem,Russian,Offer,10.5,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+15,15,MenuItem,Wagyu Kobe Burguer,Offer,12.9,EUR,Special Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee

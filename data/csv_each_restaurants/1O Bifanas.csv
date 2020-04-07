@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares a la andaluza,Offer,8.5,EUR,Plato,None,"""Portugués""","""Cuesta San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",O Bifanas
+1,1,MenuItem,Bacalao a la brasa,Offer,10.0,EUR,Plato,None,"""Portugués""","""Cuesta San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",O Bifanas
+2,2,MenuItem,Alitas de pollo fritas,Offer,6.0,EUR,Plato,None,"""Portugués""","""Cuesta San Vicente","""geo"":{""latitude"":40.42051,""longitude"":-3.7169266",O Bifanas

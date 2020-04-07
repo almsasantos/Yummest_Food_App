@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pasta corta:,,,,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+1,1,MenuItem,Pasta larga:,,,,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+2,2,MenuItem,Pasta rellena (Precio de la carta + 1€) :,,,,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+3,3,MenuItem,------Elige tipo de Salsa------,,,,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+4,4,MenuItem,Bolognese,Offer,9.5,EUR,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+5,5,MenuItem,Pomodoro Basilico,Offer,9.5,EUR,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+6,6,MenuItem,Arrabiata,Offer,9.5,EUR,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+7,7,MenuItem,Pesto,Offer,9.5,EUR,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+8,8,MenuItem,Cabronata,Offer,9.5,EUR,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+9,9,MenuItem,Queso Gorgonzola con nueces,Offer,9.5,EUR,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+10,10,MenuItem,"Burro, cacio, pepe e tartufo",Offer,11.5,EUR,Pastas; Elige tu combinación:,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia

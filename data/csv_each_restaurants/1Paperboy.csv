@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"The New York Times (queso cheddar, cebolla caramelizada, cebolla frita, bacon crujiente, salsa BBQ y salsa Editorial)",Offer,6.5,EUR,Platos,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy
+1,1,MenuItem,"Le Parisien (queso de cabra, rúcula, compota de cebolla y miel y un tocaré de mostaza antigua)",Offer,7.5,EUR,Platos,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy
+2,2,MenuItem,"As (queso cheddar, pollo, cebolla frita, bacon crujiente, aguacate y salsa de maíz. Llamado también Perri-Pollo)",Offer,7.8,EUR,Platos,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy

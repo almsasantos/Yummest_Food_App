@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusa,Offer,8,EUR,Ensaladas,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+1,1,MenuItem,Queso burrata con pesto sobre canónigos,Offer,11,EUR,Ensaladas,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+2,2,MenuItem,Pimientos asados con ventresca y alcaparras,Offer,8,EUR,Ensaladas,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+3,3,MenuItem,Tomate partido con bonito curado,Offer,8,EUR,Ensaladas,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella

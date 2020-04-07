@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de confit de pato con piperrada, patatas panaderas, trigueros y vinagreta de mostaza verde y miel (1/2: 16,00€)",Offer,25,EUR,Ensaladas,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+1,1,MenuItem,"Ensalada Templada de lascas de Bacalao confitado con Cebolla en fusión con Fruta de la Pasión, Pil Pil de Remolacha y crujiente de Alga (1/2: 17,00€)",Offer,26,EUR,Ensaladas,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+2,2,MenuItem,"Ensalada Nebak con flor de paleta ibérica y foie micuit (1/2: 15,00€)",Offer,24,EUR,Ensaladas,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+3,3,MenuItem,"Ensalada de Tomate “feo de Tudela” y Cebolleta tierna (1/2: 13,00€)",Offer,19,EUR,Ensaladas,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid

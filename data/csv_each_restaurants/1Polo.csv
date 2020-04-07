@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Parrillada de verduras,Offer,12,EUR,DE LA HUERTA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+1,1,MenuItem,Trigueros a la plancha,Offer,8,EUR,DE LA HUERTA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+2,2,MenuItem,"Revuelto Mar y Montaña (Gambas, mejillones y setas)",Offer,9,EUR,DE LA HUERTA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+3,3,MenuItem,Espárragos blancos con mayonesa,Offer,10,EUR,DE LA HUERTA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo

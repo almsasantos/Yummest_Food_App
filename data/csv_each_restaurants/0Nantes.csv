@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tabla de quesos nacionales,Offer,14.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+1,1,MenuItem,Ensaladilla de patata y tartar de gambas con naranja,Offer,9.5,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+2,2,MenuItem,Bocados de merluza en tempura con alioli suave de membrillo,Offer,15.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+3,3,MenuItem,Tortilla de Bacalao,Offer,10.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+4,4,MenuItem,"Remolacha asada, queso de cabra, mostaza y nueces",Offer,12.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+5,5,MenuItem,Callos de ternera estofados,Offer,12.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+6,6,MenuItem,Alcachofas confitadas con vinagreta de tomate seco,Offer,13.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+7,7,MenuItem,Croquetas de lacón y huevo,Offer,10.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+8,8,MenuItem,Bravas de boniato con salsa picante de caracoles,Offer,8.5,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+9,9,MenuItem,Alcachofas fritas con salsa romescu y cecina ahumada,Offer,13.0,EUR,Entrante,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes

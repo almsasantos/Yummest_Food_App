@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ABURI SALMON URAMAKI,Offer,9.75,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+1,1,MenuItem,ABURI SOLOMILLO URAMAKI,Offer,10.75,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+2,2,MenuItem,RAINBOW SALMON URAMAKI,Offer,9.25,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+3,3,MenuItem,RAINBOW ATUN URAMAKI,Offer,10.5,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+4,4,MenuItem,RAINBOW EBI URAMAKI,Offer,8.95,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+5,5,MenuItem,RAINBOW ANGUILA URAMAKI,Offer,10.25,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+6,6,MenuItem,RAINBOW AVOCADO URAMAKI,Offer,8.25,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+7,7,MenuItem,TASURA URAMAKI,Offer,9.75,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+8,8,MenuItem,DRAGON URAMAKI,Offer,8.75,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+9,9,MenuItem,SAKE MAGUNO URAMAKI,Offer,9.5,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR
+10,10,MenuItem,SAKE TO TOBIKO URAMAKI,Offer,9.95,EUR,URAMAKI ESPECIAL (8P),8.9,"""Japonés""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.422938,""longitude"":-3.67412",SUSHI STAR

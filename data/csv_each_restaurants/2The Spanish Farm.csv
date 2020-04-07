@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carrilada de cerdo confitada,Offer,13.5,EUR,CARNE Y AVES,9.2,"""Español""","""Calle Espalter","""geo"":{""latitude"":40.4129052,""longitude"":-3.6906864",The Spanish Farm
+1,1,MenuItem,Muslo de pato de Girona confitado,Offer,14.5,EUR,CARNE Y AVES,9.2,"""Español""","""Calle Espalter","""geo"":{""latitude"":40.4129052,""longitude"":-3.6906864",The Spanish Farm

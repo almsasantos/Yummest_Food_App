@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gazpacho de Manzana Verde (En temporada),Offer,5.7,EUR,De la Huerta,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+1,1,MenuItem,Ensalada Verde,Offer,7.0,EUR,De la Huerta,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+2,2,MenuItem,"Ensalda de Queso de Cabra, Anchoas y Aguacate",Offer,11.5,EUR,De la Huerta,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+3,3,MenuItem,Ensalda de Pollo Asado y Manzana,Offer,11.5,EUR,De la Huerta,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+4,4,MenuItem,Ensalada de Salmón Marinado,Offer,11.5,EUR,De la Huerta,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+5,5,MenuItem,Tomate con Ventresca,Offer,11.5,EUR,De la Huerta,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia

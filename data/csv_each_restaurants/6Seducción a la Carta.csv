@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tapa de sardina casera en escabeche tradicional,Offer,6,EUR,Carta de terraza,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+1,1,MenuItem,Mollete tostado con tomate queso brie y jamón,Offer,4,EUR,Carta de terraza,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+2,2,MenuItem,Huevo crujiente con salsa de vermouth izaguirre,Offer,6,EUR,Carta de terraza,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+3,3,MenuItem,Ensaladilla rusa con ventresca,Offer,9,EUR,Carta de terraza,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+4,4,MenuItem,Croquetas del chef variadas,Offer,9,EUR,Carta de terraza,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta

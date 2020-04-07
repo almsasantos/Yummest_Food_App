@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz de verduras de temporada y picantón (Mínimo 2 pers. -precio por persona),Offer,18.5,EUR,Arroces y pasta,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+1,1,MenuItem,Risotto de boletus y queso Parmigiano Reggiano,Offer,18.5,EUR,Arroces y pasta,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+2,2,MenuItem,"Raviolón de Parmesano, yema de huevo, puerro y trufa negra",Offer,17.5,EUR,Arroces y pasta,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa

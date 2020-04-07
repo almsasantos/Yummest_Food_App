@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mazamorra morada,Offer,3.0,EUR,POSTRE,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+1,1,MenuItem,Tarta de chocolate,Offer,3.0,EUR,POSTRE,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+2,2,MenuItem,Tarta de 3 leches,Offer,3.0,EUR,POSTRE,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+3,3,MenuItem,Pionono,Offer,2.0,EUR,POSTRE,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+4,4,MenuItem,Pie de limón,Offer,3.0,EUR,POSTRE,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+5,5,MenuItem,Alfajor,Offer,1.5,EUR,POSTRE,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+6,6,MenuItem,Tarta helada de fresa,Offer,3.0,EUR,POSTRE,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay

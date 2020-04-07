@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Surtido de ensaladas,Offer,7.9,EUR,Entrante,None,None,None,Vegaviana
+1,1,MenuItem,Croquetas de espinacas,Offer,6.5,EUR,Entrante,None,None,None,Vegaviana
+2,2,MenuItem,Berenjenas rebozadas,Offer,6.5,EUR,Entrante,None,None,None,Vegaviana

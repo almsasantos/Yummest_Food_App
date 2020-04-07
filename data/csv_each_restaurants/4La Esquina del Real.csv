@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo de merluza asada al horno con salsa de pepino y tomate fresco,Offer,24.0,EUR,Los pescados,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+1,1,MenuItem,Mero arropado con hojaldre y salsa de puerros y mejillones al vino blanco de Rueda,Offer,23.0,EUR,Los pescados,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+2,2,MenuItem,"Dorada en lomos a la plancha con salsa Alain Girod (aceite de oliva virgen marinado con jengibre, cáscara de lima-limón y vinagre de Módena)",Offer,22.5,EUR,Los pescados,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real

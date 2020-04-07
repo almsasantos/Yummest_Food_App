@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Samosas,Offer,3,EUR,Entrantes,8.1,"""Indio""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4623933,""longitude"":-3.6972176",Indian Bombay
+1,1,MenuItem,Chicken pakora,Offer,4,EUR,Entrantes,8.1,"""Indio""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4623933,""longitude"":-3.6972176",Indian Bombay
+2,2,MenuItem,Panner rolls,Offer,4,EUR,Entrantes,8.1,"""Indio""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.4623933,""longitude"":-3.6972176",Indian Bombay

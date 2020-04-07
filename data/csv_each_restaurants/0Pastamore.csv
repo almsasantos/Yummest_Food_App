@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú amore,Offer,5.5,EUR,Postres caseros de la Nonna,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+1,1,MenuItem,Tarta de queso flameada,Offer,6.0,EUR,Postres caseros de la Nonna,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+2,2,MenuItem,Panacotta Piamontesa,Offer,5.0,EUR,Postres caseros de la Nonna,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+3,3,MenuItem,Biscotto Toscano,Offer,6.0,EUR,Postres caseros de la Nonna,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+4,4,MenuItem,Fondant de Chocolate,Offer,6.0,EUR,Postres caseros de la Nonna,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore

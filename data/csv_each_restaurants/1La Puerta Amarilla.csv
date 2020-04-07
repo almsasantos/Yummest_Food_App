@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Torre de nachos,Offer,9.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+1,1,MenuItem,Carpaccio de setas,Offer,11.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+2,2,MenuItem,Empanadillas japonesas,Offer,5.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+3,3,MenuItem,Camembert empanado,Offer,5.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+4,4,MenuItem,Tiritas de pollo,Offer,6.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+5,5,MenuItem,Chorizo criollo,Offer,5.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+6,6,MenuItem,Tequeños,Offer,6.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+7,7,MenuItem,Provoleta Fundida,Offer,7.5,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+8,8,MenuItem,Hummus con pan tostado,Offer,6.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+9,9,MenuItem,Ensalada de Espinacas,Offer,9.5,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+10,10,MenuItem,Ensalada de Rúcula,Offer,9.9,EUR,Puerta de Entrada,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla

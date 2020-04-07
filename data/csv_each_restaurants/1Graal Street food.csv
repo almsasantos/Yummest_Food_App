@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Samoyedo,Offer,6.9,EUR,Perritos,8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+1,1,MenuItem,Pitbull,Offer,6.9,EUR,Perritos,8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+2,2,MenuItem,Poodle,Offer,6.9,EUR,Perritos,8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food

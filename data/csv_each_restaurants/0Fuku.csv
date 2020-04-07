@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de atún con picante,Offer,16.5,EUR,Entrante,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.43113540065,""longitude"":-3.6872200965881",Fuku
+1,1,MenuItem,Tartar de salmón con trufa,Offer,13.95,EUR,Entrante,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.43113540065,""longitude"":-3.6872200965881",Fuku
+2,2,MenuItem,Sashimi variado,Offer,24.0,EUR,Entrante,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.43113540065,""longitude"":-3.6872200965881",Fuku

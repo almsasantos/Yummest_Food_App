@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusa con ventresca de atún y caviar de trucha,Offer,18.0,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+1,1,MenuItem,"Croquetas de jamón, setas y espinacas on queso azul (unidad)",Offer,2.5,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+2,2,MenuItem,Chipirones troceados al estilo Pelaio,Offer,21.5,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+3,3,MenuItem,Calamares baby en tempura,Offer,20.5,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+4,4,MenuItem,Mejillones al estilo del Chef,Offer,18.0,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+5,5,MenuItem,Saquitos de bogavante y marisco con salsa de gambas,Offer,16.0,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+6,6,MenuItem,Saquitos de boletus con salsa de hongos,Offer,15.0,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+7,7,MenuItem,Matrimonio de anchoas y boquerones,Offer,24.0,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+8,8,MenuItem,Revuelto de morcilla y piñones,Offer,18.0,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+9,9,MenuItem,Rollitos crujientes de txamgurro y chipirones,Offer,18.5,EUR,PARA COMPARTIR,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche

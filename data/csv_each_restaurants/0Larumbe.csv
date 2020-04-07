@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de bellota D.O. Guijuelo (ración),Offer,25.0,EUR,Para picar,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+1,1,MenuItem,Pan de cristal con tomate y aceite de oliva virgen extra,Offer,2.8,EUR,Para picar,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+2,2,MenuItem,Croquetas de rabo de toro (4 uds.),Offer,11.0,EUR,Para picar,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+3,3,MenuItem,Lomos de sardina ahumada con guacamole y tomate ( 3 unid),Offer,15.0,EUR,Para picar,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+4,4,MenuItem,Langostino en tempura y mojo de tomate (ud.),Offer,4.5,EUR,Para picar,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+5,5,MenuItem,Huevo con guiso de hongos y laminas de foie,Offer,16.0,EUR,Para picar,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+6,6,MenuItem,Patatitas rellenas de caviar (ud.),Offer,6.0,EUR,Para picar,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe

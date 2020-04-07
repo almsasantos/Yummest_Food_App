@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón a la parrilla para 2 personas,Offer,46.49,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+1,1,MenuItem,Entrecot a la parilla,Offer,24.03,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+2,2,MenuItem,Solomillo a la Sal (mínimo dos personas) precio por persona,Offer,24.01,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+3,3,MenuItem,Steak Tartare,Offer,24.75,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+4,4,MenuItem,Chuletitas de cordero lechal,Offer,21.59,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+5,5,MenuItem,Solomillo a la parrilla,Offer,24.01,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+6,6,MenuItem,Solomillo con foie al Pedro Ximenez,Offer,26.4,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+7,7,MenuItem,Rabo de toro estofado,Offer,21.72,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz
+8,8,MenuItem,Hamburguesa de lechazo,Offer,15.95,EUR,CARNES A LA PARRILLA,9.1,"""Mediterráneo""","""Calle de Coslada","""geo"":{""latitude"":40.43721,""longitude"":-3.6757232",Chiquito Riz

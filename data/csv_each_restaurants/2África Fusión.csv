@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Beigne (buñuelos azucarados senegaleses),Offer,3,EUR,Postre,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+1,1,MenuItem,"Thiakry (sémola oscura con yogur casero de salsa de vainilla, nuez moscada y agua de azahar)",Offer,3,EUR,Postre,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+2,2,MenuItem,Cóctel de frutas,Offer,3,EUR,Postre,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión

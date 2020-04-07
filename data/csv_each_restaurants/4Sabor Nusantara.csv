@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bebek saus daun basil,Offer,15.0,EUR,Patos,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+1,1,MenuItem,Gulai bebek,Offer,15.0,EUR,Patos,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+2,2,MenuItem,Bebek goreng sambal,Offer,16.5,EUR,Patos,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+3,3,MenuItem,Bebek goreng asam manis,Offer,15.5,EUR,Patos,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+4,4,MenuItem,Cah bebek pedas,Offer,15.0,EUR,Patos,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara

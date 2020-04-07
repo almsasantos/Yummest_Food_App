@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Spaghetti arrabiata o carbonara,Offer,9,EUR,Pasta,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo
+1,1,MenuItem,"Rigatoni alla boscaiola rivisitata con carne macinata, funghi e piselli",Offer,10,EUR,Pasta,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo
+2,2,MenuItem,Lasagna alla bolognese,Offer,10,EUR,Pasta,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo
+3,3,MenuItem,Lasagna vegetariana,Offer,10,EUR,Pasta,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo

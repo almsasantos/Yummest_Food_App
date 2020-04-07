@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusa,Offer,5.0,EUR,Entrante,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+1,1,MenuItem,Tartar de salmón,Offer,7.0,EUR,Entrante,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+2,2,MenuItem,Queso manchego en aceite de oliva,Offer,6.0,EUR,Entrante,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+3,3,MenuItem,Mejillones en salsa de cítricos,Offer,5.5,EUR,Entrante,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+4,4,MenuItem,Tosta de pan payés y paletilla ibérica,Offer,5.5,EUR,Entrante,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+5,5,MenuItem,Anchoas del cantábrico,Offer,12.0,EUR,Entrante,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carpaccio de solomillo,Offer,14.8,EUR,Para compartir,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+1,1,MenuItem,Chicken popcorns,Offer,12.8,EUR,Para compartir,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+2,2,MenuItem,Huevos rotos con jamón,Offer,12.9,EUR,Para compartir,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+3,3,MenuItem,Pizza de boletus,Offer,12.9,EUR,Para compartir,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+4,4,MenuItem,Rabas de calamar,Offer,13.8,EUR,Para compartir,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13

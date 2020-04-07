@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rabo de toro estofado en su jugo con parmentier de patata,Offer,19.0,EUR,Carnes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+1,1,MenuItem,"Solomillo a la parrilla con puré, boletus y jugo de carne",Offer,21.0,EUR,Carnes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+2,2,MenuItem,Cordero confitado a baja temperatura con puré y verduritas,Offer,19.0,EUR,Carnes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+3,3,MenuItem,"Magret de pato a la parrilla con manzana, verduritas y chips",Offer,18.5,EUR,Carnes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco

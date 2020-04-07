@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cochinillo de Segovia asado con Patatas Panadera,Offer,23.9,EUR,CARNES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+1,1,MenuItem,Paletilla de Cordero Lechal asada con Patatas Panadera,Offer,23.9,EUR,CARNES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+2,2,MenuItem,Cachopo de Ternera con Jamón Ibérico y Queso Vidiago,Offer,19.5,EUR,CARNES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+3,3,MenuItem,Solomillo de Vaca Vieja a la Parrilla o al Cabrales,Offer,24.9,EUR,CARNES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+4,4,MenuItem,Entrecot de Vaca Vieja a la Parrilla,Offer,22.9,EUR,CARNES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+5,5,MenuItem,Villagodio de Vaca Vieja a la Parrilla fileteado (2 personas),Offer,48.0,EUR,CARNES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+6,6,MenuItem,Chuletitas de Cordero Lechal a la Parrilla,Offer,19.9,EUR,CARNES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón

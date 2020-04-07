@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de chocolate con naranja,Postre,8,"""Vegetariano""","""C","""geo"":{""latitude"":40.41317,""longitude"":-3.69825",La Biotika
+1,1,MenuItem,"Tarta de algarroba (sin trigo, sin azúcar y sin lácteo)",Postre,8,"""Vegetariano""","""C","""geo"":{""latitude"":40.41317,""longitude"":-3.69825",La Biotika
+2,2,MenuItem,"Tarta de zanahoria y centeno (sin trigo, sin azúcar y sin lácteo)",Postre,8,"""Vegetariano""","""C","""geo"":{""latitude"":40.41317,""longitude"":-3.69825",La Biotika

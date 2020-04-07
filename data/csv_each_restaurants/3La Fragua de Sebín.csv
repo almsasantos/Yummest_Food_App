@@ -1,0 +1,5 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,"Rape braseado, con dos texturas de alcachofas patata violeta y espuma de curry y chalota",Offer,19.9,EUR,Pescados,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+1,1,1,MenuItem,Callos de bacalo al estilo clásico,Offer,22.1,EUR,Pescados,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+2,2,2,MenuItem,Merluza al estilo del chef,Offer,17.9,EUR,Pescados,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+3,3,3,MenuItem,Tartar de atún rojo con aliño de soja y wakame,Offer,19.9,EUR,Pescados,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua

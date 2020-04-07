@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CALAMAR DE POTERA A LA ANDALUZA,Offer,15,EUR,Entrante,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+1,1,MenuItem,ALCACHOFAS CONFITADAS CON SALSA ROMESCO,Offer,16,EUR,Entrante,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+2,2,MenuItem,ENSALADA DE TOMATE FEO DE TUDELA CON VENTRESCA Y CEBOLLETA FRESCA,Offer,10,EUR,Entrante,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE

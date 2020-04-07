@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla,Offer,0.4,EUR,Los Extras,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+1,1,MenuItem,Pico de gallo,Offer,1.5,EUR,Los Extras,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+2,2,MenuItem,Guacamole,Offer,1.5,EUR,Los Extras,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+3,3,MenuItem,Jalapeños,Offer,1.5,EUR,Los Extras,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+4,4,MenuItem,Combo Salsas,Offer,2.0,EUR,Los Extras,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño

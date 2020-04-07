@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TOKUSEN GUNKAN MORIAWASE,Offer,24.0,EUR,Plato,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4304507,""longitude"":-3.6781017",KIBOKA
+1,1,MenuItem,LUBINA MATSU,Offer,18.95,EUR,Plato,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4304507,""longitude"":-3.6781017",KIBOKA
+2,2,MenuItem,ROLLO EN TEMPURA,Offer,16.85,EUR,Plato,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4304507,""longitude"":-3.6781017",KIBOKA

@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Roast beef estilo ingles con puré,Offer,19,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+1,1,MenuItem,Rabo de toro,Offer,18,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+2,2,MenuItem,Pollo al curry con arroz blanco,Offer,18,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+3,3,MenuItem,Steak tartar corte cuchillo,Offer,22,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+4,4,MenuItem,Solomillo de ternera con patatas,Offer,22,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+5,5,MenuItem,Tacos de merluza rebozada,Offer,22,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+6,6,MenuItem,Lenguado meunère,Offer,24,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+7,7,MenuItem,Vieiras a la plancha con arroz,Offer,22,EUR,Platos,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci

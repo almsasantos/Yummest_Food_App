@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Zuppa di farro,Offer,13,EUR,Insalate & Zuppe,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+1,1,MenuItem,Insalata di polipo & patate,Offer,13,EUR,Insalate & Zuppe,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+2,2,MenuItem,Insalata di burrata Pante,Offer,14,EUR,Insalate & Zuppe,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante

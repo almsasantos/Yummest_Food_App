@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ENSALADILLA RUSA,Offer,18.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+1,1,MenuItem,LATA SARDINAS,Offer,10.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+2,2,MenuItem,LATA NAVAJAS,Offer,18.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+3,3,MenuItem,MATRIMONIO ANCHOAS Y BOQUERONES,Offer,24.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+4,4,MenuItem,CARPACHO DE GAMBONES,Offer,18.5,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+5,5,MenuItem,SASHIMI DEATUNY SALMOM,Offer,22.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+6,6,MenuItem,TARTAR DE ATUN CON AGUACATE,Offer,24.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+7,7,MenuItem,RISOTTO DE SETASCON TRUFA,Offer,20.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+8,8,MenuItem,CORAZONES DE ALCACHOFAS,Offer,16.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+9,9,MenuItem,ENSALADA DE TOMATE CON VENTRESCA Y ANCHOAS,Offer,23.5,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+10,10,MenuItem,ENSALADA DE PULPO Y ATÚN CON VINAGRETA,Offer,21.0,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+11,11,MenuItem,STEAK TARTAR,Offer,22.5,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+12,12,MenuItem,"TARTA DE QUESO, SOUFLE DE CARAMELO, TARTA DE QUESO (PRECIO POR POSTRE)",Offer,8.5,EUR,COMIDA PARA LLEVAR (HACEMOS DESCUENTO),8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche

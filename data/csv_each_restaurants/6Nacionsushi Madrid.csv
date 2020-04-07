@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nasi goreng (de vegetales),Offer,9,EUR,Imprescindibles arroces,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid
+1,1,MenuItem,Yakimeshi mixto,Offer,11,EUR,Imprescindibles arroces,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid
+2,2,MenuItem,Mandarín (de pollo),Offer,11,EUR,Imprescindibles arroces,8.7,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4272672,""longitude"":-3.6845496",Nacionsushi Madrid

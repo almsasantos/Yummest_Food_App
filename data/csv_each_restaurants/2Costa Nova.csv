@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pastel de nata,Offer,1.5,EUR,Postre,None,"""Portugués""","""calle aguetol","""geo"":{""latitude"":40.4702349,""longitude"":-3.5831416",Costa Nova
+1,1,MenuItem,Tarta de zanahoria,Offer,4.9,EUR,Postre,None,"""Portugués""","""calle aguetol","""geo"":{""latitude"":40.4702349,""longitude"":-3.5831416",Costa Nova
+2,2,MenuItem,Delicia de galleta,Offer,3.9,EUR,Postre,None,"""Portugués""","""calle aguetol","""geo"":{""latitude"":40.4702349,""longitude"":-3.5831416",Costa Nova

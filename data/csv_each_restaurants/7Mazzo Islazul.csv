@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza mazzo,Offer,12.6,EUR,Pizza fina,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul
+1,1,MenuItem,Pizza quattro formaggi,Offer,11.95,EUR,Pizza fina,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul
+2,2,MenuItem,Pizza pulled pork,Offer,11.75,EUR,Pizza fina,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul

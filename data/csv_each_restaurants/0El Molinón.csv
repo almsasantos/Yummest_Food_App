@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas de Santoña con Pimientos Asados y Pan tostado,Offer,14.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+1,1,MenuItem,Jamón y Caña de Lomo Ibérico de Bellota con Pan Tumaca,Offer,23.9,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+2,2,MenuItem,Tabla de Quesos Asturianos con Membrillo,Offer,18.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+3,3,MenuItem,Cecina de León con Almendras fritas,Offer,15.9,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+4,4,MenuItem,Croquetas de Bacalao con su Pil-Pil,Offer,12.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+5,5,MenuItem,Rabas de Calamar Santanderinas Fritas al Limón,Offer,15.9,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+6,6,MenuItem,Pulpo a la Gallega con sus Cachelos,Offer,19.9,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+7,7,MenuItem,Pulpo a la Plancha sobre Patatas Revolconas,Offer,21.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+8,8,MenuItem,Gamba Blanca de Huelva (250g.),Offer,28.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+9,9,MenuItem,Almejas a la Marinera o Sartén,Offer,24.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+10,10,MenuItem,Caprichos de Morcilla con Manzana en Tempura,Offer,10.5,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+11,11,MenuItem,Ensaladilla Rusa,Offer,9.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+12,12,MenuItem,"Ensalada de Cecina, Queso fresco y Nueces",Offer,11.9,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+13,13,MenuItem,"Ensalada de Tomate, Pimientos asados y Bonito",Offer,16.0,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+14,14,MenuItem,Parrillada de Verduras Naturales,Offer,14.9,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón
+15,15,MenuItem,Verduras en Tempura con Miel de Brezo,Offer,11.9,EUR,ENTRANTES,9,"""Asturiano""","""Paseo de la Florida","""geo"":{""latitude"":40.4216678,""longitude"":-3.7219844",El Molinón

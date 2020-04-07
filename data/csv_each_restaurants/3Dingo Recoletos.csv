@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie con helado café,Offer,5.9,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+1,1,MenuItem,Espuma de limón con compota de frutos rojos,Offer,5.9,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+2,2,MenuItem,Cookie con helado de vainilla,Offer,5.9,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+3,3,MenuItem,Torrija con helado arroz con leche,Offer,5.9,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+4,4,MenuItem,Copa de fruta naturales,Offer,4.5,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+5,5,MenuItem,Coulant de Chocolate con sorbete de frambuesas ( Free Gluten),Offer,5.9,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+6,6,MenuItem,Tarta de Zanahoria,Offer,6.5,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+7,7,MenuItem,Tarta de Queso cremosa,Offer,6.5,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+8,8,MenuItem,Tarta de Manzana,Offer,5.9,EUR,Postre,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos

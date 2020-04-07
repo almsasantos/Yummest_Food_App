@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrantes a compartir,Jamón ibérico acompañado de pan con tomate\nTabla de quesos\nEnsalada templada de langostinos\nMelva con cebolla confitada,Menú de Navidad 40€,None,None,None,Lion café
+1,1,MenuItem,Plato primncipal a elegir,Merluza de pincho al horno con patata panadera\nPresa de cerdo ibérico con verturitas a la plancha o patatas fritas,Menú de Navidad 40€,None,None,None,Lion café
+2,2,MenuItem,Postre,Surtido de tartas caseras,Menú de Navidad 40€,None,None,None,Lion café
+3,3,MenuItem,Bebida,"Vino Rioja o Ribera/Blanco Rueda, cerveza de barril, agua o refresco\nCafé + Copa de Champán",Menú de Navidad 40€,None,None,None,Lion café

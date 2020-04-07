@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa de Tallarines Vietnamita de Pollo o Ternera,Offer,8.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+1,1,MenuItem,Pollo Frito con Anacardos,Offer,9.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+2,2,MenuItem,Fideos de Arroz Tejidos en Intrincados Paquetes con Cerdo a la Barbacoa Especial,Offer,8.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+3,3,MenuItem,Fideos de Arroz con Carne de Cerdo a la Parilla,Offer,9.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+4,4,MenuItem,Fideos de Arroz con Rollitos Fritos,Offer,9.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+5,5,MenuItem,Fideos de Arroz con Carne de Ternera Salteada,Offer,8.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+6,6,MenuItem,Carne de Ternera Picada en Dados Salteada Especial,Offer,9.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+7,7,MenuItem,Especial Pescado a la Parilla de Vietnam,Offer,11.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+8,8,MenuItem,Pollo con Setas y Calabaza de Vietnam,Offer,11.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+9,9,MenuItem,Fideos Frito con Gambas y Tofu Vegetariano,Offer,9.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+10,10,MenuItem,Bogavante con Especial Salsa Vietnamita,Offer,15.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem
+11,11,MenuItem,Gambon con Salsa Especial de Ajo,Offer,11.9,EUR,Platos Principales,9,"""Vietnamita""","""Calle Constancia","""geo"":{""latitude"":40.4432054,""longitude"":-3.671821",Nem Nem

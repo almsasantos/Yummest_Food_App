@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Apple strudel,Offer,7.5,EUR,Postres,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+1,1,MenuItem,Vulcano Chocolate,Offer,5.5,EUR,Postres,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+2,2,MenuItem,Tarta de Queso casera,Offer,5.8,EUR,Postres,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento
+3,3,MenuItem,Pasteles árabes (backlawa) por unidad,Offer,1.5,EUR,Postres,8.1,None,"""Calle Domenico Scarlatti","""geo"":{""latitude"":40.441705,""longitude"":-3.7156046",Mesón Quinto Elemento

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de carcasa de pollo,Offer,4.8,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+1,1,MenuItem,Ensalada de oreja de cerdo,Offer,4.95,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+2,2,MenuItem,Ternera especial,Offer,5.8,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+3,3,MenuItem,Ensalada de pepino,Offer,2.5,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+4,4,MenuItem,Ensalada de medusa,Offer,4.95,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+5,5,MenuItem,Ensalada de estomago,Offer,4.95,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+6,6,MenuItem,Ensalada de algas de ajillo,Offer,3.5,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+7,7,MenuItem,Lapi al estilo norte de china,Offer,3.5,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+8,8,MenuItem,Raiz de loto con salsa especial,Offer,5.5,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz
+9,9,MenuItem,Cuello de pollo con salsa especial,Offer,3.95,EUR,Entrante,8.2,"""Chino""","""Calle del Río","""geo"":{""latitude"":40.422582,""longitude"":-3.7112787",Mi arroz

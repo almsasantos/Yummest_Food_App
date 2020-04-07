@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Codornices al chocolate,Plato,9.8,"""Español""","""Travesía de las Vistillas","""geo"":{""latitude"":40.411799826225,""longitude"":-3.7146000862122",El Tormo
+1,1,MenuItem,Gallina del Monasterio,Plato,9.8,"""Español""","""Travesía de las Vistillas","""geo"":{""latitude"":40.411799826225,""longitude"":-3.7146000862122",El Tormo
+2,2,MenuItem,Bacalao a la miel (bajo petición),Plato,9.8,"""Español""","""Travesía de las Vistillas","""geo"":{""latitude"":40.411799826225,""longitude"":-3.7146000862122",El Tormo

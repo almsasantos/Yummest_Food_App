@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Menú Osusume: Set de 6 entrantes + Takoyaki + Sushi Variado (14 piezas) + Sukiyaki + Postre,Offer,68,EUR,Menú degustación para 2 personas,9.3,"""Japonés""","""Calle Conde de Xiquena 12","""geo"":{""latitude"":40.4230426,""longitude"":-3.694125",Shuwa Shuwa
+1,1,MenuItem,Menú Osusume con CARNE DE WAGYU,Offer,83,EUR,Menú degustación para 2 personas,9.3,"""Japonés""","""Calle Conde de Xiquena 12","""geo"":{""latitude"":40.4230426,""longitude"":-3.694125",Shuwa Shuwa
+2,2,MenuItem,Menú Osusume + Degustación 3 SAKES por persona,Offer,83,EUR,Menú degustación para 2 personas,9.3,"""Japonés""","""Calle Conde de Xiquena 12","""geo"":{""latitude"":40.4230426,""longitude"":-3.694125",Shuwa Shuwa

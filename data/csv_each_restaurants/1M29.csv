@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de atún del mediterráneo y salsita de marmitako,Offer,26,EUR,Nuestros pescados,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+1,1,MenuItem,Merluza al horno con manzana a la sidra y su cococha en salsa verde,Offer,23,EUR,Nuestros pescados,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+2,2,MenuItem,Taco de bacalao asado con brandada tradicional y patata trufada,Offer,25,EUR,Nuestros pescados,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29
+3,3,MenuItem,Bogavante con verduritas al estilo thai noodle,Offer,30,EUR,Nuestros pescados,8.7,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4373744,""longitude"":-3.6914459",M29

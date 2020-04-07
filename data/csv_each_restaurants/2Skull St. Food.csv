@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie casero sobre chocolate fundido y helado de vainilla,Offer,5,EUR,"Si llegaste hasta aquí, no te podrás resistir a los pescados de skull",8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food
+1,1,MenuItem,Tarta de queso skull con coulis de mango,Offer,5,EUR,"Si llegaste hasta aquí, no te podrás resistir a los pescados de skull",8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food
+2,2,MenuItem,Torrija de pan brioche con helado de vainilla bourbon,Offer,5,EUR,"Si llegaste hasta aquí, no te podrás resistir a los pescados de skull",8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food
+3,3,MenuItem,Piña caramelizada sobre crema pastelera y helado de coco,Offer,5,EUR,"Si llegaste hasta aquí, no te podrás resistir a los pescados de skull",8.7,None,"""Calle del Barquillo","""geo"":{""latitude"":40.4202225,""longitude"":-3.6954273",Skull St. Food

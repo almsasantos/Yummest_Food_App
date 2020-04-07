@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Las Chicken Wings,Offer,6.5,EUR,Hamburguesas,8.8,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.429259,""longitude"":-3.7012551",Timesburg Luchana
+1,1,MenuItem,Las Hot Chicken Wings,Offer,6.9,EUR,Hamburguesas,8.8,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.429259,""longitude"":-3.7012551",Timesburg Luchana
+2,2,MenuItem,Los Nachos,Offer,3.9,EUR,Hamburguesas,8.8,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.429259,""longitude"":-3.7012551",Timesburg Luchana

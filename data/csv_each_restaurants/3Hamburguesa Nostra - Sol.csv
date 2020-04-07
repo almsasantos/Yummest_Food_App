@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de chocolate,Offer,5.9,EUR,Postres,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol
+1,1,MenuItem,Tarta de queso,Offer,5.9,EUR,Postres,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol
+2,2,MenuItem,Coulant,Offer,5.0,EUR,Postres,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol
+3,3,MenuItem,Brownie,Offer,5.9,EUR,Postres,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol
+4,4,MenuItem,Carrot Cake,Offer,5.9,EUR,Postres,None,"""Americano""","""Puerta del Sol","""geo"":{""latitude"":40.4172087,""longitude"":-3.7028771",Hamburguesa Nostra - Sol

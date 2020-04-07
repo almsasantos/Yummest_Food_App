@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paté casero de lechón,Offer,6.95,EUR,Entrantes,8.6,"""Castellano""","""Calle Aldonza Lorenzo","""geo"":{""latitude"":40.4986963,""longitude"":-3.6902203",La Vaca Vieja
+1,1,MenuItem,Pimientos rellenos,Offer,8.0,EUR,Entrantes,8.6,"""Castellano""","""Calle Aldonza Lorenzo","""geo"":{""latitude"":40.4986963,""longitude"":-3.6902203",La Vaca Vieja
+2,2,MenuItem,Morcilla de Burgos,Offer,8.5,EUR,Entrantes,8.6,"""Castellano""","""Calle Aldonza Lorenzo","""geo"":{""latitude"":40.4986963,""longitude"":-3.6902203",La Vaca Vieja

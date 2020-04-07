@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartas caseras,Offer,4.5,EUR,Postre,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+1,1,MenuItem,Flan de huevo casero,Offer,4.0,EUR,Postre,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+2,2,MenuItem,Tarta letra de chocolate,Offer,4.5,EUR,Postre,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan

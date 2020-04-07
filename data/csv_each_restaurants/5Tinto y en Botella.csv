@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso con reducción de PX,Offer,4.0,EUR,Postres,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+1,1,MenuItem,Mousse de chocolate negro con naranja,Offer,3.5,EUR,Postres,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella
+2,2,MenuItem,Tarta tatín templada con helado de nata,Offer,3.5,EUR,Postres,9.4,"""Mediterráneo""","""Calle de Gonzalo de Córdoba","""geo"":{""latitude"":40.4323794,""longitude"":-3.7031182",Tinto y en Botella

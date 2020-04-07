@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pabellón criollo,Offer,15.5,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+1,1,MenuItem,Asado negro,Offer,14.0,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+2,2,MenuItem,Palo a pique llanero,Offer,13.5,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+3,3,MenuItem,Pasticho,Offer,11.5,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+4,4,MenuItem,Pastel de chucho,Offer,10.5,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+5,5,MenuItem,Polvorosa de Pollo,Offer,9.0,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+6,6,MenuItem,Parrilla Llanera,Offer,34.0,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+7,7,MenuItem,"Hervidos de Costilla, Pollo, Carne o pescado",Offer,8.0,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+8,8,MenuItem,Churrasco Llanero,Offer,16.0,EUR,Platos Principales,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor

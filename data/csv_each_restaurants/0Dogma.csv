@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,· Jamón ibérico bellota Guijuelo curación 4 años,Offer,24,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+1,1,MenuItem,"· Croquetas de jamón, centollo, y espinaca",Offer,10,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+2,2,MenuItem,· Ensaladilla rusa con vieiras fritas en tempura,Offer,12,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+3,3,MenuItem,"· Ensalada de lechugas vivas, octavillo de anchoas, croûtons, tomate y vinagreta de mostaza",Offer,12,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+4,4,MenuItem,"· Sardinillas rellenas con queso de cabra y pak choi, sobre concasse de tomate",Offer,12,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+5,5,MenuItem,· Lasaña vegetal de verduras frescas y anchoas con vinagreta de manzanas,Offer,15,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+6,6,MenuItem,· Papillote de verduras con yema y romesco,Offer,12,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+7,7,MenuItem,· Falso canelón de puerro con gambas y centollo,Offer,16,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+8,8,MenuItem,· Cebolletas rellenas de bacalao sobre coulisse de pimiento,Offer,14,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+9,9,MenuItem,"· Huevos divorciados, espuma de patata violeta y trufa",Offer,12,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+10,10,MenuItem,"· Chipirones, patata, ali oli y lechuga de mar",Offer,14,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+11,11,MenuItem,"· Revuelto de patatas con yema , foie y trufa",Offer,16,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+12,12,MenuItem,· Lomo de atún en tartar con manzana verde y avellanas,Offer,22,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+13,13,MenuItem,· Sashimi de atún con verduritas y su emulsión de escabeche,Offer,18,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+14,14,MenuItem,"· Pizza-pallarda de papel de arroz con shiitake, queso de cabra, tomates y huevos de codorniz",Offer,19,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+15,15,MenuItem,· Steak tartar,Offer,18,EUR,Para Compartir,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma

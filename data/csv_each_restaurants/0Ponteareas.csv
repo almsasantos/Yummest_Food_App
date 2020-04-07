@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lasaña de Setas,Offer,18.5,EUR,Pastas y Arroces,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+1,1,MenuItem,Cintas Marinera,Offer,21.0,EUR,Pastas y Arroces,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+2,2,MenuItem,Arroz Verde con Carabineros,Offer,23.0,EUR,Pastas y Arroces,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+3,3,MenuItem,Arroz Meloso con Bogavante,Offer,28.0,EUR,Pastas y Arroces,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas

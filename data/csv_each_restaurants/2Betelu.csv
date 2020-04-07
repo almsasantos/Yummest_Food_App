@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Leche frita,Offer,5,EUR,Postre,9.4,"""Vasco""","""C","""geo"":{""latitude"":40.43418130682,""longitude"":-3.6526000499725",Betelu
+1,1,MenuItem,Torrijas,Offer,5,EUR,Postre,9.4,"""Vasco""","""C","""geo"":{""latitude"":40.43418130682,""longitude"":-3.6526000499725",Betelu
+2,2,MenuItem,Flan de huevo,Offer,5,EUR,Postre,9.4,"""Vasco""","""C","""geo"":{""latitude"":40.43418130682,""longitude"":-3.6526000499725",Betelu

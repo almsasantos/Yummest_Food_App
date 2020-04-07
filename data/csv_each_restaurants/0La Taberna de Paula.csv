@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de jamón ibérico,Offer,8,EUR,Entrante,9.3,"""Español""","""Calle Vallehermoso","""geo"":{""latitude"":40.4376768,""longitude"":-3.7082349",La Taberna de Paula
+1,1,MenuItem,Lacón a feira,Offer,9,EUR,Entrante,9.3,"""Español""","""Calle Vallehermoso","""geo"":{""latitude"":40.4376768,""longitude"":-3.7082349",La Taberna de Paula
+2,2,MenuItem,Ración de empanada casera de atún,Offer,6,EUR,Entrante,9.3,"""Español""","""Calle Vallehermoso","""geo"":{""latitude"":40.4376768,""longitude"":-3.7082349",La Taberna de Paula

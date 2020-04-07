@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,1º Plato,4 platos a elegir,menu del dia (EXCEPTO DIAS FESTIVOS),9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+1,1,MenuItem,2º Plato,4 platos a elegir,menu del dia (EXCEPTO DIAS FESTIVOS),9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+2,2,MenuItem,Postre,postre ó café,menu del dia (EXCEPTO DIAS FESTIVOS),9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+3,3,MenuItem,Sutil,postre ó café,menu del dia (EXCEPTO DIAS FESTIVOS),9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel

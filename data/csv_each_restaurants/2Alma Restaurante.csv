@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CORVINA A BAJA TEMPERATURA,Offer,23,EUR,¿NOS VAMOS DE PESCA?,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+1,1,MenuItem,BACALAO CONFITADO EN AOVE,Offer,24,EUR,¿NOS VAMOS DE PESCA?,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+2,2,MenuItem,TATAKI DE ATÚN ROJO EN TERIYAKI,Offer,25,EUR,¿NOS VAMOS DE PESCA?,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante

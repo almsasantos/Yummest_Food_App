@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa miso,Offer,27.5,EUR,Menus degustacion Hanakura,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+1,1,MenuItem,Ensalada,Offer,27.5,EUR,Menus degustacion Hanakura,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+2,2,MenuItem,Sashimi 3 variedades,Offer,27.5,EUR,Menus degustacion Hanakura,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+3,3,MenuItem,Tempura mixta,Offer,27.5,EUR,Menus degustacion Hanakura,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+4,4,MenuItem,Okonomiyaki,Offer,27.5,EUR,Menus degustacion Hanakura,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+5,5,MenuItem,Nigiri,Offer,27.5,EUR,Menus degustacion Hanakura,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+6,6,MenuItem,Postre,Offer,27.5,EUR,Menus degustacion Hanakura,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura

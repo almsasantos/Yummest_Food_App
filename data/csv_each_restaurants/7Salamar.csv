@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flan de Café con Helado,Offer,5.0,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+1,1,MenuItem,Tarta de Queso,Offer,5.0,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+2,2,MenuItem,Tarta Fina de Manzana (10 Minutos),Offer,6.5,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+3,3,MenuItem,Arroz con leche,Offer,6.0,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+4,4,MenuItem,Fruta y Helados,Offer,5.0,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar

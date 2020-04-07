@@ -1,0 +1,21 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de Carpaccio de Bacalao con Tomate Concasse y Cebolla Negra,Offer,10.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Ensalada Verde al Aceite de Trufa,Offer,9.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Morros de Atún con Cebolleta y Tomate Pelado,Offer,9.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Yemas de Espárragos de Navarra con Guacamole y Cebolla Crujiente,Offer,9.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+4,4,MenuItem,Parrillada de Verduras de Temporada,Offer,10.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+5,5,MenuItem,Espárragos Trigueros a la Sal Gorda,Offer,9.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+6,6,MenuItem,Rústico Percorino-Fico con Toque de Soja,Offer,10.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+7,7,MenuItem,Revueltos variados,Offer,7.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+8,8,MenuItem,Croquetas de Lacón con Grelos,Offer,8.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+9,9,MenuItem,Queso de Cabra Glaseado a las dos Mermeladas,Offer,11.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+10,10,MenuItem,Setas Empanadas con Alioli,Offer,8.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+11,11,MenuItem,Huevos de Corral con Boletus y Jamón Ibérico,Offer,10.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+12,12,MenuItem,Surtido ibérico,Offer,16.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+13,13,MenuItem,Provolone al Horno,Offer,10.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+14,14,MenuItem,Anchoas de Santoña con Corona de Aguacate,Offer,15.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+15,15,MenuItem,Gambón a la Plancha,Offer,12.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+16,16,MenuItem,Zamburiñas,Offer,16.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+17,17,MenuItem,Pimientos Rellenos de Perdiz,Offer,12.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+18,18,MenuItem,Sepia a la Plancha,Offer,10.5,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+19,19,MenuItem,Pata de Pulpo de Pedrero con Patatinas al Aceite de Pimentón,Offer,25.0,EUR,Entrantes,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

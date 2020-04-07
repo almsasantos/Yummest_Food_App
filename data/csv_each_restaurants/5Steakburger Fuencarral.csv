@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de pollo a la parrilla,Offer,9,EUR,Hamburguesas de corral,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral
+1,1,MenuItem,Hamburguesa de pollo crispy,Offer,9,EUR,Hamburguesas de corral,8.4,"""Americano""","""Calle de Fuencarral","""geo"":{""latitude"":40.4248721,""longitude"":-3.7008404",Steakburger Fuencarral

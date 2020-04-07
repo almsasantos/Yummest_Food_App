@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sorbete de mango y fresa con cava,Offer,6.5,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+1,1,MenuItem,Tartaleta fina de manzana con helado bio.,Offer,5.5,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+2,2,MenuItem,"Fondant de chocolate sin gluten, sobre crema ligera de vainilla y helado de nuestra carta",Offer,6.5,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+3,3,MenuItem,Tartar de frutas de temporada con crema de mango y espuma de frutos rojos,Offer,6.5,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+4,4,MenuItem,Nuestro brownie sin gluten con chocolate caliente,Offer,6.5,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+5,5,MenuItem,Carpaccio de piña marinada con semi-frío crudo de coco,Offer,6.5,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+6,6,MenuItem,Nuestro tiramisu de mango con trocitos confitados y galleta de canela,Offer,5.9,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+7,7,MenuItem,Helado bío de vainilla o chocolate.,Offer,6.5,EUR,Postres,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro

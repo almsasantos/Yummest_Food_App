@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Thiebou Djenne (plato nacional de Senegal: arroz con pescado y verduras elaborado con tomate),Offer,7,EUR,Plato,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+1,1,MenuItem,Mafe (carne con salsa de cacahuete sobre arroz blanco),Offer,7,EUR,Plato,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+2,2,MenuItem,Yassa de pollo o pescado marinado en salsa de cebolla y moztaza con arroz blanco,Offer,8,EUR,Plato,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión
+3,3,MenuItem,"Dibi chuletas de cordero al grill con cebolla, ensalada, patatas y mayonesa",Offer,8,EUR,Plato,9,"""Africano""","""Calle Argumosa","""geo"":{""latitude"":40.4082501,""longitude"":-3.6988138",África Fusión

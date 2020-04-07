@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Olimo,Offer,6,EUR,Postres,9.2,None,"""Calle de Vallehermoso","""geo"":{""latitude"":40.4322072,""longitude"":-3.7091242",Jatetxea Fran Gonzalez
+1,1,MenuItem,Torrija con su helado,Offer,6,EUR,Postres,9.2,None,"""Calle de Vallehermoso","""geo"":{""latitude"":40.4322072,""longitude"":-3.7091242",Jatetxea Fran Gonzalez
+2,2,MenuItem,Almendra vainilla violea,Offer,6,EUR,Postres,9.2,None,"""Calle de Vallehermoso","""geo"":{""latitude"":40.4322072,""longitude"":-3.7091242",Jatetxea Fran Gonzalez
+3,3,MenuItem,Pan con chocolate,Offer,7,EUR,Postres,9.2,None,"""Calle de Vallehermoso","""geo"":{""latitude"":40.4322072,""longitude"":-3.7091242",Jatetxea Fran Gonzalez
+4,4,MenuItem,Trainera,Offer,7,EUR,Postres,9.2,None,"""Calle de Vallehermoso","""geo"":{""latitude"":40.4322072,""longitude"":-3.7091242",Jatetxea Fran Gonzalez

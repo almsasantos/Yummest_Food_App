@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Insalata caprese,Offer,11.0,EUR,Antipasti,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+1,1,MenuItem,Burrata (con pesto o al aroma de trufa),Offer,12.5,EUR,Antipasti,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+2,2,MenuItem,Tomate raﬀ con ventresca,Offer,12.0,EUR,Antipasti,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+3,3,MenuItem,Bresaola con rúcula y parmesano,Offer,12.0,EUR,Antipasti,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+4,4,MenuItem,Croquetas de setas y trufa,Offer,9.0,EUR,Antipasti,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar

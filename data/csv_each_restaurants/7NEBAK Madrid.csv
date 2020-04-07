@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"1/4 cordero lechal al horno, con su ensalada clásica (recomendado para 2-3 personas)",Offer,58,EUR,Otras carnes,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+1,1,MenuItem,"Solomillo de vaca, sobre salsa de hongos y con foie a la plancha",Offer,29,EUR,Otras carnes,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+2,2,MenuItem,"Entrecot de Lomo Bajo de Vaca, ganado mayor. 400 g.",Offer,25,EUR,Otras carnes,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+3,3,MenuItem,"Txuleton de 1⁄2 kg de Vaca, ganado mayor",Offer,25,EUR,Otras carnes,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+4,4,MenuItem,"Chuletillas empanadas de Cordero Lechal (1/2: 16,00€)",Offer,25,EUR,Otras carnes,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+5,5,MenuItem,"Magret de Pato de Las Landas, con su reducción de Jugo de carne y Frutos rojos",Offer,29,EUR,Otras carnes,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid

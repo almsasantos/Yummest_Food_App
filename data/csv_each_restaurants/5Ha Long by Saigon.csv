@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nems de pollo con jengibre,Offer,7,EUR,Aves y carnes,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+1,1,MenuItem,Ternera ahumada sobre hierbas encostradas en panko y café,Offer,18,EUR,Aves y carnes,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+2,2,MenuItem,Pato crujiente servido en crepes con salsa hoisin,Offer,22,EUR,Aves y carnes,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon

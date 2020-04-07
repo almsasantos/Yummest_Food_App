@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+4,4,MenuItem,Media botella de agua,Offer,4.0,EUR,Bebidas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+5,5,MenuItem,Botella de vino,,,,Bebidas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+6,6,MenuItem,Copa de vino,,,,Bebidas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía

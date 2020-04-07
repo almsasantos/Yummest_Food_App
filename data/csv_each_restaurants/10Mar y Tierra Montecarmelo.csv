@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primer plato (1 por persona),Tartar de tomate de temporada con sardina ahumada.,Cena para dos,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+1,1,MenuItem,Segundo plato (Para compartir),Calamar de potera a la andaluza.,Cena para dos,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+2,2,MenuItem,Tercer plato (Para compartir),Lomo bajo de ternera trinchado con patatas.,Cena para dos,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+3,3,MenuItem,Postre (Para compartir),Tatín de manzana con helado de vainillla.,Cena para dos,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo

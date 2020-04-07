@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,14.0,EUR,Bebidas,7.8,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4341394,""longitude"":-3.6934268",La Nicoletta - Zurbano
+1,1,MenuItem,Copa de champán,,,,Bebidas,7.8,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4341394,""longitude"":-3.6934268",La Nicoletta - Zurbano
+2,2,MenuItem,Café,Offer,2.1,EUR,Bebidas,7.8,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4341394,""longitude"":-3.6934268",La Nicoletta - Zurbano
+3,3,MenuItem,Botella de agua,,,,Bebidas,7.8,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4341394,""longitude"":-3.6934268",La Nicoletta - Zurbano
+4,4,MenuItem,Media botella de agua,,,,Bebidas,7.8,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4341394,""longitude"":-3.6934268",La Nicoletta - Zurbano
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,7.8,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4341394,""longitude"":-3.6934268",La Nicoletta - Zurbano
+6,6,MenuItem,Copa de vino,Offer,3.75,EUR,Bebidas,7.8,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4341394,""longitude"":-3.6934268",La Nicoletta - Zurbano

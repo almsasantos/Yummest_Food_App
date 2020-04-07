@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de bellota con pan tumaca,Offer,22,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+1,1,MenuItem,Callos a la madrileña con tortilla española,Offer,16,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+2,2,MenuItem,Gambas al ajillo o a la plancha,Offer,18,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+3,3,MenuItem,Alcachofitas de Tudela con gambas y crujiente de jamon,Offer,15,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+4,4,MenuItem,Los huevos de ángel (temporada de verduras con huevos fritos y foie ),Offer,20,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+5,5,MenuItem,Croquetas caseras de jamón y boletus (8 unidades),Offer,14,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+6,6,MenuItem,Boletus a la plancha con huevos y foia,Offer,18,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+7,7,MenuItem,Esparrajos D.O. Navarra,Offer,24,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+8,8,MenuItem,Pulpo a la plancha con puré de patata y pimentón de la Vera,Offer,18,EUR,Entrante,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño

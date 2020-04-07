@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CAUSA LIMEÑA DE BOGAVANTE ( 4 UNDS ),Offer,6,EUR,Entrantes,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+1,1,MenuItem,OSTRAS ( 1 UND ),Offer,3,EUR,Entrantes,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+2,2,MenuItem,MEJILLONES A LA CHALACA ( 4 UNDS ),Offer,5,EUR,Entrantes,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+3,3,MenuItem,WANTUN DE CERDO PICADO Y LANGOSTINO ( 4 UNDS ),Offer,6,EUR,Entrantes,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+4,4,MenuItem,TEQUEÑOS DE SOLOMILLO DE TERNERA ( 4 UNDS ),Offer,6,EUR,Entrantes,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary

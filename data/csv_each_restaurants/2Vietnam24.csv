@@ -1,0 +1,8 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Botella de champán,Offer,34.0,EUR,Bebidas,9,"""Vietnamita""","""Calle San Marcos","""geo"":{""latitude"":40.4213413,""longitude"":-3.6984275",Vietnam
+1,1,1,MenuItem,Copa de champán,,,,Bebidas,9,"""Vietnamita""","""Calle San Marcos","""geo"":{""latitude"":40.4213413,""longitude"":-3.6984275",Vietnam
+2,2,2,MenuItem,Café,Offer,1.9,EUR,Bebidas,9,"""Vietnamita""","""Calle San Marcos","""geo"":{""latitude"":40.4213413,""longitude"":-3.6984275",Vietnam
+3,3,3,MenuItem,Botella de agua,,,,Bebidas,9,"""Vietnamita""","""Calle San Marcos","""geo"":{""latitude"":40.4213413,""longitude"":-3.6984275",Vietnam
+4,4,4,MenuItem,Media botella de agua,Offer,1.9,EUR,Bebidas,9,"""Vietnamita""","""Calle San Marcos","""geo"":{""latitude"":40.4213413,""longitude"":-3.6984275",Vietnam
+5,5,5,MenuItem,Botella de vino,Offer,15.75,EUR,Bebidas,9,"""Vietnamita""","""Calle San Marcos","""geo"":{""latitude"":40.4213413,""longitude"":-3.6984275",Vietnam
+6,6,6,MenuItem,Copa de vino,Offer,2.9,EUR,Bebidas,9,"""Vietnamita""","""Calle San Marcos","""geo"":{""latitude"":40.4213413,""longitude"":-3.6984275",Vietnam

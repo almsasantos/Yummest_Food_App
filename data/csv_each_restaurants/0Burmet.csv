@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Alas de pollo,Offer,11.0,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+1,1,MenuItem,Fingers de pollo,Offer,8.5,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+2,2,MenuItem,Palitos de queso,Offer,8.5,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+3,3,MenuItem,20 cms de.... quesadilla rellena,Offer,7.0,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+4,4,MenuItem,Aros de cebolla,Offer,7.0,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+5,5,MenuItem,Nachos Burmet,Offer,12.5,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+6,6,MenuItem,Patatas Burmet,Offer,8.0,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+7,7,MenuItem,Patatas & Bacon,Offer,8.0,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+8,8,MenuItem,Verduras salteadas,Offer,10.0,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+9,9,MenuItem,Chorizo criollo,Offer,10.0,EUR,Para empezar,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet

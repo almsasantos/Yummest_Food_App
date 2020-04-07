@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,44.0,EUR,Bebidas,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+1,1,MenuItem,Copa de champán,Offer,7.0,EUR,Bebidas,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+2,2,MenuItem,Café,Offer,1.4,EUR,Bebidas,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+3,3,MenuItem,Botella de agua,Offer,3.5,EUR,Bebidas,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+5,5,MenuItem,Botella de vino,Offer,18.0,EUR,Bebidas,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid

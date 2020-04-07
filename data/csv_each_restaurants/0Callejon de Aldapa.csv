@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas melosas de Jamón Ibérico,Offer,11,EUR,Entrante,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+1,1,MenuItem,Mejillones,Offer,7,EUR,Entrante,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+2,2,MenuItem,Oreja de Gochu,Offer,7,EUR,Entrante,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+3,3,MenuItem,Huevos rotos,Offer,9,EUR,Entrante,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+4,4,MenuItem,Cachapas,Offer,9,EUR,Entrante,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+5,5,MenuItem,Verduritas Salteadas al Wok,Offer,9,EUR,Entrante,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coulant de chocolate con helado de vainilla,Offer,5.5,EUR,Postres,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+1,1,MenuItem,Torrija de leche con helado de leche merengada,Offer,5.5,EUR,Postres,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+2,2,MenuItem,Tarta de queso hecha en casa,Offer,5.5,EUR,Postres,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid

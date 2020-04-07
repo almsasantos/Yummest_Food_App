@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crema Volteada,Offer,6,EUR,Postre,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+1,1,MenuItem,Tres Leches,Offer,7,EUR,Postre,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+2,2,MenuItem,Suspiro a la Limeña,Offer,6,EUR,Postre,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu

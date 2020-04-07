@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Taco Mx de costilla confitada, col china y mayonesa hoisin",Offer,12.9,EUR,Entrante,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+1,1,MenuItem,Croquetas de Kimchi con atún rojo y alga wakame ( 3 uds ),Offer,7.5,EUR,Entrante,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+2,2,MenuItem,Albondigas de rabo de toro con pure trufado,Offer,16.9,EUR,Entrante,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+3,3,MenuItem,La ensaladilla de Ottica,Offer,9.9,EUR,Entrante,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali
+4,4,MenuItem,"Tartar de salmón estilo Occhiali con chili chipotle, huevo de corral y patata",Offer,13.9,EUR,Entrante,8.9,"""Internacional""","""Calle Sánchez Pacheco","""geo"":{""latitude"":40.4485568,""longitude"":-3.6689898",Occhiali

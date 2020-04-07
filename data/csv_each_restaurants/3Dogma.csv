@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,· Paella de setas y verduras de temporada,Offer,14,EUR,ARROCES,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+1,1,MenuItem,· Arroz meloso de carabinero y calamar,Offer,22,EUR,ARROCES,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+2,2,MenuItem,· Risotto de boletus con su muslo confitado de pato,Offer,18,EUR,ARROCES,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma

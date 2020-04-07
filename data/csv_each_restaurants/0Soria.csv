@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo PPJH,Offer,16,EUR,Entrante,9.3,"""Gallego""","""Calle Ancora","""geo"":{""latitude"":40.4028662,""longitude"":-3.6907778",Soria
+1,1,MenuItem,"Pimientos, patatas, huevos, jamón",Offer,16,EUR,Entrante,9.3,"""Gallego""","""Calle Ancora","""geo"":{""latitude"":40.4028662,""longitude"":-3.6907778",Soria
+2,2,MenuItem,Zamburiñas,Offer,16,EUR,Entrante,9.3,"""Gallego""","""Calle Ancora","""geo"":{""latitude"":40.4028662,""longitude"":-3.6907778",Soria

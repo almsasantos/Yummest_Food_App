@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Guiso del día,Offer,7,EUR,DE CUCHARA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+1,1,MenuItem,Sopa de marisco,Offer,5,EUR,DE CUCHARA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+2,2,MenuItem,Sopa castellana,Offer,5,EUR,DE CUCHARA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+3,3,MenuItem,Gazpacho,Offer,5,EUR,DE CUCHARA,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo

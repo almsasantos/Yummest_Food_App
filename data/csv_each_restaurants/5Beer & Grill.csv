@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brocheta de ternera,Offer,9.5,EUR,Carnes a la Parrilla,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill
+1,1,MenuItem,Entraña de ternera (350 grms),Offer,12.5,EUR,Carnes a la Parrilla,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill
+2,2,MenuItem,Secreto ibérico al carbón,Offer,10.5,EUR,Carnes a la Parrilla,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill
+3,3,MenuItem,Entrecot de carne de ternera de la sierra de Guadarrama (500 grms),Offer,21.5,EUR,Carnes a la Parrilla,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill
+4,4,MenuItem,Pollito picantón a la brasa,Offer,12.0,EUR,Carnes a la Parrilla,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill

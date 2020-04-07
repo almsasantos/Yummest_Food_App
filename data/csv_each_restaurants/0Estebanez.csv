@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de la huerta,Offer,12,EUR,Entrante,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+1,1,MenuItem,Ensaladilla rusa,Offer,9,EUR,Entrante,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+2,2,MenuItem,Espárragos trigueros o blancos,Offer,9,EUR,Entrante,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+3,3,MenuItem,Revuelto de morcilla con pasas y piñones,Offer,10,EUR,Entrante,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez
+4,4,MenuItem,Cogollos de Tudela,Offer,9,EUR,Entrante,9.3,"""Mediterráneo""","""Calle del Torpedero Tucumán","""geo"":{""latitude"":40.4626614,""longitude"":-3.6722288",Estebanez

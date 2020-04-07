@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,LOMO SALTADO,Offer,18,EUR,Segundos,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+1,1,MenuItem,AJÍ DE GALLINA,Offer,15,EUR,Segundos,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+2,2,MenuItem,ARROZ MELOSO DE VIERAS,Offer,16,EUR,Segundos,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+3,3,MenuItem,ESTOFADO DE TERNERA,Offer,15,EUR,Segundos,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+4,4,MenuItem,BAO DE SOLOMILLO DE CERDO,Offer,5,EUR,Segundos,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+5,5,MenuItem,BAO DE PESCADO CRUJIENTE,Offer,5,EUR,Segundos,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary
+6,6,MenuItem,BAO DE CANGREJO,Offer,6,EUR,Segundos,9,None,"""Calle San Lorenzo","""geo"":{""latitude"":40.4252779,""longitude"":-3.698956",Katary

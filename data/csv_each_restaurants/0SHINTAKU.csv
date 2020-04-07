@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,KIMCHIN CASERA,Offer,4.95,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+1,1,MenuItem,GYOZA CASERA,Offer,5.25,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+2,2,MenuItem,WAKAME KIURISU,Offer,4.25,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+3,3,MenuItem,WAKAME,Offer,5.5,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+4,4,MenuItem,ENSALADA MARISCO,Offer,7.95,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+5,5,MenuItem,ROLLO PRIMAVERA,Offer,4.95,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+6,6,MenuItem,PINCHO DE TOFU,Offer,3.95,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+7,7,MenuItem,GYOZA VEGETALES,Offer,3.95,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+8,8,MenuItem,PATATA FRITA CON SAL PIMIENTA,Offer,3.5,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+9,9,MenuItem,EBI GYOZA,Offer,5.85,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+10,10,MenuItem,EDAMAME,Offer,4.75,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+11,11,MenuItem,SOPA DE MISO,Offer,4.25,EUR,Entrante,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU

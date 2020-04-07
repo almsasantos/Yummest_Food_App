@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Antxoas Frescas del Cantábrico al Ajillo,Offer,20,EUR,Pescados Azules,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+1,1,MenuItem,Taco de Atún Justo Asado a Nuestro Modo,Offer,34,EUR,Pescados Azules,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+2,2,MenuItem,Tartar de Atún Clásico,Offer,34,EUR,Pescados Azules,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria

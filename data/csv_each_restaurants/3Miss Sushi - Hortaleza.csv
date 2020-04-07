@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún (10 piezas),Offer,15.0,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+1,1,MenuItem,Salmón (10 piezas),Offer,8.0,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+2,2,MenuItem,Mixto Atún & Salmón (10 piezas),Offer,13.5,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+3,3,MenuItem,"Usuzukuri de Salmón con salsa ponzu yuzu, aceite de trufa y tobiko",Offer,9.9,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+4,4,MenuItem,"Tiradito de Atún con aceite de oliva, soja y jengibre, zanahoria, daikon y cebollino finamente picados",Offer,10.9,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+5,5,MenuItem,Atún Cake,Offer,12.85,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+6,6,MenuItem,Salmon Cake,Offer,12.5,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+7,7,MenuItem,Beef Cake,Offer,12.85,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+8,8,MenuItem,Tataki de Atún con salsa Yakiniku (8 piezas),Offer,13.7,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+9,9,MenuItem,Tataki de Solomillo con salsa Yakiniku (8 piezas),Offer,12.5,EUR,"Sashimis, Tartares & Tatakis",8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza

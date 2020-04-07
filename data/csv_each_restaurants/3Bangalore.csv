@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bolitas de leche frita,Offer,4.95,EUR,Postre,9.3,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4347191,""longitude"":-3.6756884",Bangalore
+1,1,MenuItem,Té con leche,Offer,3.0,EUR,Postre,9.3,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4347191,""longitude"":-3.6756884",Bangalore
+2,2,MenuItem,"Leche, coco, azúcar y arroz basmati",,,,Postre,9.3,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4347191,""longitude"":-3.6756884",Bangalore

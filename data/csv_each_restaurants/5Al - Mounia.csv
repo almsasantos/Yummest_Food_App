@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tajine de Cordero M´Charmel,Offer,25.0,EUR,CORDERO,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+1,1,MenuItem,Tajine de Cordero con Almendras,Offer,25.0,EUR,CORDERO,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+2,2,MenuItem,Tajine de Cordero con Ciruelas,Offer,25.0,EUR,CORDERO,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+3,3,MenuItem,Tajine de Cordero con Cebolla,Offer,25.0,EUR,CORDERO,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+4,4,MenuItem,NUEVO . Tajine Ambrosía de Cordero,Offer,25.5,EUR,CORDERO,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+5,5,MenuItem,Brochetas kabab,Offer,24.75,EUR,CORDERO,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+6,6,MenuItem,Asado Bereber,Offer,29.0,EUR,CORDERO,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia

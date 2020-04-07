@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+2,2,MenuItem,Café,,,,Bebidas,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+4,4,MenuItem,Media botella de agua,Offer,1.5,EUR,Bebidas,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+5,5,MenuItem,Botella de vino,Offer,8.0,EUR,Bebidas,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bogavante a la Plancha,Offer,16,EUR,Pescados,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Chipirones a la plancha sobre su tinta con arroz blanco,Offer,16,EUR,Pescados,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Tronco de Merluza con Langostinos en Salsa Roja,Offer,18,EUR,Pescados,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Bacalao a la Gallega,Offer,16,EUR,Pescados,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+4,4,MenuItem,Lubina al Horno con Zamburiñas,Offer,15,EUR,Pescados,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+5,5,MenuItem,Delicias de Merluza a la Romana,Offer,17,EUR,Pescados,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+6,6,MenuItem,Bacalao Gratén al Ali-Oli de Miel y Cebolla Confitada al Pedro Ximenez,Offer,18,EUR,Pescados,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

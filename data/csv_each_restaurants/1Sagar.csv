@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Murgh makhani (butter chicken): Trozos de pollo tikka en salsa de nata, tomate y mantequilla",Offer,13.2,EUR,Plato,9.1,"""Indio""","""C","""geo"":{""latitude"":40.435778247297,""longitude"":-3.6725399494171",Sagar
+1,1,MenuItem,Ghost tikka masala (lamb tikka masala): Trozos de cordero preparado en salsa especial,Offer,15.4,EUR,Plato,9.1,"""Indio""","""C","""geo"":{""latitude"":40.435778247297,""longitude"":-3.6725399494171",Sagar
+2,2,MenuItem,Chicken briyani: Arroz basmati aromático preparado con pollo,Offer,13.2,EUR,Plato,9.1,"""Indio""","""C","""geo"":{""latitude"":40.435778247297,""longitude"":-3.6725399494171",Sagar

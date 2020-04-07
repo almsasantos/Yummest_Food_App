@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa del día,Offer,3.25,EUR,Entrante,None,"""Portugués""","""Calle de la Ribera de Curtidores","""geo"":{""latitude"":40.4053152,""longitude"":-3.7071257",Frangus
+1,1,MenuItem,Ración de rissois (empanadilllas típicas portuguesas) 6x,Offer,6.5,EUR,Entrante,None,"""Portugués""","""Calle de la Ribera de Curtidores","""geo"":{""latitude"":40.4053152,""longitude"":-3.7071257",Frangus
+2,2,MenuItem,Migas a la portuguesa,Offer,4.0,EUR,Entrante,None,"""Portugués""","""Calle de la Ribera de Curtidores","""geo"":{""latitude"":40.4053152,""longitude"":-3.7071257",Frangus

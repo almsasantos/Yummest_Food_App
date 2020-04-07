@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Kooby de ternera,Offer,5.5,EUR,Kooby,None,"""Mediterráneo""","""Calle de Galileo","""geo"":{""latitude"":40.4377593,""longitude"":-3.7101606",Kooby Grilled Brochettes
+1,1,MenuItem,Kooby de cordero,Offer,5.5,EUR,Kooby,None,"""Mediterráneo""","""Calle de Galileo","""geo"":{""latitude"":40.4377593,""longitude"":-3.7101606",Kooby Grilled Brochettes
+2,2,MenuItem,Kooby de pollo,Offer,5.5,EUR,Kooby,None,"""Mediterráneo""","""Calle de Galileo","""geo"":{""latitude"":40.4377593,""longitude"":-3.7101606",Kooby Grilled Brochettes
+3,3,MenuItem,Kooby extra,Offer,3.0,EUR,Kooby,None,"""Mediterráneo""","""Calle de Galileo","""geo"":{""latitude"":40.4377593,""longitude"":-3.7101606",Kooby Grilled Brochettes
+4,4,MenuItem,Pan extra,Offer,0.5,EUR,Kooby,None,"""Mediterráneo""","""Calle de Galileo","""geo"":{""latitude"":40.4377593,""longitude"":-3.7101606",Kooby Grilled Brochettes

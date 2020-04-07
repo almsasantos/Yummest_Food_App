@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz de Verduras de Tudela,Offer,32,EUR,Plato,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+1,1,MenuItem,"Rodaballo entre salicornias y espinacas, con reducción de las espinas y quicos; hirezake de las espinas",Offer,48,EUR,Plato,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+2,2,MenuItem,Sargo con caldo de las espinas y pan de picada al momento,Offer,46,EUR,Plato,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+3,3,MenuItem,Roast “Pich” con sus chacinas y agridulce de verano,Offer,18,EUR,Plato,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+4,4,MenuItem,"Cochinillo confitado de manera tradicional, con melón y gochu jang",Offer,45,EUR,Plato,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+5,5,MenuItem,"Pintada de Challans (Label Rouge), parmentier de patata Ratte",Offer,70,EUR,Plato,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard

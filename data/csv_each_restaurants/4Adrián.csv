@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cocido Madrileño (mínimo 6 comensales y con dos días de antelacion) precio por persona,Offer,12,EUR,POR ENCARGO (Mínimo 2 días de Antelación ),8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+1,1,MenuItem,Cordero Asado,Offer,22,EUR,POR ENCARGO (Mínimo 2 días de Antelación ),8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+2,2,MenuItem,Cochinillo Asado (mínimo 6 comensales ) precio por persona,Offer,22,EUR,POR ENCARGO (Mínimo 2 días de Antelación ),8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+3,3,MenuItem,Conejo al ajillo o Tomate precio de el conejo entero,Offer,15,EUR,POR ENCARGO (Mínimo 2 días de Antelación ),8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián

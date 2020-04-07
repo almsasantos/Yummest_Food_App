@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Miss Nutella Fresa,Offer,5.0,EUR,Postre,8.8,"""Japonés""","""Calle del Prado","""geo"":{""latitude"":40.4145354,""longitude"":-3.7000128",Miss Sushi - Santa Ana
+1,1,MenuItem,Gyoza de manzana con toffee,Offer,4.9,EUR,Postre,8.8,"""Japonés""","""Calle del Prado","""geo"":{""latitude"":40.4145354,""longitude"":-3.7000128",Miss Sushi - Santa Ana
+2,2,MenuItem,Coulant de chocolate,Offer,4.5,EUR,Postre,8.8,"""Japonés""","""Calle del Prado","""geo"":{""latitude"":40.4145354,""longitude"":-3.7000128",Miss Sushi - Santa Ana

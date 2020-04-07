@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak tartar al punto con mostaza de trufa e ideazabal ahumado,Offer,22.5,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+1,1,MenuItem,"Hamburguesa de carne roja, queso brie, cebolla confitada y patatas fritas",Offer,12.0,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+2,2,MenuItem,"Tataki de Presa Ibérica, trufa, miel y patata",Offer,20.0,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+3,3,MenuItem,"Solomillo de vaca, su jugo y ensalada verde",Offer,23.5,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+4,4,MenuItem,Rabo de vaca guisado al vino tinto,Offer,16.5,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+5,5,MenuItem,Carrillera de vaca al oloroso con pure de patata,Offer,20.0,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+6,6,MenuItem,Pichón de Las Landas asado con su jugo,Offer,28.0,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+7,7,MenuItem,Lomo de vaca vieja a la parrilla (2 personas),Offer,47.0,EUR,Del Campo,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri

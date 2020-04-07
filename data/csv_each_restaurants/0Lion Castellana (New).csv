@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Nuestro Mix de croquetas de leche de oveja:con jamón, trufa y boletus (6u)",Offer,9.0,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+1,1,MenuItem,Mini tortilla española con salsa de trufa,Offer,8.5,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+2,2,MenuItem,Patatas bravas con dos salsas,Offer,6.5,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+3,3,MenuItem,"Gyozas con langostinos , verduritas y salsa yakitori",Offer,9.0,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+4,4,MenuItem,Langostinos en panko con mayonesa japo,Offer,9.0,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+5,5,MenuItem,Ensaladilla rusa con dos atunes y gambas cristal,Offer,8.5,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+6,6,MenuItem,"Samosas hindúes de cochinillo, shiitakes y salsa hoisin",Offer,9.0,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+7,7,MenuItem,Chipirones de potera a la andaluza con chili y lima,Offer,12.0,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+8,8,MenuItem,"Nems vietnamitas crujientes de pasta de arroz conpresa ibérica, harissa y jugo de pato pekinés",Offer,11.2,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+9,9,MenuItem,"Ceviche limeño de corvina, guacamole y maíz asado",Offer,14.5,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+10,10,MenuItem,Tempura de langostinos troceados con espárragos trigueros,Offer,12.5,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+11,11,MenuItem,Taco Mex chupacabras de cochinita pibil al achiote y chile habanero asado (2),Offer,9.8,EUR,ENTRADAS,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,De jamón ibérico,Offer,3.1,EUR,Croquetas de mamá josefina (2 unidades),None,"""Mediterráneo""","""Calle de la Fuente del Berro","""geo"":{""latitude"":40.4239386,""longitude"":-3.6708777",La Croquetta
+1,1,MenuItem,De rabo de toro al bino tinto,Offer,3.1,EUR,Croquetas de mamá josefina (2 unidades),None,"""Mediterráneo""","""Calle de la Fuente del Berro","""geo"":{""latitude"":40.4239386,""longitude"":-3.6708777",La Croquetta
+2,2,MenuItem,"De morcilla de cebolla, manzana y piñones tostados",Offer,2.9,EUR,Croquetas de mamá josefina (2 unidades),None,"""Mediterráneo""","""Calle de la Fuente del Berro","""geo"":{""latitude"":40.4239386,""longitude"":-3.6708777",La Croquetta

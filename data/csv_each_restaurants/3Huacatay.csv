@@ -1,0 +1,18 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Coca cola, zero y light",Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+1,1,MenuItem,Fanta naranja,Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+2,2,MenuItem,Aquarius de limón,Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+3,3,MenuItem,Nestea,Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+4,4,MenuItem,Botella de agua de 1/2 litro,Offer,1.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+5,5,MenuItem,Instis cola,Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+6,6,MenuItem,Refresco de manzana,Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+7,7,MenuItem,Refresco tropical,Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+8,8,MenuItem,"Inca cola 0,33cl",Offer,2.5,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+9,9,MenuItem,Chicha morada de 1l.,Offer,7.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+10,10,MenuItem,cuzqueña rubia/negra/trigo,Offer,2.5,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+11,11,MenuItem,cerveza cristal,Offer,2.5,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+12,12,MenuItem,mahou sin alcohol,Offer,1.3,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+13,13,MenuItem,tercio de mahou,Offer,2.5,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+14,14,MenuItem,caña de mahou,Offer,1.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+15,15,MenuItem,doble de mahou,Offer,2.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay
+16,16,MenuItem,jarra de 1/2 l. mahou,Offer,3.0,EUR,BEBIDAS,8.6,"""Peruano""","""Calle de Colombia","""geo"":{""latitude"":40.4568135,""longitude"":-3.6751986",Huacatay

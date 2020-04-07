@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tabla de nuestros surtidos ibéricos,Offer,10.9,EUR,Entrante,7.9,"""Español""","""Calle de Santo Domingo de Silos","""geo"":{""latitude"":40.4514759,""longitude"":-3.6875076",Casa Gambrinus - Bernabeu
+1,1,MenuItem,Tabla de queso Flor de Esgueva,Offer,9.9,EUR,Entrante,7.9,"""Español""","""Calle de Santo Domingo de Silos","""geo"":{""latitude"":40.4514759,""longitude"":-3.6875076",Casa Gambrinus - Bernabeu
+2,2,MenuItem,Tabla mixta de queso Flor de Esgueva y jamón ibérico,Offer,12.9,EUR,Entrante,7.9,"""Español""","""Calle de Santo Domingo de Silos","""geo"":{""latitude"":40.4514759,""longitude"":-3.6875076",Casa Gambrinus - Bernabeu

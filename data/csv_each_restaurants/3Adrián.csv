@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Natillas caseras,Offer,3,EUR,Postre,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+1,1,MenuItem,Pudding casero,Offer,3,EUR,Postre,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+2,2,MenuItem,Arroz con leche,Offer,3,EUR,Postre,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+3,3,MenuItem,Cuajada casera,Offer,3,EUR,Postre,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián

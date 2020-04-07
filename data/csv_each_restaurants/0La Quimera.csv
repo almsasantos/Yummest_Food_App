@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes,Menú a compartir,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+1,1,MenuItem,"Segundos, un plato por comensal a compartir",Menú a compartir,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+2,2,MenuItem,Todos nuestros menús incluyen una consumición por persona:,Menú a compartir,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao a la Vizcaína,Offer,18.0,EUR,Pescados,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+1,1,MenuItem,Merluza a la plancha,Offer,16.5,EUR,Pescados,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+2,2,MenuItem,Merluza a la romana,Offer,16.5,EUR,Pescados,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+3,3,MenuItem,Lubina a la plancha,Offer,17.0,EUR,Pescados,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+4,4,MenuItem,Dorada al horno o plancha,Offer,16.5,EUR,Pescados,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte

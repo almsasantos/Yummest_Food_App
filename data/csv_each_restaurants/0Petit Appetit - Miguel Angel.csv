@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calabaza,Offer,5.3,EUR,Cremas y Sopas,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel
+1,1,MenuItem,Calabacín,Offer,5.3,EUR,Cremas y Sopas,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel
+2,2,MenuItem,Sopa Misso,Offer,5.3,EUR,Cremas y Sopas,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Workshop,Offer,12.0,EUR,Huerto,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+1,1,MenuItem,Ensalada de pollo,Offer,12.0,EUR,Huerto,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+2,2,MenuItem,Ensalada Burrata,Offer,15.0,EUR,Huerto,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+3,3,MenuItem,Berenjenas Parmiggiana,Offer,14.5,EUR,Huerto,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique

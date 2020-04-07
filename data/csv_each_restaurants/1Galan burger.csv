@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa sin censura,Offer,11.0,EUR,Plato,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+1,1,MenuItem,Hamburguesa tifrina,Offer,9.9,EUR,Plato,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+2,2,MenuItem,Mexican grill,Offer,10.5,EUR,Plato,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+3,3,MenuItem,BBQ pork,Offer,9.0,EUR,Plato,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger

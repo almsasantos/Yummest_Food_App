@@ -1,0 +1,16 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto ai Funghi Porcini,Offer,13.5,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+1,1,MenuItem,Risotto alla pescatora,Offer,14.5,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+2,2,MenuItem,Lasagna di carne,Offer,9.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+3,3,MenuItem,Gnocchi Sorrentina,Offer,10.5,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+4,4,MenuItem,Fagotti al salmone,Offer,11.5,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+5,5,MenuItem,Cappeletti di Zucca e Amaretto,Offer,12.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+6,6,MenuItem,Tagliata di Manzo,Offer,13.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+7,7,MenuItem,Spaguetti Vongole,Offer,12.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+8,8,MenuItem,Mezzaluna di Funghi procini,Offer,14.5,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+9,9,MenuItem,Tagliolini nero scoglio,Offer,15.5,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+10,10,MenuItem,Pizza prosciutto e Funghi,Offer,9.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+11,11,MenuItem,Calzone,Offer,10.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+12,12,MenuItem,Pizza Bufala,Offer,11.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+13,13,MenuItem,Pizza salmone,Offer,12.5,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+14,14,MenuItem,Pizza frutti di mare,Offer,13.9,EUR,Plato,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta

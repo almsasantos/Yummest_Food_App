@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lubina con mango estilo tailandesa,Offer,13.85,EUR,Pescado,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+1,1,MenuItem,Taco de ternera a la parrilla estilo japonesa,Offer,11.55,EUR,Pescado,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid
+2,2,MenuItem,Filete de pollo a la parrilla estilo tailandesa,Offer,10.55,EUR,Pescado,9,"""Asiático""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4458991,""longitude"":-3.695571",Soi Noodle Madrid

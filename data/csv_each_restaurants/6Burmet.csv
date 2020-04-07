@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheese burger,Offer,10,EUR,Kids menú,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+1,1,MenuItem,Mac & Cheese,Offer,10,EUR,Kids menú,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+2,2,MenuItem,Chicken tenders,Offer,10,EUR,Kids menú,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet

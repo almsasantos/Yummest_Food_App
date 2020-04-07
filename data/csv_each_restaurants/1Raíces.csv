@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Berenejenas con miel de caña,Offer,9,EUR,Para compartir,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+1,1,MenuItem,Croquetas de jamon 6 Unds.,Offer,9,EUR,Para compartir,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+2,2,MenuItem,Croquetas de pulledpork 6 Unds.,Offer,10,EUR,Para compartir,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces
+3,3,MenuItem,Patatas Cheese bacon,Offer,9,EUR,Para compartir,None,None,"""Calle de la Torrecilla del Leal","""geo"":{""latitude"":40.4106046,""longitude"":-3.6993845",Raíces

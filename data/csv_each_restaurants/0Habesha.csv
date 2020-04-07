@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fetira,Offer,8,EUR,Entrantes,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+1,1,MenuItem,Sambusa,Offer,10,EUR,Entrantes,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+2,2,MenuItem,Ful,Offer,10,EUR,Entrantes,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+3,3,MenuItem,Inkulal Be Siga,Offer,8,EUR,Entrantes,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+4,4,MenuItem,Ensalada,Offer,6,EUR,Entrantes,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha
+5,5,MenuItem,Ensalada de Espinacas,Offer,7,EUR,Entrantes,8.7,"""Etíope""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.4061031,""longitude"":-3.6949166",Habesha

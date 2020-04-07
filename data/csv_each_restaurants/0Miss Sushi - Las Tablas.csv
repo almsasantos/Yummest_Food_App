@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hummus,Offer,7.9,EUR,ENTRANTES,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas
+1,1,MenuItem,Chips crujientes de raíz de Flor de Loto con Guacamole Japonés,Offer,9.9,EUR,ENTRANTES,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas
+2,2,MenuItem,Gyozas de Langostinos,Offer,6.9,EUR,ENTRANTES,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas
+3,3,MenuItem,Tempura de Gambón Salvaje con salsa de Chili,Offer,10.9,EUR,ENTRANTES,8.9,"""Japonés""","""Paseo Tierra de Melide 32","""geo"":{""latitude"":40.5086082,""longitude"":-3.6657998",Miss Sushi - Las Tablas

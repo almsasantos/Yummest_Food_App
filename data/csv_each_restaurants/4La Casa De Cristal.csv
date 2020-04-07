@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza distintas formas,Offer,18.0,EUR,Pescados,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+1,1,MenuItem,Chipirones encebollados,Offer,16.5,EUR,Pescados,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal
+2,2,MenuItem,Tartar de atún,Offer,17.0,EUR,Pescados,9.1,"""Mediterráneo""","""Calle Pedro Muguruza","""geo"":{""latitude"":40.46243,""longitude"":-3.68669",La Casa De Cristal

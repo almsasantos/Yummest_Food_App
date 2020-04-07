@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki,Offer,13,EUR,Entrante,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+1,1,MenuItem,Shumai,Offer,6,EUR,Entrante,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+2,2,MenuItem,Coquitos sol y sombra,Offer,8,EUR,Entrante,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+3,3,MenuItem,Sushi Burger,Offer,12,EUR,Entrante,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+4,4,MenuItem,Sushi pizza,Offer,10,EUR,Entrante,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+5,5,MenuItem,Japan crunch,Offer,10,EUR,Entrante,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+6,6,MenuItem,Satay de pollo o atún,Offer,8,EUR,Entrante,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale

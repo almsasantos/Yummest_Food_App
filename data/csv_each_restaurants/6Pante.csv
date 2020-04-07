@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gelato artigianale siciliano,Offer,6,EUR,Dolci,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+1,1,MenuItem,Bacio pantesco con ricotta al limone,Offer,7,EUR,Dolci,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+2,2,MenuItem,Tiramisu classico,Offer,7,EUR,Dolci,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+3,3,MenuItem,Sformato al cioccolato,Offer,7,EUR,Dolci,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+4,4,MenuItem,Beignet al cioccolato Gianduja,Offer,7,EUR,Dolci,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante
+5,5,MenuItem,Gelato Affogato,Offer,7,EUR,Dolci,9.1,"""Gastronómico""","""Calle de Villanueva","""geo"":{""latitude"":40.4224527,""longitude"":-3.6849186",Pante

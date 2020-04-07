@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Rollito de seitán rellenos de oreja de madera, almendras y manzana caramelizada",Offer,9,EUR,Rollitos dumpling y bahn cuon,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+1,1,MenuItem,Won ton de gambas y mango,Offer,12,EUR,Rollitos dumpling y bahn cuon,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon
+2,2,MenuItem,Dumpling de pato con boletus coronados con foie fresco a la parrilla,Offer,16,EUR,Rollitos dumpling y bahn cuon,9,"""Asiático""","""Calle de Velázquez","""geo"":{""latitude"":40.4337274,""longitude"":-3.6836099",Ha Long by Saigon

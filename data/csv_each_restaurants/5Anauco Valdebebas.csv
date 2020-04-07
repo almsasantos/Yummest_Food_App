@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tequeños de nutella,Offer,5.5,EUR,Postre,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+1,1,MenuItem,Cheesecake,Offer,5.0,EUR,Postre,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+2,2,MenuItem,Sundae de Oreo,Offer,5.5,EUR,Postre,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+3,3,MenuItem,Brownie Anauco,Offer,5.0,EUR,Postre,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas

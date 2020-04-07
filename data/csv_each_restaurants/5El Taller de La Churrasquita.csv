@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheesecake,Offer,5.0,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+1,1,MenuItem,Flan de queso con helado de yogurt,Offer,5.0,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+2,2,MenuItem,Fondant de chocolate con helado violeta,Offer,7.0,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+3,3,MenuItem,Panqueque con dulce de leche,Offer,4.0,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+4,4,MenuItem,Tarta fina de manzana con helado de vainilla,Offer,6.5,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+5,5,MenuItem,Reina de chocolate,Offer,12.0,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+6,6,MenuItem,Coulant de chocolate con helado,Offer,7.0,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+7,7,MenuItem,Mousse de chocolate,Offer,5.0,EUR,Postres,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella vegetariana para 2 personas,Offer,22.0,EUR,Arroces y pastas,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+1,1,MenuItem,Arroz basmati con verduras al curry,Offer,12.0,EUR,Arroces y pastas,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+2,2,MenuItem,Rissoto de quinoa o arroz con setas y parmesano,Offer,12.0,EUR,Arroces y pastas,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+3,3,MenuItem,Lasaña de espinacas y verduras,Offer,12.0,EUR,Arroces y pastas,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri
+4,4,MenuItem,Lasaña de ternera,,,,Arroces y pastas,8.8,"""Vegetariano""","""Calle Relatores nº 20","""geo"":{""latitude"":40.4125454,""longitude"":-3.7034207",Yatiri

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primero,Primero,Menú del día 10€,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa
+1,1,MenuItem,Segundo,Segundo,Menú del día 10€,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa
+2,2,MenuItem,Postre,Postre,Menú del día 10€,8.7,"""Español""","""Plaza Hermanos Falco y Álvarez de Toledo","""geo"":{""latitude"":40.47316,""longitude"":-3.57736",taberna La Caprichosa

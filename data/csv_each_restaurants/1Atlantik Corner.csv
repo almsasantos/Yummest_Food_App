@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo de Corvina a la brasa,Offer,19.3,EUR,Desde el Puerto,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner
+1,1,MenuItem,Bacalhau à brás,Offer,14.9,EUR,Desde el Puerto,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner
+2,2,MenuItem,Ravioli de gamón,Offer,16.9,EUR,Desde el Puerto,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner
+3,3,MenuItem,Bacalao al carbón,Offer,22.7,EUR,Desde el Puerto,8.8,"""Portugués""","""Calle Ventura de la Vega","""geo"":{""latitude"":40.4154703,""longitude"":-3.6988962",Atlantik Corner

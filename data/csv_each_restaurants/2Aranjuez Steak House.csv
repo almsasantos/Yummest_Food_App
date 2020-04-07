@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada César de berros,Offer,16.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+1,1,MenuItem,Ensalada Kojack,Offer,15.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+2,2,MenuItem,Ensalada tomate raff y ventresca,Offer,16.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+3,3,MenuItem,Yemas de espárragos con berros y tomate cherry,Offer,17.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+4,4,MenuItem,Queso cabra con pasas y nueces,Offer,15.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+5,5,MenuItem,Aguacate y palmitos,Offer,12.0,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+6,6,MenuItem,Tostones,Offer,6.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+7,7,MenuItem,Congrill,Offer,7.8,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+8,8,MenuItem,Gallo Pinto,Offer,7.8,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+9,9,MenuItem,Arepitas asadas con queso y nata,Offer,7.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+10,10,MenuItem,Tequeños,Offer,8.5,EUR,Nuestras Ensaladas y Guarniciones,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House

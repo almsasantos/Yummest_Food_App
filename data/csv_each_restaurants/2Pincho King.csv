@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pan chino Dorado y plata,Offer,4.2,EUR,Fritos de la casa,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+1,1,MenuItem,Pasta de arroz frito con azucar morena,Offer,4.8,EUR,Fritos de la casa,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+2,2,MenuItem,Tiras de cerdo frito,Offer,4.8,EUR,Fritos de la casa,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+3,3,MenuItem,Tempura de langostino frito,Offer,4.8,EUR,Fritos de la casa,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+4,4,MenuItem,Nugugtes de pollo estilo japones,Offer,4.5,EUR,Fritos de la casa,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tequeños Chocolate 6uds.,Offer,5.5,EUR,Postres,8.9,"""Venezolano""","""Calle de Almansa","""geo"":{""latitude"":40.4487447,""longitude"":-3.7068901",Arepas And Go
+1,1,MenuItem,Coulant de Chocolate,Offer,3.5,EUR,Postres,8.9,"""Venezolano""","""Calle de Almansa","""geo"":{""latitude"":40.4487447,""longitude"":-3.7068901",Arepas And Go
+2,2,MenuItem,Chicha Criolla,Offer,4.5,EUR,Postres,8.9,"""Venezolano""","""Calle de Almansa","""geo"":{""latitude"":40.4487447,""longitude"":-3.7068901",Arepas And Go
+3,3,MenuItem,Tarta tres leches,Offer,4.5,EUR,Postres,8.9,"""Venezolano""","""Calle de Almansa","""geo"":{""latitude"":40.4487447,""longitude"":-3.7068901",Arepas And Go

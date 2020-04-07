@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arepa carne mechada,Offer,5.5,EUR,Plato,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+1,1,MenuItem,Arepa de judías negras,Offer,5.5,EUR,Plato,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+2,2,MenuItem,"Arepa Reine pepeada (pollo, aguacate y mahonesa)",Offer,5.5,EUR,Plato,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+3,3,MenuItem,Entrecot,Offer,13.0,EUR,Plato,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+4,4,MenuItem,"Bocallidos variados : pepito ternera, jamón serrano, bacon y queso...",Offer,5.0,EUR,Plato,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche de corvina,Offer,19,EUR,Pescados,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+1,1,MenuItem,"Tiradito de Hamachi con cremoso de ají,aguacate, camote y maís frito",Offer,21,EUR,Pescados,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+2,2,MenuItem,Raya con barbacoa coreana y pak choi,Offer,20,EUR,Pescados,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+3,3,MenuItem,"Lubina,setas en escabeche y consomé de setas y algas",Offer,23,EUR,Pescados,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mejillonazos Arroz Pegao,Offer,11,EUR,Célticos,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+1,1,MenuItem,Navajas,Offer,15,EUR,Célticos,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+2,2,MenuItem,Zamburiñas (1/2 docena),Offer,15,EUR,Célticos,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+3,3,MenuItem,Ostras T. Rex (1/2 docena) con copa de cava,Offer,28,EUR,Célticos,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+4,4,MenuItem,Ostras Bonaparte (1/2 docena) con copa de cava,Offer,35,EUR,Célticos,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao

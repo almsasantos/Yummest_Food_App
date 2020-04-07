@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza Toscana,Offer,11.5,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+1,1,MenuItem,Pizza Jalisco,Offer,11.5,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+2,2,MenuItem,Pizza Ibérica,Offer,11.5,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+3,3,MenuItem,Pizza roja,Offer,11.5,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+4,4,MenuItem,La Burger de carne,Offer,11.9,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+5,5,MenuItem,La Burger veggie,Offer,12.0,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+6,6,MenuItem,Tandoori Burger,Offer,9.9,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+7,7,MenuItem,Sándwich cubano,Offer,9.5,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+8,8,MenuItem,Bocadillo Gourmet de Roastbeef,Offer,9.9,EUR,Se Come Con Pan,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón

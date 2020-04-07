@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Costilla BBQ para 2 personas,Offer,12.0,EUR,Especialidades,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken
+1,1,MenuItem,Carrillada al Chocolate,Offer,8.5,EUR,Especialidades,8.7,"""Latino""","""Calle Esteban Collantes","""geo"":{""latitude"":40.4316483,""longitude"":-3.64088",Garden fried chicken

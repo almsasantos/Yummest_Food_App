@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sepia a la Plancha,Offer,9.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+1,1,MenuItem,Boquerones en vinagre,Offer,7.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+2,2,MenuItem,Gambón a la plancha,Offer,9.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+3,3,MenuItem,Calamaras a la Andaluza,Offer,8.7,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+4,4,MenuItem,Pinchitos morenos,Offer,5.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+5,5,MenuItem,Huevos Rotos con jamon,Offer,6.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+6,6,MenuItem,Patatas alli-oli,Offer,4.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+7,7,MenuItem,Patatas Bravas,Offer,4.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+8,8,MenuItem,Patatas Fritas,Offer,2.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+9,9,MenuItem,Nuggets de Pollo,Offer,5.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+10,10,MenuItem,Alitas de Pollo,Offer,7.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+11,11,MenuItem,Chorizo a la cerveza,Offer,6.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+12,12,MenuItem,Croquetas caseras de Jamón,Offer,5.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+13,13,MenuItem,Croquetas de marisco,Offer,5.9,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+14,14,MenuItem,Provolone,Offer,7.5,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+15,15,MenuItem,Queso Curado,Offer,7.0,EUR,Raciones y Platos,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer

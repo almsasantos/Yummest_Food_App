@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Torta della nonna, rellena de crema pastelera y almendras",Offer,5,EUR,Postre,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+1,1,MenuItem,Carrot Cake con frosting de queso,Offer,5,EUR,Postre,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+2,2,MenuItem,"Tarta de chocolate, nutella y mascarpone",Offer,5,EUR,Postre,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO
+3,3,MenuItem,Surtido de tartas caseras,Offer,8,EUR,Postre,8.3,"""Español""","""Calle del Moscatelar","""geo"":{""latitude"":40.4573351,""longitude"":-3.64674",MI.TO

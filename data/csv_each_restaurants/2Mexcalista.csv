@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Enchiladas verdes (2),Offer,8.0,EUR,Los Mexcalistas,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+1,1,MenuItem,Enchiladas suizas (2),Offer,8.0,EUR,Los Mexcalistas,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+2,2,MenuItem,Enmoladas de pollo (2),Offer,9.0,EUR,Los Mexcalistas,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+3,3,MenuItem,Sopa de tortilla,Offer,7.5,EUR,Los Mexcalistas,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+4,4,MenuItem,Pozole blanco estilo guerrero,Offer,10.0,EUR,Los Mexcalistas,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista

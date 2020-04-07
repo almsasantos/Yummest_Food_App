@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla Rusa,Offer,6.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+1,1,MenuItem,Torreznos de Soria,Offer,7.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+2,2,MenuItem,Tortilla jugosa con Cebolla,Offer,7.5,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+3,3,MenuItem,Provolone a la Parrilla,Offer,8.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+4,4,MenuItem,Mejillones en Escabeche,Offer,8.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+5,5,MenuItem,Croquetas Cremosas de Ibérico,Offer,10.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+6,6,MenuItem,Tortillas de Camarón,Offer,10.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+7,7,MenuItem,Viera Gratinada,Offer,10.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+8,8,MenuItem,Flores de Alcachofa a la Brasa,Offer,12.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú
+9,9,MenuItem,Jamón Puro de Bellota,Offer,22.0,EUR,Entrante,9.1,"""Español""","""Calle de Fernán Gonzalez","""geo"":{""latitude"":40.4251361,""longitude"":-3.6742573",Nagú

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crema Catalana,Offer,3.5,EUR,Nuestros postres caseros,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+1,1,MenuItem,Tarta Fina de Manzana con Helado de Vainilla,Offer,5.5,EUR,Nuestros postres caseros,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+2,2,MenuItem,Fondant de Chocolate con Helado de Fresas,Offer,5.5,EUR,Nuestros postres caseros,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+3,3,MenuItem,Pie de Limón,Offer,3.5,EUR,Nuestros postres caseros,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina

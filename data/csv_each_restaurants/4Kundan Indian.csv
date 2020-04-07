@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mango Lassi,Offer,4.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+1,1,MenuItem,Lassi de Arándano,Offer,6.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+2,2,MenuItem,Lassi de fruta de la pasión ( Marracuya),Offer,6.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+3,3,MenuItem,Lassi de Piña,Offer,4.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+4,4,MenuItem,Lassi de coco,Offer,5.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+5,5,MenuItem,Lassi de fresa,Offer,4.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+6,6,MenuItem,Lassi de plátano,Offer,3.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+7,7,MenuItem,Lassi dulce,Offer,3.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian
+8,8,MenuItem,Lassi salado con comino,Offer,3.5,EUR,Bebida hindú,9.3,"""Indio""","""Calle Hospital de Órbigo","""geo"":{""latitude"":40.511677,""longitude"":-3.6694919",Kundan Indian

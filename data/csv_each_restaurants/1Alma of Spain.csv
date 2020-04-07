@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mollete de calamares con tzatziki y kimchi,Offer,3.5,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+1,1,MenuItem,Listones de patatas bravas con toque de ajillo,Offer,7.5,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+2,2,MenuItem,Cazuelita de callos a la madrileña,Offer,12.0,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+3,3,MenuItem,Ración de jamón ibérico de bellota de Guijuelo,Offer,17.5,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+4,4,MenuItem,Ración de lomito de presa ibérica,Offer,17.5,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+5,5,MenuItem,Ración de queso curado artesano de oveja Pico Melero,Offer,15.0,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+6,6,MenuItem,Gambas de cristal con mahonesa de lima,Offer,9.5,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+7,7,MenuItem,Alcachofas confitadas con sal de jamón,Offer,9.5,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+8,8,MenuItem,Mollete de pastrami de solomillo ibérico con rúcula,Offer,3.5,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain
+9,9,MenuItem,Crujiente de oreja ibérica con salsa de naranja y jengibre,Offer,18.0,EUR,EN BARRA,9,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4384261,""longitude"":-3.7009928",Alma of Spain

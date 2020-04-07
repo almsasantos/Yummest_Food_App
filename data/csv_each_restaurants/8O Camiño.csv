@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+2,2,MenuItem,Café,Offer,2.5,EUR,Bebidas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+3,3,MenuItem,Botella de agua,Offer,2.5,EUR,Bebidas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+5,5,MenuItem,Botella de vino,Offer,13.0,EUR,Bebidas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño

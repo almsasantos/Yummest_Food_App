@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TRADICIONAL,Offer,10,EUR,TORTILLAS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+1,1,MenuItem,CEBOLLA CARAMELIZADA,Offer,10,EUR,TORTILLAS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+2,2,MenuItem,QUESO MANCHEGO Y PIMIENTOS ROJOS,Offer,10,EUR,TORTILLAS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+3,3,MenuItem,TRES QUESOS,Offer,10,EUR,TORTILLAS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón
+4,4,MenuItem,CHORIZO,Offer,10,EUR,TORTILLAS,8.5,"""Venezolano""","""Calle de Pedro Unanue","""geo"":{""latitude"":40.4036658,""longitude"":-3.694061",Mesón el bodegón

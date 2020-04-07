@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Especial curry, Bhuna, Madras, Balti, Karai, Dupieza, Jalfrezi",Offer,16.9,EUR,Platos especial Bombay Blue,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+1,1,MenuItem,"Caylon, Masala, Korma, Patia-etc",Offer,18.95,EUR,Platos especial Bombay Blue,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino

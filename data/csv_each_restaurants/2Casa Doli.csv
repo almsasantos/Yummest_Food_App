@@ -1,0 +1,4 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Tarta de queso,Offer,4.75,EUR,Postre,9.3,None,"""Avenida de San Diego","""geo"":{""latitude"":40.386668056152,""longitude"":-3.6680901050567627",Doli
+1,1,1,MenuItem,Coulant de chocolate con helado de pannacota,Offer,5.25,EUR,Postre,9.3,None,"""Avenida de San Diego","""geo"":{""latitude"":40.386668056152,""longitude"":-3.6680901050567627",Doli
+2,2,2,MenuItem,Tarta fina de manzana,Offer,4.25,EUR,Postre,9.3,None,"""Avenida de San Diego","""geo"":{""latitude"":40.386668056152,""longitude"":-3.6680901050567627",Doli

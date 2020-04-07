@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz caldoso con Bogavante,Offer,22,EUR,Arroces ( mínimo para 2 personas),9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+1,1,MenuItem,Arroz meloso con Carabineros,Offer,20,EUR,Arroces ( mínimo para 2 personas),9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+2,2,MenuItem,Arroz ciego,Offer,16,EUR,Arroces ( mínimo para 2 personas),9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+3,3,MenuItem,"Rissotto trufado con trigueros, setas y Parmesano",Offer,14,EUR,Arroces ( mínimo para 2 personas),9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan
+4,4,MenuItem,Arroz de la Huerta ( 100% Vegano),Offer,14,EUR,Arroces ( mínimo para 2 personas),9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.473899016155,""longitude"":-3.6758699417114",Dolan

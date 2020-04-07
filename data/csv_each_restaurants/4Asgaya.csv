@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Frixuelos con crema pastelera y helado de praliné,Offer,8,EUR,Postres,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+1,1,MenuItem,Tarta cremosa de quesos asturianos,Offer,7,EUR,Postres,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+2,2,MenuItem,Chocolate costrado con helado de violeta,Offer,8,EUR,Postres,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+3,3,MenuItem,Arroz con leche requemado,Offer,8,EUR,Postres,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+4,4,MenuItem,Torrija de pan brioche con helado de naranja,Offer,7,EUR,Postres,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+5,5,MenuItem,Tarta fina de manzana con helado de vainilla,Offer,8,EUR,Postres,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz La Buganvilla,Offer,24.0,EUR,Arroces,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+1,1,MenuItem,Arroz Meloso Carabinero y Sepia,Offer,23.5,EUR,Arroces,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+2,2,MenuItem,Fideuá Negra con Chipirones,Offer,17.0,EUR,Arroces,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+3,3,MenuItem,Arroz meloso con Marisco,Offer,21.0,EUR,Arroces,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro
+4,4,MenuItem,Arroz de Rabo de Toro con Boletus Edulis,Offer,18.5,EUR,Arroces,8.5,"""Arrocería""","""C","""geo"":{""latitude"":40.428853058326,""longitude"":-3.694420099258423",La Buganvilla Almagro

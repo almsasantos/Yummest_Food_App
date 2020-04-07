@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rusa con gambas,Offer,3.9,EUR,Tapitas ricas,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+1,1,MenuItem,Tartar de atún,Offer,6.1,EUR,Tapitas ricas,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+2,2,MenuItem,Tosta de salmón y aguacate,Offer,4.4,EUR,Tapitas ricas,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+3,3,MenuItem,Steak tartar,Offer,6.1,EUR,Tapitas ricas,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+4,4,MenuItem,Lingote de foie,Offer,6.3,EUR,Tapitas ricas,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+5,5,MenuItem,Croquetas de la abuela,Offer,1.8,EUR,Tapitas ricas,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+6,6,MenuItem,Gyosas de pollo al curry,Offer,2.2,EUR,Tapitas ricas,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13

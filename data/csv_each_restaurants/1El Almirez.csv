@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rape Ondarroa,Offer,25.08,EUR,Pescados,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+1,1,MenuItem,Merluza a la romana,Offer,22.8,EUR,Pescados,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+2,2,MenuItem,Cogote de merluza a la Bilbaíbna,Offer,25.08,EUR,Pescados,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+3,3,MenuItem,Bacalao al Pil-Pil,Offer,24.0,EUR,Pescados,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+4,4,MenuItem,Bacalao Albardado con Mahonesa de Hongos,Offer,22.8,EUR,Pescados,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+5,5,MenuItem,Arroz Caldoso con Almejas,Offer,20.9,EUR,Pescados,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez

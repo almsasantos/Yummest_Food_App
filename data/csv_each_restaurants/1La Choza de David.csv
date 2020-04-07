@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cachopo,Offer,12.5,EUR,Carnes y Pescados,8.8,"""Español""","""Calle Eros","""geo"":{""latitude"":40.39228,""longitude"":-3.67929",La Choza de David
+1,1,MenuItem,Chuletillas de Cordero Lechal,Offer,14.0,EUR,Carnes y Pescados,8.8,"""Español""","""Calle Eros","""geo"":{""latitude"":40.39228,""longitude"":-3.67929",La Choza de David
+2,2,MenuItem,Lubina o Dorada a la Espalda,Offer,14.0,EUR,Carnes y Pescados,8.8,"""Español""","""Calle Eros","""geo"":{""latitude"":40.39228,""longitude"":-3.67929",La Choza de David

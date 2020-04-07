@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+1,1,MenuItem,Copa de champán,,,,Bebidas,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+2,2,MenuItem,Café,,,,Bebidas,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+3,3,MenuItem,Botella de agua,Offer,4.0,EUR,Bebidas,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+4,4,MenuItem,Media botella de agua,,,,Bebidas,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+5,5,MenuItem,Botella de vino,Offer,20.0,EUR,Bebidas,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+6,6,MenuItem,Copa de vino,Offer,4.0,EUR,Bebidas,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera

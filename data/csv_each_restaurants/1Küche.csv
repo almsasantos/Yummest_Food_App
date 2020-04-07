@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,MOJITO,Offer,8.0,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+1,1,MenuItem,DRY(MARTINA),Offer,7.5,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+2,2,MenuItem,MOJITO DE FRESA,Offer,8.0,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+3,3,MenuItem,DIRTY BLACK RUSSIAN,Offer,7.5,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+4,4,MenuItem,PIÑA COLADA,Offer,9.0,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+5,5,MenuItem,MANHATTAN,Offer,7.5,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+6,6,MenuItem,BLOODY MARY,Offer,8.0,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+7,7,MenuItem,NEGRONI,Offer,8.0,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+8,8,MenuItem,MARGARITA,Offer,7.5,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+9,9,MenuItem,DAIQUIRI,Offer,7.5,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche
+10,10,MenuItem,BOTELLA DE MOET CHANDON ICE,Offer,75.0,EUR,EMPEZAMOS,8.8,"""Mediterráneo""","""Calle de la Princesa","""geo"":{""latitude"":40.42677,""longitude"":-3.71253",Küche

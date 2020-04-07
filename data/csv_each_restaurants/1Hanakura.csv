@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hanakura miso ramen,Offer,10.8,EUR,Menú Ramen,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+1,1,MenuItem,Hanakura miso ramen,Offer,2.0,EUR,Menú Ramen,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+2,2,MenuItem,Katsu curry ramen,Offer,10.8,EUR,Menú Ramen,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura
+3,3,MenuItem,Katsu curry ramen,Offer,2.0,EUR,Menú Ramen,9.1,"""Japonés""","""C","""geo"":{""latitude"":40.43324,""longitude"":-3.70057",Hanakura

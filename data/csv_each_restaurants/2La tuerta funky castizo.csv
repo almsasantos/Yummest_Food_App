@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pollo de corral, asadillo de pimientos",Offer,14,EUR,Platos,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo
+1,1,MenuItem,Carrillera ibérica al jerez con crema de coliflor,Offer,14,EUR,Platos,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo
+2,2,MenuItem,"Bacalao, ajo asado, caldo de cocido",Offer,15,EUR,Platos,9,"""Internacional""","""Calle de la Cabeza","""geo"":{""latitude"":40.4118402,""longitude"":-3.701795",La tuerta funky castizo

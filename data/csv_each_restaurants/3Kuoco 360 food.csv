@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Black noodles,Offer,18,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food
+1,1,MenuItem,Corvina salvaje,Offer,20,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food
+2,2,MenuItem,Curry pesto,Offer,15,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food
+3,3,MenuItem,Carrillera vaca melosa,Offer,19,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food
+4,4,MenuItem,Presa ibérica,Offer,19,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food
+5,5,MenuItem,Arroz meloso,Offer,18,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food
+6,6,MenuItem,Pato barbarie al wok,Offer,18,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food
+7,7,MenuItem,Royal cordero lechal,Offer,20,EUR,Platos,9.5,None,"""Calle de San Bartolomé","""geo"":{""latitude"":40.4219544,""longitude"":-3.6983886",Kuoco 360 food

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tempuras de gambas rojas con chile dulce,Offer,12.9,EUR,Especialidades,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+1,1,MenuItem,Ceviche de lubina,Offer,14.9,EUR,Especialidades,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+2,2,MenuItem,Black cod con salsa miyosaki (bacalao negro con salsa miso),Offer,16.9,EUR,Especialidades,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+3,3,MenuItem,Teppanyaki de atún (con ensalada de espinacas),Offer,16.9,EUR,Especialidades,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+4,4,MenuItem,Teppanyaki de lomo alto de wagyu a la piedra (2 personas) - Precio por persona,Offer,22.5,EUR,Especialidades,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel

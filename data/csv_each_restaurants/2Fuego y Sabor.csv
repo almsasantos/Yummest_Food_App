@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crema Volteada,Offer,4.5,EUR,Postre,8.9,"""Peruano""","""Calle Emigrantes","""geo"":{""latitude"":40.4677052,""longitude"":-3.6379683",Fuego y Sabor
+1,1,MenuItem,Pie de limón,Offer,4.5,EUR,Postre,8.9,"""Peruano""","""Calle Emigrantes","""geo"":{""latitude"":40.4677052,""longitude"":-3.6379683",Fuego y Sabor
+2,2,MenuItem,Tarta Tres Leches,Offer,4.5,EUR,Postre,8.9,"""Peruano""","""Calle Emigrantes","""geo"":{""latitude"":40.4677052,""longitude"":-3.6379683",Fuego y Sabor

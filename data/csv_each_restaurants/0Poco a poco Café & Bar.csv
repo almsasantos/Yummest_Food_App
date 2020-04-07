@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rollito de vegetales,Offer,4.5,EUR,PARA EMPEZAR,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+1,1,MenuItem,Rollito de pollo con curry,Offer,4.5,EUR,PARA EMPEZAR,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+2,2,MenuItem,Rollito langostino mango y albahaca,Offer,4.5,EUR,PARA EMPEZAR,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+3,3,MenuItem,Edamame,Offer,4.0,EUR,PARA EMPEZAR,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+4,4,MenuItem,Endalada wakame,Offer,4.0,EUR,PARA EMPEZAR,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+5,5,MenuItem,Patata bravas,Offer,4.5,EUR,PARA EMPEZAR,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar

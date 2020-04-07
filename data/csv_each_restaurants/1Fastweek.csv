@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,FASTWEEK,Offer,9.9,EUR,HAMBURGUESAS,9.5,"""Mediterráneo""","""Calle de Albasanz","""geo"":{""latitude"":40.4382426,""longitude"":-3.6238779",Fastweek
+1,1,MenuItem,AMERICANA,Offer,11.5,EUR,HAMBURGUESAS,9.5,"""Mediterráneo""","""Calle de Albasanz","""geo"":{""latitude"":40.4382426,""longitude"":-3.6238779",Fastweek
+2,2,MenuItem,CHEESY ALPINA,Offer,11.5,EUR,HAMBURGUESAS,9.5,"""Mediterráneo""","""Calle de Albasanz","""geo"":{""latitude"":40.4382426,""longitude"":-3.6238779",Fastweek
+3,3,MenuItem,THE MEXICAN,Offer,9.0,EUR,HAMBURGUESAS,9.5,"""Mediterráneo""","""Calle de Albasanz","""geo"":{""latitude"":40.4382426,""longitude"":-3.6238779",Fastweek
+4,4,MenuItem,SATORI,Offer,12.5,EUR,HAMBURGUESAS,9.5,"""Mediterráneo""","""Calle de Albasanz","""geo"":{""latitude"":40.4382426,""longitude"":-3.6238779",Fastweek
+5,5,MenuItem,CAESAR,Offer,9.0,EUR,HAMBURGUESAS,9.5,"""Mediterráneo""","""Calle de Albasanz","""geo"":{""latitude"":40.4382426,""longitude"":-3.6238779",Fastweek

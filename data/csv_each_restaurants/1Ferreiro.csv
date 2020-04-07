@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Almejas Finas a La Sartén con Salsa Verde,Offer,28.49,EUR,Marisco,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+1,1,MenuItem,Carabineros a la Plancha (Por Unidades ) (100.g),Offer,11.55,EUR,Marisco,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+2,2,MenuItem,Gambas Blancas de Huelva Cocidas 0 a la Plancha (0.250 Gramos),Offer,35.2,EUR,Marisco,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+3,3,MenuItem,Cazuela de Gambas Blancas de Huelva al Ajillo (0.250 Gramos),Offer,32.89,EUR,Marisco,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+4,4,MenuItem,Langostinos de Sanlucar Cocidos 0 a la Plancha (0.250 Gramos),Offer,27.39,EUR,Marisco,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro

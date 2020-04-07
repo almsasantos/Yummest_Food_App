@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico,Offer,16.0,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US
+1,1,MenuItem,Hummus con pan de pita,Offer,8.5,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US
+2,2,MenuItem,Mojama de atún con pan tumaca y almendras,Offer,14.0,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US
+3,3,MenuItem,Cecina con parmesano,Offer,14.5,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US
+4,4,MenuItem,Tortitas de trigo con Guacamole,Offer,9.5,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US
+5,5,MenuItem,Anchoas del Cantábrico con pan tumaca y piparra,Offer,14.0,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US
+6,6,MenuItem,Queso Herreño fundido con miel de caña y mojo verde,Offer,11.5,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US
+7,7,MenuItem,Quesadillas,Offer,9.5,EUR,Entrante,8.6,"""Mediterráneo""","""Calle Duque de Rivas","""geo"":{""latitude"":40.4132268,""longitude"":-3.7061709",El b_US

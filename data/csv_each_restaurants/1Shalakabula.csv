@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche de frutos rojos,Offer,6.9,EUR,Postre,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+1,1,MenuItem,Textura de chocolate blanco y violetas,Offer,6.9,EUR,Postre,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+2,2,MenuItem,Tarta de zanahoria y espuma de mandarina,Offer,6.9,EUR,Postre,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+3,3,MenuItem,"Gintonic de bergamota, flor de hibiscos y piña impregnada",Offer,7.9,EUR,Postre,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+4,4,MenuItem,Milhoja de chocolate y helado de galleta Lotus,Offer,5.9,EUR,Postre,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula

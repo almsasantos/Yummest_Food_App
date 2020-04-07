@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Ensalada Lion,Offer,10,EUR,Ensaladas,None,None,None,Lion café
+1,1,MenuItem,Ensalada de tomate con bonito,Offer,10,EUR,Ensaladas,None,None,None,Lion café
+2,2,MenuItem,Ensalada mixta,Offer,12,EUR,Ensaladas,None,None,None,Lion café
+3,3,MenuItem,Ensalada royal,Offer,12,EUR,Ensaladas,None,None,None,Lion café

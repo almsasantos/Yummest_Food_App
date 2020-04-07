@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Maki,Offer,4.95,EUR,Maki (6 unidades),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+1,1,MenuItem,Maki variado (12 unidades),Offer,9.5,EUR,Maki (6 unidades),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar

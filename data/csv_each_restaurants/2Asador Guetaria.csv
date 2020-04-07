@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla de Bacalao Estilo Sidrería,Offer,19.0,EUR,Huevería y Croquetas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+1,1,MenuItem,Huevos Trufados con Boletus y Patatitas,Offer,23.5,EUR,Huevería y Croquetas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+2,2,MenuItem,Croquetas de Bacalao a Nuestro Estilo,Offer,19.0,EUR,Huevería y Croquetas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+3,3,MenuItem,Croquetas de Espinacas,Offer,19.0,EUR,Huevería y Croquetas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+4,4,MenuItem,Croquetas Cremosas de Jamón Ibérico,Offer,19.0,EUR,Huevería y Croquetas,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+2,2,MenuItem,Café,Offer,1.8,EUR,Bebidas,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+5,5,MenuItem,Botella de vino,Offer,28.0,EUR,Bebidas,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula

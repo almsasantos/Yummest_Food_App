@@ -1,0 +1,20 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares,Offer,10.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+1,1,MenuItem,Pulpo a la gallega,Offer,15.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+2,2,MenuItem,"Croquetas caseras de : jamón, carne mechada... (ración entera)",Offer,10.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+3,3,MenuItem,Ensalada de Queso de Cabra,Offer,7.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+4,4,MenuItem,Ensalada César,Offer,7.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+5,5,MenuItem,Ensalada Mixta,Offer,5.5,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+6,6,MenuItem,Lágrimas de Pollo (ración entera),Offer,5.5,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+7,7,MenuItem,Crocantes de Queso Gouda (ración entera),Offer,5.5,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+8,8,MenuItem,Dedos de Mozarella (ración entera),Offer,6.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+9,9,MenuItem,Calamar a la Romana,Offer,10.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+10,10,MenuItem,Patatas Bravas (ración entera),Offer,6.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+11,11,MenuItem,Huevos Rotos (ración entera),Offer,7.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+12,12,MenuItem,Patatas Ali Oli (ración entera),Offer,6.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+13,13,MenuItem,Morcilla con Pimiento,Offer,8.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+14,14,MenuItem,Tortilla completa,Offer,8.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+15,15,MenuItem,Gambas al ajillo,Offer,9.5,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+16,16,MenuItem,Gambas a la Plancha,Offer,10.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+17,17,MenuItem,Tequeños,Offer,7.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño
+18,18,MenuItem,"Empanadas ( queso, jamón, carne mechada )",Offer,3.0,EUR,Entrante,8.7,None,"""Calle de Cobos de Segovia","""geo"":{""latitude"":40.4045775,""longitude"":-3.7189993",Cervecería El Caño

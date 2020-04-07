@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,MORIAWASE TEMPURA Tempura variada,Offer,15.9,EUR,TEMPURA,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+1,1,MenuItem,SOLF SHELL CRAB Cangrejo de cáscara blanda.,Offer,17.8,EUR,TEMPURA,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+2,2,MenuItem,TEMPURA DE LANGOSTINOS Tempura de langostinos a la salsa chilimayo con berenjena vietnamita.,Offer,17.8,EUR,TEMPURA,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+3,3,MenuItem,Tempura variada,Offer,15.9,EUR,TEMPURA,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house

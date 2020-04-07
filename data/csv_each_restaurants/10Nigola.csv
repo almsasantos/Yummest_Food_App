@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrantes,sopa de cocido con fideos,menu OLD TOWN,None,None,None,Nigola
+1,1,MenuItem,Principales,cocido madrileño a lo clásico,menu OLD TOWN,None,None,None,Nigola
+2,2,MenuItem,Complementos,cebolletas & guindillas,menu OLD TOWN,None,None,None,Nigola
+3,3,MenuItem,Vinos,botella de vino rioja,menu OLD TOWN,None,None,None,Nigola
+4,4,MenuItem,Otros,"pan, postre & café",menu OLD TOWN,None,None,None,Nigola
+5,5,MenuItem,Observación ,el establecimiento no se admite compartir menu,menu OLD TOWN,None,None,None,Nigola
+6,6,MenuItem,Recomendación ,el establecimiento no se sirve agua & bebidas gratuitamente,menu OLD TOWN,None,None,None,Nigola

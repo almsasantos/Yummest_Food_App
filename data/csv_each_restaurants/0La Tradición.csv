@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de espinacas con naranja, pasas, queso y vinagreta de frambuesa",Offer,8.0,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+1,1,MenuItem,Ensalada de pollo de corral en escabeche con pimientos a la brasa,Offer,12.0,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+2,2,MenuItem,Croquetas de puchero,Offer,9.6,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+3,3,MenuItem,"Ensaladilla rusa, picatostes y concasse de tomate",Offer,8.5,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+4,4,MenuItem,Huevos rotos con jamón,Offer,8.5,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+5,5,MenuItem,Queso Manchego D.O. y nueces,Offer,13.0,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+6,6,MenuItem,Morcilla de Burgos con frambuesa,Offer,8.5,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+7,7,MenuItem,Berenjena frita con miel de la alcarria,Offer,8.0,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+8,8,MenuItem,Pisto manchego al sarmiento con huevo frito,Offer,10.0,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición
+9,9,MenuItem,"Migas Manchegas, uvas y huevo roto",Offer,8.5,EUR,Entrantes,8.5,"""Español""","""Calle de Fomento","""geo"":{""latitude"":40.4222231,""longitude"":-3.7111593",La Tradición

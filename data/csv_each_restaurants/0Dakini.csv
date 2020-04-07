@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomos de sardina con confitura de tomate,Offer,16.5,EUR,Entrante,9.2,"""Español""","""Calle de Julian Camarillo","""geo"":{""latitude"":40.4357878,""longitude"":-3.6243825",Dakini
+1,1,MenuItem,Nachos con un toque italiano de boloñesa y cheddar,Offer,8.0,EUR,Entrante,9.2,"""Español""","""Calle de Julian Camarillo","""geo"":{""latitude"":40.4357878,""longitude"":-3.6243825",Dakini
+2,2,MenuItem,Huevos rotos con jamón ó picadillo ó morcilla,Offer,10.5,EUR,Entrante,9.2,"""Español""","""Calle de Julian Camarillo","""geo"":{""latitude"":40.4357878,""longitude"":-3.6243825",Dakini

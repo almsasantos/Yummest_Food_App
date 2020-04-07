@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chili con carne picante,Offer,8.9,EUR,Entrante,9.1,"""Americano""","""Calle de Agastia","""geo"":{""latitude"":40.4502371,""longitude"":-3.6547317",Miss Ari
+1,1,MenuItem,Tiras de pollo macerado y empanado casero con salsa de mostaza y miel,Offer,8.9,EUR,Entrante,9.1,"""Americano""","""Calle de Agastia","""geo"":{""latitude"":40.4502371,""longitude"":-3.6547317",Miss Ari
+2,2,MenuItem,Ensalada César,Offer,9.5,EUR,Entrante,9.1,"""Americano""","""Calle de Agastia","""geo"":{""latitude"":40.4502371,""longitude"":-3.6547317",Miss Ari

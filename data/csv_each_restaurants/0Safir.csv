@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,FATTOUSH,Offer,8.0,EUR,ENSALADAS,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+1,1,MenuItem,TABBOULAH,Offer,9.0,EUR,ENSALADAS,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+2,2,MenuItem,CESAR,Offer,6.0,EUR,ENSALADAS,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+3,3,MenuItem,ENSALADA ARABE,Offer,7.5,EUR,ENSALADAS,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir

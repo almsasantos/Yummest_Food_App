@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nutella con nueces y bola de helado de vainilla,Offer,6,EUR,Creps dulces,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+1,1,MenuItem,Fresas con chocolate,Offer,6,EUR,Creps dulces,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+2,2,MenuItem,Plátano con chocolate,Offer,6,EUR,Creps dulces,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+3,3,MenuItem,Mermelada de mora con helado de vainilla,Offer,6,EUR,Creps dulces,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+4,4,MenuItem,Mermelada de albaricoque con helado de mango,Offer,6,EUR,Creps dulces,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps

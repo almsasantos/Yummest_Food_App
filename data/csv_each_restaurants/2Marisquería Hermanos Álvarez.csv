@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Piononos,Offer,4.2,EUR,Postre,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez
+1,1,MenuItem,Arroz con leche,Offer,4.0,EUR,Postre,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez
+2,2,MenuItem,Fruta del tiempo,Offer,4.0,EUR,Postre,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez
+3,3,MenuItem,Carta variada de helados,,,,Postre,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez
+4,4,MenuItem,Tarta de Santiago,Offer,4.0,EUR,Postre,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez

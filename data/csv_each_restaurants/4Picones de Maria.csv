@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rodaballo gallego a la plancha y su bilbaína.,Offer,23.7,EUR,De la costa.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+1,1,MenuItem,Mero negro de Marín y su ajada.,Offer,24.3,EUR,De la costa.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+2,2,MenuItem,Soldaditos de Pavía sobre nuestra vizcaína.,Offer,21.2,EUR,De la costa.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primero a elegir entre 3,Menú Mediterraneo,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+1,1,MenuItem,Segundo a elegir entre 3,Menú Mediterraneo,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+2,2,MenuItem,Postre,Menú Mediterraneo,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+3,3,MenuItem,Bebida,Menú Mediterraneo,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+4,4,MenuItem,Café,Menú Mediterraneo,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño

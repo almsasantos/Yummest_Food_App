@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de calabaza y puerro,Offer,11.0,EUR,VEGANO,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+1,1,MenuItem,"Wrap de soja marinada, aguacate, rucula y tomate",Offer,10.5,EUR,VEGANO,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+2,2,MenuItem,"Hamburguesa de kale, guisantes, espinacas, chutney de tomate y pan de burguer bio",Offer,11.5,EUR,VEGANO,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine
+3,3,MenuItem,Setas en tempura con teriyaki,Offer,12.0,EUR,VEGANO,8.9,None,"""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.4360908,""longitude"":-3.6795569",ComerDCine

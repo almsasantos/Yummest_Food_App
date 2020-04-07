@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de la yaya,Offer,5.0,EUR,Postre,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+1,1,MenuItem,Helados,Offer,3.5,EUR,Postre,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+2,2,MenuItem,Tres leches,Offer,5.0,EUR,Postre,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+3,3,MenuItem,Brownie Pantín,Offer,5.0,EUR,Postre,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+4,4,MenuItem,Milkshake Pantín,Offer,10.0,EUR,Postre,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill

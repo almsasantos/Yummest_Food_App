@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Champiñones rellenos,Offer,5.95,EUR,Entrante,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+1,1,MenuItem,Hummus de remolacha / tomate seco,Offer,4.95,EUR,Entrante,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+2,2,MenuItem,"Nachos con queso vegano, no carne picada, frijoles y jalapeños",Offer,5.95,EUR,Entrante,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+3,3,MenuItem,Alitas de coliflor,Offer,4.95,EUR,Entrante,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana

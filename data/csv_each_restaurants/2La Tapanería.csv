@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada del día,Offer,7,EUR,Las frioleras,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+1,1,MenuItem,Hummus,Offer,10,EUR,Las frioleras,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+2,2,MenuItem,Quesos,Offer,12,EUR,Las frioleras,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+3,3,MenuItem,Jamón del bueno,Offer,15,EUR,Las frioleras,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+4,4,MenuItem,"Salmón Ahumado, Crema de Aguacate",Offer,10,EUR,Las frioleras,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+5,5,MenuItem,Anchoas y Boquerones con Tomate,Offer,12,EUR,Las frioleras,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería
+6,6,MenuItem,Ensaladilla de La Tapanería,Offer,7,EUR,Las frioleras,8.4,"""Español""","""Plaza de la R","""geo"":{""latitude"":40.4582829,""longitude"":-3.6762759",La Tapanería

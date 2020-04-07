@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de la huerta con tomate, cebolla, aceitunas, pepino y zanahoria",Offer,10.5,EUR,Ensaladas,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+1,1,MenuItem,"Ensalada de anchoas del cantábrico, tomate, olivas, cebolla y atún",Offer,15.0,EUR,Ensaladas,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+2,2,MenuItem,"Ensalada de queso de cabra tibio, frutos secos, membrillo y vinagreta de miel",Offer,13.5,EUR,Ensaladas,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+3,3,MenuItem,"Ensalada de boquerones en vinagre, frutos secos, tomate y olivas",Offer,12.5,EUR,Ensaladas,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+4,4,MenuItem,"Ensalada templada de gambas al ajillo, tomate, frutos secos y boquerón",Offer,12.5,EUR,Ensaladas,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor
+5,5,MenuItem,"Ensalada de atún con zanahoria, tomate y aceitunas",Offer,11.5,EUR,Ensaladas,8.8,"""Mediterráneo""","""Plaza Mayor","""geo"":{""latitude"":40.4149274,""longitude"":-3.7079592",Gustos Madrid Plaza Mayor

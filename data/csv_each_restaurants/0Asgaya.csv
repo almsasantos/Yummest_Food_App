@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de bellota,Offer,22,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+1,1,MenuItem,Pan cristal con tomate rallado y arbequina,Offer,4,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+2,2,MenuItem,Anchoas de al lado de asturias,Offer,20,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+3,3,MenuItem,Ensalada de tomates de temporada,Offer,14,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+4,4,MenuItem,"Ensalada de espinacas con bacalao confitado, perlas de tomate y vinagreta de violetas",Offer,17,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+5,5,MenuItem,Vieiras con crema de zanahoria al kimchi,Offer,22,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+6,6,MenuItem,Carpaccio de tomate con pimientos asados y ventresca de bonito,Offer,17,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+7,7,MenuItem,"Sardinas ahumadas con hierbas silvestres, sobre hogaza tostada",Offer,15,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+8,8,MenuItem,"Croquetas, blanditas de la abuela; hoy de jamón y mañana... Ya veremos",Offer,12,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+9,9,MenuItem,"Lasaña de centolla cremosa con verduras, crema de andariques y piparras dulces",Offer,18,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+10,10,MenuItem,"Huevos rotos al cabrales, con puerros y cebollitas sobre crujiente de fariñes",Offer,16,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+11,11,MenuItem,Huevos rotos con carabineros,Offer,26,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+12,12,MenuItem,Pulpo dorado sobre patatas revolconas y pimenton de la vera,Offer,23,EUR,Entrantes,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya

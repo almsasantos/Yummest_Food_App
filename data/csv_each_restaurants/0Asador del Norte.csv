@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tabla de ibéricos,Offer,14,EUR,Entradas frías,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+1,1,MenuItem,Jamón ibérico de bellota,Offer,22,EUR,Entradas frías,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+2,2,MenuItem,Anchoas de Santoña,Offer,18,EUR,Entradas frías,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+3,3,MenuItem,Ensalada de ventresca,Offer,10,EUR,Entradas frías,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+4,4,MenuItem,Foie templado al P. Ximenez,Offer,14,EUR,Entradas frías,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte

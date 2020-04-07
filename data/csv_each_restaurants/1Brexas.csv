@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto de carrillera y boletus,Offer,12.75,EUR,Carnes,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+1,1,MenuItem,Steak tartar Brexas,Offer,13.5,EUR,Carnes,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+2,2,MenuItem,Tacos mexicanos a nuestro estilo,Offer,10.0,EUR,Carnes,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+3,3,MenuItem,Rolling de pollo crujiente con salsa de chile dulce,Offer,13.9,EUR,Carnes,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas
+4,4,MenuItem,Huachalomo de buey con salsa chimichurry,Offer,17.5,EUR,Carnes,9.1,"""Creativo""","""Calle Caribe","""geo"":{""latitude"":40.442102,""longitude"":-3.6564495",Brexas

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yakisoba Vegetal con huevo a baja temperatura -,Offer,9.0,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+1,1,MenuItem,"Noodles Udon de Pollo salteados al wok con zanahoria, champiñón, espárragos, cebolla y salsa de soja",Offer,11.5,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+2,2,MenuItem,Yakisoba de Langostinos y Pluma Ibérica -,Offer,12.5,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+3,3,MenuItem,Miss Sensaciones,Offer,6.9,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+4,4,MenuItem,Miss BB,Offer,6.9,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+5,5,MenuItem,Ebi Fry,Offer,6.8,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+6,6,MenuItem,Soft Tempura de Verduras con mayonesa japonesa y salsa picante,Offer,8.9,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+7,7,MenuItem,Tempura de Verduras Panko con mayonesa japonesa y salsa picante,Offer,8.9,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+8,8,MenuItem,"Pollo Katsu en tempura de panko, con arroz y mayonesa japonesa",Offer,9.7,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+9,9,MenuItem,"Pollo Teriyaki con verduras salteadas, arroz y salsa teriyaki",Offer,9.7,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza
+10,10,MenuItem,Yakitori de Pollo con salsa teriyaki (2 brochetas),Offer,9.7,EUR,Cooking,8.8,"""Japonés""","""Calle de Hortaleza","""geo"":{""latitude"":40.4255088,""longitude"":-3.6973723",Miss Sushi - Hortaleza

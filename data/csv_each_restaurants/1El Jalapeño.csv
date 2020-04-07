@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fajitas o Alambres,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+1,1,MenuItem,Pastor o Gringa,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+2,2,MenuItem,Cochinita Pibil,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+3,3,MenuItem,Chilaquiles,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+4,4,MenuItem,Quesos Fundidos,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+5,5,MenuItem,Chorizo a la mexicana,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+6,6,MenuItem,Carnitas,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+7,7,MenuItem,Enchiladas,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+8,8,MenuItem,Taco Mix,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+9,9,MenuItem,Taco Cesar,Offer,7,EUR,Las Cazuelas,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño

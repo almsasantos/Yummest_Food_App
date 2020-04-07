@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella valenciana,Offer,17,EUR,Arroces (sartén individual),8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+1,1,MenuItem,Arroz negro,Offer,17,EUR,Arroces (sartén individual),8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+2,2,MenuItem,Arroz senyoret,Offer,17,EUR,Arroces (sartén individual),8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+3,3,MenuItem,Fideuá,Offer,17,EUR,Arroces (sartén individual),8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave

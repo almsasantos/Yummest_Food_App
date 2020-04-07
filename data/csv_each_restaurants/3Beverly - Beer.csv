@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sencilla,Offer,2.8,EUR,Hamburguesas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+1,1,MenuItem,Beicon Queso,Offer,3.3,EUR,Hamburguesas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+2,2,MenuItem,Americana Barbacoa,Offer,3.5,EUR,Hamburguesas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+3,3,MenuItem,Pollo crujiente,Offer,3.2,EUR,Hamburguesas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+4,4,MenuItem,Especial Vacuno 220gr,Offer,5.5,EUR,Hamburguesas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+5,5,MenuItem,Especial Pollo 350gr,Offer,5.5,EUR,Hamburguesas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer

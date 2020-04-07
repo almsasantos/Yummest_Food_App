@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ceviche clásico,Offer,19,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+1,1,MenuItem,Ceviche de vieiras,Offer,19,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+2,2,MenuItem,Ceviche mixto de la costa del pacífico,Offer,22,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+3,3,MenuItem,Ceviche nórdico,Offer,19,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+4,4,MenuItem,Ceviche del chef,Offer,20,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+5,5,MenuItem,ceviche de los tres chiles con pulpo,Offer,22,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+6,6,MenuItem,ceviche de atún,Offer,22,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+7,7,MenuItem,ceviche a la llama,Offer,22,EUR,colección de ceviches,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid

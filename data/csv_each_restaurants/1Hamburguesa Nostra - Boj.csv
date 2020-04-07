@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Azteca,Offer,9.5,EUR,Ensaladas,8.4,"""Americano""","""Calle Boj","""geo"":{""latitude"":40.4558814,""longitude"":-3.6183336",Hamburguesa Nostra - Boj
+1,1,MenuItem,Ensaladas César,Offer,9.0,EUR,Ensaladas,8.4,"""Americano""","""Calle Boj","""geo"":{""latitude"":40.4558814,""longitude"":-3.6183336",Hamburguesa Nostra - Boj
+2,2,MenuItem,Ensalada genovesa,Offer,9.5,EUR,Ensaladas,8.4,"""Americano""","""Calle Boj","""geo"":{""latitude"":40.4558814,""longitude"":-3.6183336",Hamburguesa Nostra - Boj

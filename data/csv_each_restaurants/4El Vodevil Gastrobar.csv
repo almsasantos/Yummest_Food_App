@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coulant de chocolate,Offer,4.5,EUR,Postres,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+1,1,MenuItem,Tarta de queso,Offer,4.0,EUR,Postres,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+2,2,MenuItem,Yogur griego con miel,Offer,3.5,EUR,Postres,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+3,3,MenuItem,Tarta red velvet,Offer,4.5,EUR,Postres,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+4,4,MenuItem,Tarta de zanahoria,,,,Postres,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caramelos de Morcilla al P.X.,Offer,8.8,EUR,Entrante,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid
+1,1,MenuItem,Ensalada de jamón ibérico y queso de cabra al aceite de cebollino,Offer,13.2,EUR,Entrante,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid
+2,2,MenuItem,Boletus a la plancha con ajitos fritos,Offer,17.6,EUR,Entrante,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid
+3,3,MenuItem,Habitas tiernas con carabinero,Offer,18.7,EUR,Entrante,8.7,"""Castellano""","""Calle Fernández de la Hoz","""geo"":{""latitude"":40.440089,""longitude"":-3.694492",Mesón del Cid Madrid

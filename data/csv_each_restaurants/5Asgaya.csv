@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+1,1,MenuItem,Copa de champán,Offer,5.5,EUR,Bebidas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+2,2,MenuItem,Café,Offer,1.75,EUR,Bebidas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+3,3,MenuItem,Botella de agua,Offer,2.9,EUR,Bebidas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+4,4,MenuItem,Media botella de agua,Offer,2.75,EUR,Bebidas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+6,6,MenuItem,Copa de vino,Offer,2.8,EUR,Bebidas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya

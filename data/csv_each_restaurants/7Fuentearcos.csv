@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Copa de tiramisú con Mascarpone,Offer,5,EUR,PARA ENDULZARSE,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,Coulant de chocolate a la naranja con helado de galleta María,Offer,5,EUR,PARA ENDULZARSE,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+2,2,MenuItem,Tarta rústica de queso con galleta salada,Offer,5,EUR,PARA ENDULZARSE,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+3,3,MenuItem,"Sorbetes: lima, mandarina, mojito",Offer,6,EUR,PARA ENDULZARSE,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+4,4,MenuItem,Surtido de pastelería casero,Offer,22,EUR,PARA ENDULZARSE,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

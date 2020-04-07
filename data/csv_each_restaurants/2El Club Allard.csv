@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Selección de quesos,Offer,18,EUR,Postre,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+1,1,MenuItem,Banana burbon,Offer,24,EUR,Postre,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+2,2,MenuItem,"Copa de fruta de la pasión, gel de physalis, mousse de pithaya y sorbete de rosas",Offer,24,EUR,Postre,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard
+3,3,MenuItem,5+2 de chocolate y cerezas del Valle del Jerte,Offer,24,EUR,Postre,9.1,"""Creativo""","""C","""geo"":{""latitude"":40.423141055567,""longitude"":-3.7142701148986816",El Club Allard

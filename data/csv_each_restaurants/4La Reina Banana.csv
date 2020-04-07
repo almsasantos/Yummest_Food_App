@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Zumos Varios 500ml,Offer,5.9,EUR,Zumos y Batidos,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana
+1,1,MenuItem,Batidos 500ml,Offer,3.95,EUR,Zumos y Batidos,None,"""Vegetariano""","""Calle del Lago Titicaca","""geo"":{""latitude"":40.4022331,""longitude"":-3.608465",La Reina Banana

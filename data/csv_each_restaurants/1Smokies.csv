@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,pollo entero 2kg,Offer,16.95,EUR,CHICKEN,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+1,1,MenuItem,medio pollo 1kg,Offer,8.5,EUR,CHICKEN,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+2,2,MenuItem,coquelet,Offer,9.95,EUR,CHICKEN,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+3,3,MenuItem,amazing wings (12 unid),Offer,17.0,EUR,CHICKEN,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+4,4,MenuItem,chicken sandwich,Offer,8.95,EUR,CHICKEN,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+5,5,MenuItem,chicken burrito,Offer,7.95,EUR,CHICKEN,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+6,6,MenuItem,chicken wrap,Offer,7.95,EUR,CHICKEN,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies

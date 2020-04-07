@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta queso,Offer,4.95,EUR,Postre,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+1,1,MenuItem,Tarta chocolate,Offer,4.95,EUR,Postre,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+2,2,MenuItem,helado TE VERDE japonesa,Offer,3.95,EUR,Postre,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+3,3,MenuItem,HELADO HAGGEN DAZS,Offer,3.5,EUR,Postre,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+4,4,MenuItem,MOCHI JAPONESA,Offer,2.95,EUR,Postre,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina
+5,5,MenuItem,BROWNIE CON NATA,Offer,4.5,EUR,Postre,8.5,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4301477,""longitude"":-3.6709173",The Big Big Cocina

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gambas a la Plancha (250gr),Offer,30,EUR,Mariscos,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+1,1,MenuItem,Almejas Finas en Salsa Verde o a la Sartén,Offer,34,EUR,Mariscos,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+2,2,MenuItem,Carpaccio de Carabineros con Frutos Secos y Manzana,Offer,24,EUR,Mariscos,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria

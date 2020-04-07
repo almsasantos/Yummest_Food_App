@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,MUSSES DE MANGO CASERO,Offer,2.0,EUR,Postre,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+1,1,MenuItem,MOCHI DE AZUCAR MORENO,Offer,3.95,EUR,Postre,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+2,2,MenuItem,FLAN DE TE,Offer,2.15,EUR,Postre,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU
+3,3,MenuItem,HELADO DE TE,Offer,3.15,EUR,Postre,8.7,"""Japonés""","""Calle de Bolívar","""geo"":{""latitude"":40.3922918,""longitude"":-3.6918095",SHINTAKU

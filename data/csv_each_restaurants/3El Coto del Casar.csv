@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo de Buey al carbón,Offer,23,EUR,Carnes,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+1,1,MenuItem,Entrecot a la parrilla,Offer,18,EUR,Carnes,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+2,2,MenuItem,Solomillo de Ternera a la parrilla,Offer,22,EUR,Carnes,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+3,3,MenuItem,Solomillo de Ternera con foie al Pedro Ximénez,Offer,28,EUR,Carnes,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+4,4,MenuItem,Chuletillas de lechal a la parrilla,Offer,17,EUR,Carnes,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar

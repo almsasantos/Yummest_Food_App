@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Capresa,Offer,6,EUR,Entradas,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+1,1,MenuItem,Ensalada César,Offer,5,EUR,Entradas,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+2,2,MenuItem,Ensalada Burrata,Offer,9,EUR,Entradas,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+3,3,MenuItem,Ensalada Tropical,Offer,5,EUR,Entradas,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+4,4,MenuItem,Sopa o Menestrone del día,Offer,5,EUR,Entradas,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+5,5,MenuItem,Crema del día,Offer,4,EUR,Entradas,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho

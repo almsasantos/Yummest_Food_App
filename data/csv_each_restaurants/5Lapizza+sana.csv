@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartaleta de queso,Offer,5.1,EUR,POSTRE,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+1,1,MenuItem,Brownie de chocolate con helado,Offer,5.95,EUR,POSTRE,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+2,2,MenuItem,Tiramisú,Offer,5.3,EUR,POSTRE,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+3,3,MenuItem,Mousse de chocolate con fresas,Offer,4.9,EUR,POSTRE,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+4,4,MenuItem,Espuma de yogur con frutas del bosque,Offer,5.2,EUR,POSTRE,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+5,5,MenuItem,Arroz con leche,Offer,4.3,EUR,POSTRE,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+6,6,MenuItem,Helados,,,,POSTRE,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana

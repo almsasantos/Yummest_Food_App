@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza de pincho nacional,Offer,24,EUR,Pescados,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+1,1,MenuItem,Bacalao a la vizacaína con fondo de pil pil,Offer,22,EUR,Pescados,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+2,2,MenuItem,"Pixín (para dos personas, precio por persona)",Offer,22,EUR,Pescados,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+3,3,MenuItem,Cachopo de merluza,Offer,24,EUR,Pescados,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+4,4,MenuItem,Calamares en su tinta,Offer,18,EUR,Pescados,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave

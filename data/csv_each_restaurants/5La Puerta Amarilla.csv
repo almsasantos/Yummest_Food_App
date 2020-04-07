@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,BEBIDA,"Cerveza de barril, refresco, agua o copa de vino",Burger Express,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla
+1,1,MenuItem,HAMBURGUESA,Hamburguesa a elegir de la carta + guarnición. El menú consiste en bebida + hamburguesa + guarnición,Burger Express,9.2,"""Americano""","""Calle Fúcar","""geo"":{""latitude"":40.4115693,""longitude"":-3.6955665",La Puerta Amarilla

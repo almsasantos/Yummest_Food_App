@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Atún rojo : Salsa shoyu ponzu, cebolla dulce y cebollino chino",Offer,11,EUR,Poke Tradicional Hawaiano,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo
+1,1,MenuItem,"Salmón: Salsa shoyu picante, cebolla dulce tobiko, aguacate, cilantro y alga nori",Offer,11,EUR,Poke Tradicional Hawaiano,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo
+2,2,MenuItem,"Dorada: Salsa shoyu ponzu, cebolla dulce, aguacate, cebolla china y alga nori",Offer,11,EUR,Poke Tradicional Hawaiano,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Dados de pollo salteados con verdura y almendra,Offer,6.5,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+1,1,MenuItem,Dados de pollo salteados con anacardo y verdura,Offer,6.5,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+2,2,MenuItem,Pollo rebozado con almendra acompañado de salsa de mango,Offer,7.0,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+3,3,MenuItem,Brocheta de pollo a la plancha con salsa teriyaki,Offer,4.0,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+4,4,MenuItem,Albóndiga de pollo estilo japonés,Offer,4.2,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+5,5,MenuItem,Dados de pollo estilo kon-bao,Offer,6.5,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+6,6,MenuItem,Dados de pollo con leche de coco al curry,Offer,7.2,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+7,7,MenuItem,Pollo al limón,Offer,6.8,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+8,8,MenuItem,Tira de pollo frito con salsa especial de la casa,Offer,7.0,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+9,9,MenuItem,Pollo tapanyaki con salsa teriyaki,Offer,6.2,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+10,10,MenuItem,Alitas fritas rebozadas con pan rallado (6 unidades),Offer,4.8,EUR,Pollo,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya

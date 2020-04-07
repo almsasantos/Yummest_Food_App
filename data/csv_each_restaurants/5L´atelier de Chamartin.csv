@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Express,Offer,6.9,EUR,HAMBURGUESAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+1,1,MenuItem,Supreme,Offer,9.9,EUR,HAMBURGUESAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+2,2,MenuItem,Ibérica,Offer,11.9,EUR,HAMBURGUESAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+3,3,MenuItem,French Connection,Offer,10.9,EUR,HAMBURGUESAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+4,4,MenuItem,Lost in Translation,Offer,12.9,EUR,HAMBURGUESAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+5,5,MenuItem,Hamburguesa sin pan,Offer,4.5,EUR,HAMBURGUESAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin

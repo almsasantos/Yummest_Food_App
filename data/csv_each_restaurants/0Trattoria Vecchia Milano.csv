@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizzas Dama Bianca y Vegetale,Offer,13.0,EUR,Entrante,9,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4297203,""longitude"":-3.71862",Trattoria Vecchia Milano
+1,1,MenuItem,Involtini di bresaola rellenos de rucola y parmesano con emulcion de mostaza,Offer,13.5,EUR,Entrante,9,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4297203,""longitude"":-3.71862",Trattoria Vecchia Milano
+2,2,MenuItem,Ensalada con queso y verduras con emulcion de vinagre balsamico,Offer,13.5,EUR,Entrante,9,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4297203,""longitude"":-3.71862",Trattoria Vecchia Milano

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Consomé al Jerez o gelée,Offer,23,EUR,Nuestras Sopas y Cremas,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+1,1,MenuItem,Consomé “Don Victor”,Offer,29,EUR,Nuestras Sopas y Cremas,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+2,2,MenuItem,Bisque de Bogavante,Offer,27,EUR,Nuestras Sopas y Cremas,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+3,3,MenuItem,Crema de lentejas con croutons y Frankfurter,Offer,23,EUR,Nuestras Sopas y Cremas,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+4,4,MenuItem,Pequeña marmita,Offer,27,EUR,Nuestras Sopas y Cremas,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+5,5,MenuItem,Crema de guisantes con langostinos tigre salteados,Offer,30,EUR,Nuestras Sopas y Cremas,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER

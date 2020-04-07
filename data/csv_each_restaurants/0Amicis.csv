@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,HUEVO ESCALFADO AL PARMESANO CON BOLETUS Y ACEITE DE TRUFA,Offer,12.0,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+1,1,MenuItem,"Ensalada de peras, higo, queso de cabra de Ávila, prosciutto y pistachos con vinagreta de melocotón",Offer,13.5,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+2,2,MenuItem,"Pulpo braseado con crema acida de cilantro, salsa de ajo dulce y patata suflada",Offer,11.0,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+3,3,MenuItem,"Burrata con mermelada de tomate, rúcula y pesto suave de albahaca",Offer,13.5,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+4,4,MenuItem,Tabla de antipasto Amicis con pato de champignon y tapenade de aceituna,Offer,22.0,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+5,5,MenuItem,"TARTAR DE BUEY A CUCHILLO CON MOUSSE DE MOSTAZA, CEBOLLA DE TROPEA CARAMELIZADA, HUEVO RALLADO Y CRUJIENTE DE PARMESANO",Offer,16.0,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+6,6,MenuItem,Risotto de boletus y manchego,,,,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+7,7,MenuItem,Cuscus de verduritas y especias a la crema de queso de cabra,Offer,13.0,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+8,8,MenuItem,Tabla de Jamón Ibérico de bellota,Offer,28.0,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis
+9,9,MenuItem,Tabla de verduras asada con salsa romescu,Offer,17.0,EUR,Entrante,8.4,None,"""Plaza del Conde de Miranda","""geo"":{""latitude"":40.414919,""longitude"":-3.7094703",Amicis

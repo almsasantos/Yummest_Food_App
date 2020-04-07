@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tacos al pastor de trompo (2),Offer,5.5,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+1,1,MenuItem,Tacos de cochinita pibil (2),Offer,5.5,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+2,2,MenuItem,Tacos de Bistec (2),Offer,6.0,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+3,3,MenuItem,Tacos de camarón (2),Offer,8.0,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+4,4,MenuItem,Tacos de pescado de cazón (2),Offer,8.0,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+5,5,MenuItem,Quesadillas (2),Offer,6.0,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+6,6,MenuItem,Gringa,Offer,7.5,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista
+7,7,MenuItem,Choriqueso (2),Offer,6.0,EUR,Taquería,9.3,"""Mexicano""","""Calle del León","""geo"":{""latitude"":40.4144604,""longitude"":-3.6985781",Mexcalista

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yakisoba,Offer,9.8,EUR,Pasta,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+1,1,MenuItem,Niku Soba,Offer,9.8,EUR,Pasta,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+2,2,MenuItem,Inari Soba,Offer,9.8,EUR,Pasta,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+3,3,MenuItem,Tempura Udon,Offer,14.5,EUR,Pasta,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+4,4,MenuItem,Wakame Udon,Offer,13.5,EUR,Pasta,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas

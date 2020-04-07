@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Templada De Queso De Cabra,Offer,11.9,EUR,ENSALADAS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+1,1,MenuItem,Ensalada De Bacalao y Boletus,Offer,13.75,EUR,ENSALADAS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+2,2,MenuItem,Ensalada De Guacamole De Txangurro,Offer,14.9,EUR,ENSALADAS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+3,3,MenuItem,Ensalada Mixta,Offer,9.9,EUR,ENSALADAS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela

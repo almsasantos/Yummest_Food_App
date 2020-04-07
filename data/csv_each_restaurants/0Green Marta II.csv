@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Revuelto de morcilla y piñones,Offer,12.9,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+1,1,MenuItem,Huevos rotos con foie y aceite de trufa,Offer,13.4,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+2,2,MenuItem,Risotto de hongos,Offer,14.5,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+3,3,MenuItem,Risotto de pulpo,Offer,17.2,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+4,4,MenuItem,Tabla de quesos,Offer,14.9,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+5,5,MenuItem,Tabla de jamón ibérico,Offer,19.9,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+6,6,MenuItem,Gyozas de pollo satay & sweet chili,Offer,13.9,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+7,7,MenuItem,Tempura de verduras con salsa de ostras,Offer,16.5,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+8,8,MenuItem,Croquetas de jamón caseras,Offer,9.9,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+9,9,MenuItem,Chipirones a la plancha,Offer,16.5,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+10,10,MenuItem,Croquetas de carabineros,Offer,12.5,EUR,Para Compartir,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II

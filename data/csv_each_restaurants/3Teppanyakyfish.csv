@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+1,1,MenuItem,Copa de champán,Offer,12.0,EUR,Bebidas,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+2,2,MenuItem,Café,Offer,1.9,EUR,Bebidas,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+5,5,MenuItem,Botella de vino,Offer,10.0,EUR,Bebidas,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish

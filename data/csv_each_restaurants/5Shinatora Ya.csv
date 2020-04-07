@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de wagyu con trufa negra,Offer,7.5,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+1,1,MenuItem,Tartar de wagyu picante,Offer,7.8,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+2,2,MenuItem,"Carne Wagyu, Chips de ajo y salsa barbacoa",Offer,8.4,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+3,3,MenuItem,Carne Wagyu Saikyo Miso,Offer,8.8,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+4,4,MenuItem,´Kakitoro´ Ostras y Toro,Offer,9.0,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+5,5,MenuItem,Wagyu Toro Limon,Offer,9.4,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+6,6,MenuItem,Carne Wagyu con Cavier Ikura,Offer,10.4,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+7,7,MenuItem,Tartar de Wagyu con Erizo de Mar,Offer,10.8,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+8,8,MenuItem,Carne Wagyu estilo BBQ con Huevos de Codorníz,Offer,12.5,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+9,9,MenuItem,Carne wagyu y Foir Gras,Offer,17.5,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+10,10,MenuItem,Robata de Carne KOBE,Offer,25.5,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+11,11,MenuItem,Foir Gras Sushi,Offer,8.5,EUR,SUSHI Especial,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya

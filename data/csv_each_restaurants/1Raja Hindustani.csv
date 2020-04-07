@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladas de India,Offer,7.2,EUR,Ensaladas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+1,1,MenuItem,Ensalada de atún,Offer,7.5,EUR,Ensaladas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+2,2,MenuItem,Ensalada de pollo,Offer,7.9,EUR,Ensaladas,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani

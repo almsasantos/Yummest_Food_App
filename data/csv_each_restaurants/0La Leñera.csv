@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico de bellota Curado,Offer,23.5,EUR,Chacinas y salazones,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+1,1,MenuItem,Cecina de buey,Offer,17.4,EUR,Chacinas y salazones,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+2,2,MenuItem,Anchoas del Cantábrico en salazón,Offer,18.0,EUR,Chacinas y salazones,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera

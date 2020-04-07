@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Phở Bò,Offer,8.0,EUR,Phở Việt Nam,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+1,1,MenuItem,Phở Gà,Offer,7.5,EUR,Phở Việt Nam,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+2,2,MenuItem,Phở Đặc Biệt,Offer,9.5,EUR,Phở Việt Nam,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu

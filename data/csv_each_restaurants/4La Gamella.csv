@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta Neoyorquina de queso con estofado de fresas y helado,Offer,6.75,EUR,Postres,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+1,1,MenuItem,Pastel americano de zanahoria con crema mascarpone,Offer,6.75,EUR,Postres,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+2,2,MenuItem,Tiramisú a nuestra manera,Offer,6.75,EUR,Postres,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+3,3,MenuItem,Brownie de chocolate con helado de pistacho,Offer,6.75,EUR,Postres,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+4,4,MenuItem,Crema de yogourt,Offer,6.75,EUR,Postres,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella
+5,5,MenuItem,Sorbetes y helados,Offer,6.75,EUR,Postres,9,"""Americano""","""C","""geo"":{""latitude"":40.418802280939,""longitude"":-3.6888999938965",La Gamella

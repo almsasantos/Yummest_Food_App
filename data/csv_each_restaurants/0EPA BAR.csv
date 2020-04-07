@@ -1,0 +1,15 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Queso curado manchego con aceite de oliva,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+1,1,MenuItem,Caña de lomo ibérico,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+2,2,MenuItem,Chorizo ibérico,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+3,3,MenuItem,Salchichón ibérico,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+4,4,MenuItem,Queso brie o fresco con salmón,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+5,5,MenuItem,Lacón con brie o tomate fresco,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+6,6,MenuItem,Boquerones en vinagre,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+7,7,MenuItem,Ventresca con pimiento,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+8,8,MenuItem,Anchoas,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+9,9,MenuItem,Rulo de cabra con mermelada d fresa,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+10,10,MenuItem,Matrimonio,Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+11,11,MenuItem,"Rulo de cabra, miel",Offer,6.0,EUR,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+12,12,MenuItem,Gulas con ali-oli,,,,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR
+13,13,MenuItem,Bacon con queso,,,,Tostas variadas,8.5,"""Español""","""Calle Escosura","""geo"":{""latitude"":40.4346039,""longitude"":-3.7070073",EPA BAR

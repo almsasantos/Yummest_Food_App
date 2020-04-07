@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rape Asado con Refrito de Ajitos (2 pers.),Offer,67,EUR,Carbonería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+1,1,MenuItem,Rodaballo Asado al Estilo Guetaria (2 pers),Offer,75,EUR,Carbonería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+2,2,MenuItem,Chuletón de Vaca Vieja 2pers. (1.200gr Aprox)\tS/P,Offer,69,EUR,Carbonería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+3,3,MenuItem,Lomo Bajo de Vaca Vieja 1pers. (600gr Aprox)S/P,Offer,69,EUR,Carbonería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria

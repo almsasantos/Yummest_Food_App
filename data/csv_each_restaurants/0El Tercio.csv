@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tequeños Venezolanos con queso,Offer,5.5,EUR,Entrantes,8.7,"""Venezolano""","""Calle de los Reyes Magos","""geo"":{""latitude"":40.4115888,""longitude"":-3.6747692",El Tercio
+1,1,MenuItem,"Arepas: Peipada (pollo,aguacate,mahonesa) o Pelúa (carne hilachada y queso queddar)",Offer,5.5,EUR,Entrantes,8.7,"""Venezolano""","""Calle de los Reyes Magos","""geo"":{""latitude"":40.4115888,""longitude"":-3.6747692",El Tercio
+2,2,MenuItem,"Tequeños Mixtos (queso,chocolate,jamon y queso, guayaba y platano con queso)",Offer,6.5,EUR,Entrantes,8.7,"""Venezolano""","""Calle de los Reyes Magos","""geo"":{""latitude"":40.4115888,""longitude"":-3.6747692",El Tercio

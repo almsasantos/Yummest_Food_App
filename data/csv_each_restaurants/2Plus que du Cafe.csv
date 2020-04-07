@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú,Offer,4.5,EUR,Postres,9,"""Mediterráneo""","""Calle Jesús del Valle","""geo"":{""latitude"":40.4239214,""longitude"":-3.7049288",Plus que du Cafe
+1,1,MenuItem,Bizcocho de zanahoria,Offer,4.0,EUR,Postres,9,"""Mediterráneo""","""Calle Jesús del Valle","""geo"":{""latitude"":40.4239214,""longitude"":-3.7049288",Plus que du Cafe
+2,2,MenuItem,Tarta de queso al horno con arándanos,Offer,4.5,EUR,Postres,9,"""Mediterráneo""","""Calle Jesús del Valle","""geo"":{""latitude"":40.4239214,""longitude"":-3.7049288",Plus que du Cafe

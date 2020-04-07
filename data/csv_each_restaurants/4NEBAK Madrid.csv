@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Guiso tradicional de begihaundi (txipirón grande) troceados y en su tinta (1/2: 15,00€)",Offer,24,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+1,1,MenuItem,Merluza de pintxo del Cantábrico a la koskera,Offer,27,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+2,2,MenuItem,"Degustación de Bacalao Pil Pil, Vizcaína y Club Ranero",Offer,29,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+3,3,MenuItem,Medallón de Rape a la Bilbaína,Offer,27,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+4,4,MenuItem,"Kokotxas de Bacalao al Txakoli de Bizkaia y en cazuela de barro (1/2: 17,00€)",Offer,27,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+5,5,MenuItem,Rodaballo al horno,Offer,28,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+6,6,MenuItem,Lomo de Lubina a la Donostiarra,Offer,29,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+7,7,MenuItem,Lomo de Merluza de Pintxo del Cantábrico rebozada con sus pimientos rojos de Navarra asados y confitados,Offer,25,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+8,8,MenuItem,"Changurro (Centollo) a la Donostiarra, Vivero propio",Offer,43,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+9,9,MenuItem,"Bogavante azul del Cantábrico a la plancha, Vivero propio",Offer,90,EUR,Pescados,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid

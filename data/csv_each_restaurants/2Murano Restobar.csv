@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Margarita,Offer,8.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+1,1,MenuItem,Carbonara,Offer,12.0,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+2,2,MenuItem,Jamon y Champinones,Offer,9.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+3,3,MenuItem,Vegetariana,Offer,9.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+4,4,MenuItem,Cuatro Estaciones,Offer,9.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+5,5,MenuItem,Murano con trufa,Offer,12.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+6,6,MenuItem,Barbacoa,Offer,10.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+7,7,MenuItem,Iberica,Offer,10.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+8,8,MenuItem,Cuatro Quesos,Offer,11.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+9,9,MenuItem,Pepperoni,Offer,9.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+10,10,MenuItem,Bacon Dolce,Offer,10.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+11,11,MenuItem,Nonno Luigi,Offer,12.5,EUR,Pizzas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yukke jhang soup,Offer,12,EUR,Sopas,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+1,1,MenuItem,Komu Tang soup,Offer,12,EUR,Sopas,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+2,2,MenuItem,Tamago soup,Offer,10,EUR,Sopas,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu
+3,3,MenuItem,Karubi soup,Offer,12,EUR,Sopas,9.4,"""Asiático""","""Paseo de la Castellana","""geo"":{""latitude"":40.4281099,""longitude"":-3.69017",Yakiniku Rikyu

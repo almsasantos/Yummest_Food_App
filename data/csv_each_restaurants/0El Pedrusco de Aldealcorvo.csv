@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Sardina marinada y ahumada y pimientos asados asados a la leña,Offer,17.5,EUR,Entrante,None,None,None,El Pedrusco de Aldealcorvo
+1,1,MenuItem,"Mollejitas de lechal, setas de temporada, trigueros y ajetes laminados",Offer,16.5,EUR,Entrante,None,None,None,El Pedrusco de Aldealcorvo
+2,2,MenuItem,"Alcachofas confitadas, crema de castaña y huevo a baja temperatura",Offer,15.5,EUR,Entrante,None,None,None,El Pedrusco de Aldealcorvo
+3,3,MenuItem,Judiones con su matanza ibérica,Offer,17.0,EUR,Entrante,None,None,None,El Pedrusco de Aldealcorvo

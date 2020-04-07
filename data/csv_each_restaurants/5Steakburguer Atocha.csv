@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón de La Finca ( euros/kg),Offer,48.0,EUR,Carnes,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+1,1,MenuItem,Entrecot de ternera,Offer,21.0,EUR,Carnes,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+2,2,MenuItem,Solomillo de ternera,Offer,20.0,EUR,Carnes,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+3,3,MenuItem,Abanico ibérico,Offer,15.0,EUR,Carnes,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+4,4,MenuItem,Costillar barbacoa,Offer,19.0,EUR,Carnes,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+5,5,MenuItem,Pechuga de pollo de corral,Offer,10.5,EUR,Carnes,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+6,6,MenuItem,Hamburguesa de ternera a la parrilla,Offer,10.5,EUR,Carnes,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha

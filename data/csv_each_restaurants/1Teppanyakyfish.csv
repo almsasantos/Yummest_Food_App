@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pollo a la plancha con teriyaki,Offer,8.95,EUR,Plato,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+1,1,MenuItem,Ternera con jengibre,Offer,9.95,EUR,Plato,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish
+2,2,MenuItem,Pato con berenjena,Offer,10.9,EUR,Plato,8.9,"""Japonés""","""C","""geo"":{""latitude"":40.426187323811,""longitude"":-3.6792099475861",Teppanyakyfish

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huevos rotos,Offer,12.0,EUR,Entrantes Calientes,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+1,1,MenuItem,Croquetas,Offer,8.0,EUR,Entrantes Calientes,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+2,2,MenuItem,Palitos de mozzarella,Offer,7.0,EUR,Entrantes Calientes,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+3,3,MenuItem,Rollitos de primavera caseros,Offer,10.0,EUR,Entrantes Calientes,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+4,4,MenuItem,Alitas de pollo,Offer,8.5,EUR,Entrantes Calientes,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas

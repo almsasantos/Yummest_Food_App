@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entraña a la Parrilla,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+1,1,MenuItem,Costillas a la Parrilla,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+2,2,MenuItem,Hamburguesa FLAME,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+3,3,MenuItem,Lomo Saltado,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+4,4,MenuItem,Salteado Japones,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+5,5,MenuItem,Carillera al Pedro Ximenéz,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+6,6,MenuItem,Albóndigas a la Calabrese,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+7,7,MenuItem,Pollo Indú,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+8,8,MenuItem,Cordero Marroquí,Offer,9.9,EUR,Combo FLAME,8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame

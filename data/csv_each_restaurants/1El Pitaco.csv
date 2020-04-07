@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao con cebolla frita,Offer,18.7,EUR,Plato,9.4,"""Vasco""","""Avenida de Badajoz","""geo"":{""latitude"":40.441486273519,""longitude"":-3.6548600196838",El Pitaco
+1,1,MenuItem,Chuletón de buey (450-500gr),Offer,30.8,EUR,Plato,9.4,"""Vasco""","""Avenida de Badajoz","""geo"":{""latitude"":40.441486273519,""longitude"":-3.6548600196838",El Pitaco
+2,2,MenuItem,Foie con salsa de uvas,Offer,17.7,EUR,Plato,9.4,"""Vasco""","""Avenida de Badajoz","""geo"":{""latitude"":40.441486273519,""longitude"":-3.6548600196838",El Pitaco

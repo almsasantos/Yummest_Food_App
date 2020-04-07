@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Focaccia Capresa.,Offer,6.9,EUR,Focaccias,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+1,1,MenuItem,Focaccia Bologna.,Offer,6.9,EUR,Focaccias,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+2,2,MenuItem,Focaccia Jamón Serrano,Offer,6.9,EUR,Focaccias,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Mar y tierra (pulpo a la parrilla, papa al mortero, ocopa y aceituna de botija)",Offer,15.0,EUR,De fondo,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+1,1,MenuItem,Lomo saltado (solomillo al fuego vivo y reducción de soja y ostras),Offer,18.0,EUR,De fondo,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+2,2,MenuItem,"Chaufa tapado (arroz thai al wok, pasta de jengibre y tortilla de langostinos)",Offer,13.9,EUR,De fondo,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+3,3,MenuItem,Curry Perú-Thai de carillera o de salmón,Offer,14.9,EUR,De fondo,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna

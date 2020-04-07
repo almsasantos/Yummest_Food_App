@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TEQUEñOS DE QUESO,Offer,9,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+1,1,MenuItem,AREPA,Offer,6,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+2,2,MenuItem,CEVICHE DE PESCADO,Offer,14,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+3,3,MenuItem,TARTAR DE ATÚN,Offer,14,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+4,4,MenuItem,ENSALADA BURRATA,Offer,12,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+5,5,MenuItem,ENSALADA ACUARELA,Offer,10,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+6,6,MenuItem,ROLL DE BERENJENAS,Offer,10,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+7,7,MenuItem,PATACONES,Offer,9,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+8,8,MenuItem,MIX DE CROQUETAS CASERAS,Offer,9,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+9,9,MenuItem,BRUSCHETTA CON QUESO DE CABRA,Offer,6,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+10,10,MenuItem,MINI HAMBURGUESAS CON PATATAS FRITAS,Offer,11,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+11,11,MenuItem,TRIO DE QUESOS CON CEBOLLA CARAMELIZADA,Offer,6,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró
+12,12,MenuItem,BOLITAS DE QUESO DE CABRA FRITAS CON MIEL,Offer,6,EUR,ENTRANTES,9,"""Venezolano""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Acuarela Bistró

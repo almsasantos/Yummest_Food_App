@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Quesillo,Offer,3.5,EUR,Postres,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+1,1,MenuItem,Tres leches,Offer,3.5,EUR,Postres,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+2,2,MenuItem,Pie de Limón,Offer,3.5,EUR,Postres,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho
+3,3,MenuItem,Pie de Maracuyá,Offer,3.5,EUR,Postres,9.2,"""Español""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.4362656,""longitude"":-3.6765487",Pasticho

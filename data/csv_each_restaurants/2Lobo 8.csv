@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de Manzana caramelizada y crema pastelera,Offer,9,EUR,Postres,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+1,1,MenuItem,Piña a baja temperatura con granizado de tamarindo y tajin,Offer,6,EUR,Postres,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+2,2,MenuItem,"Chocolate en texturas, helado de fisherman’s friend de menta",Offer,7,EUR,Postres,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+3,3,MenuItem,"Café Latte biscocho de canela, crema de café y helado de tres leches",Offer,7,EUR,Postres,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Natillas caseras,Offer,4,EUR,Postres,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+1,1,MenuItem,Flan casero,Offer,4,EUR,Postres,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+2,2,MenuItem,Tarta de queso,Offer,4,EUR,Postres,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+3,3,MenuItem,Mousse de limón,Offer,4,EUR,Postres,8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal

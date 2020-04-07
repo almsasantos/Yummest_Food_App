@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pitu de caleya guisado al estilo de la abuela con patatinas,Offer,22,EUR,De la montana,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+1,1,MenuItem,Rabo de toro guisado al vino tinto con patata pisada,Offer,20,EUR,De la montana,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+2,2,MenuItem,Solomillo de vacuno en su jugo con piquillos confitados al carbón,Offer,24,EUR,De la montana,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+3,3,MenuItem,Cordero Xaldo guisado de “Caldevilla de Rengos” con patatinas,Offer,22,EUR,De la montana,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera
+4,4,MenuItem,Cachopo asturiano homenaje a “Fernando Martín”,Offer,23,EUR,De la montana,9.3,None,"""Calle de Rosario Pino","""geo"":{""latitude"":40.4622813,""longitude"":-3.6923779",La Guisandera de Piñera

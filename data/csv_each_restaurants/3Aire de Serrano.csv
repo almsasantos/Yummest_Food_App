@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de jamón,Offer,10,EUR,Fuego,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+1,1,MenuItem,Torrezno a baja temperatura,Offer,15,EUR,Fuego,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+2,2,MenuItem,Solomillo de canguro a la pimienta verde,Offer,28,EUR,Fuego,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+3,3,MenuItem,Entrecot de ternera con chimichurri de granada,Offer,19,EUR,Fuego,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+4,4,MenuItem,Secreto de cerdo ibérico a la parrilla de piedras volcánicas,Offer,18,EUR,Fuego,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+5,5,MenuItem,Fondue de Queso Suizo,Offer,15,EUR,Fuego,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano

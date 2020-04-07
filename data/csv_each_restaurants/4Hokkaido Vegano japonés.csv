@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,VS1. SUSHI SETAS,Offer,1.71,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+1,1,MenuItem,VS2. SUSHI INARI,Offer,1.71,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+2,2,MenuItem,VS3. SUSHI GAMA WAKAME,Offer,1.71,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+3,3,MenuItem,VS4. SUSHI KAPPA,Offer,1.49,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+4,4,MenuItem,VS5. SUSHI OSHINKO,Offer,1.49,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+5,5,MenuItem,VS6. SUSHI AVOCADO,Offer,1.49,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+6,6,MenuItem,VS7. SUSHI CAMOTE MORADO,Offer,1.82,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+7,7,MenuItem,VS8. SUSHI MAÍZ,Offer,1.82,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+8,8,MenuItem,VS13. SUSUI VARIADO VEGANO PEQUENO,Offer,8.75,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+9,9,MenuItem,VS14. SUSHI VARIADO VEGANO MEDIANO,Offer,12.05,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés
+10,10,MenuItem,VS15. SUSHI VAIADO VEGANO GRANDE,Offer,15.24,EUR,SUSHI VEGANO,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4214136,""longitude"":-3.6796668",Hokkaido Vegano japonés

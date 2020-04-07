@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de tomate pelado con ventresca,Offer,11.4,EUR,De la Huerta,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+1,1,MenuItem,Ensalada de queso de cabra al hilo de miel,Offer,12.5,EUR,De la Huerta,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+2,2,MenuItem,Cesar green,Offer,10.9,EUR,De la Huerta,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+3,3,MenuItem,Ensalada julia,Offer,14.7,EUR,De la Huerta,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II
+4,4,MenuItem,Ensalada de burrata con cama de salmorejo,Offer,14.7,EUR,De la Huerta,9,"""Español""","""Av del Cardenal Herrera Oria","""geo"":{""latitude"":40.4908495,""longitude"":-3.6870865",Green Marta II

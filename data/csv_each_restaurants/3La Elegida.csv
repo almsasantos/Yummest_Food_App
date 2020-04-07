@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza de Pincho con Azafrán,Offer,21.5,EUR,De La Mar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+1,1,MenuItem,Delicias de bacalao sobre guiso picante,Offer,17.0,EUR,De La Mar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+2,2,MenuItem,Taco de atún rojo con caldo marmitako,Offer,17.5,EUR,De La Mar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+3,3,MenuItem,Rodaballo asado con crema de coliflor,Offer,18.0,EUR,De La Mar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida
+4,4,MenuItem,pimientos dde piquillo rellenos,Offer,14.0,EUR,De La Mar,9.1,"""Mediterráneo""","""Calle de Trafalgar","""geo"":{""latitude"":40.4318725,""longitude"":-3.700549",La Elegida

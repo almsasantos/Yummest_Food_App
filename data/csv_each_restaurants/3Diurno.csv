@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta clásica de lima con merengue y base de galleta,Offer,5,EUR,Postre,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno
+1,1,MenuItem,Tarta de queso al horno con coulis de frutos rojos,Offer,5,EUR,Postre,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno
+2,2,MenuItem,Tarta doble de chocolate (sin harina),Offer,5,EUR,Postre,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno
+3,3,MenuItem,Tatin de Manzana asada con hojaldre y helado de galleta sablé,Offer,6,EUR,Postre,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno

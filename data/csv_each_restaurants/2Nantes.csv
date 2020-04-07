@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao al horno con pisto manchego,Offer,20.0,EUR,Principales,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+1,1,MenuItem,Fideuá de pulpo con alioli de hierbas,Offer,21.0,EUR,Principales,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+2,2,MenuItem,Pluma ibérica adobada con zanahorias asadas,Offer,22.0,EUR,Principales,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+3,3,MenuItem,Entrecôte de lomo alto de vaca madurada,Offer,22.0,EUR,Principales,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+4,4,MenuItem,"Corvina salvaje, cremoso de hinojo y ajada gallega",Offer,20.0,EUR,Principales,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+5,5,MenuItem,Carrillera de vaca estofada con cremoso de chirivías,Offer,18.5,EUR,Principales,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo de Ternera con Terrina de bacon y Parmesano,Offer,26.4,EUR,Carnes,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+1,1,MenuItem,Entrecot de Vaca Trinchado con Patatas Panadera,Offer,23.1,EUR,Carnes,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+2,2,MenuItem,Steak Tartar cortado a Cuchillo,Offer,25.3,EUR,Carnes,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+3,3,MenuItem,"Hamburguesa Artesanal de Buey (Certificado), 200 gr.",Offer,23.1,EUR,Carnes,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+4,4,MenuItem,Paletilla de Lechal Asada a Baja Temperatura en su Jugo,Offer,28.05,EUR,Carnes,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+5,5,MenuItem,Tostón de Castilla Asado a Baja Temperatura en su Jugo y Confitura de Manzana,Offer,26.4,EUR,Carnes,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros

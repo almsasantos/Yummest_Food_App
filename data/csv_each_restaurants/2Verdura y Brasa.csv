@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico puro bellota,Offer,24.5,EUR,Chacinas y foie,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+1,1,MenuItem,Terrina de foie fresco de pato casera con confitura de higos y manzana,Offer,22.0,EUR,Chacinas y foie,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa

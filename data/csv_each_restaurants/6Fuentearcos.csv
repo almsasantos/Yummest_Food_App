@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"A: espaguetis boloñesa, croquetas, hamburguesitas, patatas fritas, postre y bebida",Offer,12.5,EUR,MENÚ INFANTIL,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos
+1,1,MenuItem,"B: delicias de pollo, croquetas, calamares, patatas fritas, postre y bebida",Offer,12.5,EUR,MENÚ INFANTIL,8.8,None,"""Calle Rivas","""geo"":{""latitude"":40.3986847,""longitude"":-3.5894927",Fuentearcos

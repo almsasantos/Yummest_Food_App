@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cebiche Clasico del Norte del Peru,Offer,18,EUR,Entrante,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+1,1,MenuItem,Cebiche Mixto,Offer,16,EUR,Entrante,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+2,2,MenuItem,Papa Rellena,Offer,8,EUR,Entrante,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+3,3,MenuItem,Cebiche Perú-Japón,Offer,16,EUR,Entrante,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+4,4,MenuItem,Tequeños de Queso,Offer,7,EUR,Entrante,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu
+5,5,MenuItem,Causa Limeña,Offer,8,EUR,Entrante,8.6,"""Peruano""","""Calle del Príncipe de Vergara","""geo"":{""latitude"":40.459592,""longitude"":-3.6771598",Viaperu

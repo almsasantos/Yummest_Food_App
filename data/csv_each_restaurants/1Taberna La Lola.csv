@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla La Lola,Offer,11.0,EUR,De la huerta,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+1,1,MenuItem,Ensalada de lentejas con pollo marinado y mozzarella,Offer,12.0,EUR,De la huerta,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+2,2,MenuItem,Ensalada templada de jamón ibérico y gulas con vinagretade cebolla rosa,Offer,12.5,EUR,De la huerta,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola

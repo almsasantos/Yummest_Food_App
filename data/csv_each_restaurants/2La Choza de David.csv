@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mousse de Chocolate,Offer,3.0,EUR,Postres,8.8,"""Español""","""Calle Eros","""geo"":{""latitude"":40.39228,""longitude"":-3.67929",La Choza de David
+1,1,MenuItem,Arroz con Leche,Offer,3.5,EUR,Postres,8.8,"""Español""","""Calle Eros","""geo"":{""latitude"":40.39228,""longitude"":-3.67929",La Choza de David
+2,2,MenuItem,Tarta de Queso,Offer,4.0,EUR,Postres,8.8,"""Español""","""Calle Eros","""geo"":{""latitude"":40.39228,""longitude"":-3.67929",La Choza de David

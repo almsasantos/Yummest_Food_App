@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tomate rosado con ventresca y cebolla morada,Offer,12.9,EUR,De la huerta,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+1,1,MenuItem,Ensalada de bacalao ahumado con aguacate,Offer,11.9,EUR,De la huerta,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+2,2,MenuItem,Flor de alcachofas con foie fresco y manzana,Offer,13.9,EUR,De la huerta,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+3,3,MenuItem,Verduritas de la huerta a la plancha con salsa de romesco,Offer,10.9,EUR,De la huerta,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo
+4,4,MenuItem,Tomate rosa relleno con crema de burrata al aroma de albahaca,Offer,13.9,EUR,De la huerta,8.8,"""Arrocería""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Mar y Tierra Montecarmelo

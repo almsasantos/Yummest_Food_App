@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes para compartir,ENSALADILLA RUSA\ncon aceite de oliva \nvirgen extra\nCHISTORRA DE ARBIZU\nTacos de Chistorra abierta\na la brasa\nCROQUETAS ARTESANALES\nDe Jamón Ibérico,Menú 35,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique
+1,1,MenuItem,Plato principal a elegir,"TACO DE ENTRECOTTE\nA la parilla, acompañado\nde patatas fritas\nMERLUZA A LA BRASA\nAcompañada de verduras\nasadas\nCARPACCIO DE SOLOMILLO\nCon paté de trufa, lascas\nde parmesano y brotes\nSPAGUETTI DE CALABACÍN\nAl pesto",Menú 35,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique
+2,2,MenuItem,Postre a elegir,PANNA COTTA\nTARTA DE CHOCOLATE\nCARROT CAKE\nCAFÉ O INFUSIONES,Menú 35,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique
+3,3,MenuItem,Bebidas,VINO TINTO DE LA CASA\nVINO BLANCO VERDEJO\nCAÑAS\nAGUA MINERAL,Menú 35,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.45803,""longitude"":-3.68537",Top One del Cacique

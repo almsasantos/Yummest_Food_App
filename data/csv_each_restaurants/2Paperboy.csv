@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crepes de Nutella,Offer,4.0,EUR,Postre,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy
+1,1,MenuItem,Cookie rubia,Offer,2.5,EUR,Postre,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy
+2,2,MenuItem,Tarta de zanahoria,Offer,4.0,EUR,Postre,9.2,"""Americano""","""Calle de Luchana","""geo"":{""latitude"":40.4298867,""longitude"":-3.7011237",Paperboy

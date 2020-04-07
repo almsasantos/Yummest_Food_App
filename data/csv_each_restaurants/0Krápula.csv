@@ -1,0 +1,18 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Taco de camarones y ortiguillas (México/Cádiz) (2 uds.),Offer,12.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+1,1,MenuItem,Carbonara de choco con garbanzos y guanciale,Offer,14.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+2,2,MenuItem,Serranito de ventresca de atún rojo pimiento de padrón y jamón ibérico,Offer,9.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+3,3,MenuItem,Ensaladilla templada de tarantelo y espuma de mayonesa ahumada,Offer,13.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+4,4,MenuItem,Nuestras bravas con bacalao,Offer,8.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+5,5,MenuItem,Chipirones en su tinta Montblanc,Offer,15.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+6,6,MenuItem,Croquetas de mejillones y leche de coco (4 uds.),Offer,10.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+7,7,MenuItem,Bao (doble fermentación) de ropa vieja + carpaccio de langostinos,Offer,7.5,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+8,8,MenuItem,Empanada criolla de rabo de toro y yema líquida,Offer,7.5,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+9,9,MenuItem,Tortilla vaga con setas silvestres,Offer,12.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+10,10,MenuItem,Gambones al ajillo en tempura + oreja de árbol picante,Offer,16.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+11,11,MenuItem,Pornografía de atún rojo de almadraba (nueva versión de nuestro clásico),Offer,44.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+12,12,MenuItem,Lingote de tomate aliñado y nieve de queso feta,Offer,14.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+13,13,MenuItem,Vaca pinta asturiana,Offer,6.5,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+14,14,MenuItem,Biquini de boquerones en vinagre y paté de anchoas,Offer,5.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+15,15,MenuItem,Solomillo de atún estilo Wellington,Offer,24.5,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+16,16,MenuItem,"Mormo de atún con tomate, huevo frito, patata soufflé y lascas de jamón",Offer,26.0,EUR,Carta Krápula,8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula

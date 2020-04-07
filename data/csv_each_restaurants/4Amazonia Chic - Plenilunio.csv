@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gambón a la teppanyaki,Offer,5.95,EUR,PLATOS ESPECIALES,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio
+1,1,MenuItem,Sepia a la plancha,Offer,5.95,EUR,PLATOS ESPECIALES,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio
+2,2,MenuItem,Tartar salmón,Offer,5.95,EUR,PLATOS ESPECIALES,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio
+3,3,MenuItem,Tartar atún,Offer,9.95,EUR,PLATOS ESPECIALES,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio
+4,4,MenuItem,Sashimi de atún,Offer,13.95,EUR,PLATOS ESPECIALES,7.7,"""Japonés""","""Calle Aracne","""geo"":{""latitude"":40.446969,""longitude"":-3.587343",Amazonia Chic - Plenilunio

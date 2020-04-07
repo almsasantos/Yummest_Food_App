@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak burger,Offer,11.9,EUR,Steakburguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+1,1,MenuItem,La Pampa burger,Offer,11.9,EUR,Steakburguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+2,2,MenuItem,Jack burger,Offer,11.9,EUR,Steakburguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+3,3,MenuItem,British burger,Offer,11.9,EUR,Steakburguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+4,4,MenuItem,Hamburguesa barbacoa,Offer,11.9,EUR,Steakburguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+5,5,MenuItem,Hamburguesa de pollo a la parrilla,Offer,9.0,EUR,Steakburguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha
+6,6,MenuItem,Hamburguesa de pollo crispy,Offer,9.0,EUR,Steakburguers,9,"""Americano""","""Calle de Atocha","""geo"":{""latitude"":40.409597,""longitude"":-3.6936573",Steakburguer Atocha

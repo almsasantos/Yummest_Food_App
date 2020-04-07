@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Veggie,Offer,4,EUR,CREMAS & ENSALADAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+1,1,MenuItem,Especia de la casa,Offer,6,EUR,CREMAS & ENSALADAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+2,2,MenuItem,Ensalada Burrata,Offer,6,EUR,CREMAS & ENSALADAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+3,3,MenuItem,Ensalada Gran L´Atelier.,Offer,16,EUR,CREMAS & ENSALADAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+4,4,MenuItem,Crema de verduras y pollo,Offer,6,EUR,CREMAS & ENSALADAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+5,5,MenuItem,Cremas del mes,Offer,6,EUR,CREMAS & ENSALADAS,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin

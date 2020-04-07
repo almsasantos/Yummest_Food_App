@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pizzas Blancas (4 quesos, calzoni). Pizzas Dopia (doble 2-pax). Pizzas al metro (4 pax)",Offer,12,EUR,Plato,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.418575750882,""longitude"":-3.709059953689575",Ouh Babbo
+1,1,MenuItem,"Risotti (Ai-Porcini-setas, pescatore, frutos del mar, gorgonzola)",Offer,13,EUR,Plato,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.418575750882,""longitude"":-3.709059953689575",Ouh Babbo
+2,2,MenuItem,Linguine Ai cartoccio (pasta larga con frutos del mar),Offer,14,EUR,Plato,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.418575750882,""longitude"":-3.709059953689575",Ouh Babbo

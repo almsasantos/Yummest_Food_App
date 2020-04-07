@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de lechuga viva con caballa ahumada en casa y néctar de pimiento rojo,Offer,13,EUR,Entrantes,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+1,1,MenuItem,"Tiradito de lenguado, escabeche de yuzu, hierbas anisadas y berros",Offer,23,EUR,Entrantes,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+2,2,MenuItem,"Pastrami hecho en casa, hoja de shiso, encurtidos de arandanos, remolacha y Mostaza",Offer,16,EUR,Entrantes,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+3,3,MenuItem,"Mi-Cuit de hígado de rape, salsa ponzu y brioche",Offer,15,EUR,Entrantes,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+4,4,MenuItem,Guiso casero de fabes asturianas y setas de temporada,Offer,15,EUR,Entrantes,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+5,5,MenuItem,"Col cocida a baja temperatura, caldo de cocido, garbanzos y pan cristal",Offer,10,EUR,Entrantes,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8
+6,6,MenuItem,"Boletus en papillote, praliné salado de nueces y salsifí",Offer,14,EUR,Entrantes,8.8,"""Mediterráneo""","""Calle Echegaray","""geo"":{""latitude"":40.4157967,""longitude"":-3.6996528",Lobo 8

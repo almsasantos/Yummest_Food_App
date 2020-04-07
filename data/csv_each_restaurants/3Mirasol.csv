@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz mil delicias,Offer,6.25,EUR,Arroz y tallarines,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol
+1,1,MenuItem,Arroz frito thailandés,Offer,5.25,EUR,Arroz y tallarines,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol
+2,2,MenuItem,Fideos de arroz 3 delicias,Offer,5.95,EUR,Arroz y tallarines,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol
+3,3,MenuItem,Tallarines al estilo Wu Dong,Offer,6.95,EUR,Arroz y tallarines,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol

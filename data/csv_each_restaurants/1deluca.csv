@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,INSALATA CELENTANO,Offer,14,EUR,Insalate - Las ensaladas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+1,1,MenuItem,INSALATA CESARE,Offer,13,EUR,Insalate - Las ensaladas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+2,2,MenuItem,INSALATA GEORGIA,Offer,14,EUR,Insalate - Las ensaladas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+3,3,MenuItem,FIOR DI SALMONE,Offer,13,EUR,Insalate - Las ensaladas,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca

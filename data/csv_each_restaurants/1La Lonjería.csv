@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmón con wasabi y alga Nori,Offer,24.0,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+1,1,MenuItem,"Salmón con polvo de oro, trufa blanca y whisky malta",Offer,20.0,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+2,2,MenuItem,Chuletillas de lechal (unidad),Offer,2.25,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+3,3,MenuItem,Chuletón de Ávila (+1 Kg.),Offer,35.0,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+4,4,MenuItem,Costillar completo,Offer,12.0,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+5,5,MenuItem,Paella de marisco ( mínimo 2 personas),Offer,12.0,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+6,6,MenuItem,Arroz caldoso con carabinero (2 personas),Offer,17.0,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería
+7,7,MenuItem,Arroz negro,Offer,12.0,EUR,Plato,9.2,"""Marisquería""","""Av","""geo"":{""latitude"":40.3831603,""longitude"":-3.6305193",La Lonjería

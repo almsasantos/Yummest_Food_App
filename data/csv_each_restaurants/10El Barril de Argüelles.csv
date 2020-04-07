@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salteado de solomillo en su jugo con ajetes,Offer,19.0,EUR,"Carnes selecionadas - Solomillo, ¿Cómo te gusta?",9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+1,1,MenuItem,Solomillo tradicional con sal Maldon,Offer,23.0,EUR,"Carnes selecionadas - Solomillo, ¿Cómo te gusta?",9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+2,2,MenuItem,Solomillo al foie fresco de pato con reducción de Pedro Ximénez,Offer,24.0,EUR,"Carnes selecionadas - Solomillo, ¿Cómo te gusta?",9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+3,3,MenuItem,Steak tartar elaborado a la vista del cliente,Offer,21.5,EUR,"Carnes selecionadas - Solomillo, ¿Cómo te gusta?",9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles

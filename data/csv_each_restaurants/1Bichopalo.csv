@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ostra con Ponzu,Offer,4,EUR,Marisco,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+1,1,MenuItem,Vieira trufada,Offer,6,EUR,Marisco,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+2,2,MenuItem,Carabinero con Miso-Yuzu,Offer,10,EUR,Marisco,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo
+3,3,MenuItem,Concha del dia,Offer,8,EUR,Marisco,9.1,"""Español""","""Calle Barceló","""geo"":{""latitude"":40.4269268,""longitude"":-3.6988689",Bichopalo

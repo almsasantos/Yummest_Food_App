@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chawan Mushi,Offer,11.5,EUR,Entrantes Calientes,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+1,1,MenuItem,Hamachi Tataki,Offer,11.5,EUR,Entrantes Calientes,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+2,2,MenuItem,Sepia Crujiente,Offer,12.0,EUR,Entrantes Calientes,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+3,3,MenuItem,Berenjena Denkaku Miso,Offer,13.0,EUR,Entrantes Calientes,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah
+4,4,MenuItem,Pollo Karage,Offer,13.0,EUR,Entrantes Calientes,9.2,"""Japonés""","""Calle Marqués de Villamagna","""geo"":{""latitude"":40.4298681,""longitude"":-3.6879861",Sushi Bar Hannah

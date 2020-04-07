@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Foie gras mi-cuit elaborado por nosotros,Offer,24.0,EUR,Las entradas,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+1,1,MenuItem,Crema fría de puerros y verduras con almendritas molidas,Offer,16.0,EUR,Las entradas,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+2,2,MenuItem,Salmón marinado con aceite de nueces y mirepoix de cebolleta al limón,Offer,19.5,EUR,Las entradas,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real
+3,3,MenuItem,Escargots salteados con champiñones y echalottes sobre fondo de tomate a la mantequilla de ajo,Offer,19.0,EUR,Las entradas,9.6,"""Francés""","""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.710410118103",La Esquina del Real

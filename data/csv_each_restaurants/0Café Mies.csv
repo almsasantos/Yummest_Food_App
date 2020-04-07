@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tosta de solomillo ibérico con brie y cebolla confitada,Offer,8.0,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+1,1,MenuItem,Tosta de jamón ibérico con tomaca,Offer,8.0,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+2,2,MenuItem,Rollitos crujientes de pato con verduras y salsa de cítricos,Offer,8.8,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+3,3,MenuItem,Sandwich Mies de 3 Pisos!!,Offer,7.9,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+4,4,MenuItem,"Mini hamburguesas de buey (Cheese bacon, jamón ibérico y foie)",Offer,11.0,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+5,5,MenuItem,"Carasatu de Sardina Ahumada, tomate concassé y tartar de aguacate y lima",Offer,7.5,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+6,6,MenuItem,Gyozas de pollo y fungus con salsa de soja,Offer,10.5,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+7,7,MenuItem,Cigarritos crujientes de morcilla y confitura de tomate,Offer,11.0,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+8,8,MenuItem,"Pizza hojaldrada de carpaccio de bacalao, tomate semiseco y tapenade de oliva negra",Offer,8.0,EUR,De Picoteo,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies

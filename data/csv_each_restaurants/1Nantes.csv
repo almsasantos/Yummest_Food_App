@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Garbanzos castellanos con manitas y sepia,Offer,16.0,EUR,Legumbres,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+1,1,MenuItem,Verdinas estofadas con gamba blanca y chipirones,Offer,18.5,EUR,Legumbres,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes
+2,2,MenuItem,Habitas salteadas con calçots y salmón marinado,Offer,16.0,EUR,Legumbres,9.3,"""Español""","""Calle Maestro Arbós","""geo"":{""latitude"":40.3891064,""longitude"":-3.6950624",Nantes

@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Empanadilla de foie y trufa,Offer,36,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+1,1,MenuItem,Vieiras con un puré de apionabo y y crema de aceituna negra,Offer,33,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+2,2,MenuItem,Huevo poché sobre Kartoffelpuffer,Offer,33,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+3,3,MenuItem,Menestra de verduras de la huerta,Offer,32,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+4,4,MenuItem,Cangrejo blando en tempura con salsa picante,Offer,28,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+5,5,MenuItem,Fondos de alcachofas rellenos de: Setas,Offer,33,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+6,6,MenuItem,Foie con reducción de Oporto,Offer,38,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+7,7,MenuItem,Bogavante,Offer,39,EUR,Entradas Calientes,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER

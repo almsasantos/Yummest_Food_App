@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas caseras variadas,Offer,14,EUR,Entrante,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea
+1,1,MenuItem,Boquerones en vinagre con navajas,Offer,15,EUR,Entrante,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea
+2,2,MenuItem,Tomate de huerta con cebolla y ventresca,Offer,12,EUR,Entrante,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea

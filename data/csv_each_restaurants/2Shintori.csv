@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Tarta de queso casera,Offer,4.5,EUR,Postre,None,None,None,Shintori
+1,1,MenuItem,Roll de chocolate,Offer,4.5,EUR,Postre,None,None,None,Shintori
+2,2,MenuItem,Daifuku mochi,Offer,4.5,EUR,Postre,None,None,None,Shintori

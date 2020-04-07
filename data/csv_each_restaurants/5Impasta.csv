@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú,Offer,5,EUR,Postres,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+1,1,MenuItem,Cheese Cake,Offer,5,EUR,Postres,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+2,2,MenuItem,Panna Cotta,Offer,5,EUR,Postres,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+3,3,MenuItem,Parfait de Pistacho,Offer,6,EUR,Postres,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta
+4,4,MenuItem,Paccherotto,Offer,6,EUR,Postres,9.3,"""Italiano""","""Calle de las Hileras","""geo"":{""latitude"":40.416751,""longitude"":-3.7083841",Impasta

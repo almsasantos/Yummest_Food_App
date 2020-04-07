@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa,Hamburguesa,Menú del día,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca
+1,1,MenuItem,Postre o café,O café,Menú del día,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca
+2,2,MenuItem,Bebida,Bebida,Menú del día,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca

@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Margarita,Offer,9.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+1,1,MenuItem,Mediterránea,Offer,10.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+2,2,MenuItem,Seis Quesos,Offer,12.5,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+3,3,MenuItem,Diavola,Offer,12.5,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+4,4,MenuItem,Capricciosa,Offer,12.5,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+5,5,MenuItem,Salmón,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+6,6,MenuItem,Calzone,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+7,7,MenuItem,Cuatro Estaciones,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+8,8,MenuItem,Melanzane,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+9,9,MenuItem,Portobello,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+10,10,MenuItem,Tartufo e Funghi,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+11,11,MenuItem,Nicoletta con tapa,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+12,12,MenuItem,Mortadela y pistacho,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+13,13,MenuItem,Di BBQ,Offer,13.95,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+14,14,MenuItem,Vegetariana,Offer,11.5,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+15,15,MenuItem,Toscana,Offer,11.5,EUR,Pizzas crujientes y de masa fina,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca

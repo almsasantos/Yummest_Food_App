@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortino di cioccolato,Offer,6.9,EUR,Postre,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+1,1,MenuItem,Tiramisú,Offer,5.9,EUR,Postre,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+2,2,MenuItem,Cannoli siciliani,Offer,5.9,EUR,Postre,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de Pollo,Offer,9.95,EUR,Hamburguesas,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+1,1,MenuItem,Hamburguesa queso azul,Offer,10.5,EUR,Hamburguesas,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+2,2,MenuItem,Hamburguesa barbacoa,Offer,9.95,EUR,Hamburguesas,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+3,3,MenuItem,Hamburguesa clásica,Offer,9.95,EUR,Hamburguesas,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+4,4,MenuItem,Hamburguesa jalapeños,Offer,10.5,EUR,Hamburguesas,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+5,5,MenuItem,Hamburguesa mozzarella,Offer,10.5,EUR,Hamburguesas,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas
+6,6,MenuItem,Hamburguesa diablo,Offer,10.5,EUR,Hamburguesas,9.2,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.4957748,""longitude"":-3.6144594",Beefcious - Valdebebas

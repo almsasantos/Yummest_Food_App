@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas del Cantábrico (und.),Offer,2.75,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+1,1,MenuItem,Croquetas caseras de mejillones (und),Offer,2.75,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+2,2,MenuItem,Ensaladilla rusa al estilo Paradis,Offer,15.5,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+3,3,MenuItem,Cazuela de callos a la madrileña,Offer,15.5,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+4,4,MenuItem,Canelones de jarrete y pollo de corral,Offer,16.0,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+5,5,MenuItem,Tataki de pez espada,Offer,16.75,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+6,6,MenuItem,Las ya clásicas virutas de foie,Offer,18.0,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+7,7,MenuItem,Poke de tartar de atún rojo,Offer,16.5,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+8,8,MenuItem,Jamón Ibérico de Bellota tres D.O,Offer,35.0,EUR,De entrada...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid

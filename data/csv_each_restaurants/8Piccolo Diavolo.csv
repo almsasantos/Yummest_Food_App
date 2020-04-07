@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisù,Offer,5.0,EUR,Dolci e Caffé - Postres y Café,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo
+1,1,MenuItem,Panna cotta al cioccolato/fragola/caramello,Offer,4.5,EUR,Dolci e Caffé - Postres y Café,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo
+2,2,MenuItem,Profiteroles al cioccolato ripieno di panna,Offer,5.0,EUR,Dolci e Caffé - Postres y Café,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo
+3,3,MenuItem,Torta semifreddo stracciatella con noci,Offer,5.0,EUR,Dolci e Caffé - Postres y Café,9.2,"""Italiano""","""Calle Fúcar","""geo"":{""latitude"":40.4114549,""longitude"":-3.6955655",Piccolo Diavolo

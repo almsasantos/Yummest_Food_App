@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mozzarella frita con mermelada de membrillo,Offer,7.8,EUR,Para picar,None,"""Asturiano""","""Calle de Villablanca","""geo"":{""latitude"":40.4083885,""longitude"":-3.6061291",Baoba bar
+1,1,MenuItem,Huevos rotos (gulas o jamón),Offer,9.0,EUR,Para picar,None,"""Asturiano""","""Calle de Villablanca","""geo"":{""latitude"":40.4083885,""longitude"":-3.6061291",Baoba bar
+2,2,MenuItem,Pica pollo,Offer,10.0,EUR,Para picar,None,"""Asturiano""","""Calle de Villablanca","""geo"":{""latitude"":40.4083885,""longitude"":-3.6061291",Baoba bar

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flan,Offer,4,EUR,Postres,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+1,1,MenuItem,Puding,Offer,4,EUR,Postres,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+2,2,MenuItem,Tocinillo de cielo,Offer,5,EUR,Postres,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+3,3,MenuItem,Arroz con leche,Offer,4,EUR,Postres,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+4,4,MenuItem,Zumo de naranja,Offer,4,EUR,Postres,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte

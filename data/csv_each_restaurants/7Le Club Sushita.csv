@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nigiri de pez limón acevichado,Offer,2.5,EUR,Piezas de sushi,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+1,1,MenuItem,Gunkan de atún toro,Offer,2.75,EUR,Piezas de sushi,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita

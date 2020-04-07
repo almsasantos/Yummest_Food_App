@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burrata,Offer,12.25,EUR,Ensaladas,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+1,1,MenuItem,Diplomático,Offer,10.95,EUR,Ensaladas,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+2,2,MenuItem,Ensalada de pollo,Offer,8.3,EUR,Ensaladas,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola
+3,3,MenuItem,Cesar con pollo,Offer,9.6,EUR,Ensaladas,8.3,"""Italiano""","""Calle de Cardenal Marcelo Spínola","""geo"":{""latitude"":40.4669577,""longitude"":-3.6698342",Pizza Jardín - Spinola

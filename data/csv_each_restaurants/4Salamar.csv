@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza a la Sidra o al horno,Offer,18.0,EUR,Pescados,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+1,1,MenuItem,Rape al horno tipo Bilbaína o en Sidra,Offer,19.0,EUR,Pescados,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+2,2,MenuItem,Chipirones en su Tinta o Plancha,Offer,15.5,EUR,Pescados,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+3,3,MenuItem,Bacalao Plancha o Tomate Natural,Offer,19.0,EUR,Pescados,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar
+4,4,MenuItem,Pescado del día con Verduras a la Parrilla,Offer,18.0,EUR,Pescados,None,"""Marisquería""","""C","""geo"":{""latitude"":40.439125892144,""longitude"":-3.6733300685883",Salamar

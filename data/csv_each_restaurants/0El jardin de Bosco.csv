@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gazpacho,Offer,5.4,EUR,Para picar,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+1,1,MenuItem,Papas camperas,Offer,8.4,EUR,Para picar,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+2,2,MenuItem,Verduras asadas,Offer,11.9,EUR,Para picar,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+3,3,MenuItem,Ensaladilla rusa,Offer,7.5,EUR,Para picar,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco
+4,4,MenuItem,Anchoa con queso,Offer,16.9,EUR,Para picar,6.1,"""Español""","""Calle de Espalter","""geo"":{""latitude"":40.4129668,""longitude"":-3.6906945",El jardin de Bosco

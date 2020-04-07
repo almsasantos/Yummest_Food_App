@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caldo de pata de res,Offer,8,EUR,Sopas y caldos,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+1,1,MenuItem,Caldo de gallina,Offer,7,EUR,Sopas y caldos,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+2,2,MenuItem,Sopa de marisco,Offer,13,EUR,Sopas y caldos,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+3,3,MenuItem,Encebollado de pescado,Offer,9,EUR,Sopas y caldos,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo
+4,4,MenuItem,Encebollado anticrisis,Offer,6,EUR,Sopas y caldos,9,"""Latino""","""Calle Parvillas Altas","""geo"":{""latitude"":40.3448389,""longitude"":-3.7091044",El Bongo

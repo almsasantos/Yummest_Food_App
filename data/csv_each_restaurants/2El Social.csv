@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Carrot Cake, Cobertura Queso Crema",Offer,4.5,EUR,Algo dulce / Something sweet,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+1,1,MenuItem,"Pudding de Mango, Jengibre Cristalizado",Offer,4.5,EUR,Algo dulce / Something sweet,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+2,2,MenuItem,"Tarteleta de Chocolate Negro 70%, Merengue Flambeado",Offer,5.5,EUR,Algo dulce / Something sweet,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+3,3,MenuItem,Helado Casero del Día,Offer,4.0,EUR,Algo dulce / Something sweet,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social

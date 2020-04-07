@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipirones En Su Tinta,Offer,18.6,EUR,PESCADOS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+1,1,MenuItem,Chipirones Rebozados Con All y Oli,Offer,18.6,EUR,PESCADOS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+2,2,MenuItem,Bacalao A La Vizcaína,Offer,19.75,EUR,PESCADOS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela
+3,3,MenuItem,Cogote De Merluza (1/2) A La Parrilla,Offer,26.0,EUR,PESCADOS,9,"""Vasco""","""C","""geo"":{""latitude"":40.416899985621,""longitude"":-3.6954801082611",Kupela

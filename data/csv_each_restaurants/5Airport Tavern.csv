@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmón ahumado,Offer,12,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+1,1,MenuItem,Solomillo de ternera con queso Brie fundido,Offer,12,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+2,2,MenuItem,Jamón ibérico con tomate y aceite de oliva virgen,Offer,11,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+3,3,MenuItem,Camembert gratinado con cebolla pochada,Offer,9,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+4,4,MenuItem,Queso de cabra con cebolla caramelizada,Offer,10,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+5,5,MenuItem,Ventresca de atún con pimientos rojos,Offer,9,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+6,6,MenuItem,Sandwich New York Club,Offer,12,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+7,7,MenuItem,Sandwich Vegemix,Offer,10,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+8,8,MenuItem,Sandwich Mixto,Offer,7,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+9,9,MenuItem,Sandwich Vegetal,Offer,8,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern
+10,10,MenuItem,Montaditos de morcilla con huevos de codorniz y pimientos rojos,Offer,9,EUR,Tostas (con pan cristal) y Sandwiches,8.1,"""Americano""","""Calle de Serrano","""geo"":{""latitude"":40.4538076,""longitude"":-3.6786384",Airport Tavern

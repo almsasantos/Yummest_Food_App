@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatas bravas La Sucursal,Offer,6.5,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal
+1,1,MenuItem,Burratina de tartufo y berenjenas ahumadas,Offer,13.5,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal
+2,2,MenuItem,Tomate de temporada relleno de brandada de bacalao,Offer,12.0,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal
+3,3,MenuItem,Ensaladilla rusa de toda la vida,Offer,8.0,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal
+4,4,MenuItem,Tosta de escalivada,Offer,12.0,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal
+5,5,MenuItem,Tosta de roast duck,Offer,12.0,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal
+6,6,MenuItem,Ensalada de queso de cabra,Offer,9.5,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal
+7,7,MenuItem,Ensalada de quinoa,Offer,7.5,EUR,Pikoteo,8.9,"""Español""","""Calle de Sandoval","""geo"":{""latitude"":40.4301089,""longitude"":-3.703368",La Sucursal

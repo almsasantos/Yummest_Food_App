@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,berenjenas rebozadas en aceite de oliva a la miel,Offer,7.5,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+1,1,MenuItem,Tartar de salmon ahumado sobre cama de guacamole,Offer,12.8,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+2,2,MenuItem,Croquetas caseras de jamón ibérico,Offer,7.8,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+3,3,MenuItem,Tosta Pollita,Offer,6.9,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+4,4,MenuItem,Tosta Cabrona,Offer,6.5,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+5,5,MenuItem,Tosta Sabrosa,Offer,9.7,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+6,6,MenuItem,Berenjenas con miel y queso holandes,Offer,7.5,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+7,7,MenuItem,tortilla española ganadora del premio de la tapa sur 2014,Offer,6.8,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo
+8,8,MenuItem,alcachofas a la plancha con polvo de jamón y salsa de aceitunas negras,Offer,8.9,EUR,Entrante,8.3,"""Mediterráneo""","""Av del Mediterráneo","""geo"":{""latitude"":40.4066389,""longitude"":-3.671535",Mediterráneo

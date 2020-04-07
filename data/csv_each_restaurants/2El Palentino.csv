@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PEPITAZ0 3.0,Offer,10.9,EUR,Principales,8.6,"""Mediterráneo""","""Calle del Pez","""geo"":{""latitude"":40.4231195,""longitude"":-3.7044115",El Palentino
+1,1,MenuItem,AGUACATE BRASEADO CON CANÓNIGOS,Offer,10.9,EUR,Principales,8.6,"""Mediterráneo""","""Calle del Pez","""geo"":{""latitude"":40.4231195,""longitude"":-3.7044115",El Palentino
+2,2,MenuItem,HAMBURGUESA DE VACA RUBIA GALLEGA,Offer,12.9,EUR,Principales,8.6,"""Mediterráneo""","""Calle del Pez","""geo"":{""latitude"":40.4231195,""longitude"":-3.7044115",El Palentino
+3,3,MenuItem,RAVIOLÓN DE BURRATA Y TRUFA BLANCA,Offer,14.9,EUR,Principales,8.6,"""Mediterráneo""","""Calle del Pez","""geo"":{""latitude"":40.4231195,""longitude"":-3.7044115",El Palentino
+4,4,MenuItem,BACALAO AL PIL PIL,Offer,15.4,EUR,Principales,8.6,"""Mediterráneo""","""Calle del Pez","""geo"":{""latitude"":40.4231195,""longitude"":-3.7044115",El Palentino
+5,5,MenuItem,PICAÑA DE NOVILLO ARGENTINO,Offer,16.9,EUR,Principales,8.6,"""Mediterráneo""","""Calle del Pez","""geo"":{""latitude"":40.4231195,""longitude"":-3.7044115",El Palentino
+6,6,MenuItem,PULPO CRUJIENTE CON PARMENTIER DE AZAFRAN Y LAGRIMAS DE MAYONESA DE YUZU,Offer,19.4,EUR,Principales,8.6,"""Mediterráneo""","""Calle del Pez","""geo"":{""latitude"":40.4231195,""longitude"":-3.7044115",El Palentino

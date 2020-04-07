@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Panna cotta,Offer,4.5,EUR,Postre,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+1,1,MenuItem,Tiramisú,Offer,5.0,EUR,Postre,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta
+2,2,MenuItem,Zuppa inglese,Offer,5.0,EUR,Postre,8.6,"""Italiano""","""Calle Viloria de La Rioja","""geo"":{""latitude"":40.5056397,""longitude"":-3.6746922",La Bruschetta

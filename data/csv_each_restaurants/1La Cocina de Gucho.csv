@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huevos con Trufa de Arzabal,Offer,15.0,EUR,Platos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+1,1,MenuItem,"Garbanzos salteados con verduras, tocineta y algas",Offer,14.0,EUR,Platos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+2,2,MenuItem,Pito de ternera con su salsa de champis y su ensalada de rúcula,Offer,13.5,EUR,Platos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+3,3,MenuItem,Butifarra La Garriga con su pan con tomate y sus beans,Offer,14.0,EUR,Platos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+4,4,MenuItem,Cachopo Gucho tamaño Madrileño con jamón y queso y salsa de queso azul,Offer,16.5,EUR,Platos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho

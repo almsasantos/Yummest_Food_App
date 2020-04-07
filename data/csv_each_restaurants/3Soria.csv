@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,A elegir de seis entrantes del día.,Menú 11 €,9.3,"""Gallego""","""Calle Ancora","""geo"":{""latitude"":40.4028662,""longitude"":-3.6907778",Soria
+1,1,MenuItem,Plato,A elegir de seis platos del día.,Menú 11 €,9.3,"""Gallego""","""Calle Ancora","""geo"":{""latitude"":40.4028662,""longitude"":-3.6907778",Soria
+2,2,MenuItem,Postre,Postre o café.,Menú 11 €,9.3,"""Gallego""","""Calle Ancora","""geo"":{""latitude"":40.4028662,""longitude"":-3.6907778",Soria
+3,3,MenuItem,Bebida,Una bebida por persona.,Menú 11 €,9.3,"""Gallego""","""Calle Ancora","""geo"":{""latitude"":40.4028662,""longitude"":-3.6907778",Soria

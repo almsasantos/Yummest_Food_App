@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coulant de chocolate con helado de vainilla,Offer,7,EUR,Postre (no se sirve media raciones),9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)
+1,1,MenuItem,Arroz glutinoso con salsa de mango y helado de coco,Offer,7,EUR,Postre (no se sirve media raciones),9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)
+2,2,MenuItem,Flan de coco con helado de coco,Offer,7,EUR,Postre (no se sirve media raciones),9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)
+3,3,MenuItem,Crepe con coco,Offer,8,EUR,Postre (no se sirve media raciones),9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)

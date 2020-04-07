@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Baby ribs,Offer,15.95,EUR,Parrilla,9.3,"""Americano""","""Calle de Galileo","""geo"":{""latitude"":40.430918,""longitude"":-3.710305",Beefcious- Galileo
+1,1,MenuItem,Entraña,Offer,13.5,EUR,Parrilla,9.3,"""Americano""","""Calle de Galileo","""geo"":{""latitude"":40.430918,""longitude"":-3.710305",Beefcious- Galileo
+2,2,MenuItem,BBQ chicken,Offer,12.9,EUR,Parrilla,9.3,"""Americano""","""Calle de Galileo","""geo"":{""latitude"":40.430918,""longitude"":-3.710305",Beefcious- Galileo
+3,3,MenuItem,Pollo al estilo de Kentucky,Offer,13.5,EUR,Parrilla,9.3,"""Americano""","""Calle de Galileo","""geo"":{""latitude"":40.430918,""longitude"":-3.710305",Beefcious- Galileo

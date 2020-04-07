@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,"Eby tiger (langostinos, kakiage y salsa tiger)",Offer,13.5,EUR,Entrante,None,None,None,Sky Sushi & Ramen
+1,1,MenuItem,Gyozas (empanadillas de pollo y verduras a la plancha),Offer,7.5,EUR,Entrante,None,None,None,Sky Sushi & Ramen
+2,2,MenuItem,"Pollo karage (pollo marinado en soja, jengibre y ajo)",Offer,7.0,EUR,Entrante,None,None,None,Sky Sushi & Ramen

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Chuletitas de cordero,Offer,19,EUR,Carnes,None,None,None,Lion café
+1,1,MenuItem,Albóndigas de solomillo con salsa,Offer,17,EUR,Carnes,None,None,None,Lion café
+2,2,MenuItem,Escalope de ternera,Offer,15,EUR,Carnes,None,None,None,Lion café
+3,3,MenuItem,Solomillitos de ternera con salsa al gusto,Offer,20,EUR,Carnes,None,None,None,Lion café
+4,4,MenuItem,Entrecote,Offer,19,EUR,Carnes,None,None,None,Lion café

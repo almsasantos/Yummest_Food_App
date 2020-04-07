@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatas Vicus,Offer,6.0,EUR,Entrante,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+1,1,MenuItem,Tequeños venezolanos,Offer,8.5,EUR,Entrante,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+2,2,MenuItem,Fingers de pollo,Offer,8.5,EUR,Entrante,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+3,3,MenuItem,Ensalada César,Offer,10.0,EUR,Entrante,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+4,4,MenuItem,Croquetas,Offer,9.0,EUR,Entrante,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+5,5,MenuItem,Alitas de pollo,Offer,8.0,EUR,Entrante,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus
+6,6,MenuItem,Huevos Rotos con Jamón,Offer,9.5,EUR,Entrante,None,"""Mediterráneo""","""Plaza Don Antonio de Andrés","""geo"":{""latitude"":40.4019241,""longitude"":-3.6056086",Vicus

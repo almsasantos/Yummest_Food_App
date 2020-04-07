@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tempura de gambas rojas con chile dulce,Offer,13.9,EUR,Especialidades,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+1,1,MenuItem,Black cod con tempura de aguacate,Offer,16.9,EUR,Especialidades,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita
+2,2,MenuItem,Costilla de ternera al Josper,Offer,29.9,EUR,Especialidades,8.7,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4199579,""longitude"":-3.6905829",Le Club Sushita

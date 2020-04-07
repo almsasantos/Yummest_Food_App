@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo en tempura con verduritas salteadas a la soja y all-i-oli de pimentón,Offer,16,EUR,Entrante,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina
+1,1,MenuItem,Ensalada improvisada del chef con jamón de pato,Offer,14,EUR,Entrante,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina
+2,2,MenuItem,Boletus confitados al foie con mermelada de tomate,Offer,14,EUR,Entrante,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina
+3,3,MenuItem,Tartar de salmón marinado y guacamole con salmorejo,Offer,15,EUR,Entrante,8.8,"""Español""","""Paseo Doce Estrellas","""geo"":{""latitude"":40.4612587,""longitude"":-3.6162406",La CoZina

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tom Yam Koong,Offer,8.25,EUR,Sopas,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+1,1,MenuItem,Tom Yam Talay,Offer,9.35,EUR,Sopas,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+2,2,MenuItem,Tom Kha Kai,Offer,7.15,EUR,Sopas,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+3,3,MenuItem,Vermicelli Soup,Offer,6.05,EUR,Sopas,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas

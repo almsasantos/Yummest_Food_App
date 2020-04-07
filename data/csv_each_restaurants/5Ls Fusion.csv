@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Torrija de pan brioche con helado de pistacho,Offer,4.5,EUR,Postres,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+1,1,MenuItem,Bizcocho de zanahoria con chocolate blanco y crema de queso,Offer,4.5,EUR,Postres,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+2,2,MenuItem,Tarta de la abuela con base de galleta oreo y compota de arandanos,Offer,4.5,EUR,Postres,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion
+3,3,MenuItem,"Crujiente de platano, chocolate y curcuma con helado de yogur",Offer,4.5,EUR,Postres,8.9,None,"""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4294873,""longitude"":-3.6719293",Ls Fusion

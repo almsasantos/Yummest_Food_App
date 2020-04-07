@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Centollo preparado (1 kg),Offer,60,EUR,Plato,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+1,1,MenuItem,Buey de mar preparado (1 kg),Offer,40,EUR,Plato,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+2,2,MenuItem,Percebes gallegos (100 gr),Offer,12,EUR,Plato,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico

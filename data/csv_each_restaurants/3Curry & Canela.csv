@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PRAWN TIKKA MASALA,Offer,14.95,EUR,MARISCOS AL CURRY,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+1,1,MenuItem,PRAWN KORMA,Offer,14.95,EUR,MARISCOS AL CURRY,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+2,2,MenuItem,PRAWN CURRY,Offer,14.95,EUR,MARISCOS AL CURRY,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+3,3,MenuItem,PRAWN VINDALOO,Offer,14.95,EUR,MARISCOS AL CURRY,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela
+4,4,MenuItem,PRAWN MADRAS,Offer,14.95,EUR,MARISCOS AL CURRY,9.5,"""Indio""","""Calle de Espartinas","""geo"":{""latitude"":40.4243352,""longitude"":-3.6790824",Curry & Canela

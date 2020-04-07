@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Porción de papas deluxe con salsa de queso,Offer,2.5,EUR,Adiciones,None,"""Americano""","""Av","""geo"":{""latitude"":40.3853627,""longitude"":-3.7212918",One Burger Co
+1,1,MenuItem,Porción de carne,Offer,3.9,EUR,Adiciones,None,"""Americano""","""Av","""geo"":{""latitude"":40.3853627,""longitude"":-3.7212918",One Burger Co
+2,2,MenuItem,Porción de carne Mr. bacon,Offer,4.9,EUR,Adiciones,None,"""Americano""","""Av","""geo"":{""latitude"":40.3853627,""longitude"":-3.7212918",One Burger Co

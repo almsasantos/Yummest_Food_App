@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao gratinado con muselina de ajos tiernos,Offer,14.5,EUR,Plato,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.437148682337,""longitude"":-3.7042200565338",Huerto y Brasa
+1,1,MenuItem,Chuletón de cebón a la piedra (2 personas),Offer,33.0,EUR,Plato,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.437148682337,""longitude"":-3.7042200565338",Huerto y Brasa
+2,2,MenuItem,Solomillo a la parrilla con foie,Offer,18.0,EUR,Plato,8.8,"""Mediterráneo""","""C","""geo"":{""latitude"":40.437148682337,""longitude"":-3.7042200565338",Huerto y Brasa

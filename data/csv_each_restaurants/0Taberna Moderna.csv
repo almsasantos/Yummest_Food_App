@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Terrina con foie de pato y confitura de higos,Offer,16.0,EUR,Entrante,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+1,1,MenuItem,Jamón ibérico de montanera,Offer,15.5,EUR,Entrante,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+2,2,MenuItem,Anchoas de Santoña con tomate natural y aceite de oliva virgen (6 Uds.),Offer,19.5,EUR,Entrante,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+3,3,MenuItem,Zamburiñas gratinadas al Albariño,Offer,17.5,EUR,Entrante,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna

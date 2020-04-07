@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Langostinos salteados con verdura,Offer,8.2,EUR,Langostinos,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+1,1,MenuItem,Langostinos fritos rebozados con harina crujiente (10 unidades),Offer,8.5,EUR,Langostinos,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+2,2,MenuItem,Langostinos kon-bao,Offer,8.8,EUR,Langostinos,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+3,3,MenuItem,Langostinos al curry estilo thailandés,Offer,8.8,EUR,Langostinos,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya

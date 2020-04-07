@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos Mex,Offer,8.9,EUR,Raciones 4 You,8.5,"""Americano""","""Calle de Goya","""geo"":{""latitude"":40.4248074,""longitude"":-3.6718707",Wings 4 you
+1,1,MenuItem,Bacon cheese fries,Offer,7.5,EUR,Raciones 4 You,8.5,"""Americano""","""Calle de Goya","""geo"":{""latitude"":40.4248074,""longitude"":-3.6718707",Wings 4 you
+2,2,MenuItem,Quesadilla de pollo,Offer,5.9,EUR,Raciones 4 You,8.5,"""Americano""","""Calle de Goya","""geo"":{""latitude"":40.4248074,""longitude"":-3.6718707",Wings 4 you
+3,3,MenuItem,Mozzarella sticks,Offer,5.9,EUR,Raciones 4 You,8.5,"""Americano""","""Calle de Goya","""geo"":{""latitude"":40.4248074,""longitude"":-3.6718707",Wings 4 you
+4,4,MenuItem,Nuggets de pollo 6 uds,Offer,5.9,EUR,Raciones 4 You,8.5,"""Americano""","""Calle de Goya","""geo"":{""latitude"":40.4248074,""longitude"":-3.6718707",Wings 4 you

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Maguro,Offer,12.0,EUR,Tepanyaki,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+1,1,MenuItem,Sake,Offer,7.5,EUR,Tepanyaki,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+2,2,MenuItem,Pollo corral,Offer,6.0,EUR,Tepanyaki,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer

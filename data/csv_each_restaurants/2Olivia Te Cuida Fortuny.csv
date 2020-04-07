@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de rúcola, cecina e higos asados con queso de Valdeón",Offer,8.5,EUR,Ensaladas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+1,1,MenuItem,"Ensalada de diferentes lechugas manzana, aguacate y nueces",Offer,8.5,EUR,Ensaladas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+2,2,MenuItem,Ensalada de mango y zanahoria con aromas del sureste asiático,Offer,8.5,EUR,Ensaladas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+3,3,MenuItem,"Ensalada de lentejas, germinados, aguacate y pipas de calabaza",Offer,8.5,EUR,Ensaladas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny
+4,4,MenuItem,"Ensalada de espinacas de diferentes lechugas , espinaca, calabacín y pipas de calabaza",Offer,8.5,EUR,Ensaladas,9.1,"""Internacional""","""Calle de Fortuny","""geo"":{""latitude"":40.4287654,""longitude"":-3.6911765",Olivia Te Cuida Fortuny

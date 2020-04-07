@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo de choto al Cabrales,Offer,21.0,EUR,Plato,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+1,1,MenuItem,Lomo de buey trinchado (2 personas ),Offer,43.5,EUR,Plato,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar
+2,2,MenuItem,Bacalao a los tres gustos,Offer,18.5,EUR,Plato,9.5,"""Asturiano""","""C","""geo"":{""latitude"":40.428548159403,""longitude"":-3.6728699207306",Casa Baltasar

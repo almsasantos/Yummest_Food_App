@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de tomate con ventresca,Offer,18,EUR,Ensaladas y Verduras,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+1,1,MenuItem,Ensalada de rulo de cabra,Offer,16,EUR,Ensaladas y Verduras,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+2,2,MenuItem,Ensalada La Clave,Offer,16,EUR,Ensaladas y Verduras,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+3,3,MenuItem,Ensalada mediterránea (para 2 personas),Offer,20,EUR,Ensaladas y Verduras,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+4,4,MenuItem,Parrillada de verduras,Offer,16,EUR,Ensaladas y Verduras,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+5,5,MenuItem,Alcachofas en flor con ibérico,Offer,16,EUR,Ensaladas y Verduras,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+6,6,MenuItem,Habitas con foie,Offer,18,EUR,Ensaladas y Verduras,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave

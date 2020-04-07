@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con carabineros,Offer,22.0,EUR,Plato,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+1,1,MenuItem,Merluza al gusto,Offer,21.45,EUR,Plato,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+2,2,MenuItem,Villagodio,Offer,22.0,EUR,Plato,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera

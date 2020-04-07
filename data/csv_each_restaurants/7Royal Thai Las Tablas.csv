@@ -1,0 +1,19 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Curry verde con verduras y albahacas: Pollo,Offer,15.29,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+1,1,MenuItem,Curry verde con verduras y albahacas: Langostino,Offer,18.59,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+2,2,MenuItem,Curry verde con verduras y albahacas: Ternera,Offer,17.49,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+3,3,MenuItem,Curry verde con verduras y albahacas: Tofu Verduras,Offer,13.09,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+4,4,MenuItem,Curry rojo con verduras y albahacas: Pollo,Offer,15.29,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+5,5,MenuItem,Curry rojo con verduras y albahacas: Langostino,Offer,18.59,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+6,6,MenuItem,Curry rojo con verduras y albahacas: Tofu Verduras,Offer,13.09,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+7,7,MenuItem,Curry rojo con verduras y albahacas: Solomillo Buey,Offer,17.49,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+8,8,MenuItem,Curry rojo con verduras y albahacas: Pato,Offer,17.49,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+9,9,MenuItem,"Curry amarillo con patata, cebolla frita y zanahoria: Pollo",Offer,15.29,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+10,10,MenuItem,"Curry amarillo con patata, cebolla frita y zanahoria: Tofu Verduras",Offer,13.09,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+11,11,MenuItem,"Curry amarillo con patata, cebolla frita y zanahoria: Langostino",Offer,18.59,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+12,12,MenuItem,Panaeng: Pollo,Offer,15.29,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+13,13,MenuItem,Panaeng: Langostino,Offer,18.59,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+14,14,MenuItem,Panaeng: Solomillo Buey,Offer,17.49,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+15,15,MenuItem,Massaman Curry: Pollo,Offer,15.29,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+16,16,MenuItem,Massaman Curry: Langostino,Offer,18.59,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+17,17,MenuItem,Massaman Curry: Carne Buey,Offer,16.39,EUR,Curry,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas

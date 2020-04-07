@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CHICKEN MOMO NEPALI / POLLO MOMO NEPALI,Offer,5.75,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+1,1,MenuItem,ONION BHAJI / CEBOLLA BHAJI,Offer,3.8,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+2,2,MenuItem,VEGETABLE PAKORA/ VERDURA PAKORA,Offer,4.25,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+3,3,MenuItem,CHICKEN PAKORA/ POLLO PAKORA,Offer,4.75,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+4,4,MenuItem,VEGETABLE SAMOSA / VERDURA SAMOSA,Offer,4.25,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+5,5,MenuItem,CHICKEN SAMOSA/ POLLO SAMOSA,Offer,4.75,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+6,6,MenuItem,PRAWN PURI/ GAMBAS PURI,Offer,6.5,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+7,7,MenuItem,CHICKEN WINGS/ ALITAS DE POLLO,Offer,6.5,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+8,8,MenuItem,KATHMANDU MIX STARTER/ KATHMANDU APERITIVO MIXTO,Offer,7.95,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House
+9,9,MenuItem,PRAWN PAKORA/ GAMBAS PAKORA,Offer,5.5,EUR,Entrante,9.3,"""Indio""","""Calle Acuario","""geo"":{""latitude"":40.4742709,""longitude"":-3.5786057",Kathmandu Tandoori House

@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa Miso,Offer,3.95,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+1,1,MenuItem,Ensalada de algas wakame con sésamo,Offer,4.5,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+2,2,MenuItem,Ensalada de buey de mar con algas y pepino,Offer,6.95,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+3,3,MenuItem,Edamame,Offer,3.5,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+4,4,MenuItem,Tempura de Vegetales,Offer,8.5,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+5,5,MenuItem,Tempura de Langostino,Offer,15.8,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+6,6,MenuItem,Dimsum,Offer,4.95,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+7,7,MenuItem,Gyozas de pollo,Offer,6.5,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi
+8,8,MenuItem,Gyozas de carne,Offer,6.95,EUR,Entrantes,9.3,"""Japonés""","""Calle Cardenal Tavera","""geo"":{""latitude"":40.4951392,""longitude"":-3.6592549",Hamachi Sushi

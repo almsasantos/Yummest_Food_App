@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pollo Picantón,Offer,16.9,EUR,LOS PRINCIPALES,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+1,1,MenuItem,Medallones de Ibérico al Pedro Ximénez,Offer,14.5,EUR,LOS PRINCIPALES,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+2,2,MenuItem,Medallones de Ibérico La Bonita,Offer,14.5,EUR,LOS PRINCIPALES,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+3,3,MenuItem,Medallones de Ibérico al Roquefort,Offer,14.5,EUR,LOS PRINCIPALES,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+4,4,MenuItem,Solomillo de Ternera,Offer,18.5,EUR,LOS PRINCIPALES,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+5,5,MenuItem,Chuletón Trinchado,Offer,31.9,EUR,LOS PRINCIPALES,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid

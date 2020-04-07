@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,8.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+1,1,MenuItem,Toro (Ventresca de Atún),Offer,9.5,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+2,2,MenuItem,Pescado blanco s/m,Offer,7.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+3,3,MenuItem,Salmón,Offer,5.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+4,4,MenuItem,Vieira,Offer,6.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+5,5,MenuItem,Calamar,Offer,5.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+6,6,MenuItem,Langostino tigre,Offer,8.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+7,7,MenuItem,Anguila,Offer,8.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+8,8,MenuItem,Huevas de Salmón,Offer,9.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+9,9,MenuItem,Erizo de mar (octubre-marzo),Offer,11.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+10,10,MenuItem,Lomo Alto de Buey,Offer,9.0,EUR,Nigiri,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja

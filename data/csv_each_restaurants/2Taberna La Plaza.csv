@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,De pollo con queso brie,Offer,4.5,EUR,Tostas,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+1,1,MenuItem,De morcilla con queso brie,Offer,4.5,EUR,Tostas,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+2,2,MenuItem,De jamón y tomate,Offer,3.5,EUR,Tostas,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+3,3,MenuItem,De salmón con Philadelphia,Offer,4.0,EUR,Tostas,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza

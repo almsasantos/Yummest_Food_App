@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tikka Kebab,Offer,9.5,EUR,Tandoori Especial de Baisakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+1,1,MenuItem,Body Kebab de Ternera,Offer,8.5,EUR,Tandoori Especial de Baisakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+2,2,MenuItem,Mix Kebab,Offer,9.5,EUR,Tandoori Especial de Baisakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+3,3,MenuItem,Tandoori de Pollo a la Menta,Offer,7.0,EUR,Tandoori Especial de Baisakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+4,4,MenuItem,Tandoori de Codorniz,Offer,12.0,EUR,Tandoori Especial de Baisakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+5,5,MenuItem,Sheekh Kebab,Offer,9.0,EUR,Tandoori Especial de Baisakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi
+6,6,MenuItem,Tikka de Pollo,Offer,9.0,EUR,Tandoori Especial de Baisakhi,8.8,"""Indio""","""Calle de Lavapiés","""geo"":{""latitude"":40.4097396,""longitude"":-3.7025382",Baisakhi

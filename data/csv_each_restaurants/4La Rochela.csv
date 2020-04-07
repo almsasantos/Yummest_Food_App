@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Superperro colombiano,Offer,5.5,EUR,Cositas ricas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+1,1,MenuItem,Ítalo-Hawaiano,Offer,7.5,EUR,Cositas ricas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+2,2,MenuItem,Árabe con pollo,Offer,6.5,EUR,Cositas ricas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela
+3,3,MenuItem,American Burger,Offer,7.0,EUR,Cositas ricas,9.4,"""Colombiano""","""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4336661,""longitude"":-3.7025416",La Rochela

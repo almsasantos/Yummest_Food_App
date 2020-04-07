@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada AbonaVida (lechuga, tomate, cebolla, queso de cabra, pasas y nueces con nuestro aliño especial a base de aceite de oliva virgen extra, ágave, soja y balsámico)",Offer,9.5,EUR,Entrante,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida
+1,1,MenuItem,Hummus casero con nachos,Offer,7.0,EUR,Entrante,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida
+2,2,MenuItem,Ración de jamón ibérico y queso,Offer,11.0,EUR,Entrante,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida
+3,3,MenuItem,"ecoensalada (zanahoria, calabacin, lombarda, cebolla, tomate y lechuga)",Offer,9.5,EUR,Entrante,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida
+4,4,MenuItem,Ración de jamón ibérico,Offer,12.0,EUR,Entrante,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida
+5,5,MenuItem,Ración de queso de oveja curado,Offer,9.0,EUR,Entrante,7.9,"""Vegetariano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191452,""longitude"":-3.70684",AbonaVida

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mousse de queso cremosa,Offer,5.5,EUR,POSTRE,9.2,"""Español""","""Calle Espalter","""geo"":{""latitude"":40.4129052,""longitude"":-3.6906864",The Spanish Farm
+1,1,MenuItem,Volcán de chocolate casero,Offer,5.5,EUR,POSTRE,9.2,"""Español""","""Calle Espalter","""geo"":{""latitude"":40.4129052,""longitude"":-3.6906864",The Spanish Farm
+2,2,MenuItem,Espuma de Yogur con lima,Offer,6.0,EUR,POSTRE,9.2,"""Español""","""Calle Espalter","""geo"":{""latitude"":40.4129052,""longitude"":-3.6906864",The Spanish Farm

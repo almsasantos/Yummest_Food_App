@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos Borazu,Offer,9.95,EUR,Entrante,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU
+1,1,MenuItem,Gyozas de Pto,Offer,4.95,EUR,Entrante,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU
+2,2,MenuItem,Ensalada Kani,Offer,5.75,EUR,Entrante,8.8,None,"""Calle Víctor Andrés Belaunde","""geo"":{""latitude"":40.4546962,""longitude"":-3.6793192",BORAZU

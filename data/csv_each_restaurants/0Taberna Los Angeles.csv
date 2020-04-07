@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta helada,Offer,3.9,EUR,Postres,7.9,"""Asturiano""","""Costanilla de los Ángeles","""geo"":{""latitude"":40.4186687,""longitude"":-3.708222",Taberna Los Angeles
+1,1,MenuItem,Helado de vainilla con nueces y miel,Offer,3.9,EUR,Postres,7.9,"""Asturiano""","""Costanilla de los Ángeles","""geo"":{""latitude"":40.4186687,""longitude"":-3.708222",Taberna Los Angeles

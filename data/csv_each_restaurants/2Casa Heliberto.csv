@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bomba de chocolate,Offer,7.0,EUR,Postre,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+1,1,MenuItem,Tartas caseras,Offer,7.0,EUR,Postre,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto
+2,2,MenuItem,Delicias de nutela con natilla,,,,Postre,9,"""Mediterráneo""","""Calle de Modesto Lafuente","""geo"":{""latitude"":40.4417447,""longitude"":-3.6959984",Casa Heliberto

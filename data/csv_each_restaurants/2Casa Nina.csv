@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carnes,,,,Especialidades,8.5,"""Peruano""","""Calle Concordia","""geo"":{""latitude"":40.3957919,""longitude"":-3.6651794",Casa Nina
+1,1,MenuItem,Lomo saltado,Offer,12.0,EUR,Especialidades,8.5,"""Peruano""","""Calle Concordia","""geo"":{""latitude"":40.3957919,""longitude"":-3.6651794",Casa Nina
+2,2,MenuItem,Bistec a lo pobre,Offer,14.0,EUR,Especialidades,8.5,"""Peruano""","""Calle Concordia","""geo"":{""latitude"":40.3957919,""longitude"":-3.6651794",Casa Nina
+3,3,MenuItem,Tallarín saltado de ternera,Offer,12.0,EUR,Especialidades,8.5,"""Peruano""","""Calle Concordia","""geo"":{""latitude"":40.3957919,""longitude"":-3.6651794",Casa Nina

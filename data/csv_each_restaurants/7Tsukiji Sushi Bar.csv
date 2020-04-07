@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de salmón,Offer,9.5,EUR,Tataki (8 cortes),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+1,1,MenuItem,Tataki de atún,Offer,10.5,EUR,Tataki (8 cortes),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+2,2,MenuItem,Tataki de buey,Offer,15.95,EUR,Tataki (8 cortes),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+3,3,MenuItem,Tataki pez mantequilla,Offer,9.65,EUR,Tataki (8 cortes),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+4,4,MenuItem,Tataki toro,Offer,14.95,EUR,Tataki (8 cortes),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar

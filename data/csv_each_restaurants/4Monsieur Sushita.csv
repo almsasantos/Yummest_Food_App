@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pasta orgánica de trigo sarraceno con pollo orgánico,Offer,10.9,EUR,Noodles & Arroces,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+1,1,MenuItem,Pasta Vermicelli con gambón y curry rojo picante,Offer,12.9,EUR,Noodles & Arroces,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+2,2,MenuItem,"Pasta orgánica de trigo sarraceno con bogavante, leche de coco y ají picante",Offer,18.9,EUR,Noodles & Arroces,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+3,3,MenuItem,"Pasta fresca integral (con huevo ecológico escalfado, setas y trufa)",Offer,10.9,EUR,Noodles & Arroces,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+4,4,MenuItem,Arroz frito con confit de pato y salsa de frambuesas,Offer,11.9,EUR,Noodles & Arroces,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita

@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lacón a la gallega,Offer,8.8,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+1,1,MenuItem,Pisto manchego,Offer,6.6,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+2,2,MenuItem,Mousse de cabrales batido con sidra,Offer,6.6,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+3,3,MenuItem,Migas manchegas,Offer,6.6,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+4,4,MenuItem,Cazuelita de gambas al ajillo,Offer,6.6,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+5,5,MenuItem,Ajo tomate del Campo de Criptana,Offer,6.6,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+6,6,MenuItem,Ferrero de morcilla de Burgos (unidad),Offer,1.1,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+7,7,MenuItem,Foie de pato,Offer,11.0,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+8,8,MenuItem,"Surtido de ibéricos (lomo de Guijuelo, jamón ibérico, y queso manchego semicurado)",Offer,11.0,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+9,9,MenuItem,"Huevos rotos con morcilla, jamón, salmón o gulas",Offer,11.0,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+10,10,MenuItem,Trigueros braseados con escamas queso manchego y sal Maldon,Offer,8.8,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+11,11,MenuItem,Boquerones en vinagre,Offer,6.6,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+12,12,MenuItem,Habitas baby rehogadas y con virutas de jamón,Offer,8.8,EUR,Tapas y Raciones,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes

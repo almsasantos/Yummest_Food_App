@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CARPACCIO DI MANZO,Offer,15.5,EUR,CARPACCIO E TARTARE,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+1,1,MenuItem,CARPACCIO DI SALMONE,Offer,15.5,EUR,CARPACCIO E TARTARE,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+2,2,MenuItem,CARPACCIO DI POLPO,Offer,15.5,EUR,CARPACCIO E TARTARE,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+3,3,MenuItem,TARTARE DI SALMONE,Offer,15.5,EUR,CARPACCIO E TARTARE,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+4,4,MenuItem,TARTARE DI TONNO ROSSO,Offer,16.0,EUR,CARPACCIO E TARTARE,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+5,5,MenuItem,STEAK TARTARE,Offer,17.5,EUR,CARPACCIO E TARTARE,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet

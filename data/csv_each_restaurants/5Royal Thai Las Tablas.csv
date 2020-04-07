@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gung Phad Pong Karee,Offer,18.15,EUR,Mariscos Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+1,1,MenuItem,Gung Phad Normai,Offer,18.15,EUR,Mariscos Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+2,2,MenuItem,Gung Namprik Phao,Offer,18.15,EUR,Mariscos Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+3,3,MenuItem,Gung Pao,Offer,19.25,EUR,Mariscos Salteados,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas

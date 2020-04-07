@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuestro Pan Perdido con crema helada de vainilla,Offer,6.6,EUR,Los Postres de Samarkanda,8.7,"""Mediterráneo""","""Glorieta de Carlos V","""geo"":{""latitude"":40.4074969,""longitude"":-3.6917107",Samarkanda
+1,1,MenuItem,Piruletas de tiramisú,Offer,6.6,EUR,Los Postres de Samarkanda,8.7,"""Mediterráneo""","""Glorieta de Carlos V","""geo"":{""latitude"":40.4074969,""longitude"":-3.6917107",Samarkanda
+2,2,MenuItem,Tarta de dos quesos y confitura de cereza,Offer,6.6,EUR,Los Postres de Samarkanda,8.7,"""Mediterráneo""","""Glorieta de Carlos V","""geo"":{""latitude"":40.4074969,""longitude"":-3.6917107",Samarkanda
+3,3,MenuItem,Lingote de chocolate y maracuyá,Offer,6.6,EUR,Los Postres de Samarkanda,8.7,"""Mediterráneo""","""Glorieta de Carlos V","""geo"":{""latitude"":40.4074969,""longitude"":-3.6917107",Samarkanda
+4,4,MenuItem,Tarta de zanahoria con crema de queso,Offer,6.6,EUR,Los Postres de Samarkanda,8.7,"""Mediterráneo""","""Glorieta de Carlos V","""geo"":{""latitude"":40.4074969,""longitude"":-3.6917107",Samarkanda

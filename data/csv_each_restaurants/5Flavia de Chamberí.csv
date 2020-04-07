@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto con verdure foglie di scamorza affumicata,Offer,19,EUR,Risotto,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+1,1,MenuItem,Risotto di funghi porcini,Offer,18,EUR,Risotto,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+2,2,MenuItem,Risotto frutti di mare,Offer,21,EUR,Risotto,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí
+3,3,MenuItem,Risotto di quinoa con pollo al curry,Offer,18,EUR,Risotto,8.5,"""Italiano""","""Calle de Trafalgar","""geo"":{""latitude"":40.4333108,""longitude"":-3.70145",Flavia de Chamberí

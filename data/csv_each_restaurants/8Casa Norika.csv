@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo adobado + 2 huevos fritos + patatas,Offer,10,EUR,Platos combinados,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika
+1,1,MenuItem,Bacón + 2 huevos fritos + patatas,Offer,9,EUR,Platos combinados,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika
+2,2,MenuItem,Chorizo frito + 2 huevos fritos + patatas,Offer,10,EUR,Platos combinados,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika

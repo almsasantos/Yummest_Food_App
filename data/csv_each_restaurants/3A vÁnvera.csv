@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lasaña clásica,Lasañas,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+1,1,MenuItem,Requesón y espinacas,Lasañas,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera
+2,2,MenuItem,De boletus,Lasañas,9,None,"""Calle Zurbano 85","""geo"":{""latitude"":40.439735592688,""longitude"":-3.692850112915",A vÁnvera

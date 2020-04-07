@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla rosa,Offer,9.5,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+1,1,MenuItem,Timbal de verduras asadas,Offer,14.0,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+2,2,MenuItem,Tartar de salmón,Offer,15.0,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+3,3,MenuItem,Jamón de bellota,Offer,22.0,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+4,4,MenuItem,Ensalada de tomate rosa,Offer,14.0,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+5,5,MenuItem,Ensalada de ahumados,Offer,14.0,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+6,6,MenuItem,Falso rissoto de puntallete,Offer,14.0,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+7,7,MenuItem,Pulpo en tempura,Offer,15.0,EUR,PARA COMPARTIR,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste

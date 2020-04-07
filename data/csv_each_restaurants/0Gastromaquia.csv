@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de boletus,Offer,1.9,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+1,1,MenuItem,Tacos de panceta laqueada,Offer,1.8,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+2,2,MenuItem,Atún Rojo,Offer,15.3,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+3,3,MenuItem,Guacamole,Offer,8.0,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+4,4,MenuItem,Croqueta de bacalao,Offer,9.0,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+5,5,MenuItem,Pulpo a feira con espuma de patata,Offer,15.5,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+6,6,MenuItem,Queso de cabra a la plancha,Offer,13.9,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+7,7,MenuItem,Ceviche Gastromaquia,Offer,13.0,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+8,8,MenuItem,Tartar cuak cuak,Offer,7.0,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia
+9,9,MenuItem,Mejillones tikka masala,Offer,18.9,EUR,Entrantes,8.9,"""Internacional""","""Calle Pelayo","""geo"":{""latitude"":40.422009,""longitude"":-3.6989627",Gastromaquia

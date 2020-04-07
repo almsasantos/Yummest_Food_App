@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Edamame,Offer,4.8,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+1,1,MenuItem,Pepino kimchi,Offer,4.8,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+2,2,MenuItem,Imoage,Offer,6.8,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+3,3,MenuItem,Kinoko Katsu,Offer,8.8,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+4,4,MenuItem,Tebaski,Offer,8.8,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+5,5,MenuItem,Tomato Sashimi,Offer,9.5,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+6,6,MenuItem,Konnyaku Salad,Offer,12.5,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+7,7,MenuItem,Kemuri Soba,Offer,13.5,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+8,8,MenuItem,BIG-MAC fried rice,Offer,17.5,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+9,9,MenuItem,Gyuniku Yukke,Offer,18.5,EUR,Aperitivos,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49

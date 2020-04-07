@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún rojo a la plancha y confitura de tomate,Offer,22,EUR,Pescados,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+1,1,MenuItem,Merluza a la plancha o romana,Offer,21,EUR,Pescados,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+2,2,MenuItem,Lubina a la espalda,Offer,18,EUR,Pescados,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+3,3,MenuItem,Bacalao a la riojana,Offer,19,EUR,Pescados,8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar

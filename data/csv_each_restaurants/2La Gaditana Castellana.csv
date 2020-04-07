@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cazuela de angulas del Cantábrico (100 gr),Offer,49.0,EUR,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+1,1,MenuItem,Cazuela de angulas del Cantábrico (100 gr),,,,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+2,2,MenuItem,Ostiones (6 unidades) al natural o fritos,Offer,14.0,EUR,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+3,3,MenuItem,Zamburiñas plancha (6 unidades),Offer,15.0,EUR,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+4,4,MenuItem,"Ortiguillas frescas, la excelencia de Cádiz",Offer,18.0,EUR,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+5,5,MenuItem,Coquinas al vapor,Offer,14.0,EUR,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+6,6,MenuItem,Berberechos al vapor,Offer,14.0,EUR,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana
+7,7,MenuItem,Mejillones al vapor,Offer,12.0,EUR,Mariscos,9.1,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4361433,""longitude"":-3.6887472",La Gaditana Castellana

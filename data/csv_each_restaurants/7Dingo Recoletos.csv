@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Merluza de pincho,Offer,18.5,EUR,Grill de carbón de Encina,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+1,1,MenuItem,Entraña,Offer,11.9,EUR,Grill de carbón de Encina,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+2,2,MenuItem,Lagarto Ibérico,Offer,11.9,EUR,Grill de carbón de Encina,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+3,3,MenuItem,Costillas melosas con BBQ sauce,Offer,21.9,EUR,Grill de carbón de Encina,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+4,4,MenuItem,1/2 Costillas melosas con BBQ sauce,Offer,11.9,EUR,Grill de carbón de Encina,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos
+5,5,MenuItem,Entrecot de lomo bajo,Offer,14.9,EUR,Grill de carbón de Encina,7.7,"""Americano""","""Paseo de Recoletos","""geo"":{""latitude"":40.4224979,""longitude"":-3.691054",Dingo Recoletos

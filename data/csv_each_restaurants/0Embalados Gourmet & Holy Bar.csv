@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Balitas Crujientes de Pato,Offer,9.0,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+1,1,MenuItem,Cestas de plátano macho con camarones,Offer,9.5,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+2,2,MenuItem,Tiradito de Atún,Offer,10.0,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+3,3,MenuItem,Burrata,Offer,11.0,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+4,4,MenuItem,Bao de Panceta,Offer,5.5,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+5,5,MenuItem,Ensalada Olivier,Offer,9.0,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+6,6,MenuItem,Holy Guacamole,Offer,9.5,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+7,7,MenuItem,Mejillones en Escabeche,Offer,10.5,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+8,8,MenuItem,Jugosos Torreznos,Offer,9.0,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar
+9,9,MenuItem,Croquetas de Carrillera,Offer,7.0,EUR,TAPAS,8.9,None,"""Calle de Núñez de Arce","""geo"":{""latitude"":40.4152775,""longitude"":-3.7012589",Embalados Gourmet & Holy Bar

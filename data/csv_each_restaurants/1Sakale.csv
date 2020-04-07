@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burger de salmón,Offer,12.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+1,1,MenuItem,Shrimp hot dog,Offer,10.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+2,2,MenuItem,Fajitas,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+3,3,MenuItem,Pokebowl,Offer,12.5,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+4,4,MenuItem,Tentación,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+5,5,MenuItem,Caribe,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+6,6,MenuItem,Sákale roll,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+7,7,MenuItem,Euphoria,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+8,8,MenuItem,Fuji,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+9,9,MenuItem,Coco pasión,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale
+10,10,MenuItem,Flaka,Offer,15.0,EUR,Principales,9.1,"""Japonés""","""Calle del Molino de Viento","""geo"":{""latitude"":40.4232716,""longitude"":-3.703708",Sakale

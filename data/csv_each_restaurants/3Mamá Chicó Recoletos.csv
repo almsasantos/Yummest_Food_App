@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Calabacín y berenjena,Offer,16.4,EUR,Pizza gourmet (opc. masa negra),None,None,None,Mamá Chicó Recoletos
+1,1,MenuItem,Boletus y trufa,Offer,16.8,EUR,Pizza gourmet (opc. masa negra),None,None,None,Mamá Chicó Recoletos
+2,2,MenuItem,Setas de temporada con foie,Offer,16.8,EUR,Pizza gourmet (opc. masa negra),None,None,None,Mamá Chicó Recoletos
+3,3,MenuItem,Mamá Chicó,Offer,16.8,EUR,Pizza gourmet (opc. masa negra),None,None,None,Mamá Chicó Recoletos
+4,4,MenuItem,Salmón ahumado,Offer,17.6,EUR,Pizza gourmet (opc. masa negra),None,None,None,Mamá Chicó Recoletos
+5,5,MenuItem,Jamón ibérico,Offer,19.4,EUR,Pizza gourmet (opc. masa negra),None,None,None,Mamá Chicó Recoletos

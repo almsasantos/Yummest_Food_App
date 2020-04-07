@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+3,3,MenuItem,Botella de agua,Offer,2.0,EUR,Bebidas,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,9.1,"""Americano""","""Calle del Arenal","""geo"":{""latitude"":40.4178794,""longitude"":-3.7081798",Steakburger Arenal

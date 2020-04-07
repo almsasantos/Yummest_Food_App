@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fondue de chocolate,Offer,4.95,EUR,Postres,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+1,1,MenuItem,Profiteroles,Offer,4.85,EUR,Postres,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+2,2,MenuItem,Tiramisú,Offer,4.95,EUR,Postres,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+3,3,MenuItem,Copa de helados,Offer,4.45,EUR,Postres,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+4,4,MenuItem,Tarta de la casa de queso,Offer,4.9,EUR,Postres,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+5,5,MenuItem,Tarta de la casa de chocolate,Offer,4.9,EUR,Postres,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+6,6,MenuItem,Fragola dolce,Offer,4.9,EUR,Postres,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak Tartar,Offer,16,EUR,Carnes y Pescados,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+1,1,MenuItem,Hamburguesa Larrun,Offer,12,EUR,Carnes y Pescados,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+2,2,MenuItem,Picantón en su Jugo,Offer,14,EUR,Carnes y Pescados,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+3,3,MenuItem,Entrecotte de Cebón,Offer,18,EUR,Carnes y Pescados,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+4,4,MenuItem,Tataki de atún con sésamo,Offer,16,EUR,Carnes y Pescados,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+5,5,MenuItem,Bacalao negro con ali-olí,Offer,18,EUR,Carnes y Pescados,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN
+6,6,MenuItem,Merluza rebozada con salsa de chipirones,Offer,16,EUR,Carnes y Pescados,8.9,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4961792,""longitude"":-3.6740164",LARRUN

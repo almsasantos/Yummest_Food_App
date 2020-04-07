@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la brasa aliñado con aceite oliva virgen y vinagre de Módena,Offer,16.5,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+1,1,MenuItem,Tataki de bonito del Cantábrico con parrillada de verduras y salsa romesco,Offer,19.0,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+2,2,MenuItem,"Carpaccio trufado de gambón rojo, nueces de macadamia y huevas",Offer,13.5,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+3,3,MenuItem,“Bienmesabe” Cazón en adobo como en Cadiz,Offer,11.5,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+4,4,MenuItem,Lomo de vaca gallega a la plancha fileteado y con patatas fritas,Offer,19.5,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+5,5,MenuItem,Carpaccio de presa ibérica de bellota con aliño de cítricos y confituta de tomate,Offer,13.5,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+6,6,MenuItem,Raviolis de rabo de toro sobre crema ligera de patata y su jugo,Offer,16.5,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+7,7,MenuItem,"Brochetas de gambón rojo, bacon y calamar de anzuelo a la plancha con verduras a la parrilla",Offer,15.5,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina
+8,8,MenuItem,Tartar de lubina salvaje con salsa de caviar y tostaditas payesas,Offer,21.0,EUR,Plato,8.9,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.6989099979401",Mercado de la Reina

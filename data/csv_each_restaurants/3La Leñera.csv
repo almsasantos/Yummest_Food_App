@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla paiana típica de asturias,Offer,13.5,EUR,Con los mejores huevos camperos,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera
+1,1,MenuItem,Huevos estrellados con jamón ibérico y patatines,Offer,18.8,EUR,Con los mejores huevos camperos,8.9,"""Asador""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6974499225616455",La Leñera

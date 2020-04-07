@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huevos camperos con hongos salteados Ragan Josh,Offer,22,EUR,Nuestra carta fusión cántabra-hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+1,1,MenuItem,Dados de merluza fritos con salsa de mango especiada,Offer,22,EUR,Nuestra carta fusión cántabra-hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+2,2,MenuItem,Tartar de atún con tikka masala,Offer,24,EUR,Nuestra carta fusión cántabra-hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+3,3,MenuItem,Rodaballo Tandori al estilo indio y arroz especiado,Offer,28,EUR,Nuestra carta fusión cántabra-hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+4,4,MenuItem,"Solomillo salteado con verduras, arroz basmati y curry rojo",Offer,24,EUR,Nuestra carta fusión cántabra-hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez
+5,5,MenuItem,"Albóndigas de tudanca con korma, coco, azafrán y frutos secos",Offer,22,EUR,Nuestra carta fusión cántabra-hindú,8.7,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4344488,""longitude"":-3.6831675",El Hombre Pez

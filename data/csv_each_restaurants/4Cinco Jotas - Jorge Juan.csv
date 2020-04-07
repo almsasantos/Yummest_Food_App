@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,STEAK TARTAR,Offer,16.0,EUR,NUESTRAS CARNES CINCO JOTAS CORTES DE LA DEHESA,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+1,1,MenuItem,SOLOMILLO IBÉRICO AL PEDRO XIMÉNEZ,Offer,16.5,EUR,NUESTRAS CARNES CINCO JOTAS CORTES DE LA DEHESA,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+2,2,MenuItem,CARRILLERA MELOSA,Offer,15.0,EUR,NUESTRAS CARNES CINCO JOTAS CORTES DE LA DEHESA,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+3,3,MenuItem,ALBÓNDIGAS DE ABANICO,Offer,11.5,EUR,NUESTRAS CARNES CINCO JOTAS CORTES DE LA DEHESA,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+4,4,MenuItem,LASAGNA DE CARRILLERA IBÉRICA,Offer,15.0,EUR,NUESTRAS CARNES CINCO JOTAS CORTES DE LA DEHESA,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+5,5,MenuItem,COCIDO IBÉRICO DE LA DEHESA,Offer,32.0,EUR,NUESTRAS CARNES CINCO JOTAS CORTES DE LA DEHESA,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+5,5,MenuItem,Botella de vino,,,,Bebidas,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,None,"""Indio""","""Calle de San Bernardino","""geo"":{""latitude"":40.4251357,""longitude"":-3.7101555",Bombay Blue San Bernardino

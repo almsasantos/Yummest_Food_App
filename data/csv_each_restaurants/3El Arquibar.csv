@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bienvenida,"Café o té\nZumo natural de frutas (naranja, mango, kiwi, plátano, manzana)",Brunch,9.4,"""Español""","""Travesía de Conde Duque","""geo"":{""latitude"":40.42588,""longitude"":-3.70992",El Arquibar
+1,1,MenuItem,Para abrir boca,"Degustación de repostería casera (bizcochos de limón, chocolate y zanahoria), cupcakes y cookies artesanas",Brunch,9.4,"""Español""","""Travesía de Conde Duque","""geo"":{""latitude"":40.42588,""longitude"":-3.70992",El Arquibar
+2,2,MenuItem,Un toque salado,"Tablas de quesos e ibéricos de bellota (lomo, salchichon), cecina y chorizo de León\nCestita de panes (centeno, gallego, pasas y nueces, con tomate triturado)",Brunch,9.4,"""Español""","""Travesía de Conde Duque","""geo"":{""latitude"":40.42588,""longitude"":-3.70992",El Arquibar
+3,3,MenuItem,¿Algo más?,"Tortillitas de dos huevos (mascarpone, tomates cherry y orégano)\nQueso azul, peras y miel",Brunch,9.4,"""Español""","""Travesía de Conde Duque","""geo"":{""latitude"":40.42588,""longitude"":-3.70992",El Arquibar

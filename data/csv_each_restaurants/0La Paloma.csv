@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico de Bellota,Offer,31.0,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+1,1,MenuItem,Erizos de mar gratinados con huevos de codorniz,Offer,6.6,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+2,2,MenuItem,"Carpaccio de foie con sal maldon, pimienta y aceite de oliva de Baena",Offer,27.0,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+3,3,MenuItem,Rollitos crujientes rellenos de langostinos con salsa de soja (Unidad),Offer,4.0,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+4,4,MenuItem,Tosta de arenques caramelizados,Offer,18.0,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+5,5,MenuItem,Berenjenas en tempura con miel de caña,Offer,16.0,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+6,6,MenuItem,Zamburiñas gratinadas con muselina de verduras (Unidad),Offer,4.0,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma
+7,7,MenuItem,Mollejas y sesos de cordero,Offer,26.5,EUR,Para Picar,9.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.423761,""longitude"":-3.6821814",La Paloma

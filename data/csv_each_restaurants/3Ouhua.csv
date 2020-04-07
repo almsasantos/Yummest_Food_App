@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+2,2,MenuItem,Café,,,,Bebidas,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+3,3,MenuItem,Botella de agua,Offer,1.5,EUR,Bebidas,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+4,4,MenuItem,Media botella de agua,Offer,1.0,EUR,Bebidas,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+5,5,MenuItem,Botella de vino,Offer,7.5,EUR,Bebidas,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+6,6,MenuItem,Copa de vino,Offer,1.5,EUR,Bebidas,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua

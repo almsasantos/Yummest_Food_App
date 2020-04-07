@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes a elegir,Ceviche.\nEnsalada mixta.\ny dos entrantes más a elegir del día.,Menú del día 11 €,8.9,"""Peruano""","""Calle Emigrantes","""geo"":{""latitude"":40.4677052,""longitude"":-3.6379683",Fuego y Sabor
+1,1,MenuItem,Segundo a elegir:,Pollo a la brasa.\ny de tres segundos más a elegir del día.,Menú del día 11 €,8.9,"""Peruano""","""Calle Emigrantes","""geo"":{""latitude"":40.4677052,""longitude"":-3.6379683",Fuego y Sabor
+2,2,MenuItem,Postres a elegir:,Tarta de manzana.\nTarta de queso.\nFruta de temporada.\nO café/infusión.,Menú del día 11 €,8.9,"""Peruano""","""Calle Emigrantes","""geo"":{""latitude"":40.4677052,""longitude"":-3.6379683",Fuego y Sabor
+3,3,MenuItem,Bebida a elegir,Agua.\nRefresco.\nCerveza.,Menú del día 11 €,8.9,"""Peruano""","""Calle Emigrantes","""geo"":{""latitude"":40.4677052,""longitude"":-3.6379683",Fuego y Sabor

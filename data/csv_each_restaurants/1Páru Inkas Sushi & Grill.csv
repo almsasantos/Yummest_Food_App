@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"FURAI MAKI: Atun rojo, aguacate, queso crema, crujiente por fuera.",Offer,13,EUR,ROLLS ESPECIALES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+1,1,MenuItem,"TEMPURA: Tempura de Langostino, queso crema, aguacate por fuera con salsa tare.",Offer,13,EUR,ROLLS ESPECIALES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+2,2,MenuItem,"PARMA: Langostinos furai, aguacate, cubierto de finas vieras gratinadas.",Offer,14,EUR,ROLLS ESPECIALES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+3,3,MenuItem,"DOS TUNAS: Tartar de Stun, aguacate, laminas de atún y aliño oriental.",Offer,14,EUR,ROLLS ESPECIALES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+4,4,MenuItem,"TROPICAL: Tempura de langostinos, queso crema, mango por fuera y miel de maracuya.",Offer,13,EUR,ROLLS ESPECIALES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+5,5,MenuItem,"VEGETARIANO, VEGANO, CLASICO",Offer,12,EUR,ROLLS ESPECIALES,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill

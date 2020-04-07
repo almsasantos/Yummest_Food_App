@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burger Clásica de Ternera,Burgers,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika
+1,1,MenuItem,Burger Clásica de Pollo,Burgers,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika
+2,2,MenuItem,DURANTE LOS PARTIDOS 8.50€ CON BEBIDA,Burgers,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika

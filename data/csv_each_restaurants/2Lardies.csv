@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tomate de la Huerta S/T,Offer,13.5,EUR,Ensaladas,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+1,1,MenuItem,Ventresca del Cantábrico con cebolla tierna,Offer,15.5,EUR,Ensaladas,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+2,2,MenuItem,"Tomate de la Huerta S/T, ventresca, pimiento asado casero, yemas de espárrago (D.O. Navarra) y paté de oliva negra",Offer,18.9,EUR,Ensaladas,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+3,3,MenuItem,"Ensalada de piparras, tomate de la huerta, aguacate y sardina ahumada",Offer,14.9,EUR,Ensaladas,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies
+4,4,MenuItem,"Timbal de boquerón del Cantábrico , aguacate y tomate confitado",Offer,14.5,EUR,Ensaladas,8.1,"""Mediterráneo""","""Calle de Ibiza","""geo"":{""latitude"":40.418138,""longitude"":-3.6767006",Lardies

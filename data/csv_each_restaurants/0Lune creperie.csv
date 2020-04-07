@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Galette de salmón y puerro,Offer,9.5,EUR,Platos principales,9.5,"""Crepería""","""Paseo de la Chopera","""geo"":{""latitude"":40.3948477,""longitude"":-3.6999813",Lune creperie
+1,1,MenuItem,Galette ahumada,Offer,9.0,EUR,Platos principales,9.5,"""Crepería""","""Paseo de la Chopera","""geo"":{""latitude"":40.3948477,""longitude"":-3.6999813",Lune creperie
+2,2,MenuItem,Galette vegetariana,Offer,8.0,EUR,Platos principales,9.5,"""Crepería""","""Paseo de la Chopera","""geo"":{""latitude"":40.3948477,""longitude"":-3.6999813",Lune creperie
+3,3,MenuItem,Galette completa,Offer,7.5,EUR,Platos principales,9.5,"""Crepería""","""Paseo de la Chopera","""geo"":{""latitude"":40.3948477,""longitude"":-3.6999813",Lune creperie
+4,4,MenuItem,Galette cabra,Offer,8.0,EUR,Platos principales,9.5,"""Crepería""","""Paseo de la Chopera","""geo"":{""latitude"":40.3948477,""longitude"":-3.6999813",Lune creperie

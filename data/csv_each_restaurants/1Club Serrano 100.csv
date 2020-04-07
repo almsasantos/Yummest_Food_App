@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Risotto de Quinoa con Capon de corral con salsa satay,Offer,12.95,EUR,Plato,9.1,"""Internacional""","""Calle de Serrano","""geo"":{""latitude"":40.433671,""longitude"":-3.6862799",Club Serrano 100
+1,1,MenuItem,"Pizza de Foie, jamón de pato y aceite de Trufa",Offer,12.95,EUR,Plato,9.1,"""Internacional""","""Calle de Serrano","""geo"":{""latitude"":40.433671,""longitude"":-3.6862799",Club Serrano 100
+2,2,MenuItem,Pulpo al olivo con Suave salsa de aceituna botija,Offer,13.95,EUR,Plato,9.1,"""Internacional""","""Calle de Serrano","""geo"":{""latitude"":40.433671,""longitude"":-3.6862799",Club Serrano 100

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crema del dia,Offer,7.9,EUR,Para Empezar,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+1,1,MenuItem,Croquetas,Offer,9.0,EUR,Para Empezar,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+2,2,MenuItem,Huevos de corral,Offer,10.9,EUR,Para Empezar,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+3,3,MenuItem,Carpaccio de Foie con sal ahumada y pan de pasas,Offer,14.5,EUR,Para Empezar,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+4,4,MenuItem,Salmorejo con helado de parmesano y aceite de albahaca,Offer,9.9,EUR,Para Empezar,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+5,5,MenuItem,Pimientos de padrón tradicionales,Offer,7.9,EUR,Para Empezar,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro
+6,6,MenuItem,Parrillada de verduras,Offer,11.9,EUR,Para Empezar,9,"""Español""","""C","""geo"":{""latitude"":40.413167845413,""longitude"":-3.7084200382233",Hotel Posada del León de Oro

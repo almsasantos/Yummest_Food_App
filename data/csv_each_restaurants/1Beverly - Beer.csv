@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Filete de ternera, huevo y patatas fritas",Offer,8.5,EUR,Platos Combinados,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+1,1,MenuItem,"Calamaras a la andaluza, huevo y ensalada",Offer,7.5,EUR,Platos Combinados,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+2,2,MenuItem,Croquetas con ensaladilla y patatas fritas,Offer,5.0,EUR,Platos Combinados,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+3,3,MenuItem,"Salchipapas Frankfurt, patatas y tomate frito",Offer,4.8,EUR,Platos Combinados,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+4,4,MenuItem,Huevos con bacon y patatas fritas,Offer,5.7,EUR,Platos Combinados,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+5,5,MenuItem,"Escalope de pollo, huevo y patatas",Offer,6.7,EUR,Platos Combinados,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer

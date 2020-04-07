@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,OSSOBUCO ALLA MILANESE,Offer,23,EUR,La Carne,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+1,1,MenuItem,TURNEDOS DUGLERE,Offer,28,EUR,La Carne,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+2,2,MenuItem,FILETTO AL BAROLO,Offer,28,EUR,La Carne,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+3,3,MenuItem,FILETTO AL PEPE VERDE,Offer,27,EUR,La Carne,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+4,4,MenuItem,FRENCH RACK,Offer,29,EUR,La Carne,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+5,5,MenuItem,ORECCHIE DI ELEFANTE,Offer,29,EUR,La Carne,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca

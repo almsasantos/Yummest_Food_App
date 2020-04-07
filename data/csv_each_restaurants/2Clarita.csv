@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de salmón,Offer,17,EUR,Nuestros pescados,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+1,1,MenuItem,Tartar de atún rojo marinado,Offer,17,EUR,Nuestros pescados,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+2,2,MenuItem,Bacalao ajoarriero,Offer,18,EUR,Nuestros pescados,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+3,3,MenuItem,"Pulpo a la brasa, con papas arrugás y salsa Tonkatsu",Offer,19,EUR,Nuestros pescados,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita

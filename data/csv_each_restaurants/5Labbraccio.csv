@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mousse de mandarina en lágrimas de chocolate,Offer,5.6,EUR,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+1,1,MenuItem,Tarta de Zanahoria Especial de la Casa,Offer,5.6,EUR,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+2,2,MenuItem,Tiramisú con tejas de almendras,Offer,5.8,EUR,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+3,3,MenuItem,Filloas al modo L´ Abbraccio,,,,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+4,4,MenuItem,Tarta Fina de Manzana Recién Horneada y Acompañada de Helado,,,,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+5,5,MenuItem,Tarta de Queso Especial de la Casa,,,,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+6,6,MenuItem,Piña natural sola o con Cointreau,,,,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+7,7,MenuItem,Helados variados personalizados a su Gusto,,,,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+8,8,MenuItem,Sorbete Helado de Limón al Cava,,,,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+9,9,MenuItem,Zumo de Naranja Natural y Exprimido en el Momento,,,,Postres,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio

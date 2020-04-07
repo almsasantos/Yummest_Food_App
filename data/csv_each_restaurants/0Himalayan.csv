@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Samosa:,Offer,4.95,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+1,1,MenuItem,Kukhura ko Samosa:,Offer,5.5,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+2,2,MenuItem,Pakora:,Offer,4.5,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+3,3,MenuItem,Aloo Chop:,Offer,4.5,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+4,4,MenuItem,Sheek Kebab:,Offer,5.95,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+5,5,MenuItem,MOMO (6 Uds.):,Offer,6.0,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+6,6,MenuItem,MOMO (12 Uds.):,Offer,10.0,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+7,7,MenuItem,Surtido Aperitivo ( para dos ),Offer,7.95,EUR,Entrantes / Starter:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan

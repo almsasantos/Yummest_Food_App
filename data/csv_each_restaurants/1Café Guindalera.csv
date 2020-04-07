@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Toñi Burger,Offer,6.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+1,1,MenuItem,Guindalera Burger,Offer,6.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+2,2,MenuItem,American Burger,Offer,6.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cocido madrileño en 4 tiempos,Offer,28,EUR,Nuestras Especialidades,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+1,1,MenuItem,Rabo de toro,Offer,18,EUR,Nuestras Especialidades,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+2,2,MenuItem,Conejo asado a baja temperatura,Offer,17,EUR,Nuestras Especialidades,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+3,3,MenuItem,Pollo de corral en pepitoria,Offer,20,EUR,Nuestras Especialidades,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+4,4,MenuItem,Callos a la madrileña,Offer,16,EUR,Nuestras Especialidades,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave
+5,5,MenuItem,Fabada asturiana,Offer,16,EUR,Nuestras Especialidades,8.7,"""Español""","""Calle de Velázquez","""geo"":{""latitude"":40.4240038,""longitude"":-3.6840345",La Clave

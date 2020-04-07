@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fabada asturiana,Offer,15.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+1,1,MenuItem,Fabes con almejas,Offer,16.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+2,2,MenuItem,Verdinas con rape,Offer,15.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+3,3,MenuItem,Callos con garbanzos,Offer,12.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+4,4,MenuItem,Croquetas queso cabrales,Offer,10.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+5,5,MenuItem,Crema de nécoras,Offer,5.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+6,6,MenuItem,Setas a la provenzal,Offer,12.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+7,7,MenuItem,Pulpo con cachelos,Offer,21.5,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+8,8,MenuItem,"Ensalada de fabes, pimientos del piquillo y bonito",Offer,12.9,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+9,9,MenuItem,Cogollitos de Tudela con salsa de anchoas,Offer,9.5,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+10,10,MenuItem,Ensalada mixta,Offer,9.5,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+11,11,MenuItem,Queso de Cabrales,Offer,9.75,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+12,12,MenuItem,Cecina de buey,Offer,18.5,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+13,13,MenuItem,Picadillo de Asturias a la sidra,Offer,11.5,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+14,14,MenuItem,Pimientos del piquillo rellenos de bacalao,Offer,10.9,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo
+15,15,MenuItem,Lasaña casera de ternera y verduras,Offer,10.5,EUR,Entrantes,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.420707426614,""longitude"":-3.6872200965881",Orbayo

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Flan artesano de huevo,Offer,4,EUR,Postre,9.3,"""Español""","""Calle Vallehermoso","""geo"":{""latitude"":40.4376768,""longitude"":-3.7082349",La Taberna de Paula
+1,1,MenuItem,Tarta casera de chocolate foundant,Offer,4,EUR,Postre,9.3,"""Español""","""Calle Vallehermoso","""geo"":{""latitude"":40.4376768,""longitude"":-3.7082349",La Taberna de Paula
+2,2,MenuItem,Sorbete de limón al vodka,Offer,4,EUR,Postre,9.3,"""Español""","""Calle Vallehermoso","""geo"":{""latitude"":40.4376768,""longitude"":-3.7082349",La Taberna de Paula

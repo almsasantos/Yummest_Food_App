@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Primero a elegir:,Lentejas francesas estofadas\nEnsalada de cous cous al pesto\nChampiñones con tomate\nPaella,Menú Mediodía 10.50€,None,None,None,Vegaviana
+1,1,MenuItem,Segundo a elegir:,"Plato Vegoviana (Hamburguesa de soja, caponata de berenjenas, champiñones con tomate y paella)\nBerenjenas rellenas y gratinadas",Menú Mediodía 10.50€,None,None,None,Vegaviana

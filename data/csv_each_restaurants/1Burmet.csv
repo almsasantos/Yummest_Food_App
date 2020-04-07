@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burmet,Offer,9,EUR,Burmet rolls,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+1,1,MenuItem,Brown,Offer,9,EUR,Burmet rolls,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+2,2,MenuItem,Chicken,Offer,9,EUR,Burmet rolls,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+3,3,MenuItem,Vigi,Offer,9,EUR,Burmet rolls,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+4,4,MenuItem,Crujiente,Offer,9,EUR,Burmet rolls,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+5,5,MenuItem,Criollo,Offer,9,EUR,Burmet rolls,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet
+6,6,MenuItem,Carnal,Offer,13,EUR,Burmet rolls,9.3,"""Americano""","""Calle Luis Vives 9","""geo"":{""latitude"":40.4441509,""longitude"":-3.6761957",Burmet

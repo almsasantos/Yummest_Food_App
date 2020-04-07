@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nachos Bululú...Hechos al momento!!,Offer,10.5,EUR,Entrantes,9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+1,1,MenuItem,Tequeños: Cuidado! Son adictivos .….,Offer,7.5,EUR,Entrantes,9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+2,2,MenuItem,Cuatro Esquinas: De todos un poco...,Offer,13.5,EUR,Entrantes,9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+3,3,MenuItem,Aros de cebolla:,Offer,7.75,EUR,Entrantes,9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee
+4,4,MenuItem,Fingers de pollo:,Offer,7.95,EUR,Entrantes,9.2,"""Americano""","""Calle de Santa Cruz de Marcenado 13","""geo"":{""latitude"":40.4285785,""longitude"":-3.7088665",Bululú Bar and Coffee

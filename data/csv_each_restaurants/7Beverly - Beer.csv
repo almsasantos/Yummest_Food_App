@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+2,2,MenuItem,Café,,,,Bebidas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+4,4,MenuItem,Media botella de agua,,,,Bebidas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+5,5,MenuItem,Botella de vino,Offer,7.9,EUR,Bebidas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer
+6,6,MenuItem,Copa de vino,Offer,1.6,EUR,Bebidas,None,"""Español""","""Paseo Lanceros","""geo"":{""latitude"":40.3791019,""longitude"":-3.7928912",Beverly - Beer

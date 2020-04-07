@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Morcillo estofado,Offer,16.5,EUR,Carnes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+1,1,MenuItem,Lomo alto de ternera,Offer,18.0,EUR,Carnes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+2,2,MenuItem,Filete de ternera,Offer,13.75,EUR,Carnes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+3,3,MenuItem,Escalope de ternera,Offer,13.75,EUR,Carnes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+4,4,MenuItem,Solomillo de ternera,Offer,21.0,EUR,Carnes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+5,5,MenuItem,Chuleta de Ávila,Offer,18.5,EUR,Carnes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila
+6,6,MenuItem,Chuletillas de lechal,Offer,17.75,EUR,Carnes,9.4,"""Español""","""Calle de Bravo Murillo","""geo"":{""latitude"":40.436325,""longitude"":-3.7040621",De Manila

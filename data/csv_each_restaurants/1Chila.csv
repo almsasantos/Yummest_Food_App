@@ -1,0 +1,26 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa de taro con ternera picada y cilantro,Offer,8.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+1,1,MenuItem,Panceta hervida y frita as estilo de Liling,Offer,8.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+2,2,MenuItem,Berenjenas al ajillo cocinadas al vapor,Offer,6.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+3,3,MenuItem,Taro con salsa de guindillas picadas al vapor,Offer,6.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+4,4,MenuItem,Tofu al estilo de Liuyang,Offer,6.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+5,5,MenuItem,Costillas al estilo Chila,Offer,9.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+6,6,MenuItem,Huevos batidos al vapor al estilo de Hunan,Offer,6.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+7,7,MenuItem,Coliflor ecológica servida en olla seca,Offer,9.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+8,8,MenuItem,Arroz con verdura ácida y carne ahumada,Offer,6.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+9,9,MenuItem,Tofu casero,Offer,7.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+10,10,MenuItem,Pollo al estilo de Dongan,Offer,9.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+11,11,MenuItem,Lubina con salsa de judía negra fermentada al vapor,Offer,6.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+12,12,MenuItem,Bolitas de carne rebozadas de arroz,Offer,8.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+13,13,MenuItem,Sopa de hongos variados,Offer,8.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+14,14,MenuItem,Gambas sin cabeza en salsa,Offer,14.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+15,15,MenuItem,Ternera con oreja de cerdo a las 36 especias,Offer,9.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+16,16,MenuItem,Panceta al estilo Chila,Offer,14.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+17,17,MenuItem,Cabeza de merluza con salsa de guindilla roja y verde,Offer,18.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+18,18,MenuItem,Lubina con salsa de guindillas picadas al vapor,Offer,18.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+19,19,MenuItem,Pollo con marisco servido en olla de cerámica,Offer,24.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+20,20,MenuItem,Ternera cocida servida en olla de cerámica,Offer,17.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+21,21,MenuItem,Dorada frita al tofu fermentado,Offer,20.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+22,22,MenuItem,Pajitas de patata cortada a mano,Offer,6.5,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+23,23,MenuItem,Costillas fritas al ajillo,Offer,9.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila
+24,24,MenuItem,Ternera picada a mano con guindillas,Offer,11.95,EUR,Platos de Chila,None,"""Chino""","""Calle de Silva","""geo"":{""latitude"":40.4204493,""longitude"":-3.7079859",Chila

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de perdiz al estilo toledano,Offer,18.0,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+1,1,MenuItem,Ensalada del chef,Offer,12.0,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+2,2,MenuItem,Ensalada de ventresca con tomate laminado y asadillo de pimientos y cebolla,Offer,13.5,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+3,3,MenuItem,Croquetas de la casa (Jamón ibérico),Offer,12.0,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+4,4,MenuItem,Jamón de jabugo 100% Bellota,Offer,21.0,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+5,5,MenuItem,Queso de oveja curado de Zorita,Offer,14.0,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+6,6,MenuItem,Lomo de caá ibérico de bellota,Offer,20.0,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+7,7,MenuItem,Cazón en adobo,Offer,13.5,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+8,8,MenuItem,Chipirón de anzuelo a la plancha,Offer,17.5,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+9,9,MenuItem,Mejillones de la casa,Offer,14.0,EUR,Entrantes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo

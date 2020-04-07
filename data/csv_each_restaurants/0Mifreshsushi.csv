@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada goma wakame con langostinos y surimi.,Offer,5.0,EUR,Entrante,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+1,1,MenuItem,Tori Tatsuma-age (bocaditos de pollo con ajo y jengibre) 6 piezas.,Offer,5.0,EUR,Entrante,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi
+2,2,MenuItem,Noodles de arroz con langostinos y setas.,Offer,7.5,EUR,Entrante,8.6,"""Japonés""","""Av","""geo"":{""latitude"":40.4071162,""longitude"":-3.6485219",Mifreshsushi

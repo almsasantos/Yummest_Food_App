@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Queso seleccionado curado,Offer,12,EUR,Y el Borrico mira...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+1,1,MenuItem,Nuestro flan especial,Offer,4,EUR,Y el Borrico mira...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+2,2,MenuItem,Tarta de zanahora y nueces,Offer,5,EUR,Y el Borrico mira...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+3,3,MenuItem,Tarta tatín,Offer,5,EUR,Y el Borrico mira...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+4,4,MenuItem,Fruta de temporada Preparada en Dados.,Offer,4,EUR,Y el Borrico mira...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta

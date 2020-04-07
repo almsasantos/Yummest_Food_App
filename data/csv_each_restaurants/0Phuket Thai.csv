@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rollo De Primavera Thai / Thai Spring Roll,Offer,3.85,EUR,Entrante,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+1,1,MenuItem,Verduras salteadas,Offer,8.75,EUR,Entrante,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+2,2,MenuItem,Omelet Thai,Offer,8.75,EUR,Entrante,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai

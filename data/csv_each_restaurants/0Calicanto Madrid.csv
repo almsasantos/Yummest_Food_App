@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la brasa con puré de patatas y su jugo,Offer,21,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+1,1,MenuItem,Vieiras salteadas con panceta a baja temperatura y cremoso de calabaza asada,Offer,15,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+2,2,MenuItem,Gyozas de carne mechada con salsa de zanahorias,Offer,10,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid
+3,3,MenuItem,Alcachofas confitadas con laminas de panceta ibérica y gambas curadas,Offer,15,EUR,Entrante,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4257261,""longitude"":-3.6948735",Calicanto Madrid

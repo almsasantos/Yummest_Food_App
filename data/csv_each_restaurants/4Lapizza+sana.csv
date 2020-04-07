@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo de Buey,Offer,13.45,EUR,CARNES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+1,1,MenuItem,Brochetas de Pollo,Offer,12.4,EUR,CARNES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana

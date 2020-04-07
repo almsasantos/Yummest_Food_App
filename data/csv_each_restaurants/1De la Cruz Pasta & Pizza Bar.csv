@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fettuccine al nero di seppia con gamberoni e reduzione di gambero rosso,Offer,12.0,EUR,Pasta fresca,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+1,1,MenuItem,Pappardelle con speck y setas,Offer,10.0,EUR,Pasta fresca,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+2,2,MenuItem,"Gnocchi ( pesto, bolognesa o gorgonzola)",Offer,9.5,EUR,Pasta fresca,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+3,3,MenuItem,Raviolacci de burrata y jamón de parma con salsa de tomate,Offer,11.0,EUR,Pasta fresca,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+4,4,MenuItem,Lasagna bolognesa,Offer,10.0,EUR,Pasta fresca,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar

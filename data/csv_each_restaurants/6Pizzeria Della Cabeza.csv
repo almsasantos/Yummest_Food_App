@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Empanadilla de carne,Offer,2.5,EUR,Empanadas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+1,1,MenuItem,Empanadilla de pollo,Offer,2.5,EUR,Empanadas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+2,2,MenuItem,Empanadilla de jamón y queso,Offer,2.5,EUR,Empanadas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+3,3,MenuItem,Empanadilla de cebolla y queso,Offer,2.5,EUR,Empanadas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+4,4,MenuItem,Empanadilla cuatro quesos,Offer,2.5,EUR,Empanadas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+5,5,MenuItem,Empanadilla de espinacas con queso,Offer,2.5,EUR,Empanadas,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza

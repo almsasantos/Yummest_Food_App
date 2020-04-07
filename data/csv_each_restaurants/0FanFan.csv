@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmorejo con virutas de jamon de bellota,Offer,5.5,EUR,Para picar,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+1,1,MenuItem,Hummus con pan de pita,Offer,6.5,EUR,Para picar,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+2,2,MenuItem,Quesadilla con guacamole,Offer,7.5,EUR,Para picar,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+3,3,MenuItem,Ensalada FAN FAN,Offer,8.5,EUR,Para picar,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+4,4,MenuItem,Dinsum de gambas,Offer,8.5,EUR,Para picar,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+5,5,MenuItem,Pincho de solomillo de ternera con esccarras de sal,Offer,6.95,EUR,Para picar,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan
+6,6,MenuItem,"Carpaccio de setas, rucla y aceite de trufa negra",Offer,8.5,EUR,Para picar,None,"""Mediterráneo""","""Paseo de la Castellana","""geo"":{""latitude"":40.4488069,""longitude"":-3.6903137",FanFan

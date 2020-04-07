@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pinocchio con vainilla, nata montada , nueces y miel",Offer,4.5,EUR,Postre,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+1,1,MenuItem,Profiteroles con chocolate caliente,Offer,4.75,EUR,Postre,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+2,2,MenuItem,Tarta de Queso Casera,Offer,4.5,EUR,Postre,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+3,3,MenuItem,Flan casero,Offer,3.5,EUR,Postre,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+4,4,MenuItem,Helado Variado,Offer,4.0,EUR,Postre,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+5,5,MenuItem,Souflé ( minimo 2 per.),Offer,12.0,EUR,Postre,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro

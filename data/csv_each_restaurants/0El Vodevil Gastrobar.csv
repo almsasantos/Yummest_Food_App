@@ -1,0 +1,15 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tempura de verduras,Offer,6,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+1,1,MenuItem,Rollitos vietnamintas,Offer,5,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+2,2,MenuItem,Hummus tricolor,Offer,5,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+3,3,MenuItem,Patatas locas,Offer,6,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+4,4,MenuItem,Huevos rotos con jamón ibérico,Offer,9,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+5,5,MenuItem,Croquetas gourmet,Offer,6,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+6,6,MenuItem,Calamares,Offer,9,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+7,7,MenuItem,Boquerones a la andaluza,Offer,10,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+8,8,MenuItem,Puntillitas a la andaluza,Offer,8,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+9,9,MenuItem,Salmonetes a la andaluza,Offer,12,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+10,10,MenuItem,Cazón en adobo,Offer,8,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+11,11,MenuItem,Wok de arroz y verduras al estilo asiático,Offer,9,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+12,12,MenuItem,Torpedos de langostinos,Offer,9,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+13,13,MenuItem,Fritura de pescado,Offer,20,EUR,Para picar,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,23.0,EUR,Bebidas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+2,2,MenuItem,Café,Offer,1.2,EUR,Bebidas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+3,3,MenuItem,Botella de agua,Offer,2.0,EUR,Bebidas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+5,5,MenuItem,Botella de vino,Offer,13.0,EUR,Bebidas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+6,6,MenuItem,Copa de vino,Offer,2.1,EUR,Bebidas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas

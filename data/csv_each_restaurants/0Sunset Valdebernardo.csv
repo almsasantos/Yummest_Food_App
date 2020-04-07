@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de pimientos asados con ventresca y cebolla roja,Offer,14.5,EUR,Entrante,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+1,1,MenuItem,Ensalada de quinoa con aguacate y salmon ahumado,Offer,13.5,EUR,Entrante,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+2,2,MenuItem,"Ensalada de langostino, aguacate y verduritas con vinagreta de hortaliza",Offer,13.0,EUR,Entrante,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+3,3,MenuItem,Ensalada Mixta,Offer,9.0,EUR,Entrante,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+4,4,MenuItem,Ensalada Cesar,Offer,9.5,EUR,Entrante,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo

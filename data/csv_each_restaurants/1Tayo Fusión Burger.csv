@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ligure,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+1,1,MenuItem,A Lo Pobre,Offer,12.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+2,2,MenuItem,California,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+3,3,MenuItem,Gaucha,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+4,4,MenuItem,Currywurst,Offer,12.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+5,5,MenuItem,Alla Birra,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+6,6,MenuItem,Guay,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+7,7,MenuItem,La Belle,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+8,8,MenuItem,Saltada,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+9,9,MenuItem,Manicera,Offer,12.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+10,10,MenuItem,Que Chida,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+11,11,MenuItem,La Japo,Offer,11.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger
+12,12,MenuItem,Gringa,Offer,12.9,EUR,Hamburguesas,9,"""Americano""","""Av","""geo"":{""latitude"":40.4573289,""longitude"":-3.6936334",Tayo Fusión Burger

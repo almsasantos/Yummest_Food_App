@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+2,2,MenuItem,Café,Offer,1.4,EUR,Bebidas,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+3,3,MenuItem,Botella de agua,Offer,2.2,EUR,Bebidas,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+4,4,MenuItem,Media botella de agua,Offer,1.2,EUR,Bebidas,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+5,5,MenuItem,Botella de vino,Offer,7.0,EUR,Bebidas,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+6,6,MenuItem,Copa de vino,Offer,2.8,EUR,Bebidas,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hummus,Offer,7,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+1,1,MenuItem,Mtabal,Offer,7,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+2,2,MenuItem,Muhammara,Offer,8,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+3,3,MenuItem,Labne,Offer,6,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+4,4,MenuItem,Yalengi,Offer,7,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+5,5,MenuItem,Magdus,Offer,7,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+6,6,MenuItem,Adas,Offer,6,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+7,7,MenuItem,Tabule,Offer,7,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+8,8,MenuItem,Fatush,Offer,8,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel
+9,9,MenuItem,Especial Habel Babel,Offer,14,EUR,Entrantes,8.7,"""Árabe""","""Calle de Sta","""geo"":{""latitude"":40.4129603,""longitude"":-3.6978397",Habel Babel

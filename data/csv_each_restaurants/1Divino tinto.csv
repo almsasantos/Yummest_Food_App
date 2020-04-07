@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rabo de toro,Offer,16.0,EUR,Plato,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto
+1,1,MenuItem,Corazones de alcachofas con huevo y jamón,Offer,12.5,EUR,Plato,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto
+2,2,MenuItem,Cecina de León con pan tostado y almendras secas,Offer,16.0,EUR,Plato,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto
+3,3,MenuItem,Vieiras a la plancha con crema de apionabo,Offer,16.0,EUR,Plato,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto

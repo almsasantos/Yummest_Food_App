@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+1,1,MenuItem,Copa de champán,,,,Bebidas,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+2,2,MenuItem,Café,Offer,1.4,EUR,Bebidas,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+6,6,MenuItem,Copa de vino,Offer,1.8,EUR,Bebidas,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nem Tom Cua,Offer,9.6,EUR,Entrante,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+1,1,MenuItem,Com Chien,Offer,10.5,EUR,Entrante,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+2,2,MenuItem,Nom Ga,Offer,9.5,EUR,Entrante,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+3,3,MenuItem,Thit Vien,Offer,7.5,EUR,Entrante,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam
+4,4,MenuItem,Goi Cuon,Offer,10.5,EUR,Entrante,8.9,"""Vietnamita""","""C","""geo"":{""latitude"":40.414007231954,""longitude"":-3.701090097427368",Vietnam

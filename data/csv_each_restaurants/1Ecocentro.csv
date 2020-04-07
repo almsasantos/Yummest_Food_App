@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada crudivegana de champiñones con chucrut casero y tartare de aguacate,Offer,8.5,EUR,Ensaladas,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+1,1,MenuItem,Taboulé de quínoa con queso de coco y hummus de perejil con wasabi,Offer,11.3,EUR,Ensaladas,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+2,2,MenuItem,Ensalada mediterránea de mozzarella con berenjena y almendra,Offer,9.5,EUR,Ensaladas,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+3,3,MenuItem,Ensalada de tofu marinado con salsa de yogurt,Offer,9.6,EUR,Ensaladas,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+4,4,MenuItem,Ensalada del día,Offer,7.5,EUR,Ensaladas,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro

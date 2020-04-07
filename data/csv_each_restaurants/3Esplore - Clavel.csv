@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmón marinado a los cítricos con causa limeña y mahonesa de lima,Offer,17,EUR,DEL MAR,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+1,1,MenuItem,Tartar de atún,Offer,19,EUR,DEL MAR,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel
+2,2,MenuItem,Calamares a la andaluza con mahonesa de lima y alioli negro,Offer,12,EUR,DEL MAR,8.7,"""Español""","""Calle del Clavel","""geo"":{""latitude"":40.4203034,""longitude"":-3.6995193",Esplore - Clavel

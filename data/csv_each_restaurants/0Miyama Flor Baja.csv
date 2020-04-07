@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de Atún picante y Ensalada piperada,Offer,16.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+1,1,MenuItem,Tartar de Salmón y aguacate (salsa de eneldo y wasabi),Offer,12.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+2,2,MenuItem,Berenjena y Calabacín asados con salsa de miso rojo,Offer,9.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+3,3,MenuItem,Hirousu: Tofu y Langostino relleno de verduras con salsa de cangrejo,Offer,12.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+4,4,MenuItem,Vieiras y setas salteadas,Offer,14.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+5,5,MenuItem,Gyutataki: Lomo bajo D/O Valles del esla braseado con salsa ponzu,Offer,27.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+6,6,MenuItem,Carabineros horneados con emulsión de wasabi,,,,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+7,7,MenuItem,Carrillera de pescado del dia con salsa Ankake,Offer,15.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja
+8,8,MenuItem,Vieiras y Setas horneadas y cubiertas con llema de huevo y pimientos,Offer,8.0,EUR,Entrante,9.5,"""Japonés""","""C","""geo"":{""latitude"":40.422229181047,""longitude"":-3.7097699642181",Miyama Flor Baja

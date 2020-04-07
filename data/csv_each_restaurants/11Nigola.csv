@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,None,None,Nigola
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,None,None,Nigola
+2,2,MenuItem,Café,,,,Bebidas,None,None,None,Nigola
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,None,None,Nigola
+4,4,MenuItem,Media botella de agua,,,,Bebidas,None,None,None,Nigola
+5,5,MenuItem,Botella de vino,Offer,10.0,EUR,Bebidas,None,None,None,Nigola
+6,6,MenuItem,Copa de vino,,,,Bebidas,None,None,None,Nigola

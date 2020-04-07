@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"ARROZ MIL DELICIAS con carne, gambas, y verduras",Offer,9.2,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+1,1,MenuItem,TEPPANYAKI RICE,Offer,13.8,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+2,2,MenuItem,DUCK & SUSHI FRIED RICE,Offer,13.8,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+3,3,MenuItem,PADTHAI,Offer,13.8,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+4,4,MenuItem,UDON CON SALMON con una suave salsa teriyaki,Offer,13.8,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+5,5,MenuItem,FIDEOS SINGAPUR,Offer,12.8,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+6,6,MenuItem,YAKISOBA,Offer,12.8,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi
+7,7,MenuItem,KU-BAK,Offer,13.8,EUR,PASTAS Y ARROCES,8.7,"""Japonés""","""Calle de Sor Ángela de la Cruz","""geo"":{""latitude"":40.4597422,""longitude"":-3.6950108",Duck & Sushi

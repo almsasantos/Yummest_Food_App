@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrecot (400gr),Offer,18.0,EUR,Plato,8.1,"""Catalán""","""Calle de Valdecanillas","""geo"":{""latitude"":40.4314172,""longitude"":-3.6284241",La Torre de Neila
+1,1,MenuItem,Bacalao con frutos,Offer,18.5,EUR,Plato,8.1,"""Catalán""","""Calle de Valdecanillas","""geo"":{""latitude"":40.4314172,""longitude"":-3.6284241",La Torre de Neila
+2,2,MenuItem,Merluza a la marinera,Offer,15.0,EUR,Plato,8.1,"""Catalán""","""Calle de Valdecanillas","""geo"":{""latitude"":40.4314172,""longitude"":-3.6284241",La Torre de Neila
+3,3,MenuItem,Arroz con carabineros,Offer,15.0,EUR,Plato,8.1,"""Catalán""","""Calle de Valdecanillas","""geo"":{""latitude"":40.4314172,""longitude"":-3.6284241",La Torre de Neila
+4,4,MenuItem,Arroz con bogavante,Offer,20.0,EUR,Plato,8.1,"""Catalán""","""Calle de Valdecanillas","""geo"":{""latitude"":40.4314172,""longitude"":-3.6284241",La Torre de Neila

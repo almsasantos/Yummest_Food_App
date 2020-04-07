@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche,Offer,3,EUR,Postre,9.1,"""Mexicano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4256467,""longitude"":-3.6767438",Madrid Mex
+1,1,MenuItem,Marquesa de Chocolate,Offer,3,EUR,Postre,9.1,"""Mexicano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4256467,""longitude"":-3.6767438",Madrid Mex

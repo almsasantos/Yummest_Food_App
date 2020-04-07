@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Miso shirt,Offer,4.25,EUR,Entrante,8.2,"""Japonés""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Kokoro
+1,1,MenuItem,Wakamesu,Offer,6.7,EUR,Entrante,8.2,"""Japonés""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Kokoro
+2,2,MenuItem,Takoyaki,Offer,6.25,EUR,Entrante,8.2,"""Japonés""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Kokoro

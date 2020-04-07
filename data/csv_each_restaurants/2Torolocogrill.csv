@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sandwiches de salmón,Offer,8,EUR,Sandwiches,8.7,"""Americano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4244459,""longitude"":-3.6773771",Torolocogrill
+1,1,MenuItem,Crispye,Offer,7,EUR,Sandwiches,8.7,"""Americano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4244459,""longitude"":-3.6773771",Torolocogrill

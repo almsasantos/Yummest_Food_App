@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatinas al Cabrales,Offer,6.0,EUR,Para Compartir,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+1,1,MenuItem,Surtido de croquetas Puxe Asturies 9 uds,Offer,10.5,EUR,Para Compartir,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+2,2,MenuItem,Ensaladilla Rusa con Gambones,Offer,9.0,EUR,Para Compartir,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+3,3,MenuItem,Pastel de Cabracho,Offer,10.5,EUR,Para Compartir,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+4,4,MenuItem,Lacón,Offer,10.5,EUR,Para Compartir,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+5,5,MenuItem,Cecina de Buey,Offer,12.0,EUR,Para Compartir,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+6,6,MenuItem,Tabla de Quesos Asturianos,Offer,13.5,EUR,Para Compartir,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia

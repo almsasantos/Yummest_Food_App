@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Perdiz asada con uvas en hoja de parra,Offer,42,EUR,Nuestros Platos de Caza,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+1,1,MenuItem,Perdiz a la prensa,Offer,46,EUR,Nuestros Platos de Caza,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+2,2,MenuItem,Becada a la prensa o asada al natural,Offer,59,EUR,Nuestros Platos de Caza,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+3,3,MenuItem,Lomo de corzo asado al natural,Offer,39,EUR,Nuestros Platos de Caza,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+4,4,MenuItem,Ragout de ciervo,Offer,36,EUR,Nuestros Platos de Caza,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+5,5,MenuItem,Stroganoff de corzo,Offer,39,EUR,Nuestros Platos de Caza,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+6,6,MenuItem,Chuleta de ciervo con puré de boniato y jugo de frutos rojos,Offer,40,EUR,Nuestros Platos de Caza,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER

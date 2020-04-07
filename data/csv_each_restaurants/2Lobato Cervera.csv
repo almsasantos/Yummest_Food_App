@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Natillas,Offer,5.2,EUR,Postre,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+1,1,MenuItem,Arroz con leche,Offer,5.2,EUR,Postre,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+2,2,MenuItem,Tartas variadas,Offer,5.2,EUR,Postre,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera

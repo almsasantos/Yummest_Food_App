@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crepe de dulce de leche con helado de vainilla,Offer,5.8,EUR,Postre,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+1,1,MenuItem,Tarta de queso con cobertura de arándanos,Offer,5.0,EUR,Postre,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+2,2,MenuItem,Pannacotta con cobertura de frutos rojos,Offer,5.0,EUR,Postre,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+3,3,MenuItem,Carrot Cake,Offer,5.8,EUR,Postre,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+4,4,MenuItem,Tarta de limón,,,,Postre,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+5,5,MenuItem,* Reservas en terraza sujetas a disponibilidad en el momento,,,,Postre,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ha kao de langostino,Offer,8.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+1,1,MenuItem,Kao de cerdo sate picante,Offer,8.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+2,2,MenuItem,Kao de trufas con pollo,Offer,8.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+3,3,MenuItem,Mixta de Kao,Offer,8.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+4,4,MenuItem,Siu mai de langostino con cerdo,Offer,6.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+5,5,MenuItem,Kao de pato asado con boletus Kao de langostinos,Offer,9.9,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+6,6,MenuItem,Kao de langostinos con chive y huevo,Offer,9.9,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+7,7,MenuItem,Mixto de Kao,Offer,9.9,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+8,8,MenuItem,Gyoza de cerdo,Offer,8.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+9,9,MenuItem,Gyoza de pollo,Offer,8.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar
+10,10,MenuItem,Combinado de vapor para 2 personas,Offer,12.5,EUR,CONTINUAMOS,9.4,"""Chino""","""Calle del Almendro","""geo"":{""latitude"":40.4128449,""longitude"":-3.709818",Poco a poco Café & Bar

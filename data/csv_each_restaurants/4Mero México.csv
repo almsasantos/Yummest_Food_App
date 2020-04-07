@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Coronita,Offer,3.5,EUR,Cervezas Mexicanas,8.4,"""Mexicano""","""Calle Núñez de Arce","""geo"":{""latitude"":40.4159446,""longitude"":-3.7012188",Mero México
+1,1,MenuItem,Pacifico,Offer,3.5,EUR,Cervezas Mexicanas,8.4,"""Mexicano""","""Calle Núñez de Arce","""geo"":{""latitude"":40.4159446,""longitude"":-3.7012188",Mero México
+2,2,MenuItem,Modelo Especial,Offer,3.5,EUR,Cervezas Mexicanas,8.4,"""Mexicano""","""Calle Núñez de Arce","""geo"":{""latitude"":40.4159446,""longitude"":-3.7012188",Mero México
+3,3,MenuItem,Negra Modelo,Offer,3.5,EUR,Cervezas Mexicanas,8.4,"""Mexicano""","""Calle Núñez de Arce","""geo"":{""latitude"":40.4159446,""longitude"":-3.7012188",Mero México

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de Guinnes casera,Offer,4.5,EUR,Postres,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+1,1,MenuItem,Irish cheese cake con frambuesas,Offer,4.5,EUR,Postres,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+2,2,MenuItem,Brownie con helado de vainilla,Offer,4.5,EUR,Postres,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+3,3,MenuItem,Tarta muerte por chocolate,Offer,4.5,EUR,Postres,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+4,4,MenuItem,Coulant de chocolate,Offer,4.5,EUR,Postres,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+5,5,MenuItem,Carrot cake casera,Offer,4.5,EUR,Postres,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern
+6,6,MenuItem,Helado de chocolate o vainilla,Offer,3.5,EUR,Postres,9.3,"""Americano""","""Carr","""geo"":{""latitude"":40.4647838,""longitude"":-3.6388272",The Handyman Tavern

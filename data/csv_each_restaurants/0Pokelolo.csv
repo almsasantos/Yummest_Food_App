@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada: Col lombarda, salsa de buttermilk, siracha y shichimi, pepino mini , cebolla frita, semillas de sésamo e igo togarashi",Offer,4,EUR,Entrantes,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo
+1,1,MenuItem,"Sopa de temporada: Sopa Hibachi, consomé japonés a base de cebolla y champiñones con cebolla frita y cebolleta",Offer,3,EUR,Entrantes,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo
+2,2,MenuItem,"Ensalada Wakame: Alga Wakame, guisantes crocantes de wasabi y mayo wasabi",Offer,3,EUR,Entrantes,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo
+3,3,MenuItem,"Ensalada Canónigos: Canónigos, cacahuetes dorados y vinagreta de miel mostaza",Offer,3,EUR,Entrantes,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo
+4,4,MenuItem,"Ensalada de Pepino: Pepino, apio, cebolleta, chili flanes y vinagreta de mirin",Offer,3,EUR,Entrantes,8.8,None,"""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4253873,""longitude"":-3.6829026",Pokelolo

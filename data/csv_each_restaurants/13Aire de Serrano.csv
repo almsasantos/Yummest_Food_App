@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,25.0,EUR,Bebidas,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+1,1,MenuItem,Copa de champán,Offer,5.0,EUR,Bebidas,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+2,2,MenuItem,Café,Offer,1.0,EUR,Bebidas,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+3,3,MenuItem,Botella de agua,,,,Bebidas,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+4,4,MenuItem,Media botella de agua,Offer,3.0,EUR,Bebidas,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+5,5,MenuItem,Botella de vino,Offer,19.0,EUR,Bebidas,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,7.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4366852,""longitude"":-3.6865791",Aire de Serrano

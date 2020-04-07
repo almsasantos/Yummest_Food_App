@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sorbete de limón,Offer,6.6,EUR,Postre,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+1,1,MenuItem,Tarta fina de manzana con helado de vainilla,Offer,8.0,EUR,Postre,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+2,2,MenuItem,Milhoja de tuile y crema de vainilla acompañado con helado de chocolate blanco,Offer,7.5,EUR,Postre,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+3,3,MenuItem,Helado de higos,Offer,7.0,EUR,Postre,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset

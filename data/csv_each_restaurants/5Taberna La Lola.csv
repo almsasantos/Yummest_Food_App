@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche,Offer,4.5,EUR,Postre,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+1,1,MenuItem,Tarta de queso cn coulis de frutos del bosque,Offer,4.5,EUR,Postre,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+2,2,MenuItem,Coulant de chocolate y helado,Offer,5.0,EUR,Postre,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+3,3,MenuItem,Tarta red velvert,Offer,5.0,EUR,Postre,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crema de zanahoria y queso de cabra,Offer,6.0,EUR,Entrantes,9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+1,1,MenuItem,Endivias y queso de cabra,Offer,6.0,EUR,Entrantes,9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+2,2,MenuItem,Estofado de seta con huevo poché,Offer,7.0,EUR,Entrantes,9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+3,3,MenuItem,Curry de langostinos,Offer,7.5,EUR,Entrantes,9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mochis (2 Ud.),Offer,3.2,EUR,Postre,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+1,1,MenuItem,Helado de té verde,Offer,4.0,EUR,Postre,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+2,2,MenuItem,Coulant,Offer,4.5,EUR,Postre,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Espárragos,Offer,8.0,EUR,Verduras,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+1,1,MenuItem,Guisantes con jamón,Offer,4.9,EUR,Verduras,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+2,2,MenuItem,Menestra de verduras,Offer,6.5,EUR,Verduras,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+3,3,MenuItem,Judías verdes salteadas,Offer,4.9,EUR,Verduras,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+4,4,MenuItem,Alcachofas rehogadas,Offer,7.5,EUR,Verduras,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+5,5,MenuItem,Champiñón con jamón o ajillo,Offer,9.9,EUR,Verduras,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo

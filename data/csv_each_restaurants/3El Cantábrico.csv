@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,17.0,EUR,Bebidas,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+1,1,MenuItem,Copa de champán,Offer,3.0,EUR,Bebidas,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+2,2,MenuItem,Café,,,,Bebidas,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+4,4,MenuItem,Media botella de agua,Offer,1.8,EUR,Bebidas,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+5,5,MenuItem,Botella de vino,Offer,9.0,EUR,Bebidas,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+6,6,MenuItem,Copa de vino,Offer,1.8,EUR,Bebidas,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico

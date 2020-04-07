@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de pez mantequilla,Offer,20.9,EUR,Pescado,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+1,1,MenuItem,Tártaro de atún con guacamole,Offer,20.9,EUR,Pescado,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+2,2,MenuItem,Taco de atún,Offer,23.1,EUR,Pescado,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+3,3,MenuItem,Bacalao ajoarriero,Offer,20.9,EUR,Pescado,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+4,4,MenuItem,Corvina a 59º,Offer,19.8,EUR,Pescado,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+5,5,MenuItem,Chipirones encebollados,Offer,23.1,EUR,Pescado,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor

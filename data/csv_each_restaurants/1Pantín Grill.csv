@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,César,Offer,10.5,EUR,Ensaladas,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+1,1,MenuItem,Templada,Offer,11.9,EUR,Ensaladas,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill

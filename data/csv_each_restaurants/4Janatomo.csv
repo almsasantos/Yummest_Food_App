@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sushi moriawase de pescados,Offer,25.0,EUR,Sushis Combinados,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo
+1,1,MenuItem,Sushi moriawase de sólo makis,Offer,25.35,EUR,Sushis Combinados,8.7,"""Japonés""","""Calle Reina","""geo"":{""latitude"":40.4200447,""longitude"":-3.6989747",Janatomo

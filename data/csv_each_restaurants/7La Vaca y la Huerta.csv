@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,A elegir,Offer,22,EUR,Menü entre-huerta,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+1,1,MenuItem,Principal,Offer,22,EUR,Menü entre-huerta,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de Toro,Offer,25.0,EUR,Tartar,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+1,1,MenuItem,Toro Tower,Offer,26.9,EUR,Tartar,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas
+2,2,MenuItem,Tartar de Salmón,Offer,19.0,EUR,Tartar,9,"""Japonés""","""Calle del Gral","""geo"":{""latitude"":40.4292844,""longitude"":-3.6783969",Inari - General Pardiñas

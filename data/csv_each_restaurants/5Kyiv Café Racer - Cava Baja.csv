@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Blini Confit (2uds),Offer,5,EUR,Postres,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+1,1,MenuItem,Tarta Casera del Chef,Offer,5,EUR,Postres,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja
+2,2,MenuItem,Tarta de Bafle,Offer,5,EUR,Postres,9.1,"""Ruso""","""Cava Baja","""geo"":{""latitude"":40.4120169,""longitude"":-3.710084",Kyiv Café Racer - Cava Baja

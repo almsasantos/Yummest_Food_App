@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Marques de caceres crza,Offer,17,EUR,Tintos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+1,1,MenuItem,Dunviro rva,Offer,18,EUR,Tintos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+2,2,MenuItem,Carloa serres gran rva,Offer,31,EUR,Tintos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte

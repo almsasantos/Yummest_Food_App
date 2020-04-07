@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Media pizza de queso provolone y jamón serrano con media napolitana (aceite provenzal al lado y para 8 porciones),Offer,20,EUR,Plato,9.1,"""Argentino""","""Avenida Menéndez Pelayo","""geo"":{""latitude"":40.417355960545,""longitude"":-3.6784000396728516",Trenque Lauquen
+1,1,MenuItem,"Media pizza de gulas (sin queso, masa crujiente con aceite, ajo y guindilla al lado)",Offer,14,EUR,Plato,9.1,"""Argentino""","""Avenida Menéndez Pelayo","""geo"":{""latitude"":40.417355960545,""longitude"":-3.6784000396728516",Trenque Lauquen
+2,2,MenuItem,"Pizza degustación: 2 porciones de toscana (calabacín y berenjena), 2 porciones con parmesano y rúcula y 2 porciones con queso brida",Offer,22,EUR,Plato,9.1,"""Argentino""","""Avenida Menéndez Pelayo","""geo"":{""latitude"":40.417355960545,""longitude"":-3.6784000396728516",Trenque Lauquen

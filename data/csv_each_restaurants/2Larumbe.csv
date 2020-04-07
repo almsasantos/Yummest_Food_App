@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cocochas de merluza al pil-pil con huevo y patata,Offer,29.0,EUR,Pescados (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+1,1,MenuItem,"Bacalao parrilla pimientos, tomate y pil pil de cebollino",Offer,24.0,EUR,Pescados (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+2,2,MenuItem,"Merluza en salsa verde , almejas y yemas de espárragos",Offer,25.0,EUR,Pescados (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+3,3,MenuItem,Lubina con fideuá de marisco,Offer,25.0,EUR,Pescados (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+4,4,MenuItem,Pescado del día,,,,Pescados (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+5,5,MenuItem,Esturión con velo ligero al curry,Offer,24.0,EUR,Pescados (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe

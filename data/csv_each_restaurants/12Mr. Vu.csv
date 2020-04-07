@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Temaki de salmon,Offer,4.0,EUR,Temaki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+1,1,MenuItem,Temaki de atun,Offer,4.2,EUR,Temaki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+2,2,MenuItem,Temaki de Anguila,Offer,4.5,EUR,Temaki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+3,3,MenuItem,Temaki California,Offer,4.3,EUR,Temaki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+4,4,MenuItem,Temaki Crujiente,Offer,4.5,EUR,Temaki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu

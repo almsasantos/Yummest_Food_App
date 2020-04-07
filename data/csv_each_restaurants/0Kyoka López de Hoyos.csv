@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa de miso,Offer,2.95,EUR,Entrantes,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+1,1,MenuItem,Ramen,Offer,7.5,EUR,Entrantes,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+2,2,MenuItem,Wakame,Offer,4.5,EUR,Entrantes,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+3,3,MenuItem,Edamame,Offer,5.0,EUR,Entrantes,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+4,4,MenuItem,Ensalada Kyoka,Offer,7.0,EUR,Entrantes,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos

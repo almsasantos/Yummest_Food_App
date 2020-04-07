@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de jamón,Offer,8.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+1,1,MenuItem,Croquetas de surtido de setas,Offer,8.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+2,2,MenuItem,Surtido de Croquetas,Offer,8.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+3,3,MenuItem,Setas empanadas con salsa ali-oli,Offer,9.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+4,4,MenuItem,Patatas bravas “El Descanso”,Offer,7.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+5,5,MenuItem,Ensaladilla con ventresca y pan de cristal “El Descanso”,Offer,8.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+6,6,MenuItem,Rollitos Vietnamitas de verduras (10 unidades),Offer,7.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+7,7,MenuItem,Tiras de pollo crujientes con salsa de mostaza dulce,Offer,9.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+8,8,MenuItem,Morcilla de burgos con pimientos de piquillo confitados,Offer,8.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+9,9,MenuItem,Alcachofas de temporada fritas con jamón ibérico,Offer,10.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+10,10,MenuItem,"Envoltini de ternera con rúcula, mango y parmesano",Offer,12.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+11,11,MenuItem,Flor de Alcachofas confitadas rellenas de Carne Asada,Offer,11.9,EUR,Entrantes y raciones,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927

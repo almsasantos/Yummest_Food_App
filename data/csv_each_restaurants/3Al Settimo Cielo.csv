@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mezzelune al Tartufo,Offer,14.5,EUR,Pasta Fresca,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+1,1,MenuItem,Cappelletti al Pesto,Offer,14.5,EUR,Pasta Fresca,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo

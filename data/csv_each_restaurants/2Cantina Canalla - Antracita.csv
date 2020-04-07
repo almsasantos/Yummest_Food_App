@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tacos dorados (3),Offer,13,EUR,TODO TACOS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita
+1,1,MenuItem,Flautas de pollo (4),Offer,11,EUR,TODO TACOS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita
+2,2,MenuItem,Tierra (Tabla de 3 tacos),Offer,9,EUR,TODO TACOS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita
+3,3,MenuItem,Mar (Tabla de 3 tacos),Offer,9,EUR,TODO TACOS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita

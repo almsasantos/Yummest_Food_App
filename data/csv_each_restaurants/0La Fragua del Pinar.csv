@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada tricolor de ahumados,Offer,12,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+1,1,MenuItem,Enasalada de tomate con ventresca,Offer,12,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+2,2,MenuItem,Croquetas caseras,Offer,12,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+3,3,MenuItem,Mousse de pato,Offer,14,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+4,4,MenuItem,Crujiente de verduras,Offer,12,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+5,5,MenuItem,Escalibada de pimientos asados,Offer,12,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+6,6,MenuItem,Ensalada la Fragua,Offer,11,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar
+7,7,MenuItem,Setas a la plancha con gambas al ajillo,Offer,14,EUR,Entrante,7.9,"""Arrocería""","""Calle de Caleruega","""geo"":{""latitude"":40.4824925,""longitude"":-3.6706515",La Fragua del Pinar

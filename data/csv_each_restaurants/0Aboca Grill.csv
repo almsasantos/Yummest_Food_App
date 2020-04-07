@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arepitas fritas,Offer,6.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+1,1,MenuItem,Croquetas del chef,Offer,7.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+2,2,MenuItem,Nachos Totopos,Offer,7.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+3,3,MenuItem,Tequeños,Offer,7.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+4,4,MenuItem,Patatas fritas,Offer,6.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+5,5,MenuItem,Patatas brvas,Offer,5.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+6,6,MenuItem,Parrillada de verduras,Offer,8.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+7,7,MenuItem,Pimientos asados,Offer,7.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill
+8,8,MenuItem,Alitas de pollo crujientes,Offer,6.5,EUR,Entrante,8.5,"""Internacional""","""Calle López de Aranda","""geo"":{""latitude"":40.4439262,""longitude"":-3.6343195",Aboca Grill

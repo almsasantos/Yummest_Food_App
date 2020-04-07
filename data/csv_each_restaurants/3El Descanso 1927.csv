@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada verde de canónigos con queso de cabra, cebolla caramelizada, piñones, nueces y pasas",Offer,10.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+1,1,MenuItem,"Ensalada de foie, queso fresco y nueces con salsa de pedro ximénez",Offer,12.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+2,2,MenuItem,"Tomate “Raft pata negra”, cebolla y ventresca",Offer,10.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+3,3,MenuItem,Ensalada césar de pollo milanesa y lascas de parmesano,Offer,9.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+4,4,MenuItem,"Ensalada de langostinos, canónigos y mango",Offer,11.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+5,5,MenuItem,Parrillada de verduras,Offer,9.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+6,6,MenuItem,"Burrata de búfala con tomate raft, rúcula y salsa de albahaca",Offer,12.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+7,7,MenuItem,"Ensalada de Brotes Frescos, Burrata, Parmesano, Crujiente de Beicon y Mango",Offer,11.9,EUR,Ensaladas,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927

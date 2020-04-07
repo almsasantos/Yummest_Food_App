@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Espetada de ternera,Offer,16.5,EUR,Espetadas portuguesas (espetos),9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+1,1,MenuItem,Espetada de pollo piri piri,Offer,14.5,EUR,Espetadas portuguesas (espetos),9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+2,2,MenuItem,Espetada de pollo con bacón,Offer,15.0,EUR,Espetadas portuguesas (espetos),9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa

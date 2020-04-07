@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Spaghetti alla Bolognese,Offer,7.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+1,1,MenuItem,Tagliatelle alla carbonara,Offer,8.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+2,2,MenuItem,Fettuccini ai funghi,Offer,7.95,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+3,3,MenuItem,Fettuccini di spinaci ai 4 formaggi,Offer,8.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+4,4,MenuItem,Spaghetti alla marinara,Offer,8.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+5,5,MenuItem,Risotto ai funghi,Offer,9.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+6,6,MenuItem,Tortellini di ricotta e spinaci alle fine erbe,Offer,9.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+7,7,MenuItem,Ravioli di carne ai quattro formaggi,Offer,9.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+8,8,MenuItem,Lasagne di carne di vitello,Offer,8.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+9,9,MenuItem,Cannelloni di carne,Offer,8.5,EUR,Plato,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía

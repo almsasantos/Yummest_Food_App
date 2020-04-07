@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cochifrito al estilo de Avila,Offer,15.5,EUR,Plato,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+1,1,MenuItem,Chuletitas de cordero lechal,Offer,15.5,EUR,Plato,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+2,2,MenuItem,Entrecot de ternera a la plancha,Offer,15.5,EUR,Plato,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes
+3,3,MenuItem,Hamburguesa casera,Offer,6.9,EUR,Plato,8.4,"""Español""","""Paseo de la Castellana","""geo"":{""latitude"":40.4598488,""longitude"":-3.6903499",Las Fuentes

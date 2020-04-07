@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz al ibérico en patela,Offer,28,EUR,Plato,9.2,"""Arrocería""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6744399070739746",Casa Benigna
+1,1,MenuItem,Patela de la huerta con soja germinada,Offer,26,EUR,Plato,9.2,"""Arrocería""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6744399070739746",Casa Benigna
+2,2,MenuItem,Fideuá a la marinera,Offer,27,EUR,Plato,9.2,"""Arrocería""","""C","""geo"":{""latitude"":40.448032777058,""longitude"":-3.6744399070739746",Casa Benigna

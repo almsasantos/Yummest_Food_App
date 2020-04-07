@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sushi variado,Offer,15.75,EUR,Plato,8.8,"""Japonés""","""Calle de Trafalgar","""geo"":{""latitude"":40.431627,""longitude"":-3.7003254",Nagoya Trafalgar
+1,1,MenuItem,Maki variados,Offer,15.95,EUR,Plato,8.8,"""Japonés""","""Calle de Trafalgar","""geo"":{""latitude"":40.431627,""longitude"":-3.7003254",Nagoya Trafalgar
+2,2,MenuItem,Yaki-Tori (pincho de pollo a la plancha),Offer,7.95,EUR,Plato,8.8,"""Japonés""","""Calle de Trafalgar","""geo"":{""latitude"":40.431627,""longitude"":-3.7003254",Nagoya Trafalgar

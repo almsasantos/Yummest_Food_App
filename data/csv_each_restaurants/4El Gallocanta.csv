@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fuente de jamón,Offer,13,EUR,EL CERDO PRESUME...(Nuestro Cerdo de Teruel),8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+1,1,MenuItem,Lomo de orza,Offer,13,EUR,EL CERDO PRESUME...(Nuestro Cerdo de Teruel),8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+2,2,MenuItem,Cachopo Gallocanta,Offer,18,EUR,EL CERDO PRESUME...(Nuestro Cerdo de Teruel),8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+3,3,MenuItem,El solomillo o La presa S/M,Offer,19,EUR,EL CERDO PRESUME...(Nuestro Cerdo de Teruel),8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caldereta de Congrio y chipirones,Offer,12.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+1,1,MenuItem,Sopa de pescado y marisco,Offer,12.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+2,2,MenuItem,Verduritas con langostinos al Wok y salsa de ostras,Offer,12.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+3,3,MenuItem,"Flor de lechuga viva con salsa romescu, nueces y anchoas",Offer,14.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+4,4,MenuItem,Verduritas Naturales a la Plancha,Offer,15.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+5,5,MenuItem,Ensalada Al Paseo,Offer,12.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+6,6,MenuItem,Raviolis rellenos de trufa y requesón,Offer,14.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+7,7,MenuItem,"Risotto de Boletus, Pulpo y Parmesano",Offer,15.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+8,8,MenuItem,"Jugoso revuelto de huevos de corral, bacalao y langostinos",Offer,14.0,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+9,9,MenuItem,Ensaladilla rusa con carpaccio de pulpo y langostinos,Offer,16.5,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo
+10,10,MenuItem,Tartar de Tomate Rosa con guacamole y vieiras,Offer,14.5,EUR,Primeros,9,"""Mediterráneo""","""Paseo de la Habana","""geo"":{""latitude"":40.4555655475,""longitude"":-3.6819200515747",Al Paseo

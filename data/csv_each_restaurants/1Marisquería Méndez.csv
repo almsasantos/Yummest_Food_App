@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lubina al horno,Offer,39.7,EUR,Plato,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.418270805371,""longitude"":-3.6746299266815",Marisquería Méndez
+1,1,MenuItem,Solomillo al ajillo,Offer,21.0,EUR,Plato,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.418270805371,""longitude"":-3.6746299266815",Marisquería Méndez
+2,2,MenuItem,Lenguado a la plancha,Offer,19.0,EUR,Plato,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.418270805371,""longitude"":-3.6746299266815",Marisquería Méndez

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lasaña de lentejas,Offer,11.8,EUR,Plato,9.3,"""Vegetariano""","""Calle del Infante","""geo"":{""latitude"":40.4142763,""longitude"":-3.6990471",Reineta
+1,1,MenuItem,Albóndigas vegetarianas con guiso de verduras y arroz basmati,Offer,10.8,EUR,Plato,9.3,"""Vegetariano""","""Calle del Infante","""geo"":{""latitude"":40.4142763,""longitude"":-3.6990471",Reineta
+2,2,MenuItem,Cuscus con verduras al estilo magrebí y garbanzos,Offer,9.9,EUR,Plato,9.3,"""Vegetariano""","""Calle del Infante","""geo"":{""latitude"":40.4142763,""longitude"":-3.6990471",Reineta

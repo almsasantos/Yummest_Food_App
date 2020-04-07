@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de cous cous,Offer,9.6,EUR,Va de Verde,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+1,1,MenuItem,"Ensalada de espinacas con burrata, frutos rojos, nueces aliñada con miel y mostaza",Offer,11.5,EUR,Va de Verde,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+2,2,MenuItem,Ensalada de tomate con ventresca,Offer,10.0,EUR,Va de Verde,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15

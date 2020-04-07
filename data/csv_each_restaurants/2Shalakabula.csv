@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,40.0,EUR,Bebidas,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+2,2,MenuItem,Café,Offer,1.3,EUR,Bebidas,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+3,3,MenuItem,Botella de agua,Offer,2.9,EUR,Bebidas,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,9.2,"""Creativo""","""Calle de Don Ramon de la Cruz","""geo"":{""latitude"":40.4285833,""longitude"":-3.6748306",Shalakabula

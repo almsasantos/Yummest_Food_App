@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante a elegir,Entre sopas y ensaladas.,Menú del día,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+1,1,MenuItem,Plato,"A elegir entre cuatro platos de segundo, como Tajine, cuscus, Kabsa",Menú del día,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+2,2,MenuItem,Postre,"postre a elegir tarta de queso, tiramizu, profiteroles, brownie....",Menú del día,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+3,3,MenuItem,Bebida,"Agua, vino, cerveza y refrescos",Menú del día,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir

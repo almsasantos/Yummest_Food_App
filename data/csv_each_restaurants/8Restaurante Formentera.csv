@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,té negro / té negro con canela,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+1,1,MenuItem,té negro de frutos rojos,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+2,2,MenuItem,té verde / té verde hierbabuena,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+3,3,MenuItem,té rojo,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+4,4,MenuItem,té rooibos de Albahaca,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+5,5,MenuItem,té de frutos del bosque,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+6,6,MenuItem,té de vainilla,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+7,7,MenuItem,Camomila,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+8,8,MenuItem,Manzanilla,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+9,9,MenuItem,Poleo menta,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+10,10,MenuItem,Tila,Offer,1.3,EUR,Infusiones,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera

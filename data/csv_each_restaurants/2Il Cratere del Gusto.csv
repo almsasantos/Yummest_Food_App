@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú,Offer,4.5,EUR,Postre,8.8,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.429566,""longitude"":-3.7191032",Il Cratere del Gusto
+1,1,MenuItem,Pann Cotta,Offer,4.4,EUR,Postre,8.8,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.429566,""longitude"":-3.7191032",Il Cratere del Gusto
+2,2,MenuItem,Cannolo siciliano,Offer,4.5,EUR,Postre,8.8,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.429566,""longitude"":-3.7191032",Il Cratere del Gusto
+3,3,MenuItem,Profiteroles,Offer,4.4,EUR,Postre,8.8,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.429566,""longitude"":-3.7191032",Il Cratere del Gusto
+4,4,MenuItem,Chocolat Fondant,Offer,4.8,EUR,Postre,8.8,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.429566,""longitude"":-3.7191032",Il Cratere del Gusto
+5,5,MenuItem,NY Cheese Cake,Offer,4.8,EUR,Postre,8.8,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.429566,""longitude"":-3.7191032",Il Cratere del Gusto

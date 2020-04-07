@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sesitos de cordero a la Romana,Offer,15.0,EUR,"CARNES ELABORADAS CON CARIÑO - CORDERO LECHAL, SELECCIONADO EN ORIGEN",8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+1,1,MenuItem,Mollejitas de cordero lechal al aroma de Jeréz,Offer,17.5,EUR,"CARNES ELABORADAS CON CARIÑO - CORDERO LECHAL, SELECCIONADO EN ORIGEN",8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+2,2,MenuItem,Costillitas de cordero lechal a la sartén,Offer,18.5,EUR,"CARNES ELABORADAS CON CARIÑO - CORDERO LECHAL, SELECCIONADO EN ORIGEN",8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa

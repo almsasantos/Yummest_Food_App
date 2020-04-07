@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Super Food Salad (quinoa, queso feta, aguacate, nueces, granada...)",Offer,13.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+1,1,MenuItem,"Fritata de calabacín (calabacín, queso ricotta, queso fetta, albahaca y tomate cherry)",Offer,8.5,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+2,2,MenuItem,Pulpo criollo (pulpo al estilo gallego sobre puré de batata y jengibre),Offer,18.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+3,3,MenuItem,Ensalada de Hinojo y frutas,Offer,11.5,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+4,4,MenuItem,Flatbread de salmón,Offer,13.5,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+5,5,MenuItem,Ceviche de corvina al estilo peruano,Offer,18.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+6,6,MenuItem,Ensalada alemana,Offer,8.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+7,7,MenuItem,Roastbeef con patatas asadas ensalada verde y salsa de rábano picante,Offer,18.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+8,8,MenuItem,Solomillo a la plancha con patata asada y ensalada,Offer,24.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+9,9,MenuItem,Entrecot con espárragos y patatas,Offer,18.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+10,10,MenuItem,Salteado de redondo de ternera con arroz thai,Offer,12.5,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+11,11,MenuItem,Rape en salsa americana con langostinos,Offer,24.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+12,12,MenuItem,Vieiras en salsa romesco,Offer,19.0,EUR,Plato,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café

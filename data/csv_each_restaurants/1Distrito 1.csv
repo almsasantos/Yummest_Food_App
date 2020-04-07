@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Curry vietnamita de ternera,Offer,16.9,EUR,Plato,9.3,"""Vietnamita""","""Calle de las Delicias","""geo"":{""latitude"":40.4040076,""longitude"":-3.6926936",Distrito 1
+1,1,MenuItem,Bun cha,Offer,13.5,EUR,Plato,9.3,"""Vietnamita""","""Calle de las Delicias","""geo"":{""latitude"":40.4040076,""longitude"":-3.6926936",Distrito 1
+2,2,MenuItem,Arroz salteado con marisco,Offer,11.9,EUR,Plato,9.3,"""Vietnamita""","""Calle de las Delicias","""geo"":{""latitude"":40.4040076,""longitude"":-3.6926936",Distrito 1

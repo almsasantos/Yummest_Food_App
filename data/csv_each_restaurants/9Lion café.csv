@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrantes a compartir,Jamón ibérico y queso de oveja de Mosterales acompañado de pan con tomate\nCroquetas caseras de boletus\nEnsalada royal con migas de bacalao\nRollitos de salmón ahumado a las finas hierbas,Menú de Navidad 30€,None,None,None,Lion café
+1,1,MenuItem,Plato primncipal a elegir,Lenguado al Albariño con compota de manzana\nCarrillera asada al oporto con puré de boniato,Menú de Navidad 30€,None,None,None,Lion café
+2,2,MenuItem,Postre,Surtido de tartas caseras,Menú de Navidad 30€,None,None,None,Lion café
+3,3,MenuItem,Bebida,"Vino de la casa, cerveza de barril, agua o refresco\nCafé + Copa de Champán",Menú de Navidad 30€,None,None,None,Lion café

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,La Argentina,Offer,11.9,EUR,Espada FLAME (Brocheta de 250 gr a la Parrilla),8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+1,1,MenuItem,La Brasileña,Offer,11.9,EUR,Espada FLAME (Brocheta de 250 gr a la Parrilla),8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+2,2,MenuItem,La Japonesa,Offer,11.9,EUR,Espada FLAME (Brocheta de 250 gr a la Parrilla),8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame
+3,3,MenuItem,La Libanesa,Offer,11.9,EUR,Espada FLAME (Brocheta de 250 gr a la Parrilla),8.4,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.4374525,""longitude"":-3.6822957",Flame

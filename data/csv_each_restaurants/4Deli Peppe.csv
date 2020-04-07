@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Trio de Antipastos Italianos,"Mini-Ensalada Capresa, Jamón Italiano + Pisto Siciliano\nAcompañado de Pan Focaccia",Italiano,9.3,"""Italiano""","""Calle Virgen de la Alegria 10 Mercado de Las Ventas","""geo"":{""latitude"":40.4331742,""longitude"":-3.6566507",Deli Peppe
+1,1,MenuItem,Platos Principales,Lasaña de Carne a la Boloñesa ó Berenjenas a la Parmesana,Italiano,9.3,"""Italiano""","""Calle Virgen de la Alegria 10 Mercado de Las Ventas","""geo"":{""latitude"":40.4331742,""longitude"":-3.6566507",Deli Peppe
+2,2,MenuItem,Postres,Tiramisú ó Cannoli Siciliano,Italiano,9.3,"""Italiano""","""Calle Virgen de la Alegria 10 Mercado de Las Ventas","""geo"":{""latitude"":40.4331742,""longitude"":-3.6566507",Deli Peppe

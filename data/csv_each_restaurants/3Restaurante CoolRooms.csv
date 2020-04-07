@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Quimera de chocolate,Offer,8.5,EUR,Las Escaleras,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms
+1,1,MenuItem,La Cremosa del pasiego,Offer,8.5,EUR,Las Escaleras,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms
+2,2,MenuItem,Tatín de Palacio,Offer,8.5,EUR,Las Escaleras,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms
+3,3,MenuItem,Ambrosia,Offer,6.5,EUR,Las Escaleras,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms
+4,4,MenuItem,Postre de Otoño,Offer,8.5,EUR,Las Escaleras,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms

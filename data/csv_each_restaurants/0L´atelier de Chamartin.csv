@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Jamón ibérico 1/2 €8,50€",Offer,16,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+1,1,MenuItem,"Lomo ibérico 1/2 €6,50",Offer,12,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+2,2,MenuItem,"Chorizo guijuelo 1/2 €4,00",Offer,7,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+3,3,MenuItem,"Salchichón guijuelo 1/2 €4,00",Offer,7,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+4,4,MenuItem,"Queso Picón semi 1/2 €4,00",Offer,6,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+5,5,MenuItem,1/2 Jamón y 1/2 Lomo,Offer,14,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+6,6,MenuItem,1/2 Jamón y 1/2 Queso,Offer,12,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin
+7,7,MenuItem,1/2 chorizo y 1/2 salchichón,Offer,12,EUR,RACIONES,8.8,"""Español""","""Calle Prof","""geo"":{""latitude"":40.4557956,""longitude"":-3.6873265",L´atelier de Chamartin

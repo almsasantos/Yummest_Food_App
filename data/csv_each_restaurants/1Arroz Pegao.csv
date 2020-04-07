@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón 75% ibérico,Offer,21.0,EUR,Entrantes,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+1,1,MenuItem,Stracciatella con tomates semi-secos y tapenade de aceituna kalamata,Offer,12.5,EUR,Entrantes,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+2,2,MenuItem,Foie troy royal (lingote) con tierra de pistacho y mermelada de violeta,Offer,12.0,EUR,Entrantes,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+3,3,MenuItem,Ensalada de tomates rotos y ventresca,Offer,14.0,EUR,Entrantes,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao

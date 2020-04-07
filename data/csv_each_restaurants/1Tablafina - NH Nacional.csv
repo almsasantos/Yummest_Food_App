@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la brasa con patatita confitada,Offer,16.9,EUR,Plato,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+1,1,MenuItem,Huevo a baja temperatura con hongos y patata trufada,Offer,7.9,EUR,Plato,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+2,2,MenuItem,Lomo de Ternera de Guadarrama a la Parrilla,Offer,17.9,EUR,Plato,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+3,3,MenuItem,Arroz meloso con verduritas,Offer,9.45,EUR,Plato,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional

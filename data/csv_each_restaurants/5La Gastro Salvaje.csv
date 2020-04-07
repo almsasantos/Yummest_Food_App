@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mahou 5 Estrellas,Offer,3.0,EUR,CERVEZAS / CHEVES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+1,1,MenuItem,Mahou Maestra,Offer,4.25,EUR,CERVEZAS / CHEVES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+2,2,MenuItem,Casimiro Mahou Trigo,Offer,5.0,EUR,CERVEZAS / CHEVES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+3,3,MenuItem,Casimiro Mahou Extra,Offer,5.0,EUR,CERVEZAS / CHEVES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje
+4,4,MenuItem,Gastro (Artesana de autor),Offer,4.25,EUR,CERVEZAS / CHEVES,9,None,"""Calle de Ponzano","""geo"":{""latitude"":40.4454386,""longitude"":-3.6988708",La Gastro Salvaje

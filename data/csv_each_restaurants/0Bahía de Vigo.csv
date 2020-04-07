@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamares,Offer,8.5,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+1,1,MenuItem,Chopitos,Offer,9.5,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+2,2,MenuItem,Setas con jamón o ajillo,Offer,10.5,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+3,3,MenuItem,Pimientos rellenos (4 piezas),Offer,9.5,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+4,4,MenuItem,Pimientos de padrón,Offer,6.5,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+5,5,MenuItem,Croquetas caseras (8 piezas),Offer,9.0,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+6,6,MenuItem,Empanada gallega,Offer,5.5,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+7,7,MenuItem,Pulpo a feira,Offer,16.0,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+8,8,MenuItem,Queso manchego,Offer,8.5,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+9,9,MenuItem,Rulo cabra gratinado (por pieza),Offer,10.0,EUR,Entrante,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo

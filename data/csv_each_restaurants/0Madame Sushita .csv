@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza crujiente con láminas de atún rojo y aceite de trufa (2 unidades),Offer,11.9,EUR,Entrante,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+1,1,MenuItem,Gyozas de wagyu con mermelada de tomate y albahaca frita (2 unidades),Offer,5.9,EUR,Entrante,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+2,2,MenuItem,Samosas de pollo de corral al horno con salsa de aguacate y lima (6 uds),Offer,7.5,EUR,Entrante,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+3,3,MenuItem,Crujiente de langostinos y albahaca con salsa spicy chili (4 unidades),Offer,8.9,EUR,Entrante,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 
+4,4,MenuItem,Rollito de pato pekín con salsa hoisin (6 unidades),Offer,8.9,EUR,Entrante,9,"""Japonés""","""Paseo de la Habana","""geo"":{""latitude"":40.4500365,""longitude"":-3.6882266",Madame Sushita 

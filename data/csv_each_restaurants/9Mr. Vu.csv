@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de salmon,Offer,10.5,EUR,Tataki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+1,1,MenuItem,Tataki de atun,Offer,11.2,EUR,Tataki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu
+2,2,MenuItem,Tataki de ternera,Offer,10.0,EUR,Tataki,9.2,"""Vietnamita""","""Calle del Capitán Blanco Argibay","""geo"":{""latitude"":40.46511,""longitude"":-3.6976807",Mr. Vu

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de atún,Offer,12.0,EUR,Entrante,8.5,"""Gastronómico""","""Calle de Padilla","""geo"":{""latitude"":40.43106,""longitude"":-3.677152",Casa Sushi
+1,1,MenuItem,Gyoza de carne y verduras,Offer,6.3,EUR,Entrante,8.5,"""Gastronómico""","""Calle de Padilla","""geo"":{""latitude"":40.43106,""longitude"":-3.677152",Casa Sushi
+2,2,MenuItem,Carpaccio chef,Offer,12.0,EUR,Entrante,8.5,"""Gastronómico""","""Calle de Padilla","""geo"":{""latitude"":40.43106,""longitude"":-3.677152",Casa Sushi

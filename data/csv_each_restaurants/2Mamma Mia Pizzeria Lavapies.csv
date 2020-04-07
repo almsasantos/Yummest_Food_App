@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisu,Offer,3.5,EUR,Postres,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+1,1,MenuItem,Crepe Nutella,Offer,4.0,EUR,Postres,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies
+2,2,MenuItem,Crema de mascarpone,Offer,3.0,EUR,Postres,8.7,None,"""Calle de Lavapiés","""geo"":{""latitude"":40.4096202,""longitude"":-3.7024839",Mamma Mia Pizzeria Lavapies

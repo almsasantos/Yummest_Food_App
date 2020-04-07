@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Queso, pollo, jalapeños, tomate y lechuga",Offer,4.95,EUR,Burritos,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+1,1,MenuItem,"Queso, carne picada, salsa barbacoa y tomate",Offer,4.95,EUR,Burritos,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+2,2,MenuItem,"Champiñón, queso, tomate y lechuga",Offer,4.95,EUR,Burritos,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza
+3,3,MenuItem,Pollo y mozzarella,Offer,4.95,EUR,Burritos,7.7,"""Italiano""","""Calle de Lavapiés","""geo"":{""latitude"":40.4105988,""longitude"":-3.7026214",Pizzeria Della Cabeza

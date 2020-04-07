@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Berenjenas con salmorejo,Offer,11.0,EUR,Entrante,8.6,"""Español""","""Calle Fúcar","""geo"":{""latitude"":40.4117602,""longitude"":-3.6955688",Taberna Alambique
+1,1,MenuItem,Parrillada de verduras,Offer,9.5,EUR,Entrante,8.6,"""Español""","""Calle Fúcar","""geo"":{""latitude"":40.4117602,""longitude"":-3.6955688",Taberna Alambique
+2,2,MenuItem,Bandeja de embutidos ibéricos,Offer,16.0,EUR,Entrante,8.6,"""Español""","""Calle Fúcar","""geo"":{""latitude"":40.4117602,""longitude"":-3.6955688",Taberna Alambique

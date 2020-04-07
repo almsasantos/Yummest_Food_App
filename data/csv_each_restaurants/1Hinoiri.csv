@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sashimi de atún,Offer,12.0,EUR,Plato,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+1,1,MenuItem,Makis de salmón,Offer,11.25,EUR,Plato,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri
+2,2,MenuItem,Nigiris,Offer,6.0,EUR,Plato,8.8,"""Japonés""","""Av","""geo"":{""latitude"":40.5042835,""longitude"":-3.706197",Hinoiri

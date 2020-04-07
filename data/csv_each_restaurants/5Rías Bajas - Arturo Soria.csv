@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ENSALADA MAR Y TIERRA,Offer,16.9,EUR,DE LA HUERTA,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+1,1,MenuItem,ENSALADA de QUESO DE CABRA,Offer,16.9,EUR,DE LA HUERTA,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+2,2,MenuItem,ALCACHOFAS FRITAS,Offer,17.9,EUR,DE LA HUERTA,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+3,3,MenuItem,SETAS A LA PLANCHA,Offer,17.9,EUR,DE LA HUERTA,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria

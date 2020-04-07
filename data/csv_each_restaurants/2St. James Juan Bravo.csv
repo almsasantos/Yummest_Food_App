@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gamba roja 100 gr. (cocidas ó plancha),Offer,16.0,EUR,Mariscos de nuestras costas.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+1,1,MenuItem,Gamba blanca de Santapola 100 gr. (cocidas ó plancha),Offer,15.0,EUR,Mariscos de nuestras costas.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+2,2,MenuItem,Carabinero a la plancha 100 gr,Offer,15.3,EUR,Mariscos de nuestras costas.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+3,3,MenuItem,Cigala Plancha grande 100 gr. (cocidas ó plancha),Offer,10.0,EUR,Mariscos de nuestras costas.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo

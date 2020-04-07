@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+5,5,MenuItem,Botella de vino,Offer,12.2,EUR,Bebidas,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room

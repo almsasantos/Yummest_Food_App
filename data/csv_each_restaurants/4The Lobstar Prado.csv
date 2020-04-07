@@ -1,0 +1,4 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,"Ensalada de trigo entero, con una deliciosa combinación de rúcula, albahaca, perejil, almendras, manzana, queso parmesano y una auténtica vinagreta de miel y mostaza",Offer,11.8,EUR,Light way,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+1,1,1,MenuItem,"Ensalada verde acompañada de aguacate, tomate cherry, maíz y bogavante",Offer,16.8,EUR,Light way,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+2,2,2,MenuItem,Ensalada con queso de cabra,Offer,8.0,EUR,Light way,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar

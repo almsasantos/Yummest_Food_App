@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken Tandoori,Offer,10.5,EUR,Tandoor,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+1,1,MenuItem,Chicken Tikka,Offer,10.9,EUR,Tandoor,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+2,2,MenuItem,Lamb Tikka,Offer,12.95,EUR,Tandoor,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra
+3,3,MenuItem,King Prawn tandoori,Offer,14.95,EUR,Tandoor,9,"""Indio""","""Calle de Viriato","""geo"":{""latitude"":40.4358393,""longitude"":-3.6985141",Mantra

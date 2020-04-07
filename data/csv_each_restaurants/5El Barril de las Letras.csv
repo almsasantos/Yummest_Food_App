@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tartar de atún con casse de aguacate y tomate, alga wakame y sésamo tostado",Offer,23.0,EUR,CAPRICHOS DEL MAR,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+1,1,MenuItem,Pulpo de pedrero con cachelos al aceite de pimentón,Offer,19.75,EUR,CAPRICHOS DEL MAR,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras
+2,2,MenuItem,"Pulpo de pedrero marcado a la brasa con Alioli suave\t19,75€",Offer,19.75,EUR,CAPRICHOS DEL MAR,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.41431219679,""longitude"":-3.69690990448",El Barril de las Letras

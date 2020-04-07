@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de Queso,Offer,5.0,EUR,TERMINAMOS EN LA CALLE DULCINEA,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+1,1,MenuItem,Tarta de Limón,Offer,5.0,EUR,TERMINAMOS EN LA CALLE DULCINEA,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+2,2,MenuItem,Tarta de Manzana,Offer,5.5,EUR,TERMINAMOS EN LA CALLE DULCINEA,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+3,3,MenuItem,Hojaldre de Plátano,Offer,5.5,EUR,TERMINAMOS EN LA CALLE DULCINEA,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central
+4,4,MenuItem,Chocolate Costrado,Offer,5.5,EUR,TERMINAMOS EN LA CALLE DULCINEA,9.2,"""Mediterráneo""","""Calle de Núñez de Arce","""geo"":{""latitude"":40.4157705,""longitude"":-3.7011212",La Taberna Central

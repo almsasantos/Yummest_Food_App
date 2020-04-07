@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tomate de temporada con piparras encurtidas,Offer,10.5,EUR,Ensaladas y verduras,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,Ensaladilla rusa de merluza de pincho,Offer,14.8,EUR,Ensaladas y verduras,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+2,2,MenuItem,Ensalada de lomos de bonito con tomate fresco y cebolleta dulce,Offer,16.0,EUR,Ensaladas y verduras,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+3,3,MenuItem,Ensalada de bogavante templado a la vinagreta de cítricos,Offer,26.5,EUR,Ensaladas y verduras,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+4,4,MenuItem,Alcachofas a la parrilla con cristal de sal,,,,Ensaladas y verduras,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

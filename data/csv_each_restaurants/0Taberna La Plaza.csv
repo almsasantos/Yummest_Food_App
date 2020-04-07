@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Café más barrita con tomate,Offer,2.5,EUR,Desayunos,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+1,1,MenuItem,Café mas churros o porras,Offer,2.5,EUR,Desayunos,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+2,2,MenuItem,Café más pincho de tortilla,Offer,3.5,EUR,Desayunos,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+3,3,MenuItem,Café más sandwich mixto,Offer,3.5,EUR,Desayunos,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza
+4,4,MenuItem,Suplemento de zumo de naranja,Offer,1.0,EUR,Desayunos,7.2,"""Español""","""Calle de San Bernardino","""geo"":{""latitude"":40.4250394,""longitude"":-3.7102288",Taberna La Plaza

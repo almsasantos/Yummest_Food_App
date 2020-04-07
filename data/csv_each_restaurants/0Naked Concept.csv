@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Vegana,Offer,9.9,EUR,Ensaladas y cremas,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+1,1,MenuItem,Griega,Offer,9.5,EUR,Ensaladas y cremas,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+2,2,MenuItem,Atún y aguacate,Offer,10.9,EUR,Ensaladas y cremas,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+3,3,MenuItem,Verde con ventresca,Offer,9.0,EUR,Ensaladas y cremas,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+4,4,MenuItem,Roja con ventresca,Offer,10.9,EUR,Ensaladas y cremas,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+5,5,MenuItem,Crema o verdura del día,Offer,8.0,EUR,Ensaladas y cremas,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept

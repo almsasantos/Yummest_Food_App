@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Marguerita,Offer,7.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+1,1,MenuItem,Prosciutto,Offer,8.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+2,2,MenuItem,Carbonara,Offer,9.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+3,3,MenuItem,Romana,Offer,9.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+4,4,MenuItem,Vegetariana,Offer,10.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+5,5,MenuItem,Calzone Tradizional,Offer,11.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+6,6,MenuItem,Calzone Quattro Formaggi,Offer,11.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+7,7,MenuItem,Calzone Vegetariano,Offer,11.9,EUR,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna
+8,8,MenuItem,A tu gusto,,,,Pizze Tradizionali / Calzone,9,"""Italiano""","""Calle Argumosa","""geo"":{""latitude"":40.4079765,""longitude"":-3.6984934",Primadonna

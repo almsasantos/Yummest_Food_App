@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz negro con tallarines de calamar y alioli de lima,Offer,22,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+1,1,MenuItem,"Risotto de parmesano, jamón y setas de temporada",Offer,23,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+2,2,MenuItem,Tartar de salmón con compota de tomate y perlas de wasabi,Offer,18,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+3,3,MenuItem,Chipirones encebollados,Offer,26,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+4,4,MenuItem,Atún vuelta y vuelta con escalivada ahumada,Offer,34,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+5,5,MenuItem,Bacalao confitado con callos o con pisto,Offer,26,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+6,6,MenuItem,Merluza de pincho nacional con almejas en su jugo verde,Offer,29,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+7,7,MenuItem,Carrillera de ternera glaseada con puré de orejones y aceite de vainilla,Offer,26,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+8,8,MenuItem,Lagartillo ibérico con patata revolcona,Offer,22,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+9,9,MenuItem,Carpaccio de solomillo con parmesano y canónigos,Offer,25,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+10,10,MenuItem,Lomo de buey con asadillo y patatas (400 gr.),Offer,32,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+11,11,MenuItem,"Solomillo de buey con patatitas fritas, asadillo y salsa de queso",Offer,29,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella
+12,12,MenuItem,Mini hamburguesa de buey (3 unidades),Offer,25,EUR,Plato,8.7,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.4583879,""longitude"":-3.6824905",Chantarella

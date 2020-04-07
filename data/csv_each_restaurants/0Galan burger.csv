@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tequeños,Offer,7.5,EUR,Entrante,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+1,1,MenuItem,Nachos,Offer,8.5,EUR,Entrante,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+2,2,MenuItem,Tripo de arepitas,Offer,9.0,EUR,Entrante,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger
+3,3,MenuItem,Gajos pork,Offer,8.0,EUR,Entrante,8.3,"""Americano""","""Av","""geo"":{""latitude"":40.4294321,""longitude"":-3.6544621",Galan burger

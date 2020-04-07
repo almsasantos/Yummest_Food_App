@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de boletus y trufa,Offer,9.8,EUR,Para empezar,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+1,1,MenuItem,Croquetas de jamón ibérico,Offer,9.8,EUR,Para empezar,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+2,2,MenuItem,"Ensalada de tomate de la tierra, ventresca de bonito, aguacate, cebolla morada y huevo a 60º",Offer,12.0,EUR,Para empezar,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+3,3,MenuItem,"Bowl de quinoa, verduras encurtidas, mango fresco, aguacate, cebolla crujiente y cacahuetes tostados",Offer,10.0,EUR,Para empezar,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga
+4,4,MenuItem,"Berenjenas a la plancha, olivas kalamata, cebolla morada, queso feta, tomates cherry confitados y vinagreta de miel y trufa",Offer,11.5,EUR,Para empezar,9,None,"""Calle del Espíritu Santo","""geo"":{""latitude"":40.4253974,""longitude"":-3.7035433",La Dominga

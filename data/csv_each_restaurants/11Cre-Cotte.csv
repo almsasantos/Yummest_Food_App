@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lambrusco Rosado,Offer,9.0,EUR,Vinos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+1,1,MenuItem,Rueda ( verdejo ) botella,Offer,11.0,EUR,Vinos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+2,2,MenuItem,Ribera de Duero ( cosecha ) botella,Offer,11.0,EUR,Vinos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+3,3,MenuItem,Riojas ( cosecha ) botella,Offer,9.0,EUR,Vinos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+4,4,MenuItem,Riojas ( Crianza ) botella,Offer,12.5,EUR,Vinos,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caza y carnes,,,,Segundos,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+1,1,MenuItem,Codorniz en escabeche,Offer,14.53,EUR,Segundos,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+2,2,MenuItem,Solomillo al templete:,Offer,20.6,EUR,Segundos,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+3,3,MenuItem,Lomo de carne roja de pasto trinchado sobre panaderas y pimientos,Offer,19.45,EUR,Segundos,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+4,4,MenuItem,Hamburguesa de la Sacristía con rúcula y toque picante,Offer,14.2,EUR,Segundos,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+5,5,MenuItem,Rabo de toro deshuesado en timbal,Offer,19.9,EUR,Segundos,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia

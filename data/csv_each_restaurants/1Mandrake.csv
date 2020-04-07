@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Patatas fritas con orégano,Offer,3.2,EUR,Raciones,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+1,1,MenuItem,Patatas fritas con queso feta,Offer,3.9,EUR,Raciones,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+2,2,MenuItem,Ensalada Dacos,Offer,6.8,EUR,Raciones,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+3,3,MenuItem,Musaka,Offer,7.5,EUR,Raciones,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake
+4,4,MenuItem,Pan pita y salsa tzatziki,Offer,4.2,EUR,Raciones,9.2,"""Griego""","""Calle del Almendro","""geo"":{""latitude"":40.4121485,""longitude"":-3.7103656",Mandrake

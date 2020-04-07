@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Enchiladas,Offer,14.5,EUR,Plato,8.7,"""Mexicano""","""C","""geo"":{""latitude"":40.426111822166,""longitude"":-3.6828498840332",La Leyenda del Agave
+1,1,MenuItem,Cochinita pibil,Offer,15.5,EUR,Plato,8.7,"""Mexicano""","""C","""geo"":{""latitude"":40.426111822166,""longitude"":-3.6828498840332",La Leyenda del Agave
+2,2,MenuItem,Alambres,Offer,15.5,EUR,Plato,8.7,"""Mexicano""","""C","""geo"":{""latitude"":40.426111822166,""longitude"":-3.6828498840332",La Leyenda del Agave

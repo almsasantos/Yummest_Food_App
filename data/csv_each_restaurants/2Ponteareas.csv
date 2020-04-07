@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de Pollo BIO, Aguacate y Rucula",Offer,18.5,EUR,Carnes,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+1,1,MenuItem,Lacón con Grelos,Offer,20.0,EUR,Carnes,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+2,2,MenuItem,Solomillo de Ternera Gallega con salsa de Queso Arzúa,Offer,26.0,EUR,Carnes,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+3,3,MenuItem,Chuletillas de Cordero,Offer,24.0,EUR,Carnes,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+4,4,MenuItem,Escalopines de Solomillo,Offer,24.5,EUR,Carnes,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+5,5,MenuItem,Jarrete de Ternera Lacado,Offer,25.0,EUR,Carnes,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+6,6,MenuItem,Taco de Vaca con Setas y Verduras,Offer,26.5,EUR,Carnes,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas

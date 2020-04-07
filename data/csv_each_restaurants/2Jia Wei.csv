@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Langostino frito,Offer,8.5,EUR,Marisco,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+1,1,MenuItem,Gambas con setas chinas y bambu,Offer,8.25,EUR,Marisco,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+2,2,MenuItem,Gambas con salsa picante,Offer,8.25,EUR,Marisco,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+3,3,MenuItem,Gambas con salsa curry,Offer,8.25,EUR,Marisco,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+4,4,MenuItem,Gambas con salsa agridulce,Offer,8.25,EUR,Marisco,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei
+5,5,MenuItem,Chop suey de gambas,Offer,8.25,EUR,Marisco,None,"""Japonés""","""Calle de las Huertas","""geo"":{""latitude"":40.4136068,""longitude"":-3.698618",Jia Wei

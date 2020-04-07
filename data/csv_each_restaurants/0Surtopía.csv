@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla de langostinos con mahonesa de oliva,Offer,15.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+1,1,MenuItem,Chipironcitos de potera fritos con alioli de ajo asado,Offer,15.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+2,2,MenuItem,Sardinas marinás con salmorejo de pimientos asados,Offer,15.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+3,3,MenuItem,Carne mechá ibérica con aceite de pimienta y lima,Offer,15.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+4,4,MenuItem,Boquerones rebozados en adobo moruno,Offer,14.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+5,5,MenuItem,Croquetas de Urta a la marinera,Offer,14.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+6,6,MenuItem,Croquetas de pringá de puchero ibérico,Offer,14.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+7,7,MenuItem,Menudo de callos con garbanzos a la sanluqueña,Offer,16.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+8,8,MenuItem,Tortillitas de camarones Plaza Del Cabildo (Unidad),Offer,2.5,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+9,9,MenuItem,Huevas de caballa del sur en tempura de manzanilla,Offer,15.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+10,10,MenuItem,Carpaccio de gamba blanca al ajillo picante,Offer,22.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+11,11,MenuItem,Tomate de temporada aliñao con melva de almadraba,Offer,15.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía
+12,12,MenuItem,Salpicón de ventresca de corvina al horno,Offer,16.0,EUR,Entrante,9.1,"""Mediterráneo""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4353595,""longitude"":-3.6818503",Surtopía

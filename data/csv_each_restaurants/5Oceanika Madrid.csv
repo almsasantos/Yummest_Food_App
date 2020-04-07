@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+2,2,MenuItem,Café,Offer,1.9,EUR,Bebidas,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+6,6,MenuItem,Copa de vino,Offer,3.5,EUR,Bebidas,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid

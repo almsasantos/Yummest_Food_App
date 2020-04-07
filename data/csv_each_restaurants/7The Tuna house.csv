@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Shake,Offer,5.2,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+1,1,MenuItem,Shiromi,Offer,5.2,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+2,2,MenuItem,Hotate,Offer,6.8,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+3,3,MenuItem,Uzura Tamago,Offer,5.8,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+4,4,MenuItem,Honmaguro,Offer,5.8,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+5,5,MenuItem,Hamachi,Offer,5.8,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+6,6,MenuItem,Unagi,Offer,6.85,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+7,7,MenuItem,Ikura,Offer,8.5,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+8,8,MenuItem,Otoro fusion,Offer,8.8,EUR,NIGIRIS,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house

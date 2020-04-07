@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,GOMA WAKAME,Offer,5.9,EUR,ENSALADA,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+1,1,MenuItem,ENSALADA DE POLLO KATSU,Offer,10.5,EUR,ENSALADA,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar
+2,2,MenuItem,ENSALADA DE SALMON Y AGUACATE,Offer,9.5,EUR,ENSALADA,8.9,"""Japonés""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4197238,""longitude"":-3.6970766",44 Sushi Bar

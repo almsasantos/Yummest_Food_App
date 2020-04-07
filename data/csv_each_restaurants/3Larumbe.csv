@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak tartar de solomillo al momento,Offer,25,EUR,Carnes (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+1,1,MenuItem,Solomillo con salsa al oloroso y graten de patata y bacon,Offer,26,EUR,Carnes (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+2,2,MenuItem,Cilindro de rabo de toro con queso de cabra,Offer,22,EUR,Carnes (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+3,3,MenuItem,Lomo de Corzo con Frutos rojos y tamarindo,Offer,24,EUR,Carnes (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+4,4,MenuItem,Pluma de ibérico con risotto de setas,Offer,22,EUR,Carnes (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe

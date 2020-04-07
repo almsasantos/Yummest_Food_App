@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,chicken nachos,Offer,8.95,EUR,ENTRANTE,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+1,1,MenuItem,fresh guacamole,Offer,7.95,EUR,ENTRANTE,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies
+2,2,MenuItem,chicken fingers,Offer,6.95,EUR,ENTRANTE,9.1,"""Asador""","""Calle Marqués de Valdeiglesias","""geo"":{""latitude"":40.4198869,""longitude"":-3.6972546",Smokies

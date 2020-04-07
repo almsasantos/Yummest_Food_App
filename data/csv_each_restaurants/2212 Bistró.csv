@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Racion 212,Offer,10.0,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+1,1,MenuItem,Tenders de pollo,Offer,7.5,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+2,2,MenuItem,Tequeños,Offer,7.5,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+3,3,MenuItem,Mini Empanaditas,Offer,8.5,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+4,4,MenuItem,Choripapa,Offer,8.5,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+5,5,MenuItem,Nachos,Offer,10.0,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+6,6,MenuItem,TequeCachapas,Offer,8.5,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+7,7,MenuItem,Mac&Cheese,Offer,8.5,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+8,8,MenuItem,Patacón,Offer,10.0,EUR,Entrante,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró

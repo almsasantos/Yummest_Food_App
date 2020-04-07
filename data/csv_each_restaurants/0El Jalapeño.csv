@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Guacamole,Offer,7,EUR,Entrantes,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+1,1,MenuItem,Combi Nachos,Offer,7,EUR,Entrantes,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+2,2,MenuItem,Quesadilla,Offer,6,EUR,Entrantes,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+3,3,MenuItem,Sincronizada,Offer,6,EUR,Entrantes,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+4,4,MenuItem,Maxi Nachos,Offer,11,EUR,Entrantes,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+5,5,MenuItem,Mix Quesadillas,Offer,11,EUR,Entrantes,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño
+6,6,MenuItem,Maxi Sincronizada,Offer,11,EUR,Entrantes,9,"""Mexicano""","""C","""geo"":{""latitude"":40.4618677,""longitude"":-3.6866349",El Jalapeño

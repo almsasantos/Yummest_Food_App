@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Ensalada Mixta\nTortellini Gorgonzola\nCocido de Repollo,Menú del día (ejemplo) 14.50€,8.8,"""Asturiano""","""Av Victoria","""geo"":{""latitude"":40.4669232,""longitude"":-3.8141189",Carús
+1,1,MenuItem,Plato,Cachopo de Jamón\nGallo Rebozado\nPollo Asado,Menú del día (ejemplo) 14.50€,8.8,"""Asturiano""","""Av Victoria","""geo"":{""latitude"":40.4669232,""longitude"":-3.8141189",Carús
+2,2,MenuItem,Postre,Yogur\nFruta\nHelado,Menú del día (ejemplo) 14.50€,8.8,"""Asturiano""","""Av Victoria","""geo"":{""latitude"":40.4669232,""longitude"":-3.8141189",Carús

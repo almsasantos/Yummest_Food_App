@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Canalla,Offer,13.5,EUR,ENCHILADAS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita
+1,1,MenuItem,Verde,Offer,13.5,EUR,ENCHILADAS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita
+2,2,MenuItem,Mole,Offer,13.5,EUR,ENCHILADAS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita
+3,3,MenuItem,Vegetariana,Offer,13.5,EUR,ENCHILADAS,9.1,"""Mexicano""","""Calle Antracita","""geo"":{""latitude"":40.39026,""longitude"":-3.68993",Cantina Canalla - Antracita

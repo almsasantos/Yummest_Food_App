@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas crujientes de cabrales,Offer,12,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+1,1,MenuItem,Cebollas rellenas de bonito y pisto,Offer,14,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+2,2,MenuItem,Pastel de centolla,Offer,16,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+3,3,MenuItem,Revuelto de oricios y centollo,Offer,18,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+4,4,MenuItem,Pulpo de pedrero a la brasa sobre parmentier de patata,Offer,20,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+5,5,MenuItem,"Callos,pata y morro al estilo tradicional",Offer,16,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+6,6,MenuItem,Sarten de huevos camperos con carabineros,Offer,25,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+7,7,MenuItem,Esparragos rellenos de centolla,Offer,22,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano
+8,8,MenuItem,Fabada tradicional con compango de Tineo,Offer,16,EUR,Entrante,8.7,"""Asturiano""","""C","""geo"":{""latitude"":40.423445979002,""longitude"":-3.6770300865173",Graciano

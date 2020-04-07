@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Vainas Salteadas con Jamón y Patatitas Nuevas,Offer,19.0,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+1,1,MenuItem,Salteado de Verduras de Temporada,Offer,21.5,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+2,2,MenuItem,Corazoncitos de Alcachofas con Jamón,Offer,19.0,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+3,3,MenuItem,Hongos a la Sartén ó en Revuelto,Offer,23.5,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+4,4,MenuItem,Pimientos del Piquillo Asados Ligados en Cazuela,Offer,18.0,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+5,5,MenuItem,Ensaladilla Rusa Con Bonito Casero,Offer,19.0,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+6,6,MenuItem,"Ensalada de Tomate de Casa, Bonito y Antxoas",Offer,22.0,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+7,7,MenuItem,Tomate de Tudela con Aceite y Sal,Offer,15.5,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+8,8,MenuItem,Alubias de Tolosa con Berza y Morcilla,Offer,22.0,EUR,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+9,9,MenuItem,Verdinas Tiernas con Txangurro,,,,Verduras y Legumbres,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria

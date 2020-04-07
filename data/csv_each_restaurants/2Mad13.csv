@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de quinoa y salmón,Offer,12.4,EUR,Locos por lo sano,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+1,1,MenuItem,Burrata de la Puglia trufada,Offer,12.8,EUR,Locos por lo sano,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+2,2,MenuItem,Tomate y ventresca,Offer,11.8,EUR,Locos por lo sano,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+3,3,MenuItem,Verduras a la plancha,Offer,11.9,EUR,Locos por lo sano,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13

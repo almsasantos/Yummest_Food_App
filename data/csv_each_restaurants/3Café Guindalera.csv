@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+4,4,MenuItem,Media botella de agua,Offer,1.0,EUR,Bebidas,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+5,5,MenuItem,Botella de vino,,,,Bebidas,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera
+6,6,MenuItem,Copa de vino,Offer,1.5,EUR,Bebidas,None,"""Mediterráneo""","""Calle de Martínez Izquierdo","""geo"":{""latitude"":40.4333674,""longitude"":-3.6695531",Café Guindalera

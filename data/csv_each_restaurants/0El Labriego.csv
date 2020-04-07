@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Callos a la madrileña,Offer,13.5,EUR,Entrantes,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+1,1,MenuItem,Pulpo a la piedra,Offer,28.5,EUR,Entrantes,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+2,2,MenuItem,Croquetas de bacalao,Offer,9.95,EUR,Entrantes,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+3,3,MenuItem,Almejas a la marinera,Offer,26.5,EUR,Entrantes,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+4,4,MenuItem,Navajas,Offer,24.5,EUR,Entrantes,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego
+5,5,MenuItem,Gambas a la plancha,Offer,25.5,EUR,Entrantes,8.5,"""Gallego""","""Calle Veneras","""geo"":{""latitude"":40.4194006,""longitude"":-3.707417",El Labriego

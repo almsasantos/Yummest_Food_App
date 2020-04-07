@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Insalata caprese di bufala,Offer,11.5,EUR,Insalate/Ensaladas,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.416290078026,""longitude"":-3.7070400714874268",Trattoria Malatesta
+1,1,MenuItem,"Spinaci, caprino, pomodori secchi, uvetta e pinoli",Offer,10.5,EUR,Insalate/Ensaladas,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.416290078026,""longitude"":-3.7070400714874268",Trattoria Malatesta

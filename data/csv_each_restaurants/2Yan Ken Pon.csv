@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Helados,Offer,3.5,EUR,Postre,None,"""Japonés""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Yan Ken Pon
+1,1,MenuItem,Sorbetes,Offer,3.5,EUR,Postre,None,"""Japonés""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Yan Ken Pon
+2,2,MenuItem,Trufas,Offer,2.5,EUR,Postre,None,"""Japonés""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Yan Ken Pon

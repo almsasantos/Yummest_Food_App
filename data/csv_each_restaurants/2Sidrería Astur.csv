@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche asturiano,Offer,5.0,EUR,Postre,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+1,1,MenuItem,Frixuelo relleno de nata y chocolate,Offer,5.5,EUR,Postre,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+2,2,MenuItem,Puding de queso philadelphia,Offer,5.0,EUR,Postre,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+3,3,MenuItem,Tarta casera a los tres chocolates,Offer,5.5,EUR,Postre,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur

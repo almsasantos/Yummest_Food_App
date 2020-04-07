@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,SALMON,Offer,18.5,EUR,SASHIMI,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+1,1,MenuItem,TUNA,Offer,28.0,EUR,SASHIMI,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+2,2,MenuItem,TORO,Offer,39.5,EUR,SASHIMI,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya
+3,3,MenuItem,SASHIMI MORIAWASE,Offer,38.5,EUR,SASHIMI,9,"""Japonés""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4257681,""longitude"":-3.6866895",Shinatora Ya

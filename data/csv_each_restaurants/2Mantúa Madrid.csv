@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuleta de vaca madurada (40 días) min. 2 pax,Offer,45.0,EUR,Los mejores platos principales,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+1,1,MenuItem,Pllo picantón al romero,Offer,11.5,EUR,Los mejores platos principales,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+2,2,MenuItem,Rabo de toro con virutas de chocolate,Offer,15.0,EUR,Los mejores platos principales,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+3,3,MenuItem,Tajadas de bacalao en tempura de cerveza,Offer,13.0,EUR,Los mejores platos principales,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid
+4,4,MenuItem,Pulpo con cachelos,Offer,17.0,EUR,Los mejores platos principales,9,"""Madrileño""","""Calle de la Cruz","""geo"":{""latitude"":40.4160154,""longitude"":-3.7012054",Mantúa Madrid

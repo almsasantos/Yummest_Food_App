@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pane dolce Nicoletta,Offer,5.95,EUR,Postres,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+1,1,MenuItem,Profiteroles,Offer,5.75,EUR,Postres,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+2,2,MenuItem,Tiramisú,Offer,5.5,EUR,Postres,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca
+3,3,MenuItem,Tarta de chocolate intenso,Offer,5.75,EUR,Postres,8,"""Italiano""","""Plaza Manuel Gómez","""geo"":{""latitude"":40.4478322,""longitude"":-3.6946796",La Nicoletta - Azca

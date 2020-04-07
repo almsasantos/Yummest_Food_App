@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TAVOLA CASA TUA,Offer,14.9,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+1,1,MenuItem,CROQUETAS,Offer,9.0,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+2,2,MenuItem,CAPONATA SICILIANA,Offer,9.0,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+3,3,MenuItem,PROVOLONE AL FORNO,Offer,9.0,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+4,4,MenuItem,MELANZANE ALLA PARMIGIANA,Offer,10.0,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+5,5,MenuItem,POLPETTE DI CARNE,Offer,10.0,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+6,6,MenuItem,INSALATA CAPRESE,Offer,10.0,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+7,7,MenuItem,INSALATA CAESAR CON POLLO,Offer,12.6,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+8,8,MenuItem,INSALATA CASA TUA,Offer,12.9,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+9,9,MenuItem,BURRATA E PROSCIUTTO CRUDO,Offer,13.9,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+10,10,MenuItem,VITELLO TONNATO,Offer,14.9,EUR,ANTIPASTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet

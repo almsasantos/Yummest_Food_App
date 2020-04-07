@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Riñones de cordero lechal a la brasa,Offer,18,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+1,1,MenuItem,Chuletillas de cordero lechal a la brasa,Offer,15,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+2,2,MenuItem,Paletilla de cordero lechal,Offer,20,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+3,3,MenuItem,Pierna de cordero lechal,Offer,16,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+4,4,MenuItem,Entrecot de cebón,Offer,18,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+5,5,MenuItem,Chuletón de buey (para una persona 1/2 kilo),Offer,22,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+6,6,MenuItem,Solomillo de ternera a la parrilla,Offer,20,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+7,7,MenuItem,Medallones de solomillo de ternera al foie,Offer,22,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+8,8,MenuItem,Costillas a la brasa con salsa barbacoa,Offer,12,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+9,9,MenuItem,Conejo al ajillo/brasa (dos personas),Offer,22,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+10,10,MenuItem,Parrillada de carne (dos personas),Offer,38,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo
+11,11,MenuItem,Escalope de ternera,Offer,10,EUR,CARNES,8.1,"""Español""","""Av","""geo"":{""latitude"":40.4471971,""longitude"":-3.5337261",Polo

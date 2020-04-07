@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lamb Samosa,Offer,5.95,EUR,Entrante,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+1,1,MenuItem,Pakora,Offer,4.95,EUR,Entrante,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+2,2,MenuItem,Seekh kebab,Offer,5.95,EUR,Entrante,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+3,3,MenuItem,King Prawn Butterfly,Offer,6.95,EUR,Entrante,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+4,4,MenuItem,Prawn Cocktail,Offer,5.95,EUR,Entrante,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine

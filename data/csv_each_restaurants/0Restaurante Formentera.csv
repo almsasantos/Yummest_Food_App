@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensaladilla de gambas,Offer,12.0,EUR,Entrantes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+1,1,MenuItem,Croquetas caseras (€/ud),Offer,1.2,EUR,Entrantes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+2,2,MenuItem,Puntillitas de Cadíz,Offer,14.9,EUR,Entrantes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+3,3,MenuItem,Vieiras con jamón ibérico de bellota y tringueros con mahonesa de coral,Offer,17.9,EUR,Entrantes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera
+4,4,MenuItem,Bacalao en tempura con pimientos del piquillo y salsa tártara,Offer,12.0,EUR,Entrantes,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.504495,""longitude"":-3.710175",Restaurante Formentera

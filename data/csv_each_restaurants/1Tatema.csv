@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Provolone,Offer,9.5,EUR,Principales,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+1,1,MenuItem,Solomillo,Offer,13.9,EUR,Principales,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema
+2,2,MenuItem,Berenjenas,Offer,7.0,EUR,Principales,9.1,None,"""Calle de Argumosa","""geo"":{""latitude"":40.4084188,""longitude"":-3.6991301",Tatema

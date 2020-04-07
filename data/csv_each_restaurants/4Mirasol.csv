@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Verduras,Offer,7.8,EUR,Tempura,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol
+1,1,MenuItem,Gambas,Offer,10.5,EUR,Tempura,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol
+2,2,MenuItem,Mixta de verduras y gambas,Offer,8.8,EUR,Tempura,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol

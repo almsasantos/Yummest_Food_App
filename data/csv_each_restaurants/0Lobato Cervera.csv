@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón con pimientos del padrón,Offer,20.02,EUR,Entrante,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+1,1,MenuItem,Ensalada de tomate raf con anchoas y ventresca,Offer,17.05,EUR,Entrante,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+2,2,MenuItem,Asadillo manchego,Offer,11.55,EUR,Entrante,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera

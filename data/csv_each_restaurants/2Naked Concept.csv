@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carnes del día,Offer,12.9,EUR,Plato Principal,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+1,1,MenuItem,Pescado del día,Offer,12.9,EUR,Plato Principal,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+2,2,MenuItem,Hamburguesa Vegana,Offer,10.9,EUR,Plato Principal,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept
+3,3,MenuItem,Hummus con crudites,Offer,10.9,EUR,Plato Principal,8.9,"""Vegetariano""","""Av","""geo"":{""latitude"":40.4586308,""longitude"":-3.6872831",Naked Concept

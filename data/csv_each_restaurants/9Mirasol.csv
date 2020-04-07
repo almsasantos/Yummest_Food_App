@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pato con salsa de la casa,Offer,9.95,EUR,Pato,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol
+1,1,MenuItem,Pato pekinés,Offer,14.95,EUR,Pato,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol
+2,2,MenuItem,Pato con bambú y setas,Offer,9.95,EUR,Pato,7.8,"""Chino""","""Calle de Ubeda","""geo"":{""latitude"":40.4828511,""longitude"":-3.7138225",Mirasol

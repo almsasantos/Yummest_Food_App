@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Antipasto,Insalada di riso\nInsalada caprese\nOtros antipasti del día,Menu del día,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+1,1,MenuItem,Plato,Pasta del día\nPIzza del día,Menu del día,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia
+2,2,MenuItem,Postre,del día,Menu del día,8.5,"""Italiano""","""Calle de Sagasta","""geo"":{""latitude"":40.428396,""longitude"":-3.700008",Gustami Italia

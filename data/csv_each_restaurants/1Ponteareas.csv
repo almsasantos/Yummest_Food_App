@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipirones,Offer,18.5,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+1,1,MenuItem,Merluza de Celeiro a la Gallega,Offer,24.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+2,2,MenuItem,Merluza Rebozada con Verduras,Offer,24.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+3,3,MenuItem,Bacalao Confitado con crema de Patata y Pisto,Offer,24.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+4,4,MenuItem,Lenguado A la Plancha,Offer,25.5,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+5,5,MenuItem,Mero con Pisto de Verduras,Offer,25.5,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+6,6,MenuItem,Rape Marinera con Langostinos,Offer,27.5,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+7,7,MenuItem,Lubina A la Espalda,Offer,28.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+8,8,MenuItem,Lubina Al Horno,Offer,28.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+9,9,MenuItem,"Lubina, Almejas de Carril y puré de Coliflor",Offer,30.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+10,10,MenuItem,Rodaballo A la Gallega,Offer,32.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+11,11,MenuItem,Rodaballo A la Plancha,Offer,32.0,EUR,Pescados,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas

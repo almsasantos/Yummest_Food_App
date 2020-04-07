@@ -1,0 +1,6 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Donut de sidra con glaseado de manzana y salsa de vainilla Triple chocolate shake,Offer,6.0,EUR,Sweet heaven,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+1,1,1,MenuItem,"Batido de oreo, nutella y brownie",Offer,5.8,EUR,Sweet heaven,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+2,2,2,MenuItem,Auténtica tarta de limón,Offer,6.5,EUR,Sweet heaven,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+3,3,3,MenuItem,Galleta con chispas de chocolate rellena con helado de brownie,Offer,6.0,EUR,Sweet heaven,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar
+4,4,4,MenuItem,Tarta de queso al auténtico estilo the lobstar,Offer,6.0,EUR,Sweet heaven,8.3,"""Americano""","""Calle del Prado","""geo"":{""latitude"":40.4146925,""longitude"":-3.6997365",The Lobstar

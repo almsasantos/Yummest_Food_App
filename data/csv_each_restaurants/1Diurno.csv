@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crujientes de ensaladilla rusa de bonito del norte,Offer,10.5,EUR,Entrantes,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno
+1,1,MenuItem,"Ceviche de salmón noruego, mango, aguacate y leche de tigre con plátano macho frito",Offer,14.0,EUR,Entrantes,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno
+2,2,MenuItem,"Quesadillas gallegas de lacón, queso tetilla, afuega ́l pitu, Mahón D.O. y grelos",Offer,10.8,EUR,Entrantes,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno
+3,3,MenuItem,"Tartar de bonito del Cantábrico con huevas de salmón, mujol y aguacate con pan curasao",Offer,13.0,EUR,Entrantes,9.1,"""Internacional""","""C","""geo"":{""latitude"":40.421238882933,""longitude"":-3.6971900463104",Diurno

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con bogavante y rape (min. 2 pax / precio por persona),Offer,18.9,EUR,Plato,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius
+1,1,MenuItem,Salmón a la brasa con costra de sal antigua,Offer,14.9,EUR,Plato,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius
+2,2,MenuItem,Entrecot,Offer,15.9,EUR,Plato,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius
+3,3,MenuItem,Chuletón de buey madurado (45días) 1 kilo,Offer,39.9,EUR,Plato,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius
+4,4,MenuItem,Solomillo de ternera a la pimienta verde,Offer,18.9,EUR,Plato,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius

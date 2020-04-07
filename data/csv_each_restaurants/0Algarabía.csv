@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Trigueros crujientes,Offer,12.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+1,1,MenuItem,Ensalada de pochas y cordero,Offer,12.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+2,2,MenuItem,Ensalada de puerros y confit de pato,Offer,12.5,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+3,3,MenuItem,Ensalada verde con pulpo en vinagreta,Offer,13.5,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+4,4,MenuItem,"Queso D.O. “Los Cameros”, rúcula y Vinagreta de membrillo",Offer,12.5,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+5,5,MenuItem,Croquetas “Algarabía”,Offer,12.5,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+6,6,MenuItem,"Salteado de borrajas, setas y gambas",Offer,16.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+7,7,MenuItem,Tortilla de calabacín,Offer,11.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+8,8,MenuItem,Huevos “camerana”,Offer,12.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+9,9,MenuItem,"Salteado de mollejas, habitas y puerros",Offer,16.5,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+10,10,MenuItem,Pasta con “boloñesa” de conejo,Offer,16.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+11,11,MenuItem,Pechugas de codorniz con salsa de melocotón,Offer,14.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía
+12,12,MenuItem,Jamón Ibérico,Offer,24.0,EUR,Entrante,9.4,None,"""C","""geo"":{""latitude"":40.417280448988,""longitude"":-3.7104101181030273",Algarabía

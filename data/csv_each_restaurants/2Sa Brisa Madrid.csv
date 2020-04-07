@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ENSALADA CESAR,Offer,14,EUR,ENSALADAS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+1,1,MenuItem,ENSALADILLA RUSA DE BONITO FRESCO,Offer,11,EUR,ENSALADAS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+2,2,MenuItem,TARTAR DE TOMATES CONFITADOS,Offer,15,EUR,ENSALADAS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+3,3,MenuItem,ENSALADA DE ALCACHOFAS,Offer,15,EUR,ENSALADAS,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid

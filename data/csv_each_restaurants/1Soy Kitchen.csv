@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa Agripicante,Offer,10.5,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+1,1,MenuItem,Nigiri de Sardina ahumada,Offer,15.5,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+2,2,MenuItem,Krakatoa,Offer,16.0,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+3,3,MenuItem,Verduras de temporada,Offer,16.0,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+4,4,MenuItem,Tuétano de vaca al horno,Offer,16.5,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+5,5,MenuItem,Gambón Gong Bao,Offer,18.5,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+6,6,MenuItem,Lubina salvaje,Offer,22.0,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+7,7,MenuItem,Chilicrab,Offer,25.0,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+8,8,MenuItem,Mejillón de Bouchot,Offer,16.0,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+9,9,MenuItem,Pluma ibérica al wok,Offer,18.0,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen
+10,10,MenuItem,Taco de cordero,Offer,17.5,EUR,Carta de Temporada,9.4,"""Asiático""","""Calle de Zurbano","""geo"":{""latitude"":40.4359773,""longitude"":-3.6931724",Soy Kitchen

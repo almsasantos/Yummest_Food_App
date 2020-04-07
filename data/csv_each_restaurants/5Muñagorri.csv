@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Queso “Saint Felicien” 180 grs. cremier,Offer,14.5,EUR,Postre,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+1,1,MenuItem,Quesos artesanos con membrillo,Offer,10.0,EUR,Postre,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+2,2,MenuItem,Cañitas rellenas de crema,Offer,7.0,EUR,Postre,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+3,3,MenuItem,"Manzana al mortero templada, crema inglesa y helado de avellana",Offer,7.0,EUR,Postre,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+4,4,MenuItem,"Torrija de “brioche”, con helado de vainilla",Offer,8.0,EUR,Postre,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+5,5,MenuItem,Mousse de chocolate con helado de choco con naranja,Offer,7.5,EUR,Postre,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri
+6,6,MenuItem,"Helados de: chocolate con naranja, vainilla, avellana y almendra",Offer,6.0,EUR,Postre,8.9,None,"""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Muñagorri

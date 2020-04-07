@@ -1,0 +1,17 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico cortado a cuchillo,Offer,25.85,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+1,1,MenuItem,"Ceviche de langostino tigre, rape y aguacate",Offer,16.75,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+2,2,MenuItem,Ensaladilla rusa cremosa y sabrosa,Offer,14.75,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+3,3,MenuItem,"Salmón Ahumado en ensalada, picatostes de pan y olivas negras",Offer,22.5,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+4,4,MenuItem,Ensalada de ventresca de bonito con pulpa de tomate,Offer,20.35,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+5,5,MenuItem,Ensalada de tartare de arroz salvaje con mousse de bonito,Offer,16.5,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+6,6,MenuItem,"Salmorejo de mango, untuoso y cremoso con jamón crujiente",Offer,14.5,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+7,7,MenuItem,"Ceviche de Langostino Tigre, Rape y aguacate",Offer,16.75,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+8,8,MenuItem,"Steak tartare, la mejor selección de carne de buey",Offer,22.5,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+9,9,MenuItem,"Vermicelli con bogavante, anacardos y verduras al Wok",Offer,19.8,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+10,10,MenuItem,"Ensalada de quinoa, cangrejos de río y chincharrón frito",Offer,17.35,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+11,11,MenuItem,Corte de foie-gras con teja crujiente de pan dulce en ensalada,Offer,24.75,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+12,12,MenuItem,"Ensalada de bogavante, vinagreta de su propio jugo y cama de cebolleta trufada",Offer,26.25,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+13,13,MenuItem,Rollitos de cigalas con vinagreta de soja y ensalada,Offer,19.25,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+14,14,MenuItem,"Degustación de croquetas caseras de jamón, bacalao y txistorra",Offer,11.55,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez
+15,15,MenuItem,Verduras a la plancha con aceite de oliva virgen y sal de escamas,Offer,14.85,EUR,Entrante,9.4,None,"""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",Urrechu Velázquez

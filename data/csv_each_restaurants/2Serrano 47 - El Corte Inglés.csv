@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Albóndigas de vaca madurada con setas lacadas y parmentier de patata,Offer,12.75,EUR,Carnes,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+1,1,MenuItem,Pollo de corral con curry rojo y arroz basmati a la naranja,Offer,12.95,EUR,Carnes,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+2,2,MenuItem,Chuletillas de lechal con cous cous de verduritas y salsa de higos,Offer,18.95,EUR,Carnes,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+3,3,MenuItem,Steak tartar de solomillo con tres mostazas,Offer,24.0,EUR,Carnes,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+4,4,MenuItem,Entrecot de vaca rubia gallega madurada durante 50 días con patatas al romero y pimientos asados,Offer,24.0,EUR,Carnes,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés
+5,5,MenuItem,Solomillo de vaca con 21 días de maduración con patatas soufflé,Offer,27.0,EUR,Carnes,8.9,"""Mediterráneo""","""Calle de Serrano","""geo"":{""latitude"":40.4300929,""longitude"":-3.6874615",Serrano 47 - El Corte Inglés

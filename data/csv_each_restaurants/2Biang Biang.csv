@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa al estilo chino acompañada de crujiente pan plano con relleno a elegir,,,,Rou Jia Mo,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+1,1,MenuItem,Cerdo deshebrado,Offer,4.2,EUR,Rou Jia Mo,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+2,2,MenuItem,Cerdo deshebrado,Offer,6.0,EUR,Rou Jia Mo,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+3,3,MenuItem,Cordero con comino,Offer,4.6,EUR,Rou Jia Mo,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+4,4,MenuItem,Cordero con comino,Offer,6.5,EUR,Rou Jia Mo,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+5,5,MenuItem,Seta del Rey ostra,Offer,4.2,EUR,Rou Jia Mo,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang
+6,6,MenuItem,Seta del Rey Ostra,Offer,6.0,EUR,Rou Jia Mo,9.4,"""Chino""","""Calle Pelayo","""geo"":{""latitude"":40.4220927,""longitude"":-3.698903",Biang Biang

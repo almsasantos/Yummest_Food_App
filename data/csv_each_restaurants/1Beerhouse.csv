@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Codillo al estilo alemán,Offer,12.5,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse
+1,1,MenuItem,"Tabla Frankfurt : Salchicha Frankfurt , puré de patatas casero, chucrut y ensalada alemana",Offer,5.0,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse
+2,2,MenuItem,Super perrito alemán,Offer,5.5,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse
+3,3,MenuItem,Tabla de salchichas,Offer,8.5,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse
+4,4,MenuItem,Tabla Beerhouse,Offer,19.5,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse
+5,5,MenuItem,Hamburguesa española,Offer,5.5,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse
+6,6,MenuItem,Hamburguesa francesa,Offer,5.5,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse
+7,7,MenuItem,Hamburguesa italiana,Offer,5.5,EUR,Plato,None,None,"""Calle del Cardenal Cisneros","""geo"":{""latitude"":40.4305865,""longitude"":-3.7017166",Beerhouse

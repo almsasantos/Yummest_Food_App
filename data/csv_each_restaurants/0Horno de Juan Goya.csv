@@ -1,0 +1,15 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Queso de cabra sobre cebolla caramelizada,Offer,12.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+1,1,MenuItem,"Hojaldre caliente con gambas, setas y salmón",Offer,13.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+2,2,MenuItem,Tomate kumato con anchoas de Santoña en salazón,Offer,19.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+3,3,MenuItem,"Ensalada de queso, manzana y nueces al Módena",Offer,13.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+4,4,MenuItem,Ensalada templada de salmón y bacalao con cebolleta,Offer,13.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+5,5,MenuItem,"Tomate kumato con jamón ibérico, sal mandon y oliva virgen",Offer,17.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+6,6,MenuItem,Salmorejo al estilo de Horno de Juan con ibérico,Offer,7.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+7,7,MenuItem,Variado de hongos y setas al ajillo,Offer,17.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+8,8,MenuItem,Crujiente de morcilla y piñones,Offer,9.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+9,9,MenuItem,Morcilla de Burgos,Offer,8.75,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+10,10,MenuItem,Salteado de habitas baby y trigueros con ibérico,Offer,12.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+11,11,MenuItem,Jamón ibérico de bellota corte a cuchillo,Offer,22.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+12,12,MenuItem,Bandeja de ibéricos,Offer,21.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya
+13,13,MenuItem,Cuñas de queso curado de oveja,Offer,10.5,EUR,Entrante,8.8,"""Asador""","""C","""geo"":{""latitude"":40.423750901055,""longitude"":-3.6772899627686",Horno de Juan Goya

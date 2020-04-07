@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de lima y queso casera con helado artesanal,Offer,5.5,EUR,Postre,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+1,1,MenuItem,Tarta de Santiago casera,Offer,6.5,EUR,Postre,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+2,2,MenuItem,Tarta de calabacín y arándanos,Offer,5.5,EUR,Postre,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+3,3,MenuItem,Tarta de lima,Offer,5.5,EUR,Postre,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+4,4,MenuItem,Brownie de chocolate con helado artesanal,Offer,5.5,EUR,Postre,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café

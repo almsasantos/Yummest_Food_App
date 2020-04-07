@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pluma ibérica,Offer,14.1,EUR,Carnes,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+1,1,MenuItem,MADburguesa,Offer,14.9,EUR,Carnes,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+2,2,MenuItem,Aristócrata tronchada,Offer,19.8,EUR,Carnes,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+3,3,MenuItem,Carrillera de ternera,Offer,15.9,EUR,Carnes,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13
+4,4,MenuItem,Steak tartar de tu vida,Offer,17.6,EUR,Carnes,8.8,"""Español""","""Paseo de la Habana","""geo"":{""latitude"":40.4582285,""longitude"":-3.6819664",Mad13

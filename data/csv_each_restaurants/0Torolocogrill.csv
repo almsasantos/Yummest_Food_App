@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lágrima de pollo,Offer,7,EUR,Para compartir,8.7,"""Americano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4244459,""longitude"":-3.6773771",Torolocogrill
+1,1,MenuItem,Alitas de pollo,Offer,8,EUR,Para compartir,8.7,"""Americano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4244459,""longitude"":-3.6773771",Torolocogrill
+2,2,MenuItem,Nachos locos grill (1 ración),Offer,9,EUR,Para compartir,8.7,"""Americano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4244459,""longitude"":-3.6773771",Torolocogrill
+3,3,MenuItem,Nachos tex men,Offer,6,EUR,Para compartir,8.7,"""Americano""","""Calle del General Díaz Porlier","""geo"":{""latitude"":40.4244459,""longitude"":-3.6773771",Torolocogrill

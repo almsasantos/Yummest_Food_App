@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Los mejores tomates de Huerta con piparras encurtidas y aceite de oliva virgen,Offer,11.5,EUR,ENSALADAS Y VERDURAS,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+1,1,MenuItem,"Ensalada de hojas verdes, espárragos trigueros, aguacate y cebolla roja al aliño trufado",Offer,14.5,EUR,ENSALADAS Y VERDURAS,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+2,2,MenuItem,Ensaladilla rusa tradicional con bonito del norte,Offer,12.8,EUR,ENSALADAS Y VERDURAS,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+3,3,MenuItem,Ensalada de tomate de temporada con ventresca de bonito y cebolleta dulce,Offer,14.5,EUR,ENSALADAS Y VERDURAS,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+4,4,MenuItem,Verduras del día salteadas con jamón ibérico y ajo laminado,Offer,13.5,EUR,ENSALADAS Y VERDURAS,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa
+5,5,MenuItem,Alcachofas naturales a la parrilla con cristal de sal (En temporada),Offer,15.5,EUR,ENSALADAS Y VERDURAS,8.7,"""Mediterráneo""","""C","""geo"":{""latitude"":40.434332291907,""longitude"":-3.7056798934936523",La Playa

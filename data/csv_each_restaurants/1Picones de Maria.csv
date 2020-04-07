@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Asadillo manchego aliñado y ventresca de bonito.,Offer,13.9,EUR,De la huerta.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+1,1,MenuItem,Alcachofas guisadas en leche de almendra.,Offer,15.7,EUR,De la huerta.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria
+2,2,MenuItem,Pisto al estilo manchego con su huevo frito.,Offer,12.9,EUR,De la huerta.,9.5,"""Español""","""Conde del Serrallo","""geo"":{""latitude"":40.4660859,""longitude"":-3.6921982",Picones de Maria

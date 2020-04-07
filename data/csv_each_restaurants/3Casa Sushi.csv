@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,ROLLO VEGETALES O SOPA MISO O ENSALADA CON SALSA MISO O YAKITORI O KUSHIYAKI DE SALMÓN,MENU COMBO,8.5,"""Gastronómico""","""Calle de Padilla","""geo"":{""latitude"":40.43106,""longitude"":-3.677152",Casa Sushi
+1,1,MenuItem,Plato,COMBO SUSHI O COMBO CALASICO O COMBO TROPICAL O COMBO DIA O COMBO SPICY O COMBO MEDITERRÁNEO O COMBO TORI (1EURO MAS) O COMBO SHAKE (1EURO MAS),MENU COMBO,8.5,"""Gastronómico""","""Calle de Padilla","""geo"":{""latitude"":40.43106,""longitude"":-3.677152",Casa Sushi
+2,2,MenuItem,Segundo plato,YAKIMESHI PATO O TORI NO KARAAGE O YAKISOBA,MENU COMBO,8.5,"""Gastronómico""","""Calle de Padilla","""geo"":{""latitude"":40.43106,""longitude"":-3.677152",Casa Sushi

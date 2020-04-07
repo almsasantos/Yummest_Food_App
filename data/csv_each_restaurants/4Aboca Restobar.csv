@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Serrana (queso mozarella, jamón serrano y rúcula)",Offer,7.5,EUR,Crêpes Saladas,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+1,1,MenuItem,"Inglesa (queso mozzarella, bacon y huevo)",Offer,7.5,EUR,Crêpes Saladas,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+2,2,MenuItem,"Pollo y Champi (crema de queso, pollo y champiñones)",Offer,7.5,EUR,Crêpes Saladas,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+3,3,MenuItem,"Tres Cerditos (queso mozzarella, salchicha frankfurt, bacon y jamón york)",Offer,7.55,EUR,Crêpes Saladas,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+4,4,MenuItem,"Aboca (queso de cabra con nueces, miel y jamón serrano)",Offer,8.0,EUR,Crêpes Saladas,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar
+5,5,MenuItem,Al Gusto (3 ingredientes a elegir),Offer,7.5,EUR,Crêpes Saladas,9.3,"""Internacional""","""Calle de Tampico","""geo"":{""latitude"":40.443713,""longitude"":-3.6345066",Aboca Restobar

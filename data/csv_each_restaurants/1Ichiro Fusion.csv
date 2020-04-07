@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tartar de salmón con arroz, trufa dulce, frutos secos y cebolleta",Offer,10.9,EUR,Plato,None,"""Japonés""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Ichiro Fusion
+1,1,MenuItem,Teriyaki con bol de arroz con pollo,Offer,9.0,EUR,Plato,None,"""Japonés""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Ichiro Fusion
+2,2,MenuItem,"Sakeniku (uramaki relleno de crema de queso,langostino tempurizado en panko, aguacate envuelto de salmón flambeado con barbacoa japonesa)",Offer,11.9,EUR,Plato,None,"""Japonés""","""Calle del Almendro","""geo"":{""latitude"":40.4121578,""longitude"":-3.7106053",Ichiro Fusion

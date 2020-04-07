@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lamb Tikka Masala,Offer,13.95,EUR,Platos De Cordero,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+1,1,MenuItem,Lamb Karahi,Offer,13.95,EUR,Platos De Cordero,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+2,2,MenuItem,Lamb Shatkora,Offer,14.95,EUR,Platos De Cordero,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+3,3,MenuItem,Daal Gosht,Offer,13.95,EUR,Platos De Cordero,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine

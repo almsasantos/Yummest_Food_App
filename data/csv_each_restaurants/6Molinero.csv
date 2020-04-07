@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con leche,Offer,2.5,EUR,Postres,8.9,"""Español""","""Calle de López de Hoyos","""geo"":{""latitude"":40.471889,""longitude"":-3.6500714",Molinero
+1,1,MenuItem,Natillas,Offer,2.0,EUR,Postres,8.9,"""Español""","""Calle de López de Hoyos","""geo"":{""latitude"":40.471889,""longitude"":-3.6500714",Molinero
+2,2,MenuItem,Fruta del tiempo,Offer,1.5,EUR,Postres,8.9,"""Español""","""Calle de López de Hoyos","""geo"":{""latitude"":40.471889,""longitude"":-3.6500714",Molinero
+3,3,MenuItem,Tartas,Offer,3.0,EUR,Postres,8.9,"""Español""","""Calle de López de Hoyos","""geo"":{""latitude"":40.471889,""longitude"":-3.6500714",Molinero
+4,4,MenuItem,Cuajada con mermelada o miel,Offer,2.0,EUR,Postres,8.9,"""Español""","""Calle de López de Hoyos","""geo"":{""latitude"":40.471889,""longitude"":-3.6500714",Molinero

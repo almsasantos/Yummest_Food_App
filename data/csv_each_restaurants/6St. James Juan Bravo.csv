@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo vacuno con boletus al glaseado de foie,Offer,24,EUR,Carnes....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+1,1,MenuItem,Steak tartar de solomillo vacuno elaborado al momento con pan tostado y chips de verduras,Offer,26,EUR,Carnes....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo

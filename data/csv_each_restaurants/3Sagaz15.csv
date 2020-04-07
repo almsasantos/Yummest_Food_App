@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortilla auténtica,Offer,8.8,EUR,Un paseo por la granja,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+1,1,MenuItem,Tortilla trufada,Offer,9.8,EUR,Un paseo por la granja,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+2,2,MenuItem,Tortilla con callos,Offer,12.0,EUR,Un paseo por la granja,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+3,3,MenuItem,Tortilla de morcilla de burgos,Offer,10.8,EUR,Un paseo por la granja,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15

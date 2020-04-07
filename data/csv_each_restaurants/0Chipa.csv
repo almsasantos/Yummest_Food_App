@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,York y queso,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa
+1,1,MenuItem,Caprese,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa
+2,2,MenuItem,Carne,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa
+3,3,MenuItem,Espinaca y queso,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa
+4,4,MenuItem,Cebolla y queso,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa
+5,5,MenuItem,Humita,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa
+6,6,MenuItem,Carne al limón,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa
+7,7,MenuItem,Pollo,Offer,2.2,EUR,Empanadas argentinas (unidad),8.4,"""Argentino""","""Calle de Francos Rodríguez","""geo"":{""latitude"":40.4586112,""longitude"":-3.7143794",Chipa

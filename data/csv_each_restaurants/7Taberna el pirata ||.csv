@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa con patatas,Offer,8,EUR,Hamburguesas y perritos,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||
+1,1,MenuItem,Wagyu con patata,Offer,15,EUR,Hamburguesas y perritos,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||
+2,2,MenuItem,Perrito,Offer,5,EUR,Hamburguesas y perritos,8.6,"""Español""","""Calle de la Bolsa","""geo"":{""latitude"":40.4147321,""longitude"":-3.7047066",Taberna el pirata ||

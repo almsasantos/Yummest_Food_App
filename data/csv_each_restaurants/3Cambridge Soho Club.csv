@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmon chiliyuzu con cebolla cítrica y piparrak,Offer,14.0,EUR,DEL MAR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+1,1,MenuItem,Ceviche de corvina con pera y algas,Offer,13.0,EUR,DEL MAR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+2,2,MenuItem,Merluza al vapor en salsa de espinacas y verduritas al pesto de perejil,Offer,16.0,EUR,DEL MAR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+3,3,MenuItem,Taquitos de bacalao en tempura con mayonesa de chiliyuzu y pack choi,Offer,14.0,EUR,DEL MAR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+4,4,MenuItem,Mar y tierra,Offer,15.0,EUR,DEL MAR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+5,5,MenuItem,Carpaccio depulpo con puré de patata y pimentón de la vera,Offer,18.0,EUR,DEL MAR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+6,6,MenuItem,Calamar sobre salsa romescu y mayonesa de cilantro y lima,Offer,15.5,EUR,DEL MAR,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hot dog Especial,Offer,7.9,EUR,principales,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+1,1,MenuItem,festival de fajitas,Offer,13.9,EUR,principales,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+2,2,MenuItem,sandwich cubano,Offer,5.9,EUR,principales,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+3,3,MenuItem,costillas de ternera,Offer,14.9,EUR,principales,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+4,4,MenuItem,salmon a la parrilla,Offer,13.9,EUR,principales,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee

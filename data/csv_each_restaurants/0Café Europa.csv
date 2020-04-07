@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Minihamburguesas de jamón ibérico, queso de cabra, mousse de pato y queso gorgonzola sobre nido de patatas paja",Offer,9.9,EUR,Entrante,8.9,"""Mediterráneo""","""Paseo del Doctor Vallejo Nájera","""geo"":{""latitude"":40.40264,""longitude"":-3.70998",Café Europa
+1,1,MenuItem,Fingers de pollo caseros rebozados con chips de patata y maíz acompañado de salsa de miel y mostaza y barbacoa,Offer,9.5,EUR,Entrante,8.9,"""Mediterráneo""","""Paseo del Doctor Vallejo Nájera","""geo"":{""latitude"":40.40264,""longitude"":-3.70998",Café Europa
+2,2,MenuItem,"Patatas gajo al tomillo y romero con salsas romesco, barbacoa y alioli",Offer,8.9,EUR,Entrante,8.9,"""Mediterráneo""","""Paseo del Doctor Vallejo Nájera","""geo"":{""latitude"":40.40264,""longitude"":-3.70998",Café Europa

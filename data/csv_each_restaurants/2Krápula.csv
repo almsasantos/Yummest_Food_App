@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz atunero,Offer,21.0,EUR,Arroces melosos (sólo mediodía),8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+1,1,MenuItem,Arroz atunero,Offer,18.5,EUR,Arroces melosos (sólo mediodía),8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+2,2,MenuItem,Arroz vegetal + queso payoyo,Offer,20.0,EUR,Arroces melosos (sólo mediodía),8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+3,3,MenuItem,Arroz marinero,Offer,18.5,EUR,Arroces melosos (sólo mediodía),8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula
+4,4,MenuItem,"Arroz (seco) de conejo, butifarra negra y alcachofas",Offer,20.0,EUR,Arroces melosos (sólo mediodía),8.6,None,"""Calle de Jorge Juan","""geo"":{""latitude"":40.4238933,""longitude"":-3.6836815",Krápula

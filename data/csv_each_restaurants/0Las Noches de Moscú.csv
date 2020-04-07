@@ -1,0 +1,18 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Borsch moskovita: sopa de remolacha con nata y verduras,Offer,5.8,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+1,1,MenuItem,Sopa solanca (sopa de carne variada y verdura),Offer,6.7,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+2,2,MenuItem,Sopa Okroshka( sopa fría de kefir con pepino),Offer,5.2,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+3,3,MenuItem,Ensalada Olivie (típica ensaladilla rusa con caviar keta),Offer,6.5,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+4,4,MenuItem,"Ensalada Ispadshuby (capas de arenque, remolacha, patatas, cebolla y manzana)",Offer,6.5,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+5,5,MenuItem,"Kuritsa Satsive (típica ensalada georgiana de pollo con crema de nueces, lechuga y manzana)",Offer,6.8,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+6,6,MenuItem,Ensalada de queso con eneldo fresco,Offer,6.5,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+7,7,MenuItem,degustacion de miniblinis,Offer,9.25,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+8,8,MenuItem,Setas al estilo Julien (setas con queso y nata al horno),Offer,6.5,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+9,9,MenuItem,Piroski (empanadita de hojaldre rellena de carne acompañada con salsa del chef 8und),Offer,10.25,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+10,10,MenuItem,blini con ahumados variados,Offer,14.0,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+11,11,MenuItem,blini con selyodca,Offer,8.5,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+12,12,MenuItem,blinchiki con setas/blinchki con carnw,Offer,7.0,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+13,13,MenuItem,blini con caviar keta50g,Offer,13.5,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+14,14,MenuItem,blini con caviar beluga 30g,Offer,75.0,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+15,15,MenuItem,blini con caviar de trucha 50g,Offer,12.0,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú
+16,16,MenuItem,blini con caviar avruga 50g,Offer,15.0,EUR,Entrante,8.9,"""Ruso""","""C","""geo"":{""latitude"":40.424892168471,""longitude"":-3.7043099403381",Las Noches de Moscú

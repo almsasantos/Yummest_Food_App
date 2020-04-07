@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Teppanyaki de pato y foie con salsa de sésamo y jengibre,Offer,17.5,EUR,Carnes,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+1,1,MenuItem,"Steak Tartar de buey, crujientes de gyozas y alga hijiki",Offer,18.0,EUR,Carnes,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+2,2,MenuItem,Lomo de wagyu a la brasa añ toque perfecto,Offer,19.5,EUR,Carnes,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fajitas de pollo asado al curry con arroz basmati,Offer,14.5,EUR,Y en la finca,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+1,1,MenuItem,Hamburguesa 100% Buey de LA FINCA y 100% completa,Offer,11.8,EUR,Y en la finca,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+2,2,MenuItem,Rabo de Toro estofado al Oporto sobre cama de patata cremosa trufada,Offer,17.0,EUR,Y en la finca,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+3,3,MenuItem,Lomo trinchado de vaca gallega con patatas al romero 350gr,Offer,19.0,EUR,Y en la finca,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+4,4,MenuItem,Solomillo de ternera al PX con Foie,Offer,20.0,EUR,Y en la finca,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+5,5,MenuItem,Tacos de Pato en Reducción de Vino Tinto y Guacamole,Offer,15.0,EUR,Y en la finca,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies
+6,6,MenuItem,Paletilla de cordero confitada a baja temperatura,Offer,18.0,EUR,Y en la finca,8.5,None,"""Av","""geo"":{""latitude"":40.4523569,""longitude"":-3.6989382",Café Mies

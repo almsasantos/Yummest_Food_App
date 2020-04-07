@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie con helado café,Offer,5.9,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+1,1,MenuItem,Espuma de limón con compota de frutos rojos,Offer,5.9,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+2,2,MenuItem,Cookie con helado de vainilla,Offer,5.9,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+3,3,MenuItem,Torrija con helado de arroz con leche,Offer,5.9,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+4,4,MenuItem,Copa de frutas naturales,Offer,4.5,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+5,5,MenuItem,Tarta de zanahoria,Offer,6.5,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+6,6,MenuItem,Tarta de queso,Offer,5.9,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+7,7,MenuItem,Tarta de manzana,Offer,5.9,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+8,8,MenuItem,"Helados artesanos, chocolate,vainilla,fresa y café",Offer,4.5,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+9,9,MenuItem,"Sorbete de limón, frambuesa o mango",Offer,4.5,EUR,POSTRES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez

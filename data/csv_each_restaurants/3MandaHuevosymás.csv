@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+2,2,MenuItem,Café,Offer,1.3,EUR,Bebidas,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+4,4,MenuItem,Media botella de agua,Offer,1.0,EUR,Bebidas,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+5,5,MenuItem,Botella de vino,Offer,14.5,EUR,Bebidas,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,9.3,"""Español""","""Calle del Puerto de Pajares","""geo"":{""latitude"":40.3951898,""longitude"":-3.6644638",MandaHuevosymás

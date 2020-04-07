@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante cada 4 personas,- Jamón y Lomo Ibérico\n- Ensalada de Tomate Raff con Queso Parmesano y Albahaca Fresca.\n- Croquetas de Jamón Ibérico\n- Langostino a la Plancha,Menu nº3,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Segundo Plato a elegir,- Solomillo de Ternera a la Plancha sobre Parmentier de Patatas y Boletus\n- Chuletas de Lechal con Guarnición\n- Suprema de Rosada con Gulas sobre Salsa Americana,Menu nº3,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Postre,- Milhojas de Nata Casera,Menu nº3,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Bebida,"Agua, Vino Rioja Joven y Ribeiro (1botella/2 personas)",Menu nº3,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

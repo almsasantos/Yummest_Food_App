@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rabas de potera fritas al momento,Offer,17.0,EUR,Caprichos del mar,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+1,1,MenuItem,"Tempura de gambas, trigueros y aros de cebolla dulce",Offer,18.0,EUR,Caprichos del mar,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+2,2,MenuItem,Gamba roja salteada al ajo-guindilla,Offer,18.8,EUR,Caprichos del mar,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+3,3,MenuItem,Pulpo de roca a la brasa y alioli de Albariño,Offer,19.5,EUR,Caprichos del mar,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa

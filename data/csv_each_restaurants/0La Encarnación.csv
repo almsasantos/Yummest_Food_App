@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,legumbres estofadas,Offer,6.0,EUR,Entrante,None,"""Español""","""Calle de Hernani","""geo"":{""latitude"":40.4484028,""longitude"":-3.7028804",La Encarnación
+1,1,MenuItem,Panaché de verduras,Offer,7.0,EUR,Entrante,None,"""Español""","""Calle de Hernani","""geo"":{""latitude"":40.4484028,""longitude"":-3.7028804",La Encarnación
+2,2,MenuItem,Ensaladilla rusa,Offer,5.5,EUR,Entrante,None,"""Español""","""Calle de Hernani","""geo"":{""latitude"":40.4484028,""longitude"":-3.7028804",La Encarnación
+3,3,MenuItem,Macarrones con tomate y chorizo,Offer,6.5,EUR,Entrante,None,"""Español""","""Calle de Hernani","""geo"":{""latitude"":40.4484028,""longitude"":-3.7028804",La Encarnación

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Verdinas con marisco,Offer,20,EUR,Entrante,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+1,1,MenuItem,Fabada asturiana,Offer,14,EUR,Entrante,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur
+2,2,MenuItem,Arroz del señorito (marisco todo pelado),Offer,20,EUR,Entrante,9.2,"""Asturiano""","""Calle de Valderribas","""geo"":{""latitude"":40.4054831,""longitude"":-3.6775265",Sidrería Astur

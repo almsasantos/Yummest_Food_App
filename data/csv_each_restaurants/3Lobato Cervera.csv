@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+1,1,MenuItem,Copa de champán,Offer,3.0,EUR,Bebidas,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+2,2,MenuItem,Café,,,,Bebidas,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+4,4,MenuItem,Media botella de agua,Offer,1.75,EUR,Bebidas,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+5,5,MenuItem,Botella de vino,Offer,7.0,EUR,Bebidas,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera
+6,6,MenuItem,Copa de vino,Offer,2.1,EUR,Bebidas,8.9,"""Castellano""","""Calle Cervera","""geo"":{""latitude"":40.472532232377,""longitude"":-3.650680065155",Lobato Cervera

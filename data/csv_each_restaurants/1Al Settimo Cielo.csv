@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Burrata,Offer,12.0,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+1,1,MenuItem,Parmigiana,Offer,9.5,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+2,2,MenuItem,Huevos al Purgatorio,Offer,9.0,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+3,3,MenuItem,Chuletón de Tomate Rosa,Offer,13.0,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+4,4,MenuItem,Provolone al Horno,Offer,10.8,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+5,5,MenuItem,Nachos con Guacamole,Offer,9.5,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+6,6,MenuItem,Bocadillo de Porchetta Tartufata,Offer,11.5,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+7,7,MenuItem,Ceviche de Gambas al Estilo Sinaloa,Offer,11.5,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+8,8,MenuItem,MiniHuerto,Offer,8.5,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+9,9,MenuItem,Flautas de Pollo,Offer,8.5,EUR,Antipasti,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo

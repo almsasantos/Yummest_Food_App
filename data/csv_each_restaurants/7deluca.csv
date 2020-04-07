@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TIRAMISU,Offer,7,EUR,I Dolci,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+1,1,MenuItem,PANNACOTTA AI FRUTTI DI BOSCO,Offer,7,EUR,I Dolci,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+2,2,MenuItem,TATIN DI MELE,Offer,7,EUR,I Dolci,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+3,3,MenuItem,CIOCCOLATISSIMO,Offer,7,EUR,I Dolci,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+4,4,MenuItem,SORBETTO AL LIMONE,Offer,7,EUR,I Dolci,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+5,5,MenuItem,CANNOLI SICILIANI,Offer,7,EUR,I Dolci,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca
+6,6,MenuItem,CHEESCAKE CON ARANDANOS,Offer,7,EUR,I Dolci,9.1,"""Italiano""","""Calle de Prim","""geo"":{""latitude"":40.4219709,""longitude"":-3.694074",deluca

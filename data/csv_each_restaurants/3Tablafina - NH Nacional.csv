@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,59.0,EUR,Bebidas,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+1,1,MenuItem,Copa de champán,Offer,9.0,EUR,Bebidas,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+2,2,MenuItem,Café,Offer,3.3,EUR,Bebidas,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+3,3,MenuItem,Botella de agua,Offer,4.7,EUR,Bebidas,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+4,4,MenuItem,Media botella de agua,Offer,3.5,EUR,Bebidas,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+5,5,MenuItem,Botella de vino,Offer,24.0,EUR,Bebidas,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional
+6,6,MenuItem,Copa de vino,Offer,4.9,EUR,Bebidas,9.1,"""Español""","""Paseo del Prado","""geo"":{""latitude"":40.4097889,""longitude"":-3.6928323",Tablafina - NH Nacional

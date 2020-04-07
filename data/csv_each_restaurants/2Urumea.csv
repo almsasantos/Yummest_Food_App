@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Requesón con miel,Offer,6,EUR,Postre,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea
+1,1,MenuItem,Arroz con leche,Offer,6,EUR,Postre,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea
+2,2,MenuItem,Helado de turrón con pasas al Pedro Ximenez,Offer,6,EUR,Postre,9,None,"""Calle Cochabamba","""geo"":{""latitude"":40.4555671,""longitude"":-3.6811907",Urumea

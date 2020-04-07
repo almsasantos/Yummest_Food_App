@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Quesadilla,Offer,7.5,EUR,ENTRANTES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+1,1,MenuItem,Provoleta al horno,Offer,7.15,EUR,ENTRANTES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+2,2,MenuItem,Pan de ajo,Offer,2.8,EUR,ENTRANTES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+3,3,MenuItem,Nachos con quesos fundidos,Offer,6.95,EUR,ENTRANTES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+4,4,MenuItem,Nachos con quesos fundidos Especiales,Offer,7.95,EUR,ENTRANTES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana
+5,5,MenuItem,Nachos tijuana,Offer,8.45,EUR,ENTRANTES,9.2,"""Gastronómico""","""Avenida Machupichu","""geo"":{""latitude"":40.458076283335,""longitude"":-3.6252300739288",Lapizza+sana

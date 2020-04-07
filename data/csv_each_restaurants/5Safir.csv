@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,"Homous, Mohamara, tabula, babaganush.",MENU DEL FIN DE SEMANA,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+1,1,MenuItem,Plato,"pinchos cordero, shish tawuk, chuletas, kufta. Acompañado con arroz y patatas.",MENU DEL FIN DE SEMANA,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+2,2,MenuItem,Postre,"tarta zanahoria, kunafa, baklawa, dulces arabes...",MENU DEL FIN DE SEMANA,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+3,3,MenuItem,Bebida,"vino, cerveza, agua y refrescos.",MENU DEL FIN DE SEMANA,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir

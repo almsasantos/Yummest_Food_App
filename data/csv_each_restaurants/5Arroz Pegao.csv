@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Liha tomahawk (suomi boreal) por kg,Offer,65.0,EUR,Carnes,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+1,1,MenuItem,Terrina de rabo de toro con salsa de setas,Offer,22.5,EUR,Carnes,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao
+2,2,MenuItem,Secreto macerado arroz pegao,Offer,17.0,EUR,Carnes,9.4,None,"""Av","""geo"":{""latitude"":40.5033584,""longitude"":-3.7086791",Arroz Pegao

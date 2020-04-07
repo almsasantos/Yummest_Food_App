@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bandeja Templada,Offer,9.9,EUR,De La Huerta Cada Día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+1,1,MenuItem,El Trinchado,Offer,12.5,EUR,De La Huerta Cada Día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+2,2,MenuItem,Budha Bowl,Offer,10.5,EUR,De La Huerta Cada Día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón
+3,3,MenuItem,Wanda Salad,Offer,10.9,EUR,De La Huerta Cada Día,9.1,"""Internacional""","""Calle Don Pedro","""geo"":{""latitude"":40.4116132,""longitude"":-3.7118846",Dr.Limón

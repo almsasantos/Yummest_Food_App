@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pimientos de la Vera asados con bonito,Entrante,8.8,"""Español""","""Avenida de niza numero 67","""geo"":{""latitude"":40.39512,""longitude"":-3.76506",La Cervecera de Niza
+1,1,MenuItem,"Cazuelita de setas, almejas y gulas",Entrante,8.8,"""Español""","""Avenida de niza numero 67","""geo"":{""latitude"":40.39512,""longitude"":-3.76506",La Cervecera de Niza
+2,2,MenuItem,Anchoas del Cantábrico Doble Cero con pan tostado y tomate triturado,Entrante,8.8,"""Español""","""Avenida de niza numero 67","""geo"":{""latitude"":40.39512,""longitude"":-3.76506",La Cervecera de Niza

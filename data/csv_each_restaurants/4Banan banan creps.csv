@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,Una opción a elegir entre 4 posibilidades,Menú del dia,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+1,1,MenuItem,Plato Principañ,Una opción a elegir entre 4 posibilidades,Menú del dia,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps
+2,2,MenuItem,Postre,Una opción a elegir entre 4 posibilidades,Menú del dia,8.9,"""Crepería""","""Av","""geo"":{""latitude"":40.4521355,""longitude"":-3.6677114",Banan banan creps

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Causa limeña,Offer,7,EUR,Tradición,8.2,"""Peruano""","""Calle del Dr Cortezo","""geo"":{""latitude"":40.4128799,""longitude"":-3.7037525",Wampu
+1,1,MenuItem,Papa rellena,Offer,7,EUR,Tradición,8.2,"""Peruano""","""Calle del Dr Cortezo","""geo"":{""latitude"":40.4128799,""longitude"":-3.7037525",Wampu
+2,2,MenuItem,Tamal,Offer,7,EUR,Tradición,8.2,"""Peruano""","""Calle del Dr Cortezo","""geo"":{""latitude"":40.4128799,""longitude"":-3.7037525",Wampu

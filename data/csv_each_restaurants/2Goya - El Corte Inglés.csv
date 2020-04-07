@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao al pil pil con crujiente de alcachofas,Offer,20.0,EUR,Pescados,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+1,1,MenuItem,Lenguado con holandesa de mostaza,Offer,19.75,EUR,Pescados,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+2,2,MenuItem,Dorada de estero a la brasa con salsa de oporto y gratén de patatas con bacon,Offer,21.0,EUR,Pescados,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+3,3,MenuItem,Rodaballo meunière con patatas salteadas,Offer,20.95,EUR,Pescados,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés
+4,4,MenuItem,Merluza con caldo de verduras y mariscos,Offer,21.95,EUR,Pescados,9.1,"""Mediterráneo""","""Calle de Goya","""geo"":{""latitude"":40.4244616,""longitude"":-3.6747064",Goya - El Corte Inglés

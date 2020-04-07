@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomos de merluza y salmon ahumado en salsa meunier,Offer,20.9,EUR,Pescados,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+1,1,MenuItem,chipirones de anzuelo con cebolla dulce y salsa tartara,Offer,17.9,EUR,Pescados,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+2,2,MenuItem,"Tartar de Atún, Aguacate y Caviar de Mujol",,,,Pescados,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+3,3,MenuItem,Tiradito de pez mantequilla,,,,Pescados,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+4,4,MenuItem,"Bacalao (Desalado propio), a la plancha o a la Portuguesa",,,,Pescados,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+5,5,MenuItem,Rodaballo al horno o a la gallega,,,,Pescados,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio

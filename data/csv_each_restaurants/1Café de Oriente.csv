@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huevos rotos,Offer,13.1,EUR,Platos especiales,9.5,None,"""Plaza de Oriente","""geo"":{""latitude"":40.4177101,""longitude"":-3.7115055",Café de Oriente
+1,1,MenuItem,Dorada en costra de sal,Offer,17.0,EUR,Platos especiales,9.5,None,"""Plaza de Oriente","""geo"":{""latitude"":40.4177101,""longitude"":-3.7115055",Café de Oriente
+2,2,MenuItem,Magré de pato asado,Offer,17.0,EUR,Platos especiales,9.5,None,"""Plaza de Oriente","""geo"":{""latitude"":40.4177101,""longitude"":-3.7115055",Café de Oriente
+3,3,MenuItem,Solomillo de buey al Oporto,Offer,29.9,EUR,Platos especiales,9.5,None,"""Plaza de Oriente","""geo"":{""latitude"":40.4177101,""longitude"":-3.7115055",Café de Oriente

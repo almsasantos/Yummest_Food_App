@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Goma wakame,Offer,4.5,EUR,Entrante,9,"""Japonés""","""Av","""geo"":{""latitude"":40.380485,""longitude"":-3.7488004",Li.Sushi
+1,1,MenuItem,Tira de buey caramelizado,Offer,7.0,EUR,Entrante,9,"""Japonés""","""Av","""geo"":{""latitude"":40.380485,""longitude"":-3.7488004",Li.Sushi
+2,2,MenuItem,Tempura de verduras,Offer,6.5,EUR,Entrante,9,"""Japonés""","""Av","""geo"":{""latitude"":40.380485,""longitude"":-3.7488004",Li.Sushi

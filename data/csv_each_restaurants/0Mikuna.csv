@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Causa (salmón ahumado, spicy mayo de Rocoto, togarashi)",Offer,8.9,EUR,Pikeos,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+1,1,MenuItem,Quinoa poke,Offer,10.9,EUR,Pikeos,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+2,2,MenuItem,Bao (de pork belly con mayonesa o de hacatay y criolla),Offer,4.5,EUR,Pikeos,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+3,3,MenuItem,"Tacos (2 uds) de pollo al carbón con guacamole, crema agria y Rocoto",Offer,9.9,EUR,Pikeos,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+4,4,MenuItem,"Anticucho parrillero (corazón de ternera, chimichurri andino y salsa de ají amarillo)",Offer,10.0,EUR,Pikeos,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna
+5,5,MenuItem,"Jalea (pesca del día, mayonesa de leche de tigre y pico de gallo)",Offer,10.9,EUR,Pikeos,8.7,None,"""Calle de Galileo","""geo"":{""latitude"":40.4348005,""longitude"":-3.7101058",Mikuna

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gambas (100 gr),Offer,11,EUR,Entrante,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+1,1,MenuItem,Ostras (media docena),Offer,18,EUR,Entrante,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico
+2,2,MenuItem,Ración de surtidos ibéricos: queso y chorizo ibérico,Offer,8,EUR,Entrante,None,"""Marisquería""","""Calle de Padilla","""geo"":{""latitude"":40.4312841,""longitude"":-3.677071",El Cantábrico

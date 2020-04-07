@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheescake,Offer,2.5,EUR,Postre,None,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4382638,""longitude"":-3.6927586",Las Bridas
+1,1,MenuItem,Fruta del tiempo,Offer,2.5,EUR,Postre,None,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4382638,""longitude"":-3.6927586",Las Bridas
+2,2,MenuItem,Tarta de manzana,Offer,2.5,EUR,Postre,None,"""Español""","""Calle de José Abascal","""geo"":{""latitude"":40.4382638,""longitude"":-3.6927586",Las Bridas

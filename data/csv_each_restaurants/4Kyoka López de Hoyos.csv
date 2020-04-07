@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fideos de arroz fritos,Offer,7.0,EUR,Arroz-pasta-vapor-plancha,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+1,1,MenuItem,Yakisoba,Offer,7.0,EUR,Arroz-pasta-vapor-plancha,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+2,2,MenuItem,Udon,Offer,7.0,EUR,Arroz-pasta-vapor-plancha,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+3,3,MenuItem,Gyosa a la plancha,Offer,4.0,EUR,Arroz-pasta-vapor-plancha,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+4,4,MenuItem,Saumai,Offer,4.0,EUR,Arroz-pasta-vapor-plancha,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos
+5,5,MenuItem,Gyosa de langostino,Offer,4.8,EUR,Arroz-pasta-vapor-plancha,8,"""Japonés""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4487389,""longitude"":-3.6673828",Kyoka López de Hoyos

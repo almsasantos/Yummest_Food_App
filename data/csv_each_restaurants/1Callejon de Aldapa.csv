@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa de entraña,Offer,10.5,EUR,Plato,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+1,1,MenuItem,Dados de solomillo,Offer,12.0,EUR,Plato,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+2,2,MenuItem,Tequeños,Offer,11.0,EUR,Plato,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+3,3,MenuItem,Pizza Diabolo,Offer,9.0,EUR,Plato,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa
+4,4,MenuItem,Pizza cuatro quesos,Offer,9.0,EUR,Plato,None,"""Mediterráneo""","""Calle Aldapa","""geo"":{""latitude"":40.3872528,""longitude"":-3.7368529",Callejon de Aldapa

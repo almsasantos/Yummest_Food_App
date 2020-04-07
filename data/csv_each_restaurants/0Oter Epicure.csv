@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ostras terciadas de Arcade,Offer,20.52,EUR,Entrante,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+1,1,MenuItem,Huevos rotos con piperrada y laminado bacalao,Offer,17.28,EUR,Entrante,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+2,2,MenuItem,Foie de pato mi-cuit con reducción de oporto,Offer,21.06,EUR,Entrante,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure

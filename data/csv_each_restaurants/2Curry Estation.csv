@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mango lassi,Offer,3,EUR,Postre,8.5,"""Indio""","""Av","""geo"":{""latitude"":40.4587142,""longitude"":-3.6833847",Curry Estation
+1,1,MenuItem,Gulap jamon,Offer,3,EUR,Postre,8.5,"""Indio""","""Av","""geo"":{""latitude"":40.4587142,""longitude"":-3.6833847",Curry Estation
+2,2,MenuItem,Helado de pistacho,Offer,3,EUR,Postre,8.5,"""Indio""","""Av","""geo"":{""latitude"":40.4587142,""longitude"":-3.6833847",Curry Estation

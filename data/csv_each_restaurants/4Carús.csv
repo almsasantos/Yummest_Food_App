@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón ibérico de Bellota,Offer,22,EUR,Embutidos y Salazones,8.8,"""Asturiano""","""Av Victoria","""geo"":{""latitude"":40.4669232,""longitude"":-3.8141189",Carús
+1,1,MenuItem,Chorizos a la sidra,Offer,9,EUR,Embutidos y Salazones,8.8,"""Asturiano""","""Av Victoria","""geo"":{""latitude"":40.4669232,""longitude"":-3.8141189",Carús
+2,2,MenuItem,Cecina,Offer,12,EUR,Embutidos y Salazones,8.8,"""Asturiano""","""Av Victoria","""geo"":{""latitude"":40.4669232,""longitude"":-3.8141189",Carús
+3,3,MenuItem,Huevas de maruca,Offer,12,EUR,Embutidos y Salazones,8.8,"""Asturiano""","""Av Victoria","""geo"":{""latitude"":40.4669232,""longitude"":-3.8141189",Carús

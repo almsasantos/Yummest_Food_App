@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CHOCOLATE COSTRADO,Offer,7,EUR,PARA TERMINAR... ALGO DULCE,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+1,1,MenuItem,TARTA DE QUESO,Offer,7,EUR,PARA TERMINAR... ALGO DULCE,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+2,2,MenuItem,CRÈME BRÛLÉE,Offer,7,EUR,PARA TERMINAR... ALGO DULCE,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante
+3,3,MenuItem,TARTA FINA DE MANZANA,Offer,8,EUR,PARA TERMINAR... ALGO DULCE,8.9,None,"""Calle de Goya","""geo"":{""latitude"":40.4247315,""longitude"":-3.6715466",Alma Restaurante

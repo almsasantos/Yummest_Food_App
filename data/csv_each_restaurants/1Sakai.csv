@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Langostinos salteados con salsa dulce-picante,Offer,14.95,EUR,Plato,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai
+1,1,MenuItem,Lomo de lubina con salsa teriyaki,Offer,15.95,EUR,Plato,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai
+2,2,MenuItem,Crispy Maki,Offer,8.95,EUR,Plato,9.4,"""Asiático""","""Calle Aragón","""geo"":{""latitude"":40.4477526,""longitude"":-3.6769919",Sakai

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mategai,Offer,11.5,EUR,Yakiniku BBQ: del mar,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+1,1,MenuItem,Ika yaki,Offer,12.5,EUR,Yakiniku BBQ: del mar,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+2,2,MenuItem,Ebi Yaki,Offer,12.5,EUR,Yakiniku BBQ: del mar,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+3,3,MenuItem,Kaisen Yaki,Offer,22.0,EUR,Yakiniku BBQ: del mar,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+4,4,MenuItem,Hotate yaki,Offer,13.5,EUR,Yakiniku BBQ: del mar,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49

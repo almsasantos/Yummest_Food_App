@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,La tortilla de patatas,Offer,12,EUR,LA GALLINA PONE...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+1,1,MenuItem,Los huevos fritos,Offer,12,EUR,LA GALLINA PONE...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+2,2,MenuItem,Tortilla al gusto,Offer,13,EUR,LA GALLINA PONE...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta
+3,3,MenuItem,Pisto manchego,Offer,11,EUR,LA GALLINA PONE...,8.7,"""Español""","""Calle de Jesús","""geo"":{""latitude"":40.4135278,""longitude"":-3.6956792",El Gallocanta

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,surtido de entrantes,Menu degustacion suave,9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)
+1,1,MenuItem,Plato,Pad Thai\nLangostinos crema coco\npollo massaman\narroz jazmin,Menu degustacion suave,9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)
+2,2,MenuItem,Postre,Flan de coco\nPrecio por persona,Menu degustacion suave,9,"""Tailandés""","""c","""geo"":{""latitude"":40.49999,""longitude"":-3.67284",Oam Thong (Sanuk)

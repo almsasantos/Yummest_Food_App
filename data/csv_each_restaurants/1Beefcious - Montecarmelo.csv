@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fingers caseros de pollo y emmental,Offer,7.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+1,1,MenuItem,Buffalo Wings,Offer,7.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+2,2,MenuItem,Ensalada Beefcious,Offer,8.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+3,3,MenuItem,Ensalada César,Offer,8.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+4,4,MenuItem,Ensalada de Pollo,Offer,8.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+5,5,MenuItem,Nachos,Offer,7.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+6,6,MenuItem,Nachos especiales,Offer,8.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+7,7,MenuItem,Quesadilla de pollo,Offer,8.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+8,8,MenuItem,Quesadilla de carne,Offer,8.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo
+9,9,MenuItem,Fish & chips,Offer,9.95,EUR,Entrantes,9.1,"""Americano""","""Av","""geo"":{""latitude"":40.507056,""longitude"":-3.695853",Beefcious - Montecarmelo

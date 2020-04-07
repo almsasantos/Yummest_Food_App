@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,TORRIJA CARAMELIZADA,Offer,6.5,EUR,POSTRES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+1,1,MenuItem,TARTA FINA DE MANZANA,Offer,7.0,EUR,POSTRES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+2,2,MenuItem,FONDANTE (COULANT) DE CHOCOLATE,Offer,6.5,EUR,POSTRES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+3,3,MenuItem,TARTA DE QUESO,Offer,6.5,EUR,POSTRES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+4,4,MenuItem,HELADOS ARTESANOS,Offer,5.0,EUR,POSTRES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan

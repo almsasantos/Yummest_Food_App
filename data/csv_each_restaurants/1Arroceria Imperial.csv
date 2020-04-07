@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Arroces (especialidad de la casa), a partir de",Offer,17.0,EUR,Plato,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+1,1,MenuItem,Merluza al gusto,Offer,21.5,EUR,Plato,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+2,2,MenuItem,Solomillo al foie,Offer,25.5,EUR,Plato,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial
+3,3,MenuItem,Arroz con bogavante,Offer,22.5,EUR,Plato,9.2,"""Arrocería""","""Paseo del Dr","""geo"":{""latitude"":40.4042808,""longitude"":-3.715202",Arroceria Imperial

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Callitos,Offer,12.5,EUR,La Cuchara de Workshop,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+1,1,MenuItem,Salmorejo Cordobés,Offer,8.5,EUR,La Cuchara de Workshop,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+2,2,MenuItem,Cuchara del día,Offer,11.0,EUR,La Cuchara de Workshop,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique

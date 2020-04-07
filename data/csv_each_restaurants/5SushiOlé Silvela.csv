@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Banana tempura,Offer,5.95,EUR,Postres,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+1,1,MenuItem,Nutella roll,Offer,3.95,EUR,Postres,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela
+2,2,MenuItem,Tarta de chocolate Miami,Offer,4.8,EUR,Postres,8.7,"""Japonés""","""Calle de Francisco Silvela","""geo"":{""latitude"":40.43558,""longitude"":-3.67611",SushiOlé Silvela

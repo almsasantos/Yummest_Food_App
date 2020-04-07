@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Taco de arenques del Báltico marinados y guacamole con mango al estilo de Veracruz,Offer,8,EUR,Tacos Artesanos,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+1,1,MenuItem,Taco de trigo rellena de ropa vieja con huevo de codorniz,Offer,8,EUR,Tacos Artesanos,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+2,2,MenuItem,"Taco Gobernador de langostinos, pico de gallo y queso idiazábal",Offer,8,EUR,Tacos Artesanos,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+3,3,MenuItem,Cochinita pibil con aguacate y rabanitos encurtidos,Offer,8,EUR,Tacos Artesanos,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató

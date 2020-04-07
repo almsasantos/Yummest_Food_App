@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PAPPARDELLE ALLA BOLOGNESE,Offer,13.9,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+1,1,MenuItem,RAVIOLI RIPIENI DI ZUCCA E AMARETTO AL BURRO E SALVIA,Offer,13.9,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+2,2,MenuItem,RAVIOLI RIPIENI DI RICOTTA DI BUFALA E SPINACI AL SUGO DI POMODORO,Offer,14.5,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+3,3,MenuItem,SPAGHETTI ALLA CACIO E PEPE,Offer,16.0,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+4,4,MenuItem,SPAGHETTI CHITARRA ALLA CARBONARA,Offer,16.5,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+5,5,MenuItem,TAGLIOLINI AL TARTUFO NERO,Offer,19.9,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+6,6,MenuItem,SPAGHETTI VONGOLE E BOTTARGA DI MUGGINE,Offer,19.9,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+7,7,MenuItem,PAPPARDELLE MARE E MONTI,Offer,19.9,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet
+8,8,MenuItem,RISOTTO FRUTTI DI MARE,Offer,19.9,EUR,PRIMI PIATTI,8.5,"""Italiano""","""Calle de Zurbano","""geo"":{""latitude"":40.4287185,""longitude"":-3.6939024",Casa Tua Gourmet

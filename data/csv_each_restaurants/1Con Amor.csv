@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Costilla de Angus a 65º,Offer,24.2,EUR,Carne,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+1,1,MenuItem,Taco de solomillo,Offer,26.4,EUR,Carne,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+2,2,MenuItem,Carpaccio de buey,Offer,18.0,EUR,Carne,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+3,3,MenuItem,Steak Tartar,Offer,24.2,EUR,Carne,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+4,4,MenuItem,Callos,Offer,19.8,EUR,Carne,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor
+5,5,MenuItem,Carrillada de ternera con hongos,Offer,20.9,EUR,Carne,9,"""Español""","""C","""geo"":{""latitude"":40.440420773369,""longitude"":-3.6949000358582",Con Amor

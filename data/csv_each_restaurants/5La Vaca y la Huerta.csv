@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de lomo de vaca gallega,Offer,14,EUR,Los cortes de la vaca,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+1,1,MenuItem,Hamburguesa de vaca gallega,Offer,12,EUR,Los cortes de la vaca,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+2,2,MenuItem,Solomillo de vaca gallega,Offer,19,EUR,Los cortes de la vaca,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+3,3,MenuItem,Picaña de ternera a la brasa,Offer,16,EUR,Los cortes de la vaca,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+4,4,MenuItem,T - bone 1 kg,Offer,18,EUR,Los cortes de la vaca,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+5,5,MenuItem,Lomo alto de vaca vieja rubia gallega madurada,Offer,60,EUR,Los cortes de la vaca,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta
+6,6,MenuItem,Lomo bajo de vaca vieja rubia gallega madurada,Offer,60,EUR,Los cortes de la vaca,9.3,None,"""C","""geo"":{""latitude"":40.42179,""longitude"":-3.68976",La Vaca y la Huerta

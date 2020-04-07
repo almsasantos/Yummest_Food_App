@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mango Lassi,Offer,4.5,EUR,Postres/ Dessert,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+1,1,MenuItem,Gulab Jam,Offer,4.5,EUR,Postres/ Dessert,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+2,2,MenuItem,Mango Kulfi,Offer,4.0,EUR,Postres/ Dessert,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+3,3,MenuItem,Pistacho Kulfi,Offer,4.95,EUR,Postres/ Dessert,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+4,4,MenuItem,Gajar Halwa,Offer,5.95,EUR,Postres/ Dessert,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine
+5,5,MenuItem,Tea Masala,Offer,2.5,EUR,Postres/ Dessert,9.5,"""Indio""","""Calle Manuel Pombo Angulo 10","""geo"":{""latitude"":40.5069836,""longitude"":-3.6552459",Saffron Indian Cuisine

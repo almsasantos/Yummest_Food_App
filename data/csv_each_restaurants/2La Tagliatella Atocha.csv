@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bocconcino,Offer,5.8,EUR,Postre,8.5,"""Italiano""","""C","""geo"":{""latitude"":40.414158262331,""longitude"":-3.7037999629974",La Tagliatella Atocha
+1,1,MenuItem,Budino bianco,Offer,5.7,EUR,Postre,8.5,"""Italiano""","""C","""geo"":{""latitude"":40.414158262331,""longitude"":-3.7037999629974",La Tagliatella Atocha
+2,2,MenuItem,Trufas al Cioccolato,Offer,5.6,EUR,Postre,8.5,"""Italiano""","""C","""geo"":{""latitude"":40.414158262331,""longitude"":-3.7037999629974",La Tagliatella Atocha

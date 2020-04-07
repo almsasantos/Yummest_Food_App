@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico 100% de bellota con tomate y pan de cristal,Offer,25,EUR,SELECCIÓN DE PRODUCTOS MASTERCHEF,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+1,1,MenuItem,Burrata de Puglia sobre tomate y rúcula,Offer,18,EUR,SELECCIÓN DE PRODUCTOS MASTERCHEF,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+2,2,MenuItem,Antxoa del Cantábrico 00 en aceite de oliva de primera prensada,Offer,16,EUR,SELECCIÓN DE PRODUCTOS MASTERCHEF,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+3,3,MenuItem,"Tartar de atún rojo Balfegó, crema de raifort y perlas yuzu",Offer,22,EUR,SELECCIÓN DE PRODUCTOS MASTERCHEF,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef

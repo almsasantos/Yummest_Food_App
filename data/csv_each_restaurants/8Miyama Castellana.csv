@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sukiyaki De Buey WAGYU Con Verduras,Offer,38,EUR,Nabe (guiso tradicional japonés),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+1,1,MenuItem,Buey WAGYU Shabu Shabu,Offer,39,EUR,Nabe (guiso tradicional japonés),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+2,2,MenuItem,Verduras & Pescado Blanco Shabu Shabu,Offer,35,EUR,Nabe (guiso tradicional japonés),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana

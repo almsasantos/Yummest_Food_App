@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Vanilla cheese cake con sorbetes de lima y frambuesa,Offer,11.5,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+1,1,MenuItem,Trenza de hojaldre templada con pera caramelizada y helado de vainilla,Offer,6.5,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+2,2,MenuItem,Brownie Monsieur Sushita con pistachos y helado de vainilla,Offer,6.5,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+3,3,MenuItem,Crêpe Suzette de naranja con mousse de mandarina,Offer,6.9,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+4,4,MenuItem,Tarta de zanahoria,Offer,7.9,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+5,5,MenuItem,Chocolate templado,Offer,6.9,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+6,6,MenuItem,Helado fresco de kéfir con panal de miel,Offer,4.9,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+7,7,MenuItem,Helado de té verde,Offer,4.5,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+8,8,MenuItem,"Mini polos artesanos: yogur con higos, violeta, fresa y frambuesa, chocolate a la menta, mandarina con jengibre",Offer,1.5,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+9,9,MenuItem,Helado a la macarron (nueces o fresa),Offer,2.9,EUR,Postres,9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita

@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmón y crema de queso,Offer,4.5,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+1,1,MenuItem,Jamón con tomate,Offer,4.0,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+2,2,MenuItem,Solomillo ibérico con cebolla caramelizada,Offer,5.0,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+3,3,MenuItem,Lacón con pimiento del piquillo,Offer,4.5,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+4,4,MenuItem,Huevo frito con crema de aguacate,Offer,4.8,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+5,5,MenuItem,Bonito con pimiento,Offer,3.8,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+6,6,MenuItem,Queso de cabra gratinado,Offer,4.0,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+7,7,MenuItem,Cangrejo y langostinos,Offer,4.5,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía
+8,8,MenuItem,Revueltos variados,Offer,4.5,EUR,Tostas,None,"""Mediterráneo""","""Calle de Atocha","""geo"":{""latitude"":40.4115253,""longitude"":-3.6976936",Sofía

@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con panceta corte fino y huevo cocido,Offer,6.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+1,1,MenuItem,Arroz con pato y verduras china,Offer,7.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+2,2,MenuItem,Arroz tres delicias,Offer,4.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+3,3,MenuItem,Arroz blanco con ternera picante y bambu,Offer,6.5,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+4,4,MenuItem,Arroz blanco con pollo y setas,Offer,6.5,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+5,5,MenuItem,Arroz frito con verduras china,Offer,4.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+6,6,MenuItem,Arroz frito con picante (lao gan ma ),Offer,4.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+7,7,MenuItem,Tallarines estilo zhajian (carne picada ),Offer,6.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+8,8,MenuItem,Fideo de arroz con ternera(picante) y verduras,Offer,6.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+9,9,MenuItem,Tallarines anchas con costillas y verduras,Offer,6.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+10,10,MenuItem,Empanadilla con caldo de pollo,Offer,4.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King
+11,11,MenuItem,Empanadilla de carne con aceite de chili,Offer,4.8,EUR,Comida sanas,9,"""Chino""","""Av","""geo"":{""latitude"":40.454801,""longitude"":-3.7128425",Pincho King

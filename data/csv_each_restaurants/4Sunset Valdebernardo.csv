@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Muerte por chocolate,Offer,5.0,EUR,Postres,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+1,1,MenuItem,Tarta queso estilo tradicional,Offer,5.5,EUR,Postres,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+2,2,MenuItem,Flan casero de huevo,Offer,3.0,EUR,Postres,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+3,3,MenuItem,Sorbete de limón y cava,Offer,6.0,EUR,Postres,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+4,4,MenuItem,Copa de helado una o más (1 bola),Offer,2.0,EUR,Postres,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo
+5,5,MenuItem,Pudin casero,Offer,3.0,EUR,Postres,7.6,"""Mediterráneo""","""Bulevar de José Prat","""geo"":{""latitude"":40.3975594,""longitude"":-3.6245824",Sunset Valdebernardo

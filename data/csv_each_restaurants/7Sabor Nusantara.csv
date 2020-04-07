@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nasi Putih,Offer,2.5,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+1,1,MenuItem,Nasi Goreng Telur,Offer,7.0,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+2,2,MenuItem,Nasi Goreng Kampung,Offer,9.9,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+3,3,MenuItem,Nasi Goreng Vegetal,Offer,7.0,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+4,4,MenuItem,Mi Goreng,Offer,7.0,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+5,5,MenuItem,Kwetiauw Goreng Special,Offer,12.0,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+6,6,MenuItem,Kwetiauw Goreng Pontianak,Offer,10.9,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara
+7,7,MenuItem,Kwetiauw Goreng Vegetal,Offer,9.5,EUR,Arroz y Tallarines,9.3,"""Asiático""","""Calle de Viriato","""geo"":{""latitude"":40.4358993,""longitude"":-3.6997384",Sabor Nusantara

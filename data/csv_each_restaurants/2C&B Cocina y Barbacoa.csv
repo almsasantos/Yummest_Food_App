@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entraña,Offer,14.0,EUR,SUGERENCIAS DE PLATOS AL GRILL,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa
+1,1,MenuItem,Filete de pollo al grill marinado en salsa piri piri,Offer,12.5,EUR,SUGERENCIAS DE PLATOS AL GRILL,9,"""Asador""","""Calle Federico Mompou","""geo"":{""latitude"":40.5113241,""longitude"":-3.6790722",C&B Cocina y Barbacoa

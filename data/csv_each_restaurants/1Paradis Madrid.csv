@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de hortalizas , verduras y hongos confitados",Offer,10.75,EUR,Del huerto y ecológico,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+1,1,MenuItem,Asadillo de verduras y burrata,Offer,14.5,EUR,Del huerto y ecológico,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+2,2,MenuItem,Espárragos blancos frescos,Offer,15.5,EUR,Del huerto y ecológico,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+3,3,MenuItem,Menestra de verduras de primavera,Offer,16.5,EUR,Del huerto y ecológico,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+4,4,MenuItem,Salteado de setas de temporada (gurumelo y marzuelo),Offer,19.5,EUR,Del huerto y ecológico,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid

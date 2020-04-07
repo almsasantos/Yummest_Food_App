@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de muslo de conejo confitado y jamón crujiente,Offer,18,EUR,Para empezar (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+1,1,MenuItem,"Ceviche de calabacín, shiitake , cilantro, coco y mango ( Vegano)",Offer,15,EUR,Para empezar (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+2,2,MenuItem,"Carpaccio de hongos, praliné de piñones y queso parmesano y helado de mostaza",Offer,18,EUR,Para empezar (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+3,3,MenuItem,Milhojas de foie y papaya caramelizada con pan de especias,Offer,23,EUR,Para empezar (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+4,4,MenuItem,Almeja fina con vermut y verduritas,Offer,25,EUR,Para empezar (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+5,5,MenuItem,Ensalada de bogavante con geleé de naranja y espárragos,Offer,30,EUR,Para empezar (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+6,6,MenuItem,Arroz con bacalao ajoarriero y carabinero,Offer,26,EUR,Para empezar (ración),9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe

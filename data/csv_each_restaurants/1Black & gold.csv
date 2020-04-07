@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo de ternera 300g.,Offer,15,EUR,Plato,8.6,"""Mediterráneo""","""Calle de Cronos","""geo"":{""latitude"":40.4366,""longitude"":-3.62036",Black & gold
+1,1,MenuItem,Cachopo asturiano,Offer,14,EUR,Plato,8.6,"""Mediterráneo""","""Calle de Cronos","""geo"":{""latitude"":40.4366,""longitude"":-3.62036",Black & gold
+2,2,MenuItem,Secreto ibérico,Offer,14,EUR,Plato,8.6,"""Mediterráneo""","""Calle de Cronos","""geo"":{""latitude"":40.4366,""longitude"":-3.62036",Black & gold

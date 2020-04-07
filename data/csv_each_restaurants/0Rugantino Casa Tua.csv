@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamari e zucchini (chipirones y calabacines fritos con salsa pomodoro),Offer,13,EUR,Entrante,8.9,"""Italiano""","""Calle de Velázquez","""geo"":{""latitude"":40.4398106,""longitude"":-3.6825683",Rugantino Casa Tua
+1,1,MenuItem,"Insalata Césare clásica (con cogollos de lechuga romana ecológicos, queso parmigiano-reggiano, salsa de anchoas ,pancetta y croutons de pan)",Offer,11,EUR,Entrante,8.9,"""Italiano""","""Calle de Velázquez","""geo"":{""latitude"":40.4398106,""longitude"":-3.6825683",Rugantino Casa Tua
+2,2,MenuItem,Burrata di Puglia (el inimitable queso burrata con confitura de tomate),Offer,18,EUR,Entrante,8.9,"""Italiano""","""Calle de Velázquez","""geo"":{""latitude"":40.4398106,""longitude"":-3.6825683",Rugantino Casa Tua
+3,3,MenuItem,Patate con salmone. ( Patatitas rellenas de salmon ahumado y salsa holandesa.,Offer,13,EUR,Entrante,8.9,"""Italiano""","""Calle de Velázquez","""geo"":{""latitude"":40.4398106,""longitude"":-3.6825683",Rugantino Casa Tua

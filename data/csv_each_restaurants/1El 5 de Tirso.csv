@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gilda con anchoa de Santoña,Offer,2.5,EUR,Ultramarinos y chacinas,9,"""Madrileño""","""Plaza de Tirso de Molina","""geo"":{""latitude"":40.4121355,""longitude"":-3.7041618",El 5 de Tirso
+1,1,MenuItem,Boquerones en vinagre,Offer,9.0,EUR,Ultramarinos y chacinas,9,"""Madrileño""","""Plaza de Tirso de Molina","""geo"":{""latitude"":40.4121355,""longitude"":-3.7041618",El 5 de Tirso
+2,2,MenuItem,Gorgonzola cremoso y miel de trufa,Offer,10.0,EUR,Ultramarinos y chacinas,9,"""Madrileño""","""Plaza de Tirso de Molina","""geo"":{""latitude"":40.4121355,""longitude"":-3.7041618",El 5 de Tirso
+3,3,MenuItem,Lomo ibérico,Offer,14.0,EUR,Ultramarinos y chacinas,9,"""Madrileño""","""Plaza de Tirso de Molina","""geo"":{""latitude"":40.4121355,""longitude"":-3.7041618",El 5 de Tirso
+4,4,MenuItem,Mortadela trufada,Offer,9.0,EUR,Ultramarinos y chacinas,9,"""Madrileño""","""Plaza de Tirso de Molina","""geo"":{""latitude"":40.4121355,""longitude"":-3.7041618",El 5 de Tirso

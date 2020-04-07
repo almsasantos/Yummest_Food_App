@@ -1,0 +1,7 @@
+,Unnamed: 0,Unnamed: 0.1,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,0,MenuItem,Helado de magdalenas con Cola Cao,Offer,5.4,EUR,Postres,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+1,1,1,MenuItem,Tarta de queso sobre fondo de natillas y frutos rojos,Offer,6.2,EUR,Postres,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+2,2,2,MenuItem,Tarta de zanahoria casera con fondo de crema de arroz con leche,Offer,6.5,EUR,Postres,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+3,3,3,MenuItem,Sorbete de mojito cubano con ron tostado,Offer,5.5,EUR,Postres,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+4,4,4,MenuItem,Helado de chocolate con espuma de coco y teja de curry,Offer,7.2,EUR,Postres,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua
+5,5,5,MenuItem,Crema catalana con espuma de nata,Offer,6.4,EUR,Postres,9.1,None,"""C","""geo"":{""latitude"":40.427633454339,""longitude"":-3.7039198875427246",La Fragua

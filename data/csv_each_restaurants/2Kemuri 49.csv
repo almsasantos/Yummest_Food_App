@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Shiawase Mori,Offer,34.0,EUR,Yakiniku BBQ: Combinación,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+1,1,MenuItem,Hola Mochi Mori,Offer,56.0,EUR,Yakiniku BBQ: Combinación,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49
+2,2,MenuItem,Yasai Mori,Offer,9.5,EUR,Yakiniku BBQ: Combinación,8.9,"""Japonés""","""Calle de Ponzano","""geo"":{""latitude"":40.4407626,""longitude"":-3.6994713",Kemuri 49

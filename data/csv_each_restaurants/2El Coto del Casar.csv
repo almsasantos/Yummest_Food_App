@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con bogavante del señorito,Offer,19,EUR,Arroces (mínimo 2 personas),8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+1,1,MenuItem,Arroz con Perdiz y boletus,Offer,17,EUR,Arroces (mínimo 2 personas),8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+2,2,MenuItem,Arroz meloso con Rabo de buey,Offer,16,EUR,Arroces (mínimo 2 personas),8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar
+3,3,MenuItem,Paella de la casa,Offer,14,EUR,Arroces (mínimo 2 personas),8.9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.441256916602,""longitude"":-3.6686298847198486",El Coto del Casar

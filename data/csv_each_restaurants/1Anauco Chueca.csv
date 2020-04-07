@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crunchy césar,Offer,7.5,EUR,Ensaladas,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca
+1,1,MenuItem,Ensalada Mediterranea,Offer,7.9,EUR,Ensaladas,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca
+2,2,MenuItem,Ensalada anauco,Offer,8.2,EUR,Ensaladas,8.9,"""Americano""","""Calle Reina","""geo"":{""latitude"":40.4200983,""longitude"":-3.6991608",Anauco Chueca

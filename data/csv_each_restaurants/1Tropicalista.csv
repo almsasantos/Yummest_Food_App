@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,HAMBURGUESA CLÁSICA,Offer,10.5,EUR,Hamburguesas,9.5,None,"""Calle de la Ballesta","""geo"":{""latitude"":40.4224961,""longitude"":-3.7032089",Tropicalista
+1,1,MenuItem,HAMBURGUESA TROPICALISTA,Offer,12.5,EUR,Hamburguesas,9.5,None,"""Calle de la Ballesta","""geo"":{""latitude"":40.4224961,""longitude"":-3.7032089",Tropicalista
+2,2,MenuItem,HAMBURGUESA SERRANA,Offer,12.0,EUR,Hamburguesas,9.5,None,"""Calle de la Ballesta","""geo"":{""latitude"":40.4224961,""longitude"":-3.7032089",Tropicalista
+3,3,MenuItem,HAMBURGUESA DE FRANGO,Offer,10.9,EUR,Hamburguesas,9.5,None,"""Calle de la Ballesta","""geo"":{""latitude"":40.4224961,""longitude"":-3.7032089",Tropicalista
+4,4,MenuItem,PORTOBELLO VEGETARIANA,Offer,11.0,EUR,Hamburguesas,9.5,None,"""Calle de la Ballesta","""geo"":{""latitude"":40.4224961,""longitude"":-3.7032089",Tropicalista
+5,5,MenuItem,HAMBURGUESA VEGANA,Offer,12.9,EUR,Hamburguesas,9.5,None,"""Calle de la Ballesta","""geo"":{""latitude"":40.4224961,""longitude"":-3.7032089",Tropicalista

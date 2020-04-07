@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Pulpo braseado, mantequilla de chiles, emulsión de aguacate y lombarda encurtida",Offer,19,EUR,EL MAR A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+1,1,MenuItem,"Chipirón braseado, pak choi y salsa japonesa",Offer,22,EUR,EL MAR A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia
+2,2,MenuItem,"Merluza soasada, puré de apionabo, alcaparras y almendras tostadas",Offer,21,EUR,EL MAR A LA BRASA,8.6,None,"""Calle Manuel de Falla","""geo"":{""latitude"":40.4557922,""longitude"":-3.6890326",Behia

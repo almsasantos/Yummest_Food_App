@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crujiente de oreja confitado con salsa brava,Offer,13,EUR,gaSTro Tradicional,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+1,1,MenuItem,Callos a la madrileña,Offer,19,EUR,gaSTro Tradicional,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset
+2,2,MenuItem,Sopa del día,Offer,14,EUR,gaSTro Tradicional,9,"""Arrocería""","""Calle de José Ortega y Gasset","""geo"":{""latitude"":40.4298725,""longitude"":-3.6718086",St. James Ortega y Gasset

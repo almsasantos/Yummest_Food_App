@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Volcano Graal,Offer,5.5,EUR,Postre,8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+1,1,MenuItem,Marquesa de galleta María con chocolate,Offer,5.0,EUR,Postre,8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+2,2,MenuItem,Tarta de chocolate,Offer,5.0,EUR,Postre,8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food
+3,3,MenuItem,Tarta de zanahoria,Offer,5.0,EUR,Postre,8.4,"""Venezolano""","""Av","""geo"":{""latitude"":40.4070037,""longitude"":-3.6766249",Graal Street food

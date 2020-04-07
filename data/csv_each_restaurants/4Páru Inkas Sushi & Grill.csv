@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"KANIWAN: Empanadillas de masa filo rellenas de langostinos, queso crema y cacahuetes.",Offer,6,EUR,CROCANTES Y TAPAS,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+1,1,MenuItem,WANTAN CRIOLLO: Relleno de Aji de Gallina y queso.,Offer,6,EUR,CROCANTES Y TAPAS,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+2,2,MenuItem,EMPANADAS PERUANAS: Rellenas de Lomo Saltado.,Offer,8,EUR,CROCANTES Y TAPAS,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill
+3,3,MenuItem,VIEIRAS A LA PARMESANA: Gratinadas con Queso Parmesano.,Offer,14,EUR,CROCANTES Y TAPAS,9.2,None,"""Calle de Atocha","""geo"":{""latitude"":40.4131476,""longitude"":-3.7005799",Páru Inkas Sushi & Grill

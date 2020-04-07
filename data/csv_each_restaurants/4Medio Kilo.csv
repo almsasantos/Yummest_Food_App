@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,58.0,EUR,Bebidas,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+1,1,MenuItem,Copa de champán,Offer,4.0,EUR,Bebidas,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+5,5,MenuItem,Botella de vino,Offer,17.0,EUR,Bebidas,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo

@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Guacamole de Molcajete con Hierbas,Offer,9.0,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+1,1,MenuItem,"Mejillones, Salsa de Coco, Curry Verde, Lima Keffir",Offer,11.5,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+2,2,MenuItem,Aguachile de Zamburiña y Camarón,Offer,9.0,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+3,3,MenuItem,"Saté de Pollo, Salsa de Mantequilla de Cacahuete",Offer,8.0,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+4,4,MenuItem,"Tartar de Tomates, Crutones, Tapenade",Offer,12.5,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+5,5,MenuItem,"Tempura Verde de Gambas, Espinaca Frita, Salsa Soja",Offer,13.5,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+6,6,MenuItem,"Flor de Calabacín Relleno Queso de Cabra, Ensalada Waldorf",Offer,13.5,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+7,7,MenuItem,"Croquetas de Bacalao, Estilo Portugués",Offer,9.0,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+8,8,MenuItem,"Arrancini, Croqueta de Risotto del Día, Salsa Tomate Fresco",Offer,9.0,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+9,9,MenuItem,"Rollitos de Primavera Marroquíes, Dip de Tamarindo Ras el Hanout",Offer,11.0,EUR,Empezar y compartir / To start and share,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social

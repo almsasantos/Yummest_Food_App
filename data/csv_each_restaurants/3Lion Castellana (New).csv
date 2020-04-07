@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso con cuajo semi-fluido y confitura de frutos rojos,Offer,6.5,EUR,POSTRES,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+1,1,MenuItem,Magnum de chocolate blanco y mango con coco,Offer,6.5,EUR,POSTRES,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)
+2,2,MenuItem,Cocotte de chocolate con churros,Offer,6.6,EUR,POSTRES,8.9,None,"""Paseo de la Castellana","""geo"":{""latitude"":40.451667,""longitude"":-3.691667",Lion Castellana (New)

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huevos rotos con trufa,Offer,13.5,EUR,Entrante,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto
+1,1,MenuItem,Habitas baby con foie y crujiente de jamón,Offer,12.0,EUR,Entrante,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto
+2,2,MenuItem,Pulpo crujiente con revolconas,Offer,16.0,EUR,Entrante,9.4,"""Español""","""Calle del Hierro","""geo"":{""latitude"":40.392217,""longitude"":-3.69163",Divino tinto

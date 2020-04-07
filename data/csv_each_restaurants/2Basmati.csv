@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pollo tikka massala,Offer,11.5,EUR,Plato,9.4,"""Indio""","""Calle de Sandoval","""geo"":{""latitude"":40.4302628,""longitude"":-3.7049307",Basmati
+1,1,MenuItem,Polloo curry,Offer,9.95,EUR,Plato,9.4,"""Indio""","""Calle de Sandoval","""geo"":{""latitude"":40.4302628,""longitude"":-3.7049307",Basmati
+2,2,MenuItem,Gambas massala,Offer,13.95,EUR,Plato,9.4,"""Indio""","""Calle de Sandoval","""geo"":{""latitude"":40.4302628,""longitude"":-3.7049307",Basmati
+3,3,MenuItem,Mix Vegetal,Offer,8.5,EUR,Plato,9.4,"""Indio""","""Calle de Sandoval","""geo"":{""latitude"":40.4302628,""longitude"":-3.7049307",Basmati

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomos de sardina marinados en casa y tomate concassé,Offer,12.8,EUR,Entrantes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+1,1,MenuItem,Carpaccio de gambón con falso caviar de cítricos y hojitas,Offer,17.2,EUR,Entrantes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+2,2,MenuItem,"Salteado de quinoa con espinacas, cherry y calabacín",Offer,16.3,EUR,Entrantes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+3,3,MenuItem,Pulpo a la parrilla con patatas revolconas,Offer,16.5,EUR,Entrantes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+4,4,MenuItem,Pimientos rellenos de estofado de rabo de toro,Offer,12.0,EUR,Entrantes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco
+5,5,MenuItem,Ravioli de brandada de bacalao sobre pil-pil de ajo negro,Offer,19.5,EUR,Entrantes,8.9,"""Español""","""Calle Orellana 19","""geo"":{""latitude"":40.4261496,""longitude"":-3.694363",Picoroco

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de tomate con atún y crema de Módena\t6,00",Offer,6.6,EUR,Ensaladas,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+1,1,MenuItem,"Ensalada de canónigos con queso de cabra, nueces y mermelada de tomate",Offer,8.8,EUR,Ensaladas,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+2,2,MenuItem,Ensalada de Pollo con manzana y salsa rosa,Offer,8.8,EUR,Ensaladas,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+3,3,MenuItem,Ensalada de langostinos con piña y salsa rosa,Offer,11.0,EUR,Ensaladas,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+4,4,MenuItem,Ensaladilla rusa,Offer,6.6,EUR,Ensaladas,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+5,5,MenuItem,Ensalada de Aguacate con salmón y langostinos sobre base de salmorejo y crema de Módena,Offer,11.0,EUR,Ensaladas,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+6,6,MenuItem,Asadillo de pimientos con cogollos y ventresca,Offer,8.8,EUR,Ensaladas,8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes

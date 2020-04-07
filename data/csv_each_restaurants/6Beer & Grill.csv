@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Especial surtido de salchichas internacionales a la brasa,Offer,16.5,EUR,Salchichas,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill
+1,1,MenuItem,Perrito New York,Offer,5.5,EUR,Salchichas,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill
+2,2,MenuItem,Perrito mexicano,Offer,5.5,EUR,Salchichas,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill
+3,3,MenuItem,Perrito ranchero,Offer,5.5,EUR,Salchichas,8.5,"""Americano""","""Calle de Almansa","""geo"":{""latitude"":40.4489388,""longitude"":-3.7153094",Beer & Grill

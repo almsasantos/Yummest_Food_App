@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo al carbón,Offer,15.9,EUR,ENTRANTES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+1,1,MenuItem,Croqueta en vaso de King Crab,Offer,4.9,EUR,ENTRANTES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+2,2,MenuItem,Croquetas de pulled pork,Offer,7.5,EUR,ENTRANTES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+3,3,MenuItem,Tortilla de bacalao suflada con carabineros,Offer,12.9,EUR,ENTRANTES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+4,4,MenuItem,Lasaña crujiente,Offer,11.5,EUR,ENTRANTES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+5,5,MenuItem,Parrillada de verduras frescas,Offer,11.5,EUR,ENTRANTES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+6,6,MenuItem,Tartar de salmón,Offer,15.5,EUR,ENTRANTES,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez

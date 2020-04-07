@@ -1,0 +1,15 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tataki de atún marinado con mayonesa de wasabi,Offer,15.0,EUR,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+1,1,MenuItem,Langostinos en tempura con mayonesa de Kimuchi,Offer,15.0,EUR,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+2,2,MenuItem,Bacalao a la brasa sobre cama de salmorejo,Offer,18.5,EUR,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+3,3,MenuItem,Taquitos de Buey al P.X. y mostaza,Offer,17.5,EUR,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+4,4,MenuItem,Pulpo a la brasa con crema de patata y salsa romescu,Offer,16.0,EUR,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+5,5,MenuItem,Tartar de Salmón con mostaza dulce y guacamole,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+6,6,MenuItem,Tartar de atún rojo con mayonesa de soja,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+7,7,MenuItem,Calamares a la andaluza con alioli de miel,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+8,8,MenuItem,Boquerones fritos,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+9,9,MenuItem,"Hamburguesa de 200 gr de carne de Angus con rúcula, queso brie fundido y cebolla confitada",,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+10,10,MenuItem,Lomo de buey trinchado,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+11,11,MenuItem,Solomillo de buey con patatas y confitura de pimientos rojos,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+12,12,MenuItem,Cazuelita de callos,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower
+13,13,MenuItem,* Reservas en terraza sujetas a disponibilidad en el momento,,,,Pescados y Carnes,8.9,"""Mediterráneo""","""Calle Rodríguez Marín","""geo"":{""latitude"":40.453367,""longitude"":-3.6786116",Mayflower

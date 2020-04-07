@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Triangolini di foie,Offer,12.25,EUR,Pasta Ripiena,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul
+1,1,MenuItem,Sorrentino de queso de cabra,Offer,11.95,EUR,Pasta Ripiena,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul
+2,2,MenuItem,Sacchetti di pera quattro form,Offer,11.55,EUR,Pasta Ripiena,8.2,"""Italiano""","""Calle Calderilla","""geo"":{""latitude"":40.363388,""longitude"":-3.7389516",Mazzo Islazul

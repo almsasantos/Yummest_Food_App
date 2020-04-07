@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pulpo a la gallega,Offer,17.9,EUR,Del mar,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+1,1,MenuItem,Calamares a la romana,Offer,9.3,EUR,Del mar,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+2,2,MenuItem,Chopitos a la andaluza,Offer,10.3,EUR,Del mar,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso
+3,3,MenuItem,Gyoza de langostinos,Offer,9.7,EUR,Del mar,8.9,"""Español""","""Calle de la Lechuga","""geo"":{""latitude"":40.4143393,""longitude"":-3.7065662",Taberna paraíso

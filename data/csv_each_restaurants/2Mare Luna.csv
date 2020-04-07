@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú,Offer,5,EUR,Postre,None,"""Italiano""","""Calle María Zambrano","""geo"":{""latitude"":40.4418704,""longitude"":-3.6504295",Mare Luna
+1,1,MenuItem,Profiterol de crema,Offer,4,EUR,Postre,None,"""Italiano""","""Calle María Zambrano","""geo"":{""latitude"":40.4418704,""longitude"":-3.6504295",Mare Luna
+2,2,MenuItem,Crepe de nutella,Offer,4,EUR,Postre,None,"""Italiano""","""Calle María Zambrano","""geo"":{""latitude"":40.4418704,""longitude"":-3.6504295",Mare Luna

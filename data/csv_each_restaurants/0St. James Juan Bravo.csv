@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Jamón ibérico cortado a mano con pan de cristal, aceite y tomate",Offer,24.5,EUR,Para empezar.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+1,1,MenuItem,Carpaccio de salmón y viera sobre salmorejo ligero,Offer,19.0,EUR,Para empezar.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+2,2,MenuItem,Lomo de anchoa del cantábrico en salazón con pan cristal y tomate UNIDAD,Offer,3.5,EUR,Para empezar.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo
+3,3,MenuItem,Pulpo asado con patata al horno,Offer,28.0,EUR,Para empezar.....,9,"""Arrocería""","""c","""geo"":{""latitude"":40.432656919167,""longitude"":-3.6814699172973633",St. James Juan Bravo

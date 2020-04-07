@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú della Casa,Offer,4.5,EUR,Dolci,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+1,1,MenuItem,Pannacotta,Offer,4.5,EUR,Dolci,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+2,2,MenuItem,Babà,Offer,5.5,EUR,Dolci,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+3,3,MenuItem,Soufflé al Cioccolato,Offer,6.0,EUR,Dolci,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+4,4,MenuItem,John Nieve,Offer,6.5,EUR,Dolci,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+5,5,MenuItem,Pizza con Nutella,Offer,7.5,EUR,Dolci,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+6,6,MenuItem,Tarta de Manzana,Offer,6.0,EUR,Dolci,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo

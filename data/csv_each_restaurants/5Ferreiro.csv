@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cogote de Merluza Asado a la Parrilla con Refrito de Ajos y Patatas Panaderas,Offer,25.85,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+1,1,MenuItem,Lenguado de Roca al Grill con Patatas Vapor,Offer,27.9,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+2,2,MenuItem,Pixín a la parrilla 2 Personas (Rape de Barriga Negra hecho a la Parrilla Con Ajitos) Precio por Pers.,Offer,28.05,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+3,3,MenuItem,"Merluza de Pincho a la Sidra con Manzanas, Almejas Finas y Langostinos",Offer,25.52,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+4,4,MenuItem,"Bacalao al estilo Ferreiro (Cocinado con Suave Pil-Pil , Ajito Tostado y su Toque de guidilla )",Offer,25.85,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+5,5,MenuItem,Rape en Medallones a la Plancha con Langostinos al Perfume de Azafrán,Offer,28.05,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+6,6,MenuItem,Lomo de Merluza de Pincho a la Brasa con Ajitos,Offer,23.65,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+7,7,MenuItem,Lubina a La Sal (2 Personas) con Cachelos y Cebollita Pochada (Precio por Pers),Offer,28.05,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro
+8,8,MenuItem,Chipirones de Potera en Tinta con Timbal de Arroz Blanco,Offer,19.23,EUR,Pescados,8.9,"""Asturiano""","""C","""geo"":{""latitude"":40.450238993795,""longitude"":-3.6982700824738",Ferreiro

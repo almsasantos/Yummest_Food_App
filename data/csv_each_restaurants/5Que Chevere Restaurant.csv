@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,EMPANADA SENCILLA,Offer,4.0,EUR,EMPANADAS,9,"""Venezolano""","""Calle de la Senda del Infante","""geo"":{""latitude"":40.4880434,""longitude"":-3.7188247",Que Chevere Restaurant
+1,1,MenuItem,EMPANADA ESPECIAL,Offer,5.5,EUR,EMPANADAS,9,"""Venezolano""","""Calle de la Senda del Infante","""geo"":{""latitude"":40.4880434,""longitude"":-3.7188247",Que Chevere Restaurant
+2,2,MenuItem,PABELLON,Offer,7.0,EUR,EMPANADAS,9,"""Venezolano""","""Calle de la Senda del Infante","""geo"":{""latitude"":40.4880434,""longitude"":-3.7188247",Que Chevere Restaurant
+3,3,MenuItem,DEGUSTACIÓN DE EMPANADAS,Offer,12.0,EUR,EMPANADAS,9,"""Venezolano""","""Calle de la Senda del Infante","""geo"":{""latitude"":40.4880434,""longitude"":-3.7188247",Que Chevere Restaurant

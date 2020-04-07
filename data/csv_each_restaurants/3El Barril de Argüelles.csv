@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Boquerones plateados fritos a la malagueña,Offer,12.75,EUR,Fritos en aceite de oliva,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+1,1,MenuItem,Cazón en adobo al estilo de San Fernando,Offer,13.5,EUR,Fritos en aceite de oliva,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+2,2,MenuItem,Calamares de potera a la parrilla o a la Andaluza,Offer,18.0,EUR,Fritos en aceite de oliva,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+3,3,MenuItem,"Croquetas caseras, diferentes cada día. (8 Uds.)",Offer,13.6,EUR,Fritos en aceite de oliva,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+4,4,MenuItem,Buñuelos de bacalao con Ajoblanco malagueño. (6 Uds.),Offer,14.4,EUR,Fritos en aceite de oliva,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+5,5,MenuItem,Todos nuestros pescaditos fritos se acompañan de piperrada de pimientos asados,,,,Fritos en aceite de oliva,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles

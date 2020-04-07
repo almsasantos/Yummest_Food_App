@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.2,"""Internacional""","""Calle de Barbieri","""geo"":{""latitude"":40.4205085,""longitude"":-3.6983993",Ohana Poke House
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.2,"""Internacional""","""Calle de Barbieri","""geo"":{""latitude"":40.4205085,""longitude"":-3.6983993",Ohana Poke House
+2,2,MenuItem,Café,Offer,1.6,EUR,Bebidas,9.2,"""Internacional""","""Calle de Barbieri","""geo"":{""latitude"":40.4205085,""longitude"":-3.6983993",Ohana Poke House
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.2,"""Internacional""","""Calle de Barbieri","""geo"":{""latitude"":40.4205085,""longitude"":-3.6983993",Ohana Poke House
+4,4,MenuItem,Media botella de agua,Offer,1.5,EUR,Bebidas,9.2,"""Internacional""","""Calle de Barbieri","""geo"":{""latitude"":40.4205085,""longitude"":-3.6983993",Ohana Poke House
+5,5,MenuItem,Botella de vino,,,,Bebidas,9.2,"""Internacional""","""Calle de Barbieri","""geo"":{""latitude"":40.4205085,""longitude"":-3.6983993",Ohana Poke House
+6,6,MenuItem,Copa de vino,,,,Bebidas,9.2,"""Internacional""","""Calle de Barbieri","""geo"":{""latitude"":40.4205085,""longitude"":-3.6983993",Ohana Poke House

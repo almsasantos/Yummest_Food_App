@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tomate con ventresca,Offer,14,EUR,Entrante,7.2,"""Portugués""","""Calle Hernán Cortés","""geo"":{""latitude"":40.4235512,""longitude"":-3.7001403",El Niño Pastor
+1,1,MenuItem,Croquetas caseras de jamón,Offer,9,EUR,Entrante,7.2,"""Portugués""","""Calle Hernán Cortés","""geo"":{""latitude"":40.4235512,""longitude"":-3.7001403",El Niño Pastor
+2,2,MenuItem,Huevos estrellados con gulas al ajillo,Offer,14,EUR,Entrante,7.2,"""Portugués""","""Calle Hernán Cortés","""geo"":{""latitude"":40.4235512,""longitude"":-3.7001403",El Niño Pastor

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,verdejo,Offer,10,EUR,VINOS BLANCOS,None,None,None,Nigola
+1,1,MenuItem,rueda,Offer,15,EUR,VINOS BLANCOS,None,None,None,Nigola
+2,2,MenuItem,albariño,Offer,15,EUR,VINOS BLANCOS,None,None,None,Nigola

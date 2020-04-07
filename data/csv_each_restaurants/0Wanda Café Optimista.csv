@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Salmorejo, con jamón y huevo duro",Offer,7.8,EUR,Entrantes,8.6,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.438128,""longitude"":-3.689649",Wanda Café Optimista
+1,1,MenuItem,Caldo casero,Offer,4.0,EUR,Entrantes,8.6,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.438128,""longitude"":-3.689649",Wanda Café Optimista
+2,2,MenuItem,"Ensalada de Sashimi, con salmón, atún, aguacate,mango, mezclum de lechugas, algas wakame, pepino y salsa wafu",Offer,14.9,EUR,Entrantes,8.6,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.438128,""longitude"":-3.689649",Wanda Café Optimista
+3,3,MenuItem,Croquetas caseras de pollo o jamón (6 Uds.),Offer,11.8,EUR,Entrantes,8.6,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.438128,""longitude"":-3.689649",Wanda Café Optimista
+4,4,MenuItem,"Bao de Pato, con confit de pato y salsa pekinesa (2 Uds.)",Offer,12.4,EUR,Entrantes,8.6,"""Internacional""","""Calle de María de Molina","""geo"":{""latitude"":40.438128,""longitude"":-3.689649",Wanda Café Optimista

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,1 entrante de la carta,Menú de mercadoc,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+1,1,MenuItem,Plato,1 plato de la carta,Menú de mercadoc,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15
+2,2,MenuItem,Postre,1 postre de la carta,Menú de mercadoc,8.9,"""Español""","""Calle de Sta","""geo"":{""latitude"":40.4130688,""longitude"":-3.6974974",Sagaz15

@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"· Entrecotte fileteado, patatas y pimientos",Offer,22,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+1,1,MenuItem,· Centro de solomillo a la parrilla con una lágrima de salsa española,Offer,24,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+2,2,MenuItem,· Chuletón de lomo alto escogido al peso,Offer,58,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+3,3,MenuItem,· Tataki de ternera a la pimienta sobre edamame y cantonesa,Offer,18,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+4,4,MenuItem,· Churrasco de ternera a la parrilla con patatas y pimientos,Offer,18,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+5,5,MenuItem,· Jarrete de ibérico asado a baja temperatura,Offer,16,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+6,6,MenuItem,· Hamburguesa casera de 250grs a la parrilla con patatas,Offer,14,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+7,7,MenuItem,"· Chop de ibérico (lomo, molleja y solomillo) a la parrilla con salsa provenzal",Offer,18,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+8,8,MenuItem,· Pincho de lechazo churro con patatas cristal,Offer,19,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+9,9,MenuItem,· Nuestra parrilla para 2 personas,Offer,27,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+10,10,MenuItem,· Sapito (rape) con ajetes frescos,Offer,24,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+11,11,MenuItem,· Chuletón de atún rojo. Nuestro buque insignia,Offer,26,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma
+12,12,MenuItem,· Pargo con un poquito de bilbaína,Offer,22,EUR,LA PARRILLA ES LA ESTRELLA,9.2,"""Mediterráneo""","""Av","""geo"":{""latitude"":40.45888,""longitude"":-3.6801909",Dogma

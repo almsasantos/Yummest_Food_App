@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bizcocho casero,Offer,3.5,EUR,Postre,None,"""Español""","""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Cervecería YPUNTO
+1,1,MenuItem,Tarta del día,Offer,4.5,EUR,Postre,None,"""Español""","""Calle de Padilla","""geo"":{""latitude"":40.4311814,""longitude"":-3.6773463",Cervecería YPUNTO

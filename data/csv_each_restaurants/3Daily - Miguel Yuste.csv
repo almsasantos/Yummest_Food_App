@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo bajo de ternera a la plancha (300 grs),Offer,18,EUR,PRINCIPALES DEL CHEF,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+1,1,MenuItem,Carrillera de ternera estofada al vermouth rojo,Offer,19,EUR,PRINCIPALES DEL CHEF,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+2,2,MenuItem,Secreto de cerdo ibérico a baja temperatura,Offer,16,EUR,PRINCIPALES DEL CHEF,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+3,3,MenuItem,Cachopo asturiano individual,Offer,16,EUR,PRINCIPALES DEL CHEF,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+4,4,MenuItem,Hamburguesa de pollo en tempura (no lleva pan),Offer,14,EUR,PRINCIPALES DEL CHEF,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+5,5,MenuItem,Lomo de bacalao confitado,Offer,16,EUR,PRINCIPALES DEL CHEF,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste
+6,6,MenuItem,Brocheta de rape y langostinos a la plancha,Offer,16,EUR,PRINCIPALES DEL CHEF,None,"""Español""","""Calle Miguel Yuste","""geo"":{""latitude"":40.4350478,""longitude"":-3.62289",Daily - Miguel Yuste

@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mariscada,Offer,40,EUR,Les recomendamos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte
+1,1,MenuItem,Parrillada da marisco,Offer,48,EUR,Les recomendamos,7.7,"""Mediterráneo""","""Calle de Canillas","""geo"":{""latitude"":40.4440184,""longitude"":-3.6703675",Rumbo Norte

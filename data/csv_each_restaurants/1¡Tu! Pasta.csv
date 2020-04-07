@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Spaghetti carbonara,Offer,15.9,EUR,Plato Principal,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+1,1,MenuItem,Spaghetti al cartoccio,Offer,17.9,EUR,Plato Principal,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+2,2,MenuItem,Tagliatelle al nero di seppia alla diavola (con salsa de tomate picante y pulpitos),Offer,19.9,EUR,Plato Principal,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+3,3,MenuItem,"Tagliatelle al nero di sepia con tomatitos cherry, gambas y burrata",Offer,18.9,EUR,Plato Principal,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta
+4,4,MenuItem,"Ravioli rellenos de queso de cabra, cebolla caramelizada y speck con crema de mascarpone",Offer,16.9,EUR,Plato Principal,9,"""Italiano""","""Av","""geo"":{""latitude"":40.4188814,""longitude"":-3.678776",¡Tu! Pasta

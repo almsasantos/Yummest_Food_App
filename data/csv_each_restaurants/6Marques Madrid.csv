@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pastel costa blanca,Offer,5.6,EUR,Postres,7.8,"""Arrocería""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4299242,""longitude"":-3.7190549",Marques Madrid
+1,1,MenuItem,Tartas,Offer,5.6,EUR,Postres,7.8,"""Arrocería""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4299242,""longitude"":-3.7190549",Marques Madrid
+2,2,MenuItem,Flan casero,Offer,4.9,EUR,Postres,7.8,"""Arrocería""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4299242,""longitude"":-3.7190549",Marques Madrid
+3,3,MenuItem,Peras al vino,Offer,4.9,EUR,Postres,7.8,"""Arrocería""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4299242,""longitude"":-3.7190549",Marques Madrid
+4,4,MenuItem,Manzana asada,Offer,5.2,EUR,Postres,7.8,"""Arrocería""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4299242,""longitude"":-3.7190549",Marques Madrid

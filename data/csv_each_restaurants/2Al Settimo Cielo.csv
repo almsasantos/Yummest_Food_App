@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Boscaiola,Offer,13,EUR,Lasagna,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+1,1,MenuItem,Huerto,Offer,12,EUR,Lasagna,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+2,2,MenuItem,Etna,Offer,13,EUR,Lasagna,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo
+3,3,MenuItem,La Classica,Offer,12,EUR,Lasagna,8.5,"""Italiano""","""Calle Humilladero","""geo"":{""latitude"":40.4104966,""longitude"":-3.7102563",Al Settimo Cielo

@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tartar de solomillo de ternera,Offer,17.0,EUR,Nuestras carnes,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+1,1,MenuItem,Magret de pato crujiente,Offer,18.5,EUR,Nuestras carnes,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+2,2,MenuItem,Carrilleras de cerdo,Offer,18.0,EUR,Nuestras carnes,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+3,3,MenuItem,Hamburguesa de Angus con pan briôche,Offer,17.0,EUR,Nuestras carnes,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita
+4,4,MenuItem,Lomo de vaca al grill,Offer,18.0,EUR,Nuestras carnes,8.7,None,"""Calle Corredera Baja de San Pablo","""geo"":{""latitude"":40.4222684,""longitude"":-3.7042704",Clarita

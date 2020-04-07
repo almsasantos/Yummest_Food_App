@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada saludable,Offer,10,EUR,La huerta,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+1,1,MenuItem,Ensalada de parmesano y cherries confitados,Offer,10,EUR,La huerta,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank
+2,2,MenuItem,Ensalada de espinacas a la mostaza,Offer,10,EUR,La huerta,8.9,None,"""C","""geo"":{""latitude"":40.4169,""longitude"":-3.69681",Mr. Frank

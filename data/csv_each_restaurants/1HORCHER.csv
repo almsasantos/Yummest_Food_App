@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caviar (1Gr.),Offer,5,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+1,1,MenuItem,Terrina de foie de oca,Offer,39,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+2,2,MenuItem,Salmón marinado en casa a la rusa,Offer,33,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+3,3,MenuItem,Aguila ahumada con salsa de rábano picante,Offer,38,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+4,4,MenuItem,Arenques a la crema con Kartoffelpuffer,Offer,33,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+5,5,MenuItem,Carpaccio de venado con granos de mostaza e higos picantes,Offer,30,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+6,6,MenuItem,"Carpaccio de carabineros con mango, pepino marinado y vinagreta de lima a la mostaza",Offer,37,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER
+7,7,MenuItem,Tartar de atún con patatas soufflé,Offer,35,EUR,Entradas Frías,9.6,None,"""Calle de Alfonso XII","""geo"":{""latitude"":40.4186957,""longitude"":-3.6890673",HORCHER

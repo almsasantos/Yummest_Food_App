@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,1kg t-bone,Offer,59,EUR,Parrilla de carbón,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+1,1,MenuItem,1/2kg chuletón,Offer,28,EUR,Parrilla de carbón,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+2,2,MenuItem,1kg chuletón,Offer,55,EUR,Parrilla de carbón,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+3,3,MenuItem,Solomillo,Offer,22,EUR,Parrilla de carbón,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+4,4,MenuItem,½ kg picaña,Offer,24,EUR,Parrilla de carbón,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+5,5,MenuItem,½ kg entraña,Offer,21,EUR,Parrilla de carbón,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo

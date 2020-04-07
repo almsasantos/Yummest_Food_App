@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ravioli caseros,Offer,13.0,EUR,Pastas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+1,1,MenuItem,Spaguetti,Offer,11.5,EUR,Pastas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique
+2,2,MenuItem,Wok de pollo,Offer,12.5,EUR,Pastas,9.1,"""Mediterráneo""","""Calle de Padre Damián","""geo"":{""latitude"":40.4574154,""longitude"":-3.6859389",Workshop del Cacique

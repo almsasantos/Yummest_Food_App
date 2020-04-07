@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carne Argentina a la piedra con patatas fritas o ensalada,Offer,14.9,EUR,Plato,8.5,"""Argentino""","""Calle de las Hileras","""geo"":{""latitude"":40.4179208,""longitude"":-3.707618",TSG Steak
+1,1,MenuItem,Pechuga de pollo a la piedra con patatas fritas o ensalada,Offer,13.9,EUR,Plato,8.5,"""Argentino""","""Calle de las Hileras","""geo"":{""latitude"":40.4179208,""longitude"":-3.707618",TSG Steak
+2,2,MenuItem,Fejitas a la piedra,Offer,14.9,EUR,Plato,8.5,"""Argentino""","""Calle de las Hileras","""geo"":{""latitude"":40.4179208,""longitude"":-3.707618",TSG Steak

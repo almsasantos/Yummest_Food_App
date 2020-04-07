@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Anchoas Espectaculares,Offer,20.0,EUR,Entradas para todos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+1,1,MenuItem,"Ensalada de calabacín con trufa, tomatitos cherry, queso parmesano y sus crujientes",Offer,15.5,EUR,Entradas para todos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+2,2,MenuItem,Croquetas de Chipi en su tinta,Offer,11.0,EUR,Entradas para todos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+3,3,MenuItem,Torreznos D.O Soria,Offer,14.0,EUR,Entradas para todos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+4,4,MenuItem,Gambas al Ajillo con pimentón de la Vera picante,Offer,12.1,EUR,Entradas para todos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+5,5,MenuItem,Falafel del Ebla,Offer,7.5,EUR,Entradas para todos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho
+6,6,MenuItem,Alcachofas confitadas y marcadas en la plancha,Offer,10.0,EUR,Entradas para todos,9.3,None,"""Calle Gral","""geo"":{""latitude"":40.4552723,""longitude"":-3.6977002",La Cocina de Gucho

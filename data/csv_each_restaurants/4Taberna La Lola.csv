@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Lomo bajo de vaca, 40 días de maduración con sus guarniciones",Offer,22,EUR,De la granja,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+1,1,MenuItem,Rabo de toro estofado al vino tinto demigado con cama de puré trufado,Offer,18,EUR,De la granja,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+2,2,MenuItem,Roast beef en su propio jugo con patata asada,Offer,17,EUR,De la granja,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola

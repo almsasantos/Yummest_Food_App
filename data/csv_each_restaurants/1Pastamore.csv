@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Maccheroni al Forno,Offer,13.0,EUR,Sugerencia de la Nona,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+1,1,MenuItem,Spaguetti a la carbonara originale,Offer,11.5,EUR,Sugerencia de la Nona,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+2,2,MenuItem,Burrata Trufada,Offer,10.5,EUR,Sugerencia de la Nona,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+3,3,MenuItem,Risottode Funghi,Offer,13.5,EUR,Sugerencia de la Nona,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+4,4,MenuItem,Pizza Plaza Ventas,Offer,13.0,EUR,Sugerencia de la Nona,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore

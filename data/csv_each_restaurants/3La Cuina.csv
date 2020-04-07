@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Butifarra Fresca Con Alioli y Pochas Salteadas,Offer,11.5,EUR,Nuestra Parrilla de Carbón,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina
+1,1,MenuItem,Entrecot de Lomo Bajo de Guadarrama 300 Gramos,Offer,22.5,EUR,Nuestra Parrilla de Carbón,8.5,"""Catalán""","""Calle de Alcalá","""geo"":{""latitude"":40.4404209,""longitude"":-3.6300584",La Cuina

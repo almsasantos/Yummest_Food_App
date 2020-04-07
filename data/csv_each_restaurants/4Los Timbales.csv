@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Parrillada de verduras,Offer,14,EUR,De la Huerta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+1,1,MenuItem,"Alcachofas a la parrilla con sal en escamas, aceite virgen y virutas de ibérico",Offer,14,EUR,De la Huerta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+2,2,MenuItem,Ensalada de Tomate con ventresca de atún y aceitunas,Offer,12,EUR,De la Huerta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+3,3,MenuItem,Ensalada de Burrata con tomtit cherry y albahaca,Offer,12,EUR,De la Huerta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales

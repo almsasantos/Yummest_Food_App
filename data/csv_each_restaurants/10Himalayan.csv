@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Murg Jalfrezi:,Offer,10.75,EUR,Platos Jalfrezi / Jalfrezi Dishes:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+1,1,MenuItem,Gosh Jalfrezi:,Offer,12.95,EUR,Platos Jalfrezi / Jalfrezi Dishes:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan
+2,2,MenuItem,Jhinga Jalfrezi:,Offer,14.25,EUR,Platos Jalfrezi / Jalfrezi Dishes:,9.2,"""Indio""","""Calle Raquel Meller","""geo"":{""latitude"":40.4326469,""longitude"":-3.6579415",Himalayan

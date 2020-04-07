@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Marmita de pescadores,Offer,13.75,EUR,Los más tradicionales,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+1,1,MenuItem,Sesitos de cordero lechal a la Romana con patata hilada,Offer,14.5,EUR,Los más tradicionales,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+2,2,MenuItem,Mollejitas de cordero con ajos tiernos al Oloroso,Offer,18.0,EUR,Los más tradicionales,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+3,3,MenuItem,Callos con mucho morro,Offer,18.0,EUR,Los más tradicionales,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara
+4,4,MenuItem,Panes artesanos y aperitivo,Offer,2.5,EUR,Los más tradicionales,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.428623658313,""longitude"":-3.673779964447",El Barril de Alcántara

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+2,2,MenuItem,Café,Offer,1.5,EUR,Bebidas,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+3,3,MenuItem,Botella de agua,Offer,2.2,EUR,Bebidas,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+4,4,MenuItem,Media botella de agua,Offer,1.5,EUR,Bebidas,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,8.6,"""Libanés""","""Calle Ulpiana Benito","""geo"":{""latitude"":40.4646811,""longitude"":-3.6929708",Safir

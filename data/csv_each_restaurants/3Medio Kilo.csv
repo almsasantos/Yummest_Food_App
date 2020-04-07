@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cheesecake,Offer,7,EUR,Dulce tentación,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+1,1,MenuItem,Tarta de chocolate con helado de dulce de leche,Offer,7,EUR,Dulce tentación,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+2,2,MenuItem,Tiramisú,Offer,7,EUR,Dulce tentación,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo
+3,3,MenuItem,Apple crumble con helado de manzana asada,Offer,7,EUR,Dulce tentación,None,None,"""Calle de Ventura de la Vega","""geo"":{""latitude"":40.4159995,""longitude"":-3.6988173",Medio Kilo

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sencilla,Offer,10.0,EUR,Hamburgesas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+1,1,MenuItem,Murano,Offer,9.5,EUR,Hamburgesas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar
+2,2,MenuItem,Italiana,Offer,9.0,EUR,Hamburgesas,8.8,None,"""Calle Ferraz","""geo"":{""latitude"":40.427712,""longitude"":-3.718541",Murano Restobar

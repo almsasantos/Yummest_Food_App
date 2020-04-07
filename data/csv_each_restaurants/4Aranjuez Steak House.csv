@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pixín de rape a la Bilbaína,Offer,23.5,EUR,Nuestros Pescados,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+1,1,MenuItem,Lomo de bacalao a la brasa,Offer,26.0,EUR,Nuestros Pescados,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+2,2,MenuItem,Merluza de pincho al gusto,Offer,25.5,EUR,Nuestros Pescados,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+3,3,MenuItem,Pulpo a la Gallega con cachelos,Offer,21.5,EUR,Nuestros Pescados,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House
+4,4,MenuItem,Pulpo a la brasa,Offer,21.5,EUR,Nuestros Pescados,9,"""Español""","""Calle del Poeta Joan Maragall","""geo"":{""latitude"":40.4570912,""longitude"":-3.6923873",Aranjuez Steak House

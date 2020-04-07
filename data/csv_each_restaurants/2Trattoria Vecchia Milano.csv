@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Fornaio (panettone horneado con licor de naranja, helado de vanilla y chocolate caliente)",Postre,9,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4297203,""longitude"":-3.71862",Trattoria Vecchia Milano
+1,1,MenuItem,Cafe o infusion,Postre,9,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4297203,""longitude"":-3.71862",Trattoria Vecchia Milano
+2,2,MenuItem,Licor de la casa,Postre,9,"""Italiano""","""Calle del Marqués de Urquijo","""geo"":{""latitude"":40.4297203,""longitude"":-3.71862",Trattoria Vecchia Milano

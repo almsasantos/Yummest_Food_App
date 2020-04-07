@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Alcachofas de tudela (en flor) en temporada,Offer,12.95,EUR,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+1,1,MenuItem,Burrata sobre tarta de tomate con vinagre de trufa y miel,Offer,14.5,EUR,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+2,2,MenuItem,Raviolis de calabacin rellenos de Velouté de langostinos,Offer,12.9,EUR,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+3,3,MenuItem,Ensalada de burrata sobre tartar de tomate y vinagreta de trufa y miel,,,,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+4,4,MenuItem,Fuente de Verdura a la plancha con arbequina y flor de oliva,,,,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+5,5,MenuItem,"Pimientos Asados en Horno de Leña, con ventresca de bonito",,,,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+6,6,MenuItem,Ensalada de Perdiz de campo con vinagreta de citricos,,,,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio
+7,7,MenuItem,Tomate bella rosa con bonito del norte en aceite de oliva,,,,Ensaladas y verduras,9.1,"""Español""","""Calle poeta joan maragall 51","""geo"":{""latitude"":40.4633811,""longitude"":-3.6924545",Labbraccio

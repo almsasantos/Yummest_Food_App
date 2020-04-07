@@ -1,0 +1,16 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jamón Ibérico,Offer,22.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+1,1,MenuItem,Queso Curado/Semicurado con mermelada y membrillo,Offer,18.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+2,2,MenuItem,"Especial Timbales: Selección Ibérica de lomo, jamón, queso, salchichón y chorizo",Offer,24.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+3,3,MenuItem,Gambas al ajillo,Offer,15.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+4,4,MenuItem,Pulpo a la Gallega,Offer,20.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+5,5,MenuItem,Callos a la Madrileña,Offer,10.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+6,6,MenuItem,Huevos Rotos con Ibérico y patatas fritas,Offer,12.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+7,7,MenuItem,Calamares a la Andaluza,Offer,12.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+8,8,MenuItem,Ensaladilla Rusa,Offer,10.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+9,9,MenuItem,Surtido de Croquetas (6 unidades),Offer,12.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+10,10,MenuItem,Ensaladilla de Gambas,Offer,10.5,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+11,11,MenuItem,Mollejas,Offer,15.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+12,12,MenuItem,Gambones a la plancha,Offer,18.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+13,13,MenuItem,Oreja,Offer,7.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+14,14,MenuItem,Fritura de Pescado,Offer,18.0,EUR,Raciones de la Tradición,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales

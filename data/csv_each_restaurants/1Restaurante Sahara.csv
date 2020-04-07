@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carne picada con calabaza,Offer,11.25,EUR,Plato,9,"""Libanés""","""Calle de Estrellita Castro","""geo"":{""latitude"":40.3945608,""longitude"":-3.6244565",Restaurante Sahara
+1,1,MenuItem,Filete de pollo con especias,Offer,11.25,EUR,Plato,9,"""Libanés""","""Calle de Estrellita Castro","""geo"":{""latitude"":40.3945608,""longitude"":-3.6244565",Restaurante Sahara
+2,2,MenuItem,Carne de ternera con arroz,Offer,10.75,EUR,Plato,9,"""Libanés""","""Calle de Estrellita Castro","""geo"":{""latitude"":40.3945608,""longitude"":-3.6244565",Restaurante Sahara

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pollo al Ajillo,Offer,9.5,EUR,De los Valles y Montañas de Asturias,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+1,1,MenuItem,Fabada Asturiana,Offer,13.0,EUR,De los Valles y Montañas de Asturias,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+2,2,MenuItem,Pollo Asado a la Asturiana,Offer,12.0,EUR,De los Valles y Montañas de Asturias,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+3,3,MenuItem,Taquitos de Ternera,Offer,12.4,EUR,De los Valles y Montañas de Asturias,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+4,4,MenuItem,Jarrete de Jamón Confitado,Offer,13.9,EUR,De los Valles y Montañas de Asturias,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+5,5,MenuItem,Carrillera de Ternera,Offer,14.0,EUR,De los Valles y Montañas de Asturias,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia
+6,6,MenuItem,Cachopo de Ternera XXL,Offer,20.0,EUR,De los Valles y Montañas de Asturias,8.4,"""Asturiano""","""Calle de San Millán","""geo"":{""latitude"":40.4113543,""longitude"":-3.707739",La Bobia

@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomos de sardinas anchoadas o ahumadas sobre cama de gelatina de tomate,Offer,16.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+1,1,MenuItem,Vieiras salteadas con verduritas,Offer,14.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+2,2,MenuItem,"Ensalada de tomate con ventresca, yemas de esparragos y encurtidos",Offer,12.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+3,3,MenuItem,Filloas de carabineros con cebolla caramelizada,Offer,11.5,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+4,4,MenuItem,Braviolis 2.0,Offer,9.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+5,5,MenuItem,Filloas de verduras y langostinos,Offer,10.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+6,6,MenuItem,Patatas puente nuevo al cabrales,Offer,8.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+7,7,MenuItem,"Plato de setas de temporada al gusto (al ajo, jamón, foie)",Offer,15.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+8,8,MenuItem,"Croquetas (Txangurro, jamón, gambas)",Offer,11.5,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+9,9,MenuItem,Revuelto de papas y foie,Offer,12.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño
+10,10,MenuItem,Verdinas con kokochas de bacalao,Offer,14.0,EUR,Entradas,9.1,"""Gallego""","""C","""geo"":{""latitude"":40.426416732134,""longitude"":-3.6043701171875",O Camiño

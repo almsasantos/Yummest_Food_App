@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Crema catalana,Offer,5.5,EUR,Postre,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco
+1,1,MenuItem,Panqueque con dulce de leche,Offer,5.9,EUR,Postre,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco
+2,2,MenuItem,Goxua,Offer,5.5,EUR,Postre,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco
+3,3,MenuItem,Cake de Maracuya,Offer,5.9,EUR,Postre,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco

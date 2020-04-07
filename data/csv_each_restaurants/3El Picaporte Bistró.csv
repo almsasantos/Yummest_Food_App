@@ -1,0 +1,13 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ENSALADILLA RUSA CON VENTRESCA DE BONITO (1 PLATO),Offer,14,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+1,1,MenuItem,ENSALADILLA RUSA CON VENTRESCA DE BONITO (1/2 PLATO),Offer,8,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+2,2,MenuItem,CROQUETAS CREMOSAS (1 PLATO),Offer,14,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+3,3,MenuItem,CROQUETAS CREMOSAS (1/2 PLATO),Offer,8,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+4,4,MenuItem,TORTILLA ESPAÑOLA,Offer,10,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+5,5,MenuItem,TORTILLA ESPAÑOLA CON TARTUFATA,Offer,12,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+6,6,MenuItem,MILHOJA DE BERENJENA,Offer,16,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+7,7,MenuItem,ALCACHOFAS CONFITADAS (1 PLATO),Offer,16,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+8,8,MenuItem,ALCACHOFAS CONFITADAS (1/2 PLATO),Offer,10,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+9,9,MenuItem,ESPÁRRAGOS BLANCOS CONFITADOS,Offer,16,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+10,10,MenuItem,FOIE MI CUT,Offer,19,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró
+11,11,MenuItem,SARTÉN DE HUEVOS ROTOS CON JAMÓN Y TRUFA,Offer,16,EUR,MAS COSITAS RICAS,9.2,"""Mediterráneo""","""Calle de García de Paredes","""geo"":{""latitude"":40.4367235,""longitude"":-3.6941809",El Picaporte Bistró

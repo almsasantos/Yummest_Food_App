@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pluma ibérica con chutney de manzana y patatitas al romero,Offer,15.0,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+1,1,MenuItem,Tacos de cochinita pibil y mayonesa de chipotle,Offer,10.0,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+2,2,MenuItem,Brochetas de pollo teriyaki con arroz,Offer,11.0,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+3,3,MenuItem,Solomillo de vaca (220gr) con puré de patata ratté y tirabeques,Offer,22.0,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+4,4,MenuItem,"Nuestra hamburguesa (180 grs) con su guarnición, ketchup customizado y mayonesa trufada",Offer,13.0,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+5,5,MenuItem,Magret de pato asado con manzana y reducción de frutos rojos,Offer,19.0,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+6,6,MenuItem,Sándwich Steak Soho con patatas deluxe,Offer,12.5,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club
+7,7,MenuItem,Tuétano braseado con yakiniku y su guarnicion,Offer,12.5,EUR,NUESTRAS CARNES,8.5,None,"""Pza de España","""geo"":{""latitude"":40.4225444,""longitude"":-3.71202",Cambridge Soho Club

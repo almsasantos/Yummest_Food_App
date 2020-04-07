@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nórdica,Offer,8,EUR,Tostas XXL,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+1,1,MenuItem,Bávara,Offer,8,EUR,Tostas XXL,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+2,2,MenuItem,Ibérica,Offer,9,EUR,Tostas XXL,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar
+3,3,MenuItem,Provenzal,Offer,7,EUR,Tostas XXL,8.3,"""Mediterráneo""","""Calle Capitán Salazar Martínez","""geo"":{""latitude"":40.4075551,""longitude"":-3.7098986",El Vodevil Gastrobar

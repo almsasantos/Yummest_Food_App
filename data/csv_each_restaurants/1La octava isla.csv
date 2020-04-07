@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arepa la rumba,Offer,4.6,EUR,Plato,9.3,"""Venezolano""","""Calle de Velázquez","""geo"":{""latitude"":40.432906,""longitude"":-3.6834876",La octava isla
+1,1,MenuItem,Arepa pabellon,Offer,5.9,EUR,Plato,9.3,"""Venezolano""","""Calle de Velázquez","""geo"":{""latitude"":40.432906,""longitude"":-3.6834876",La octava isla
+2,2,MenuItem,Arepa pernil,Offer,5.5,EUR,Plato,9.3,"""Venezolano""","""Calle de Velázquez","""geo"":{""latitude"":40.432906,""longitude"":-3.6834876",La octava isla

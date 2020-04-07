@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Steak-tartar (a cuchillo),Offer,16,EUR,Carne y Pescado,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+1,1,MenuItem,Entrecotte trinchado,Offer,16,EUR,Carne y Pescado,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+2,2,MenuItem,Pulpo a la plancha con hummus,Offer,15,EUR,Carne y Pescado,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar
+3,3,MenuItem,Tartar de salmón y aguacate,Offer,14,EUR,Carne y Pescado,8.9,"""Italiano""","""Calle de Don Ramón de la Cruz","""geo"":{""latitude"":40.4288612,""longitude"":-3.6757583",De la Cruz Pasta & Pizza Bar

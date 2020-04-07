@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Atún de almadraba, sésamos, wakame y salsa yakiniku",Offer,28,EUR,Pescados,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+1,1,MenuItem,"Corvina, puré de chalota asada y ligero gazpacho de vainas",Offer,26,EUR,Pescados,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+2,2,MenuItem,"Sardinas con su toque de humo, falso risotto de orzo atomatado y pesto ligero",Offer,22,EUR,Pescados,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+3,3,MenuItem,"Vieiras, frutos secos, setitas salteadas y sopa de coco y cilantro",Offer,25,EUR,Pescados,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel
+4,4,MenuItem,"Bacalao, espinacas baby, piquillo y alioli de ajo negro",Offer,27,EUR,Pescados,9,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.437529,""longitude"":-3.69137",El Jardín del Miguel Angel

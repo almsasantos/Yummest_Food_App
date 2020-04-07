@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,5,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+1,1,MenuItem,Salmón,Offer,4,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+2,2,MenuItem,Pez escolar y trufa,Offer,5,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+3,3,MenuItem,Lubina,Offer,4,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+4,4,MenuItem,Langostino,Offer,4,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+5,5,MenuItem,Atún flambeado,Offer,5,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+6,6,MenuItem,Salmón flambeado,Offer,5,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer
+7,7,MenuItem,Pulpo especial,Offer,5,EUR,Nigiri - 2 piezas,None,"""Japonés""","""Plaza Daoiz y Velarde","""geo"":{""latitude"":40.4020666,""longitude"":-3.6784811",Sushi and Beer

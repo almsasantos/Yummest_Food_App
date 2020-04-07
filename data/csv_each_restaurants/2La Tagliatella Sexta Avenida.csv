@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bocconcino,Offer,5.8,EUR,Postre,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+1,1,MenuItem,Budino bianco,Offer,5.7,EUR,Postre,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida
+2,2,MenuItem,Trufas al Cioccolato,Offer,5.6,EUR,Postre,8.4,"""Italiano""","""Avenida de la Victoria","""geo"":{""latitude"":40.467587202624,""longitude"":-3.8164899349213",La Tagliatella Sexta Avenida

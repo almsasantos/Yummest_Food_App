@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmón en papillote al horno con verduras y patatas,Offer,17,EUR,Del mar,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+1,1,MenuItem,Tartar de salmón con nueces y aguacate con crema de eneldo y pan cristal,Offer,16,EUR,Del mar,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola

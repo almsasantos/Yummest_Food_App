@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Erizos de mar con su caviar y huevos de codorniz. Unidad.,Offer,9.0,EUR,Huevos con fundamento,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+1,1,MenuItem,Huevos de corral crujientes trufados Ud.,Offer,9.5,EUR,Huevos con fundamento,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+2,2,MenuItem,Chanquetes con huevos camperos y asadillo de pimientos,Offer,18.0,EUR,Huevos con fundamento,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+3,3,MenuItem,Tortilla de merluza de pincho y puerros confitados,Offer,16.0,EUR,Huevos con fundamento,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles
+4,4,MenuItem,Tortilla de patatas y bacalao,Offer,16.0,EUR,Huevos con fundamento,9.1,"""Marisquería""","""C","""geo"":{""latitude"":40.438745552336,""longitude"":-3.7141098976135",El Barril de Argüelles

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,32.0,EUR,Bebidas,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+1,1,MenuItem,Copa de champán,Offer,7.0,EUR,Bebidas,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+2,2,MenuItem,Café,Offer,1.8,EUR,Bebidas,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+3,3,MenuItem,Botella de agua,Offer,3.2,EUR,Bebidas,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+5,5,MenuItem,Botella de vino,Offer,14.0,EUR,Bebidas,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,8.2,"""Asturiano""","""Calle Serrano","""geo"":{""latitude"":40.4289468,""longitude"":-3.6875354",CHIGRE

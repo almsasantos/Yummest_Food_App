@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Milanesa con patatas fritas,Offer,11.0,EUR,De cocina,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+1,1,MenuItem,Milanesa a la napolitana con patatas fritas,Offer,14.0,EUR,De cocina,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+2,2,MenuItem,Steak tartar,Offer,16.0,EUR,De cocina,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+3,3,MenuItem,Rabo de toro al vino tinto,Offer,17.0,EUR,De cocina,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+4,4,MenuItem,Merluza en salsa verde con almejas y langostinos,Offer,18.0,EUR,De cocina,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+5,5,MenuItem,Salmón a las brasas con salsa teriyaki y verduritas finas al wok,Offer,18.0,EUR,De cocina,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+6,6,MenuItem,Patatas fritas,Offer,2.5,EUR,De cocina,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita

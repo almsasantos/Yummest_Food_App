@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Gambas a la plancha (rosca),Offer,21.6,EUR,Entrante,8.5,"""Mediterráneo""","""C","""geo"":{""latitude"":40.43615860389,""longitude"":-3.6719698905944824",Luis I
+1,1,MenuItem,Chopitos,Offer,10.59,EUR,Entrante,8.5,"""Mediterráneo""","""C","""geo"":{""latitude"":40.43615860389,""longitude"":-3.6719698905944824",Luis I
+2,2,MenuItem,Pulpo,Offer,17.82,EUR,Entrante,8.5,"""Mediterráneo""","""C","""geo"":{""latitude"":40.43615860389,""longitude"":-3.6719698905944824",Luis I

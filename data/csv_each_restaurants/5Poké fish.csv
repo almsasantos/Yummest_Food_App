@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+1,1,MenuItem,Copa de champán,,,,Bebidas,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+2,2,MenuItem,Café,Offer,1.8,EUR,Bebidas,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+3,3,MenuItem,Botella de agua,Offer,1.5,EUR,Bebidas,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+5,5,MenuItem,Botella de vino,,,,Bebidas,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+6,6,MenuItem,Copa de vino,,,,Bebidas,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish

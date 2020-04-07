@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,California de mayonesa con tempura de langostinos (4 Ud.),Offer,4.4,EUR,Plato,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+1,1,MenuItem,Teriyaki de Pollo,Offer,6.6,EUR,Plato,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store
+2,2,MenuItem,"Nigiri de salmón y mayonesa picante, todo flameado",Offer,4.4,EUR,Plato,8.3,"""Japonés""","""Gran Vía","""geo"":{""latitude"":40.419182733548,""longitude"":-3.6977601051331",Sushi Store

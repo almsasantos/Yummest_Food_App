@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,45.0,EUR,Bebidas,9.5,"""Vegetariano""","""Calle Gran Vía","""geo"":{""latitude"":40.4194705,""longitude"":-3.6990859",BLoved Veggie Corner
+1,1,MenuItem,Copa de champán,Offer,6.0,EUR,Bebidas,9.5,"""Vegetariano""","""Calle Gran Vía","""geo"":{""latitude"":40.4194705,""longitude"":-3.6990859",BLoved Veggie Corner
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,9.5,"""Vegetariano""","""Calle Gran Vía","""geo"":{""latitude"":40.4194705,""longitude"":-3.6990859",BLoved Veggie Corner
+3,3,MenuItem,Botella de agua,Offer,2.0,EUR,Bebidas,9.5,"""Vegetariano""","""Calle Gran Vía","""geo"":{""latitude"":40.4194705,""longitude"":-3.6990859",BLoved Veggie Corner
+4,4,MenuItem,Media botella de agua,Offer,2.3,EUR,Bebidas,9.5,"""Vegetariano""","""Calle Gran Vía","""geo"":{""latitude"":40.4194705,""longitude"":-3.6990859",BLoved Veggie Corner
+5,5,MenuItem,Botella de vino,Offer,21.0,EUR,Bebidas,9.5,"""Vegetariano""","""Calle Gran Vía","""geo"":{""latitude"":40.4194705,""longitude"":-3.6990859",BLoved Veggie Corner
+6,6,MenuItem,Copa de vino,Offer,5.0,EUR,Bebidas,9.5,"""Vegetariano""","""Calle Gran Vía","""geo"":{""latitude"":40.4194705,""longitude"":-3.6990859",BLoved Veggie Corner

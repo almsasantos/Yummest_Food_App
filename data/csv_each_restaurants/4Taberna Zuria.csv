@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao a la Brasa con Patatas a la Sartén,Offer,21.0,EUR,…Zuria y el Mar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+1,1,MenuItem,Lomitos de Merluza Frita con Piquillos Confitados,Offer,21.0,EUR,…Zuria y el Mar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+2,2,MenuItem,Lomo de Merluza a la Plancha a Nuestro Estilo,Offer,21.0,EUR,…Zuria y el Mar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+3,3,MenuItem,Rabas de Calamar Fritas en Sartén,Offer,16.0,EUR,…Zuria y el Mar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+4,4,MenuItem,Pulpo Asado con Cremoso de Patata y Lágrima de Pimentón,Offer,20.0,EUR,…Zuria y el Mar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+5,5,MenuItem,Txipironcitos Encebollados,Offer,16.0,EUR,…Zuria y el Mar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria
+6,6,MenuItem,Txangurro a la Donostiarra,Offer,16.5,EUR,…Zuria y el Mar,9,"""Gastronómico""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474898,""longitude"":-3.6984255",Taberna Zuria

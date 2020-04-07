@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Wok de verduras con salsa tamari y arroz basmati integral,Offer,8.5,EUR,Principales,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+1,1,MenuItem,Risotto de hongos con tomate seco y rúcula de la zona,Offer,11.9,EUR,Principales,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+2,2,MenuItem,"Albóndigas de seitan con avena, salsa thai sobre espaguetis de calabacín y hummus de wasabi",Offer,9.9,EUR,Principales,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+3,3,MenuItem,"Wantón de boletus con queso, sobre ajo blanco de coco y mermelada de tomate",Offer,9.9,EUR,Principales,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+4,4,MenuItem,Raviolis de pera con ricota sobre pesto de almendra y crumble de frutos secos,Offer,11.9,EUR,Principales,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+5,5,MenuItem,"Tempeh marinado sobre crema de garbanzos con hinojo, champiñones salteados y caramelo de pimentón",Offer,10.5,EUR,Principales,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+6,6,MenuItem,Salteado de tofu a la jardinera sobre crema ligera de polenta,Offer,10.6,EUR,Principales,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro

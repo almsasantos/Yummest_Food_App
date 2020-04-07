@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Atún,Offer,7.0,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+1,1,MenuItem,Salmón,Offer,5.0,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+2,2,MenuItem,Pepino,Offer,4.25,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+3,3,MenuItem,Toro (ventresca de atún),Offer,8.5,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+4,4,MenuItem,Calabaza Cocida,Offer,5.0,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+5,5,MenuItem,Daikon (nabo japonés encurtido),Offer,5.0,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+6,6,MenuItem,Natto (pasta de soja fermentada),Offer,5.5,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana
+7,7,MenuItem,Negitoro (ventresca de atún & cebollino),Offer,8.8,EUR,Maki (rollo cortado en 6 piezas),9.6,"""Japonés""","""Paseo de la Castellana","""geo"":{""latitude"":40.4357019,""longitude"":-3.6896704",Miyama Castellana

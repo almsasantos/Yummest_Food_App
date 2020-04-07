@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Combo Pantín,Offer,13.5,EUR,Entrantes,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+1,1,MenuItem,Tequeños,Offer,7.9,EUR,Entrantes,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+2,2,MenuItem,Aros de cebolla,Offer,7.5,EUR,Entrantes,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+3,3,MenuItem,Nachos Pantin,Offer,13.5,EUR,Entrantes,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+4,4,MenuItem,Tenders de Pollo,Offer,9.5,EUR,Entrantes,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill
+5,5,MenuItem,Bacon Cheese Fries Pantín,Offer,10.5,EUR,Entrantes,9.2,"""Americano""","""Calle Echegaray","""geo"":{""latitude"":40.4156313,""longitude"":-3.6996571",Pantín Grill

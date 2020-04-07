@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lomo de vaca con patata trufada,Offer,21.5,EUR,Plato,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit
+1,1,MenuItem,Roast Beef al estilo inglés con puré,Offer,17.5,EUR,Plato,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit
+2,2,MenuItem,Gran hamburguesa Le Petit,Offer,16.5,EUR,Plato,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit
+3,3,MenuItem,Milanesa de ternera con ensalada,Offer,16.5,EUR,Plato,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit

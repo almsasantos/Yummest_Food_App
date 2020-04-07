@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada mixta completa,Offer,6,EUR,¿Pedimos una ensalada?,7.9,"""Asturiano""","""Costanilla de los Ángeles","""geo"":{""latitude"":40.4186687,""longitude"":-3.708222",Taberna Los Angeles
+1,1,MenuItem,Ensalada de cogollos,Offer,12,EUR,¿Pedimos una ensalada?,7.9,"""Asturiano""","""Costanilla de los Ángeles","""geo"":{""latitude"":40.4186687,""longitude"":-3.708222",Taberna Los Angeles

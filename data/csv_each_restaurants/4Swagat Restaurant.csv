@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,30.0,EUR,Bebidas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+2,2,MenuItem,Café,Offer,2.5,EUR,Bebidas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+3,3,MenuItem,Botella de agua,Offer,3.95,EUR,Bebidas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+4,4,MenuItem,Media botella de agua,Offer,2.5,EUR,Bebidas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+5,5,MenuItem,Botella de vino,Offer,15.0,EUR,Bebidas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant

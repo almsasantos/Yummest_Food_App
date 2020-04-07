@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Salmorejo cordobés,Offer,6.0,EUR,Entrante,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+1,1,MenuItem,Chopitos,Offer,9.0,EUR,Entrante,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+2,2,MenuItem,Habitas baby,Offer,12.0,EUR,Entrante,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+3,3,MenuItem,Ensaladilla rusa,Offer,6.0,EUR,Entrante,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+4,4,MenuItem,Pimientos del Padrón,Offer,6.0,EUR,Entrante,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito
+5,5,MenuItem,Croquetas de rabo de toro,Offer,8.6,EUR,Entrante,9.1,"""Español""","""Calle de Cartagena","""geo"":{""latitude"":40.4328259,""longitude"":-3.670196",Taberna el Torito

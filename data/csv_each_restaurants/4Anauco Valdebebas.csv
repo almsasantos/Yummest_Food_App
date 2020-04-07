@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Caraqueña,Offer,12.2,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+1,1,MenuItem,Anauco,Offer,11.5,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+2,2,MenuItem,007,Offer,12.2,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+3,3,MenuItem,Bacon Cheese,Offer,11.5,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+4,4,MenuItem,Tentación,Offer,11.9,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+5,5,MenuItem,Bomba,Offer,11.5,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+6,6,MenuItem,Champion,Offer,11.9,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas
+7,7,MenuItem,Cheese Burgerr,Offer,8.9,EUR,Burger Shop,8.9,"""Americano""","""Calle de Josefina Aldecoa","""geo"":{""latitude"":40.49439,""longitude"":-3.6147116",Anauco Valdebebas

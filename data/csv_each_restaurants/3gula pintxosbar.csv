@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,16.5,EUR,Bebidas,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+2,2,MenuItem,Café,Offer,1.8,EUR,Bebidas,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+3,3,MenuItem,Botella de agua,Offer,3.0,EUR,Bebidas,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+5,5,MenuItem,Botella de vino,Offer,12.0,EUR,Bebidas,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar
+6,6,MenuItem,Copa de vino,Offer,2.3,EUR,Bebidas,8.7,None,"""Calle Sirio","""geo"":{""latitude"":40.4100125,""longitude"":-3.6649744",gula pintxosbar

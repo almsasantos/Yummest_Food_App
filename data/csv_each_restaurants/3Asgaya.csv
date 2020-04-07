@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paletilla de cordero deshuesada y confiotada a baja temperatura,Offer,24,EUR,De la montaña y las granjas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+1,1,MenuItem,Solomillo de vaca con salsa de foie y oloroso,Offer,25,EUR,De la montaña y las granjas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+2,2,MenuItem,Cachopo de solomillo,Offer,26,EUR,De la montaña y las granjas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+3,3,MenuItem,Presa ibérica con crema de boniato y guiso de setas,Offer,22,EUR,De la montaña y las granjas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+4,4,MenuItem,Pitu de caleya tradicional con patatas torneadas,Offer,21,EUR,De la montaña y las granjas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+5,5,MenuItem,"Chuleton de vaca madurado, con pimientos del padron y patatas (2 personas)",Offer,50,EUR,De la montaña y las granjas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya
+6,6,MenuItem,Nuestro clásico steak tartar,Offer,24,EUR,De la montaña y las granjas,9.2,"""Asturiano""","""C","""geo"":{""latitude"":40.462412524026,""longitude"":-3.6875998973846",Asgaya

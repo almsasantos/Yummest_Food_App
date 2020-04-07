@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada templada (jamon,salmon,salteado de setas,pimientos piquillo)",Offer,11.5,EUR,Entrante,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+1,1,MenuItem,Provolone con fondo de pisto y salsa de albahaca,Offer,10.5,EUR,Entrante,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+2,2,MenuItem,Chipirones a la plancha con cebolla caramelizada,Offer,13.5,EUR,Entrante,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+3,3,MenuItem,croquetas caseras de langostino rebozadas con pan panko,Offer,12.0,EUR,Entrante,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel
+4,4,MenuItem,tacos de carne roja al ajillo con balsamico,Offer,14.0,EUR,Entrante,9.5,"""Español""","""C","""geo"":{""latitude"":40.372193641353,""longitude"":-3.6177499294281",El Mantel

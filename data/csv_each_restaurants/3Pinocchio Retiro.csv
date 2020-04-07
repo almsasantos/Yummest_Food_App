@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella Mixta (mínimo 2 Pers. y 30 minutos),Offer,26,EUR,Paellas & Arroces,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+1,1,MenuItem,Paella de Marisco (mínimo 2 Pers. y 30 minutos),Offer,30,EUR,Paellas & Arroces,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+2,2,MenuItem,"Arroz con Bogavante ( Caldoso, Meloso o en Paella) (mínimo 2 Pers. y 30 minutos)",Offer,38,EUR,Paellas & Arroces,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+3,3,MenuItem,Paella Señoret (mínimo 2 Pers. y 30 minutos),Offer,30,EUR,Paellas & Arroces,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro
+4,4,MenuItem,Paella de Carabineros (mínimo 2 Pers. y 30 minutos),Offer,48,EUR,Paellas & Arroces,8,"""Italiano""","""Plaza Dr","""geo"":{""latitude"":40.4157005,""longitude"":-3.6717401",Pinocchio Retiro

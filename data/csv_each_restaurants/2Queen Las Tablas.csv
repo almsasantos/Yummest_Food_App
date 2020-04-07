@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesa clásica - Aguja de Wagyu,Offer,15.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+1,1,MenuItem,Hamburguesa Francesa - Ternera,Offer,12.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+2,2,MenuItem,Hamburguesa tribeca - Vaca madurada,Offer,15.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+3,3,MenuItem,Hamburguesa Chic - Aguja de Wagyu,Offer,17.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+4,4,MenuItem,Hamburguesa Cádiz,Offer,12.0,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+5,5,MenuItem,Hamburguesa Mexicana - Ternera,Offer,9.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+6,6,MenuItem,Hamburguesa Trufada - Ternera,Offer,9.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+7,7,MenuItem,Hamburguesa del norte - Ternera,Offer,12.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+8,8,MenuItem,Hamburguesa Manhattan - Ternera,Offer,9.9,EUR,Hamburguesas gourmet,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas

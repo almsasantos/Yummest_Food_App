@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Costilla de ternera Avileña asada,Offer,23.5,EUR,Del campo ...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+1,1,MenuItem,Pechuga de pato barberie,Offer,24.0,EUR,Del campo ...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+2,2,MenuItem,Mollejitas de cordero lechal,Offer,24.0,EUR,Del campo ...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+3,3,MenuItem,Cochinillo D.O Segovia deshuesado,Offer,25.5,EUR,Del campo ...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid
+4,4,MenuItem,Lomo de vaca gallega,Offer,25.75,EUR,Del campo ...,8.6,"""Gastronómico""","""C","""geo"":{""latitude"":40.4165448,""longitude"":-3.6957438",Paradis Madrid

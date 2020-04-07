@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,35,EUR,Bebidas,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+1,1,MenuItem,Copa de champán,Offer,5,EUR,Bebidas,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+2,2,MenuItem,Café,Offer,2,EUR,Bebidas,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+3,3,MenuItem,Botella de agua,Offer,3,EUR,Bebidas,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+4,4,MenuItem,Media botella de agua,Offer,2,EUR,Bebidas,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+5,5,MenuItem,Botella de vino,Offer,13,EUR,Bebidas,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe
+6,6,MenuItem,Copa de vino,Offer,4,EUR,Bebidas,9.2,"""Español""","""Calle Serrano","""geo"":{""latitude"":40.4323104,""longitude"":-3.6872047",Larumbe

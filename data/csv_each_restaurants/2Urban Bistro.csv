@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rodaballo sobre caldeirada cítrica y verduras,Offer,15.5,EUR,Sugerencias del chef,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+1,1,MenuItem,Bacalao confitado con piperrada,Offer,14.0,EUR,Sugerencias del chef,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+2,2,MenuItem,Entrecot de vaca madurada con patatas confitadas al romero,Offer,18.0,EUR,Sugerencias del chef,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+3,3,MenuItem,Brocheta de pollo marinado con tabulé,Offer,11.0,EUR,Sugerencias del chef,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+4,4,MenuItem,"Sorrentinos de ibérico, chalota y rebozuelos con bechamel trufada",Offer,11.0,EUR,Sugerencias del chef,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+5,5,MenuItem,Hamburguesa de wagyu con cebolla a la mostaza y pan brioche,Offer,12.0,EUR,Sugerencias del chef,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro

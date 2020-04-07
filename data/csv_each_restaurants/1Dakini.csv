@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chpirones encebollados,Offer,12.0,EUR,Plato,9.2,"""Español""","""Calle de Julian Camarillo","""geo"":{""latitude"":40.4357878,""longitude"":-3.6243825",Dakini
+1,1,MenuItem,Risotto de verduras,Offer,12.5,EUR,Plato,9.2,"""Español""","""Calle de Julian Camarillo","""geo"":{""latitude"":40.4357878,""longitude"":-3.6243825",Dakini
+2,2,MenuItem,"Socarrat (Gambón,arroz quemado y mucho sabor)",Offer,16.5,EUR,Plato,9.2,"""Español""","""Calle de Julian Camarillo","""geo"":{""latitude"":40.4357878,""longitude"":-3.6243825",Dakini

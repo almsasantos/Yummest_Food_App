@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada César,Offer,10.7,EUR,Para Botanear,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+1,1,MenuItem,Guacamole,Offer,8.0,EUR,Para Botanear,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+2,2,MenuItem,Nachos con guacamole,Offer,12.0,EUR,Para Botanear,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+3,3,MenuItem,Quesadillas otomi,Offer,3.9,EUR,Para Botanear,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+4,4,MenuItem,Hurachitos (2ud),Offer,6.0,EUR,Para Botanear,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+5,5,MenuItem,Tostada,Offer,3.5,EUR,Para Botanear,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana
+6,6,MenuItem,Cóctel de camarón,Offer,9.7,EUR,Para Botanear,9.1,"""Mexicano""","""Calle de las Navas de Tolosa","""geo"":{""latitude"":40.4191223,""longitude"":-3.7069769",La Chamana

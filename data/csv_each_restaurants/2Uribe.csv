@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de queso,Offer,5,EUR,Postre,9.2,"""Español""","""Calle de Torquemada","""geo"":{""latitude"":40.4659582,""longitude"":-3.6394471",Uribe
+1,1,MenuItem,Tarta de chocolate,Offer,5,EUR,Postre,9.2,"""Español""","""Calle de Torquemada","""geo"":{""latitude"":40.4659582,""longitude"":-3.6394471",Uribe
+2,2,MenuItem,Flan casero,Offer,5,EUR,Postre,9.2,"""Español""","""Calle de Torquemada","""geo"":{""latitude"":40.4659582,""longitude"":-3.6394471",Uribe

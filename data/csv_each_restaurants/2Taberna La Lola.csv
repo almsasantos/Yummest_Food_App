@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Lola,Offer,12.5,EUR,Nuetras hamburguesas,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola
+1,1,MenuItem,Holandesa,Offer,11.5,EUR,Nuetras hamburguesas,8.2,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.455232,""longitude"":-3.6989476",Taberna La Lola

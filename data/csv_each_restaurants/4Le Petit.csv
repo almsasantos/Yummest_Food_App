@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Tartar de salmon, aguacate y mango",Offer,15.0,EUR,Pescados,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit
+1,1,MenuItem,Tataki de atún con quinoa,Offer,21.5,EUR,Pescados,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit
+2,2,MenuItem,Salmón plancha Appetit,Offer,16.0,EUR,Pescados,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit
+3,3,MenuItem,Lubina a nuestra manera,Offer,17.5,EUR,Pescados,9.2,"""Mediterráneo""","""Calle Argensola","""geo"":{""latitude"":40.4259071,""longitude"":-3.6943526",Le Petit

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+2,2,MenuItem,Café,Offer,2.2,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+3,3,MenuItem,Botella de agua,Offer,2.0,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+5,5,MenuItem,Botella de vino,Offer,15.5,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+6,6,MenuItem,Copa de vino,Offer,2.5,EUR,Bebidas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa

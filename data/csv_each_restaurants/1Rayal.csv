@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Arroz con bogavante,Offer,40,EUR,Arroces ( Precio para 2 personas ),8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+1,1,MenuItem,Paella mixta,Offer,28,EUR,Arroces ( Precio para 2 personas ),8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal
+2,2,MenuItem,Paella de marisco,Offer,30,EUR,Arroces ( Precio para 2 personas ),8.9,None,"""Calle de Leganitos","""geo"":{""latitude"":40.4226659,""longitude"":-3.7106911",Rayal

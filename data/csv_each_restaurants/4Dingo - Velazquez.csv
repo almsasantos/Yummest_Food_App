@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Dingo,Offer,12.9,EUR,BURGERS,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+1,1,MenuItem,Café Paris,Offer,13.9,EUR,BURGERS,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+2,2,MenuItem,Chevrê,Offer,13.9,EUR,BURGERS,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+3,3,MenuItem,Pollo,Offer,12.5,EUR,BURGERS,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+4,4,MenuItem,Pulled pork,Offer,11.9,EUR,BURGERS,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+5,5,MenuItem,Calamares,Offer,13.9,EUR,BURGERS,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez
+6,6,MenuItem,Vegetales,Offer,11.9,EUR,BURGERS,8.8,"""Americano""","""Calle de Velázquez","""geo"":{""latitude"":40.4272899,""longitude"":-3.6842963",Dingo - Velazquez

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sunomono de Pulpo,Offer,7.0,EUR,Ensaladas y entrantes,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho
+1,1,MenuItem,Sunumono de caballa,Offer,7.0,EUR,Ensaladas y entrantes,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho
+2,2,MenuItem,Tofu y Sesamo,Offer,5.5,EUR,Ensaladas y entrantes,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho
+3,3,MenuItem,Agedashi Dofu,Offer,7.0,EUR,Ensaladas y entrantes,9.3,"""Japonés""","""Calle Evaristo San Miguel","""geo"":{""latitude"":40.4257027,""longitude"":-3.7165466",Saisho

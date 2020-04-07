@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrantes,TAPAS CUBANAS PARA COMPARTITR: Tamal Cubano. Yuca con mojo. Croquetas Cubanas. Tostones de Plátano. Chorizo Criollo al Infierno.,MENÚ DEGUSTACIÓN,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+1,1,MenuItem,Degustación platos,Ropa Vieja. Carne Borracha (fricasé). Picadillo a la Habanera. Pollo a la Guajira. Enchilado de Calamar.,MENÚ DEGUSTACIÓN,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+2,2,MenuItem,Postres,Postres Cubanos para compartir: Dulce de Coco. Mermelada de Guayaba. Arroz con Leche Evaporada. Café.,MENÚ DEGUSTACIÓN,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+3,3,MenuItem,BEBIDAS,"Cada Cuatro persona a elegir: * Botella de Tinto o de Blanco o de Rosado o Jarra de Cerveza de 1,5 litros o Jarra de Sangría de 1,5 litros.",MENÚ DEGUSTACIÓN,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas

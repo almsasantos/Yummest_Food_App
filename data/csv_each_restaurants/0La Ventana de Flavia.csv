@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Filete Tartare,Offer,18,EUR,Entrante,8.4,"""Italiano""","""Calle de Lagasca","""geo"":{""latitude"":40.4274899,""longitude"":-3.6850321",La Ventana de Flavia
+1,1,MenuItem,Formaggio di Provoleta al Forno,Offer,12,EUR,Entrante,8.4,"""Italiano""","""Calle de Lagasca","""geo"":{""latitude"":40.4274899,""longitude"":-3.6850321",La Ventana de Flavia
+2,2,MenuItem,Insalata Di Burrata,Offer,18,EUR,Entrante,8.4,"""Italiano""","""Calle de Lagasca","""geo"":{""latitude"":40.4274899,""longitude"":-3.6850321",La Ventana de Flavia

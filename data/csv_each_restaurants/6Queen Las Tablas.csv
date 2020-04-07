@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tosta de salmón,Offer,7,EUR,Tostas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas
+1,1,MenuItem,Tosta del cantábrico,Offer,8,EUR,Tostas,9.3,None,"""C","""geo"":{""latitude"":40.501507312415,""longitude"":-3.675479888916",Queen Las Tablas

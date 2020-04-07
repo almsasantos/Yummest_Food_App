@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+1,1,MenuItem,Copa de champán,,,,Bebidas,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+2,2,MenuItem,Café,Offer,1.2,EUR,Bebidas,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+3,3,MenuItem,Botella de agua,,,,Bebidas,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+4,4,MenuItem,Media botella de agua,Offer,2.0,EUR,Bebidas,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+5,5,MenuItem,Botella de vino,Offer,12.5,EUR,Bebidas,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar
+6,6,MenuItem,Copa de vino,Offer,2.0,EUR,Bebidas,9.3,"""Americano""","""Paseo de Santa María de la Cabeza","""geo"":{""latitude"":40.398187,""longitude"":-3.7020548",beiben gastrobar

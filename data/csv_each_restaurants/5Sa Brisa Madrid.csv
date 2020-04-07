@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,CONEJO A LA ROBATA,Offer,17,EUR,CARNES,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+1,1,MenuItem,COCHINILLO DE PORC NEGRE IBICENCO,Offer,22,EUR,CARNES,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+2,2,MenuItem,COSTILLA DE BLACK ANGUS,Offer,25,EUR,CARNES,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+3,3,MenuItem,ARROZ DE MATANZA DE CERDO IBERICO,Offer,18,EUR,CARNES,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid
+4,4,MenuItem,COLITA DE CUADRIL de VACA,Offer,25,EUR,CARNES,9,"""Gastronómico""","""Av","""geo"":{""latitude"":40.4201348,""longitude"":-3.6792171",Sa Brisa Madrid

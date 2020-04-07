@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Dulce lechosa con helado,Offer,4.5,EUR,Postre,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+1,1,MenuItem,Casco de guayaba,Offer,4.5,EUR,Postre,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+2,2,MenuItem,Quesillo,Offer,4.5,EUR,Postre,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+3,3,MenuItem,Arroz con leche y coco,Offer,4.5,EUR,Postre,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor
+4,4,MenuItem,Chicha de Arroz,Offer,3.0,EUR,Postre,9,"""Latino""","""Calle Rufino Blanco","""geo"":{""latitude"":40.4282674,""longitude"":-3.6666424",La Taberna del Pintor

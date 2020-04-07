@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrante,"A Elegir entre 4 entrantes. Incluye un plato fuerte tradicional tipo guiso (fabada, pote gallego, arroz con bogavante.... y alternativas mas ligeras (ensalada curiosa, pasta..)",Menu especial,None,None,None,La Tasquita de Pereira
+1,1,MenuItem,Plato,"A elegir entre 3 segundos, Un asado de carne, 1 pescado y algo mas ligero. Por ejemplo : cochinillo asado, salmon en papillote, brocheta langostinos.",Menu especial,None,None,None,La Tasquita de Pereira
+2,2,MenuItem,Postre,"Postres caseros: Tarta del día, flan, arroz con leche, natillas, puding.. O bien fruta o helado",Menu especial,None,None,None,La Tasquita de Pereira

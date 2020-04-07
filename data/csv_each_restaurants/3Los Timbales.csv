@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Paella de Marisco (Minimo para 2 personas),Offer,36,EUR,Arroces y Pasta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+1,1,MenuItem,Paella Mixta (Minimo para 2 personas),Offer,36,EUR,Arroces y Pasta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+2,2,MenuItem,Paella Señorito (Minimo para 2 personas),Offer,36,EUR,Arroces y Pasta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+3,3,MenuItem,Arroz con Bogavante,Offer,42,EUR,Arroces y Pasta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+4,4,MenuItem,Ravioli de Rabo de Toro,Offer,12,EUR,Arroces y Pasta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales
+5,5,MenuItem,Espaguetis carbonara,Offer,12,EUR,Arroces y Pasta,8.2,"""Español""","""Calle de Alcalá","""geo"":{""latitude"":40.4299764,""longitude"":-3.6651785",Los Timbales

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Volcan de chocolate,Offer,5.5,EUR,Postres,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+1,1,MenuItem,Tarta tres leches,Offer,4.5,EUR,Postres,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+2,2,MenuItem,Pie de limón,Offer,4.5,EUR,Postres,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró
+3,3,MenuItem,Marquesa de Chocolate,Offer,4.5,EUR,Postres,8.7,"""Americano""","""Calle de Alcalá","""geo"":{""latitude"":40.4299741,""longitude"":-3.6645337",212 Bistró

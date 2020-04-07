@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Plato Thai* + Añade tu proteína blanca + 2,90",Offer,11.8,EUR,PLATOS CALIENTES,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+1,1,MenuItem,Plato Carioca,Offer,18.5,EUR,PLATOS CALIENTES,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+2,2,MenuItem,Quinoa Burger Especial,Offer,12.8,EUR,PLATOS CALIENTES,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+3,3,MenuItem,Chicken Curry Balinés*,Offer,16.8,EUR,PLATOS CALIENTES,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca
+4,4,MenuItem,Curry Vegetal,Offer,14.8,EUR,PLATOS CALIENTES,9.1,"""Mediterráneo""","""Calle de San Bernardo","""geo"":{""latitude"":40.4318807,""longitude"":-3.7047308",Mandioca

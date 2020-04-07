@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Boiled polaw (arroz cocido),Offer,3.9,EUR,Arroz Basmati,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+1,1,MenuItem,Polaw normal (con especias suave),Offer,4.4,EUR,Arroz Basmati,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani
+2,2,MenuItem,Kima polaw (con huevos y verduras),Offer,6.0,EUR,Arroz Basmati,8.9,"""Indio""","""Calle del Dr","""geo"":{""latitude"":40.4080901,""longitude"":-3.6974763",Raja Hindustani

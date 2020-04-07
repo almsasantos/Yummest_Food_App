@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chipirones en parrilla con su Ajilimójili,Offer,18.5,EUR,Del mar a las brasas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+1,1,MenuItem,Rape de tripa negra (Mínimo 2 pers. -precio por persona)),Offer,21.5,EUR,Del mar a las brasas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+2,2,MenuItem,"Merluza de pincho (Lomo, cola o cogote). Consúltenos",Offer,21.0,EUR,Del mar a las brasas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+3,3,MenuItem,Lenguado de estero braseado con su piel,Offer,26.5,EUR,Del mar a las brasas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa
+4,4,MenuItem,Rodaballo estilo Guetaria (Mínimo 2 pers. -precio por persona),Offer,27.5,EUR,Del mar a las brasas,9.1,"""Mediterráneo""","""Calle de Espronceda","""geo"":{""latitude"":40.4406778,""longitude"":-3.6955382",Verdura y Brasa

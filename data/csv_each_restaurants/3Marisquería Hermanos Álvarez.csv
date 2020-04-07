@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rioja Montecillo Crianza,Offer,17,EUR,Vinos,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez
+1,1,MenuItem,Buró Peñalosa Ribera del Duero Crianza,Offer,20,EUR,Vinos,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez
+2,2,MenuItem,Albariño Viña Sobreira,Offer,18,EUR,Vinos,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez
+3,3,MenuItem,Peñalosa Verdejo 100%,Offer,18,EUR,Vinos,8.9,"""Marisquería""","""C","""geo"":{""latitude"":40.464998462042,""longitude"":-3.6533501148224",Marisquería Hermanos Álvarez

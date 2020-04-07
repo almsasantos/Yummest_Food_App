@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Banana pudding,Offer,6.5,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+1,1,MenuItem,Brownie,Offer,5.0,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar
+2,2,MenuItem,Tarta de queso,Offer,5.5,EUR,Postres,9.1,"""Mediterráneo""","""Calle de Echegaray","""geo"":{""latitude"":40.4156287,""longitude"":-3.6994789",LoBbyto Cocktail Bar

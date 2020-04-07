@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Temaki abierto de tartar de atún con Ikura,Offer,5.5,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+1,1,MenuItem,Sándwich crujiente de tartar de salmón picante (2 uds),Offer,10.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+2,2,MenuItem,Poké de salmón,Offer,9.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+3,3,MenuItem,Poké de atún,Offer,10.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+4,4,MenuItem,Degustación de sashimis,Offer,18.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+5,5,MenuItem,Tartar de Segis con raíz de loto,Offer,11.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+6,6,MenuItem,Tiradito de dorada salvaje con gelatina de ponzu y láminas de trufa,Offer,14.5,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+7,7,MenuItem,Ceviche de lubina,Offer,14.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+8,8,MenuItem,Tartar de salmón,Offer,12.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita
+9,9,MenuItem,Sashimi de salmón (8 piezas),Offer,11.9,EUR,"Tartar, Tiraditos, Sashimis, Pokés & Ceviches",9,"""Japonés""","""Calle de Velázquez","""geo"":{""latitude"":40.4286177,""longitude"":-3.6836501",Monsieur Sushita

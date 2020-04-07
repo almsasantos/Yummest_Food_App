@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de bacalao,Offer,15,EUR,Entrante,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine
+1,1,MenuItem,Setas a la plancha con puerros y jamón,Offer,15,EUR,Entrante,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine
+2,2,MenuItem,Revuelto de habas con morcilla,Offer,15,EUR,Entrante,None,"""Español""","""C","""geo"":{""latitude"":40.419487674926,""longitude"":-3.677690029144287",Osine

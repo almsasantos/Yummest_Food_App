@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sabor de amor - Danza Invisible Tarta tres leches,Offer,6,EUR,Postre,9.2,"""Internacional""","""Calle de Rodríguez San Pedro","""geo"":{""latitude"":40.4320193,""longitude"":-3.7149922",Dog & Fox urban kitchen
+1,1,MenuItem,Dreams - Cranberry,Offer,6,EUR,Postre,9.2,"""Internacional""","""Calle de Rodríguez San Pedro","""geo"":{""latitude"":40.4320193,""longitude"":-3.7149922",Dog & Fox urban kitchen
+2,2,MenuItem,Cold little Heart Michael Kiwanuka Helados diversos sabores,Offer,3,EUR,Postre,9.2,"""Internacional""","""Calle de Rodríguez San Pedro","""geo"":{""latitude"":40.4320193,""longitude"":-3.7149922",Dog & Fox urban kitchen

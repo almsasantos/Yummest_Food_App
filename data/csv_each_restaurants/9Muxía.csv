@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante cada 4 personas,- Jamón Ibérico\n- Gambón a la Plancha\n- Croquetas de Txangurro.\n- Ensalada de Tomate Raff con Mozzarella y Aguacate,menu nº2,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+1,1,MenuItem,Segundo plato a elegir,- Asado de Cordero\n- Bacalao Gratén Con Ali- Oli de Miel y Cebolla Caramelizada al Pedro Ximenez.\n- Entrecot de Ternera con Guarnición,menu nº2,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+2,2,MenuItem,Postre,- Tortilla Alaska JOSRO´S,menu nº2,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía
+3,3,MenuItem,Bebida,"Agua, Vino Rioja Joven y Ribeiro (1botella/2personas)",menu nº2,8.8,"""Gallego""","""Camino de las Hormigueras","""geo"":{""latitude"":40.3739095,""longitude"":-3.6454439",Muxía

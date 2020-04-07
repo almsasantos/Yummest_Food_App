@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacon Cheese,Offer,9.5,EUR,Classics Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+1,1,MenuItem,Crunchy Chicken Burguer,Offer,9.5,EUR,Classics Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+2,2,MenuItem,Doble Bacon Cheese,Offer,10.5,EUR,Classics Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee
+3,3,MenuItem,Clásica,Offer,8.9,EUR,Classics Burgers,7.8,"""Americano""","""Calle de Fernández de la Hoz","""geo"":{""latitude"":40.4348167,""longitude"":-3.6947162",Frisbee

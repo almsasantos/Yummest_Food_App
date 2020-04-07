@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rape gallego a la bilbaina o a la gallega,Offer,22,EUR,Segundos a elegir,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+1,1,MenuItem,Merluza a la bilbaina o a la gallega,Offer,20,EUR,Segundos a elegir,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+2,2,MenuItem,Chuleton - Carne Gallega,Offer,22,EUR,Segundos a elegir,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+3,3,MenuItem,Pluma ibérica de bellota,Offer,20,EUR,Segundos a elegir,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+4,4,MenuItem,Solomillo con foie o ajillo,Offer,22,EUR,Segundos a elegir,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+5,5,MenuItem,Lenguado gallego,Offer,22,EUR,Segundos a elegir,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño
+6,6,MenuItem,Chuletitas de lechal,Offer,18,EUR,Segundos a elegir,9.2,"""Español""","""Calle del Castillo","""geo"":{""latitude"":40.4342282,""longitude"":-3.6993737",Casa Meño

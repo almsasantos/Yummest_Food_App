@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+1,1,MenuItem,Copa de champán,,,,Bebidas,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+2,2,MenuItem,Café,Offer,2.0,EUR,Bebidas,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+3,3,MenuItem,Botella de agua,,,,Bebidas,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+4,4,MenuItem,Media botella de agua,Offer,1.5,EUR,Bebidas,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+5,5,MenuItem,Botella de vino,Offer,11.0,EUR,Bebidas,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,None,"""Griego""","""Calle del Tesoro 6","""geo"":{""latitude"":40.4250709,""longitude"":-3.705107",Taberna griega

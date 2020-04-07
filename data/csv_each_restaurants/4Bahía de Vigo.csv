@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao al horno,Offer,16.5,EUR,Pescados,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+1,1,MenuItem,Salmón plancha,Offer,11.9,EUR,Pescados,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+2,2,MenuItem,Emperador plancha,Offer,14.5,EUR,Pescados,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+3,3,MenuItem,Merluza al gusto,Offer,16.0,EUR,Pescados,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo
+4,4,MenuItem,Merluza con grelos a la gallega,Offer,16.5,EUR,Pescados,9.8,"""Marisquería""","""Calle de Maqueda","""geo"":{""latitude"":40.3935351,""longitude"":-3.7663647",Bahía de Vigo

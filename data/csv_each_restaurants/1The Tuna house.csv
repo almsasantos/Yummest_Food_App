@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,SHIROMI NO SHAKAMUSHI Pescado blanco al vapor con salsa tochi.,Offer,15.8,EUR,PLATOS PRINCIPALES,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+1,1,MenuItem,"MAGRET DE PATO Pechuga de pato a baja temperatura, salsa flameada y vino",Offer,19.9,EUR,PLATOS PRINCIPALES,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house
+2,2,MenuItem,FOIE GRAS GYUNIKU Solomillo de ternera con foie gras a la salsa de miso con wasabi.,Offer,23.9,EUR,PLATOS PRINCIPALES,8.9,"""Japonés""","""Calle del Pintor Juan Gris","""geo"":{""latitude"":40.457526,""longitude"":-3.6918056",The Tuna house

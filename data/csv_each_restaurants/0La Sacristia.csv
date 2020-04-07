@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Morcilla de arroz envuelta en una fina capa de hojaldre troceada y al horno,Offer,11.77,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+1,1,MenuItem,Cecina de Fabero del Bierzo aliñada,Offer,14.95,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+2,2,MenuItem,Queso manchego curado,Offer,13.7,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+3,3,MenuItem,Migas “La Sacristía”:,Offer,11.88,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+4,4,MenuItem,Plato del monaguillo:,Offer,14.9,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+5,5,MenuItem,Croquetas de cecina,Offer,13.9,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+6,6,MenuItem,Brandada de bacalao,Offer,15.3,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+7,7,MenuItem,Bacalao en aceite:,Offer,17.5,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia
+8,8,MenuItem,Lascas de bacalao con salmorejo cordobés,Offer,19.58,EUR,Entradas,8.9,"""Español""","""Plaza de Pedro Zerolo","""geo"":{""latitude"":40.4210552,""longitude"":-3.6998266",La Sacristia

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bao de pollo,Offer,6.5,EUR,Bao (2 unidades),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+1,1,MenuItem,Bao de rabo de toro,Offer,7.25,EUR,Bao (2 unidades),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+2,2,MenuItem,Bao de langostino tigre,Offer,6.95,EUR,Bao (2 unidades),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar
+3,3,MenuItem,Bao de pato,Offer,7.5,EUR,Bao (2 unidades),9.3,"""Japonés""","""Calle de Silvano","""geo"":{""latitude"":40.4625507,""longitude"":-3.6373111",Tsukiji Sushi Bar

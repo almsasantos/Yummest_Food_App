@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Hamburguesas Cheese Supreme,Offer,11.9,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+1,1,MenuItem,Hamburguesa Cabramericana,Offer,10.5,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+2,2,MenuItem,Hamburguesa Extreme Brie,Offer,11.5,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+3,3,MenuItem,Hamburguesa de frutos rojos,Offer,11.5,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+4,4,MenuItem,Hamburguesa de Foie,Offer,13.25,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+5,5,MenuItem,Hamburguesa Special Corner,Offer,11.9,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+6,6,MenuItem,Hamburguesa Pulled Pork,Offer,12.5,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+7,7,MenuItem,Hamburguesa Monster Tower,Offer,14.9,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+8,8,MenuItem,Hamburguesa Hot Delicious,Offer,12.9,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+9,9,MenuItem,Hamburguesa Vegana,Offer,11.5,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill
+10,10,MenuItem,Pechuga al grill,Offer,10.5,EUR,Plato,9.2,"""Americano""","""Calle Arte","""geo"":{""latitude"":40.4831141,""longitude"":-3.6700483",Corner Grill

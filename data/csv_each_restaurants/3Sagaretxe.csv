@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calamar a la parrilla,Offer,14.5,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+1,1,MenuItem,Ventresca de bonito a la bilbaina,Offer,16.8,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+2,2,MenuItem,Chipirones encebollados en su tinta,Offer,16.8,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+3,3,MenuItem,Brocheta de rape y langostinos,Offer,17.8,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+4,4,MenuItem,Atun asado a la plancha,Offer,17.8,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+5,5,MenuItem,Tartar de atún rojo estilo Sagaretxe,Offer,18.5,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+6,6,MenuItem,Cogote de Merluza estilo Orio,Offer,18.5,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+7,7,MenuItem,Lubina a la brasa de carbon de encima,Offer,20.8,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+8,8,MenuItem,Cocochas de bacalao con langostinos a la donostiarra,Offer,20.8,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe
+9,9,MenuItem,Rape con refrito de sidra,Offer,21.5,EUR,Pescados,8.6,"""Vasco""","""Calle Eloy Gonzalo","""geo"":{""latitude"":40.4342406,""longitude"":-3.701002",Sagaretxe

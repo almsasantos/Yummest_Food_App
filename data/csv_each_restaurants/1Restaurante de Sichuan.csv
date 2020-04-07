@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ENSALADA DE PEPINO,Offer,4.9,EUR,ENSALADA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+1,1,MenuItem,ENSALADA DE ESPINACA,Offer,4.9,EUR,ENSALADA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+2,2,MenuItem,POLLO BAN-BAN,Offer,5.9,EUR,ENSALADA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan
+3,3,MenuItem,FU-QI FEI-PIAN,Offer,7.5,EUR,ENSALADA,None,"""Chino""","""Calle del Caballero de Gracia","""geo"":{""latitude"":40.419408,""longitude"":-3.7010173",Restaurante de Sichuan

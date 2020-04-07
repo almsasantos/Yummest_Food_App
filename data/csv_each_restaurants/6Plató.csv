@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Paletilla de cordero confitada, gofre de patata panadera y puré de berenjena a la llama",Offer,28,EUR,Carnes,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+1,1,MenuItem,"Tuétano asado con tartar de gambas ,kimchee y pan de gambas",Offer,24,EUR,Carnes,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+2,2,MenuItem,Solomillo de Ternera con puré de celerí y salsa ponzu trufada,Offer,24,EUR,Carnes,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+3,3,MenuItem,T-Bone con verduras y puré de patata morada trufado(2 personas),Offer,42,EUR,Carnes,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató
+4,4,MenuItem,"Carrillera de ternera guisada con tomate confitado,manzana osmotizada y chips de patata morada",Offer,22,EUR,Carnes,8.9,None,"""Plaza de la Lealtad","""geo"":{""latitude"":40.4159796,""longitude"":-3.6921287",Plató

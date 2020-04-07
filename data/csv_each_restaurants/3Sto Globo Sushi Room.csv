@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Roll tartar de pez mantequilla,Offer,10.9,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+1,1,MenuItem,Roll california con tobiko,Offer,11.9,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+2,2,MenuItem,Roll de anguila con aguacate y queso brie,Offer,12.2,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+3,3,MenuItem,Roll spicy tuna crunch,Offer,12.5,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+4,4,MenuItem,Roll crujiente de langostino con salsa cremosa de kimchi,Offer,12.9,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+5,5,MenuItem,Roll de langostino crujiente y aguacate,Offer,13.2,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+6,6,MenuItem,Roll soft shell crab con furikake,Offer,13.5,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+7,7,MenuItem,"Roll Sto. Globo (Salmón ahumado, aguacate, sésamo y salsa kabayaki)",Offer,16.0,EUR,Makis Sto Globo,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room

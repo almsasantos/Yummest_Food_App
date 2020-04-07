@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ramen (fideo fino con caldo casero vegetal),Offer,8.8,EUR,Entrante,None,"""Japonés""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Yan Ken Pon
+1,1,MenuItem,Udon (fideo grueso con caldo casero de carne y pescado),Offer,7.5,EUR,Entrante,None,"""Japonés""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Yan Ken Pon
+2,2,MenuItem,Yakisoba (tallarines salteados con verduras y salsa yakisoba),Offer,5.5,EUR,Entrante,None,"""Japonés""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Yan Ken Pon

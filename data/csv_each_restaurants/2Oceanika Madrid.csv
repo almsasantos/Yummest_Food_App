@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiradito de corvina,Offer,10,EUR,Tiraditos,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+1,1,MenuItem,Tiradito de oilfish,Offer,8,EUR,Tiraditos,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid
+2,2,MenuItem,Tiradito de salmón,Offer,9,EUR,Tiraditos,9.1,None,"""Calle Antonio Pérez","""geo"":{""latitude"":40.4427874,""longitude"":-3.6819284",Oceanika Madrid

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de aguacates,Offer,12.9,EUR,Ensaladas,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+1,1,MenuItem,Ensala de gambones,Offer,14.9,EUR,Ensaladas,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+2,2,MenuItem,Ensalada templada,Offer,10.9,EUR,Ensaladas,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan

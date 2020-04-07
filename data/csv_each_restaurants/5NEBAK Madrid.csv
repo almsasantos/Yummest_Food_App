@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Rabo deshuesado de vaca, ahumado y relleno con foie fresco (1/2: 17,00€)",Offer,26,EUR,Guisos tradicionales,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+1,1,MenuItem,"Manitas de cerdo rebozadas y en salsa Bizkaina (1/2: 15,00€)",Offer,22,EUR,Guisos tradicionales,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid
+2,2,MenuItem,"Carrilleras de vaca al Vino tinto de Rioja Alavesa y Miel de castaño (1/2: 16,00€)",Offer,24,EUR,Guisos tradicionales,9.4,None,"""Calle de Zorrilla","""geo"":{""latitude"":40.4168202,""longitude"":-3.6970832",NEBAK Madrid

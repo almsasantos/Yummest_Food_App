@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nidos de patata,Offer,13.9,EUR,Entrantes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+1,1,MenuItem,Risotto de chipirones,Offer,12.9,EUR,Entrantes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+2,2,MenuItem,Zamburiñas a la plancha,Offer,17.9,EUR,Entrantes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+3,3,MenuItem,Pulpo a la parrilla,Offer,20.9,EUR,Entrantes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan
+4,4,MenuItem,Gyozas de pato y verduras,Offer,11.9,EUR,Entrantes,8.5,"""Internacional""","""Calle de Jorge Juan","""geo"":{""latitude"":40.4233685,""longitude"":-3.6739608",La Tomasa de Jorge Juan

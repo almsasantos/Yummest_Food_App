@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Reina Margarita,Offer,10.5,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+1,1,MenuItem,Prosciutto e Funghi,Offer,10.9,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+2,2,MenuItem,Calzone Amore,Offer,10.9,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+3,3,MenuItem,Perfetto pollo BBQ,Offer,11.9,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+4,4,MenuItem,Diavola,Offer,13.5,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+5,5,MenuItem,Cuatro Quesos,Offer,10.9,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+6,6,MenuItem,ibérica,Offer,13.5,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+7,7,MenuItem,Carbonara,Offer,11.9,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+8,8,MenuItem,Veggie,Offer,10.9,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+9,9,MenuItem,New York Pepperoni,Offer,11.9,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore
+10,10,MenuItem,Di Verdura Pedemonte,Offer,11.5,EUR,Pizzas Artesanales,9.2,"""Italiano""","""Calle de Alcalá","""geo"":{""latitude"":40.4276724,""longitude"":-3.6699287",Pastamore

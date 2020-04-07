@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada templada de quinua, batata y granada",Offer,9.5,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+1,1,MenuItem,"Ensalada de aguacate, piña y salmón ahumado",Offer,10.5,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+2,2,MenuItem,Hummus con crudités de verduras o pan de pita,Offer,6.0,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+3,3,MenuItem,Edamames al vapor,Offer,3.5,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+4,4,MenuItem,Tacos de maíz con lentejas y aguacates,Offer,6.5,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+5,5,MenuItem,Nachos con chile y queso,Offer,8.5,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+6,6,MenuItem,Tartar de calabacín con mozzarella y pesto,Offer,9.0,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+7,7,MenuItem,Langostinos al estragón con mantequilla de lima,Offer,9.5,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+8,8,MenuItem,Jamón Ibérico con pan de cristal y tomate,Offer,14.5,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith
+9,9,MenuItem,Quesos de La Mancha,Offer,10.0,EUR,COMPARTIRÉ SI QUIERO,9.5,"""Mediterráneo""","""Calle de Calatrava","""geo"":{""latitude"":40.4092748,""longitude"":-3.7122116",Las hijas de Lilith

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Mozzarella marinada sobre trigueros parrillados, espinaca y pesto de tomate",Offer,10.9,EUR,Para compartir,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+1,1,MenuItem,Surtido de delicias orientales,Offer,9.9,EUR,Para compartir,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro
+2,2,MenuItem,"Rollitos orientales de tofu con alga hiziki, shiitake y sabores thai. Servido con salsa de yogur y chutney de mango",Offer,11.9,EUR,Para compartir,8.9,"""Vegetariano""","""Calle Esquilache","""geo"":{""latitude"":40.4428,""longitude"":-3.70483",Ecocentro

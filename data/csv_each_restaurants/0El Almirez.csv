@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yemas de Espárragos Blancos con Lomos de Atún,Offer,17.6,EUR,Entrantes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+1,1,MenuItem,Cogollos de Tudela con Anchoas o Ventresca de Bonito,Offer,17.6,EUR,Entrantes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+2,2,MenuItem,Ensalada Templada de Endivias y Langostinos,Offer,17.6,EUR,Entrantes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+3,3,MenuItem,Huevos Fritos con Jamon,Offer,21.45,EUR,Entrantes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez
+4,4,MenuItem,Anchoas frescas a la bilbaina,Offer,17.6,EUR,Entrantes,8.7,"""Vasco""","""Calle de Maldonado","""geo"":{""latitude"":40.4340967,""longitude"":-3.6850971",El Almirez

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,tartar de atún rojo balfegó,Offer,19.0,EUR,Entrante,8.9,"""Japonés""","""Calle de Carranza","""geo"":{""latitude"":40.4289868,""longitude"":-3.7035543",Art & Sushi Madrid
+1,1,MenuItem,sashimi de ventresca de salmón con batata crujiente,Offer,22.5,EUR,Entrante,8.9,"""Japonés""","""Calle de Carranza","""geo"":{""latitude"":40.4289868,""longitude"":-3.7035543",Art & Sushi Madrid
+2,2,MenuItem,gyozas de langostino en salsa shirotasu,Offer,12.0,EUR,Entrante,8.9,"""Japonés""","""Calle de Carranza","""geo"":{""latitude"":40.4289868,""longitude"":-3.7035543",Art & Sushi Madrid

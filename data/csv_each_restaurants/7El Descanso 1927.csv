@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillitos de cebón con pimientos de padrón y patatas,Offer,20.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+1,1,MenuItem,Solomillo de cebón de calidad extra con patatas y pimientos de padrón,Offer,22.5,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+2,2,MenuItem,Chuletón de buey a la parrilla (900 Grs. A compartir para 2 personas),Offer,29.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+3,3,MenuItem,Lomo bajo entrecot a la parrilla,Offer,17.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+4,4,MenuItem,Chuletillas de lechal castellano,Offer,16.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+5,5,MenuItem,Pallarda empanada muy fina con patatas naturales,Offer,10.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+6,6,MenuItem,"Secreto ibérico a la plancha con huevo, patatas y pimientos de padrón",Offer,10.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+7,7,MenuItem,Confit de pato con patatas panaderas gratinadas,Offer,11.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+8,8,MenuItem,Hamburguesa de buey (180 Grs) con pan artesano,Offer,9.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+9,9,MenuItem,"Escalope de pollo, espaguetis (con salsa carbonara o boloñesa) y croquetas de jamón",Offer,10.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927
+10,10,MenuItem,Costillas a la parrilla con salsa barbacoa y patatas,Offer,11.9,EUR,Carnes,9,"""Español""","""Av de la Victoria","""geo"":{""latitude"":40.4718148,""longitude"":-3.8286803",El Descanso 1927

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletón gallego Villagodio,Offer,40.0,EUR,Carnes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+1,1,MenuItem,Solomillo de ternera con timbal patata al horno y bouquet espárragos,Offer,24.0,EUR,Carnes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+2,2,MenuItem,Chuletitas de lechal a la parrilla,Offer,17.5,EUR,Carnes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo
+3,3,MenuItem,Rabo de toro estofado,Offer,18.0,EUR,Carnes,9.2,"""Español""","""Bulevar José Prat","""geo"":{""latitude"":40.3983901,""longitude"":-3.6240092",Casa Manolo

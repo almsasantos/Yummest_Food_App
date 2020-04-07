@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tajine de Ternera M´Charmel,Offer,22.0,EUR,TERNERA,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+1,1,MenuItem,Tajine de Ternera con Ciruelas,Offer,22.0,EUR,TERNERA,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+2,2,MenuItem,Brochetas Kefta (3 piezas),Offer,22.5,EUR,TERNERA,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+3,3,MenuItem,Kefta con Huevos,Offer,23.5,EUR,TERNERA,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia

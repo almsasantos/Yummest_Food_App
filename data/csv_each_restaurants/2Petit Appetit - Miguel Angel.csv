@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Raviolis de boletus,Offer,11.5,EUR,Pasta,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel
+1,1,MenuItem,Raviolis de Trufa,Offer,14.0,EUR,Pasta,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel
+2,2,MenuItem,Penne,Offer,9.95,EUR,Pasta,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel
+3,3,MenuItem,Tagliatelle,Offer,9.95,EUR,Pasta,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel
+4,4,MenuItem,Raviolis de ricotta y espinacas,Offer,11.5,EUR,Pasta,8.8,"""Mediterráneo""","""Calle de Miguel Angel","""geo"":{""latitude"":40.4357738,""longitude"":-3.6910417",Petit Appetit - Miguel Angel

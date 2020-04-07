@@ -1,0 +1,32 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Carabinero terciado del Sur a la parrilla (4 piezas),Offer,29.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+1,1,MenuItem,Gamba roja salteada al punto picante,Offer,18.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+2,2,MenuItem,Gamba blanca de Isla Cristina (Fuente),Offer,28.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+3,3,MenuItem,Pulpo a la brasa con Alioli suave,Offer,19.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+4,4,MenuItem,Pulpo a la Gallega al aceite de pimentón,Offer,19.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+5,5,MenuItem,Huevos rotos con ibérico y patatinas fritas,Offer,18.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+6,6,MenuItem,Chanquetes con huevos de corral y puerros en láminas.,Offer,18.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+7,7,MenuItem,Boquerones Victorianos,Offer,12.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+8,8,MenuItem,"Croquetas de la abuela, diferentes cada día (6 Uds.).",Offer,12.6,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+9,9,MenuItem,Bienmesabe al estilo de San Fernando,Offer,13.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+10,10,MenuItem,Tortillitas de camarones con su Romesco,Offer,14.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+11,11,MenuItem,Calamares de potera a la Andaluza,Offer,18.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+12,12,MenuItem,Fritos de merluza de pincho en harina de arroz,Offer,18.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+13,13,MenuItem,Lechuga viva aliñada con cebolleta fresca.,Offer,8.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+14,14,MenuItem,Ensaladilla rusa tradicional de bonito del Norte,Offer,13.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+15,15,MenuItem,El mejor tomate de temporada con cebolleta y bonito de campaña.,Offer,14.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+16,16,MenuItem,"Ensalada de aguacate, queso fresco, anchoas y albahaca al aliño de Módena.",Offer,16.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+17,17,MenuItem,Verduras de temporada braseadas con salsa Romesco,Offer,13.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+18,18,MenuItem,Alcachofas naturales a la parrilla con cristal de sal (En temporada).,Offer,16.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+19,19,MenuItem,Arroz campestre con setas de temporada,Offer,19.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+20,20,MenuItem,Arroz negro a la tinta del choco,Offer,19.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+21,21,MenuItem,"Marinero con verduras, limpito para no mancharse",Offer,21.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+22,22,MenuItem,Arroz con carabineros del Sur,Offer,24.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+23,23,MenuItem,Fideuá de cabellín al estilo de los Pescadores,Offer,19.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+24,24,MenuItem,Chipirones de Costa a la parrilla y aceite Ajili Mojili.,Offer,18.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+25,25,MenuItem,Lomo de merluza de pincho a la parrilla con su Bilbaína,Offer,21.0,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+26,26,MenuItem,"Lubina a la sal (Mínimo 2 personas, precio por persona)",Offer,22.8,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+27,27,MenuItem,"Lubina a la sal (Mínimo 2 personas, precio por persona)",Offer,18.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+28,28,MenuItem,Taquitos de solomillo a la sartén con ajos tiernos y habitas baby,Offer,23.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+29,29,MenuItem,Solomillo de vacuno mayor a la parrilla con escama de sal,Offer,23.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna
+30,30,MenuItem,Lomo bajo de vaca madura braseado,Offer,22.5,EUR,Plato,9.1,"""Mediterráneo""","""C","""geo"":{""latitude"":40.419336656511,""longitude"":-3.674570083618164",Taberna Moderna

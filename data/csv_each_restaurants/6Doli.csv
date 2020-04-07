@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Prawn Korma,Offer,16.9,EUR,Platos de Pescado al Curry,9.4,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4352562,""longitude"":-3.6839354",Doli
+1,1,MenuItem,Prawn Jalderezi,Offer,16.9,EUR,Platos de Pescado al Curry,9.4,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4352562,""longitude"":-3.6839354",Doli
+2,2,MenuItem,Prawn Madras,Offer,16.9,EUR,Platos de Pescado al Curry,9.4,"""Indio""","""Calle de Diego de León","""geo"":{""latitude"":40.4352562,""longitude"":-3.6839354",Doli

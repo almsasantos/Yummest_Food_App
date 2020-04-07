@@ -1,0 +1,11 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ostra con ponzu, jengibre y caviar de aceite",Offer,2.95,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+1,1,MenuItem,"Ensalada de champiñón portobello marinado, parmesano y pollo asado",Offer,7.75,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+2,2,MenuItem,Ensalada de tomate y ventresca (varias texturas de tomates),Offer,9.0,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+3,3,MenuItem,Turrón de foie,Offer,9.95,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+4,4,MenuItem,Carpaccio de wagyu con setitas confitadas y salsa de cebolla tostada,Offer,11.95,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+5,5,MenuItem,Tartar de corvina salvaje a la bilbaína con crema de queso y tomate seco,Offer,8.85,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+6,6,MenuItem,Mejillones en Bloody Mary de clamato (estilo ceviche),Offer,7.75,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+7,7,MenuItem,"Burrata inyectada en salsa de mojo rojo, tomate seco, orégano y espinacas baby",Offer,9.5,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+8,8,MenuItem,"Ensaladilla rusa con espuma de mayonesa, atún rojo ahumado y huevas de trucha",Offer,8.5,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler
+9,9,MenuItem,"Servicio, pan y aperitivo",Offer,1.75,EUR,Vamos a empezar con:,9.1,None,"""Calle del Barco","""geo"":{""latitude"":40.4211631,""longitude"":-3.7029208",La Gastro by Chema Soler

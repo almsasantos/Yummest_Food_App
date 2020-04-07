@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chuletas de cordero de lechal,Offer,15.0,EUR,Recomendaciones de la Casa,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+1,1,MenuItem,Merluza de la casa (a la vasca),Offer,15.0,EUR,Recomendaciones de la Casa,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+2,2,MenuItem,Jabalí estofado,Offer,10.5,EUR,Recomendaciones de la Casa,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+3,3,MenuItem,Croquetas caseras,Offer,7.0,EUR,Recomendaciones de la Casa,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián
+4,4,MenuItem,Secreto de ciervo,Offer,8.0,EUR,Recomendaciones de la Casa,8.6,"""Castellano""","""Calle Nueva del Pardo","""geo"":{""latitude"":40.52111,""longitude"":-3.7771142",Adrián

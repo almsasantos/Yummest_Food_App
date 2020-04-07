@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pudin de la casa,Offer,2.5,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.430525622116,""longitude"":-3.701159954071",Marisquería Villas
+1,1,MenuItem,Milhojas,Offer,2.5,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.430525622116,""longitude"":-3.701159954071",Marisquería Villas
+2,2,MenuItem,Helados variados,Offer,3.5,EUR,Postre,None,"""Marisquería""","""C","""geo"":{""latitude"":40.430525622116,""longitude"":-3.701159954071",Marisquería Villas

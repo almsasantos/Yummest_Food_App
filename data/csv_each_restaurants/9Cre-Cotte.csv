@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Jarra de Sangría ( vino ),Offer,10.9,EUR,Sangrias,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+1,1,MenuItem,Media Sangría (vino ),Offer,8.5,EUR,Sangrias,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+2,2,MenuItem,Jarra de Sangría ( cava ),Offer,12.9,EUR,Sangrias,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+3,3,MenuItem,Media Sangría ( cava ),Offer,9.5,EUR,Sangrias,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+4,4,MenuItem,Jarra de Sangría ( sidra ),Offer,11.0,EUR,Sangrias,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte
+5,5,MenuItem,Media Sangría ( sidra ),Offer,9.0,EUR,Sangrias,8.1,"""Mediterráneo""","""Avenida de Brasil","""geo"":{""latitude"":40.456630807574,""longitude"":-3.69323992729187",Cre-Cotte

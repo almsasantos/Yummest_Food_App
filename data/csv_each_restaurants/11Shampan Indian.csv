@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Beef Dupiaza (Un plato sabor de cebolla cocinado con cilantro, salsa suave, especias y cebolla asadas)",Offer,9.5,EUR,PLATOS DE TERNERA,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian
+1,1,MenuItem,"Beef Cylon (Ternera cocinada con especias, harina de coco y salsa picante)",Offer,9.0,EUR,PLATOS DE TERNERA,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian
+2,2,MenuItem,"Beef Bean Masala(Ternera cocinado con salsa de alubias, cebolla, tomate y cilantro)",Offer,9.5,EUR,PLATOS DE TERNERA,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian
+3,3,MenuItem,"Beef Mongol (Ternera cocinado con almendras, coco, nata y salsa dulce)",Offer,9.9,EUR,PLATOS DE TERNERA,9.4,"""Indio""","""Calle Antonio Arias","""geo"":{""latitude"":40.4177183,""longitude"":-3.6716143",Shampan Indian

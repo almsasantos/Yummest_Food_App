@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Brownie de Chocolate y Nueces,Offer,4,EUR,Postre,8.9,"""Mexicano""","""Calle León","""geo"":{""latitude"":40.4128966,""longitude"":-3.6992373",DF BAR Tortería Mexicana
+1,1,MenuItem,Pancake con salsa de Cajeta,Offer,4,EUR,Postre,8.9,"""Mexicano""","""Calle León","""geo"":{""latitude"":40.4128966,""longitude"":-3.6992373",DF BAR Tortería Mexicana

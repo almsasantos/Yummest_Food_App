@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao braseado,Offer,13.9,EUR,Plato,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco
+1,1,MenuItem,Entrecot con guarnicion,Offer,15.9,EUR,Plato,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco
+2,2,MenuItem,Paella de marisco (2prs.),Offer,28.0,EUR,Plato,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco
+3,3,MenuItem,Entraña Argentina,Offer,13.9,EUR,Plato,8.2,"""Español""","""Calle de Las Huertas","""geo"":{""latitude"":40.4140812,""longitude"":-3.7009698",Taberna el Arco

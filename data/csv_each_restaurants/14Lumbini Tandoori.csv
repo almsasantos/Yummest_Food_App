@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken,Offer,14,EUR,"Green valley Dishes; Preparado con hierbas de himalaya, espinacas nueces y menta.",8.9,"""Indio""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.452092,""longitude"":-3.6979454",Lumbini Tandoori
+1,1,MenuItem,Lamb,Offer,16,EUR,"Green valley Dishes; Preparado con hierbas de himalaya, espinacas nueces y menta.",8.9,"""Indio""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.452092,""longitude"":-3.6979454",Lumbini Tandoori
+2,2,MenuItem,Langostinos,Offer,18,EUR,"Green valley Dishes; Preparado con hierbas de himalaya, espinacas nueces y menta.",8.9,"""Indio""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.452092,""longitude"":-3.6979454",Lumbini Tandoori
+3,3,MenuItem,Vegetable,Offer,15,EUR,"Green valley Dishes; Preparado con hierbas de himalaya, espinacas nueces y menta.",8.9,"""Indio""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.452092,""longitude"":-3.6979454",Lumbini Tandoori

@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,ENSALADA FRESCA,Offer,14.2,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+1,1,MenuItem,HUEVO PONCELET,Offer,13.9,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+2,2,MenuItem,CREMA UNTUOSA DE CALABAZA,Offer,11.9,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+3,3,MenuItem,BOMBONES DE QUESO MANCHEGO,Offer,13.9,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+4,4,MenuItem,PUNTALETTE DE OTOÑO,Offer,14.9,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+5,5,MenuItem,SELECCION DE CROQUETAS,Offer,13.9,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+6,6,MenuItem,TARTAR DE TERNERA PONCELET,Offer,16.9,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+7,7,MenuItem,ESCALOPE DE FOIE,Offer,14.9,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid
+8,8,MenuItem,JAMON IBERICO DE BELLOTA,Offer,23.4,EUR,ENTRANTES,9.1,None,"""C","""geo"":{""latitude"":40.4382427,""longitude"":-3.692217",Poncelet Cheese Bar Madrid

@@ -1,0 +1,15 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada de verduras, frutas y medallón de queso de cabra",Offer,13,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+1,1,MenuItem,Tortilla española,Offer,14,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+2,2,MenuItem,Jamón ibérico,Offer,16,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+3,3,MenuItem,Chistorra,Offer,12,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+4,4,MenuItem,Salpicón de marisco,Offer,15,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+5,5,MenuItem,Tabla de 6 quesos,Offer,14,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+6,6,MenuItem,Lasaña de espinaca y ricota,Offer,15,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+7,7,MenuItem,Raviolis de calabaza y ricota con salsa de tomate casero y parmesano,Offer,15,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+8,8,MenuItem,Paella,Offer,15,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+9,9,MenuItem,Mousakka de carne picada y berenjena,Offer,12,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+10,10,MenuItem,Escalibada de verduras al horno,Offer,14,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+11,11,MenuItem,Gambas blancas al ajillo,Offer,15,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+12,12,MenuItem,Taquitos de pollo con almendra y salsa de manzana,Offer,15,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera
+13,13,MenuItem,Kebab halal con salsa de yogurt y arroz,Offer,15,EUR,Platos a la carta,8,"""Andaluz""","""C","""geo"":{""latitude"":40.425501998083,""longitude"":-3.6617701053619385",La Quimera

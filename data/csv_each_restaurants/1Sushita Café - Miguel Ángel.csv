@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sopa Miso,Offer,3.5,EUR,Ensaladas y sopas,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+1,1,MenuItem,Edamame con sichimi,Offer,4.5,EUR,Ensaladas y sopas,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+2,2,MenuItem,Ensalada wakame con salsa mayonesa wasabi,Offer,4.5,EUR,Ensaladas y sopas,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+3,3,MenuItem,Ensalada de quinoa,Offer,7.5,EUR,Ensaladas y sopas,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+4,4,MenuItem,Ensalada de lechuga viva y atún (para 2 personas) - Precio por persona,Offer,8.25,EUR,Ensaladas y sopas,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+5,5,MenuItem,"Ensalada de tataki de salmón (canonigos, lechuga batavia y lechuga roja, tomate cherry, alga wakame, cebolla frita, brotes de soja, salmón tataki y salsa japonesa)",Offer,8.9,EUR,Ensaladas y sopas,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel
+6,6,MenuItem,Ensalada de fideos de arroz crujientes y pollo con reducción de miso y miel,Offer,8.9,EUR,Ensaladas y sopas,9,"""Japonés""","""Calle Miguel Ángel","""geo"":{""latitude"":40.4354781,""longitude"":-3.6915344",Sushita Café - Miguel Ángel

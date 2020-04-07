@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fuente de Totopos,Offer,19.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+1,1,MenuItem,Duo de Humus,Offer,11.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+2,2,MenuItem,Berenjenas Crujientes,Offer,10.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+3,3,MenuItem,Papas Arrugás,Offer,10.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+4,4,MenuItem,Ensalada de Burrata,Offer,14.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+5,5,MenuItem,Croquetas de Cochinillo,Offer,11.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+6,6,MenuItem,Croquetas de Ibérico,Offer,11.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid
+7,7,MenuItem,Flores de Alcachofas,Offer,14.9,EUR,PARA IR EMPEZANDO,9.2,"""Mediterráneo""","""Calle de Rosario Pino","""geo"":{""latitude"":40.4618033,""longitude"":-3.6934605",La Bonita Madrid

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuestros Pastelillos de leche frita,Offer,5.5,EUR,Postre,9,"""Español""","""C","""geo"":{""latitude"":40.429918741799,""longitude"":-3.7016000747680664",La Despensa
+1,1,MenuItem,Pudding de naranja con chocolate caliente,Offer,5.0,EUR,Postre,9,"""Español""","""C","""geo"":{""latitude"":40.429918741799,""longitude"":-3.7016000747680664",La Despensa
+2,2,MenuItem,Helado artesano de queso Idiazabal con crema de membrillo casero,Offer,5.6,EUR,Postre,9,"""Español""","""C","""geo"":{""latitude"":40.429918741799,""longitude"":-3.7016000747680664",La Despensa

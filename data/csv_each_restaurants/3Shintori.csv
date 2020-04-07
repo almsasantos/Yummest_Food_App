@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrantes a elegir,"Tenemos Ensalada Japonesa, Pinchos de pollo y gamba, Sopa, Gyoza o Dim Sum, entre otros.",MENU BUFFET LIBRE,None,None,None,Shintori
+1,1,MenuItem,Plato,"Incluye los Tempuras, Teppanyaki, Arroz, Fideos, Sushi, Maki, California Uramaki, Sashimi...(Más de 40 Platos para pedir)",MENU BUFFET LIBRE,None,None,None,Shintori

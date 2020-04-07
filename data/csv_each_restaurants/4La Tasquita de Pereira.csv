@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Entrante,"A elegir entre 5 platos, siempre hay 1 de cuchara, 1 pasta ó arroz, 1 ensalada ó verdura cocinada y salmorejo cordobés. Lunes lentejas, martes alubias, miércoles cocido, jueves paella",Menu del dia casero,None,None,None,La Tasquita de Pereira
+1,1,MenuItem,Plato,"A elegir entre 5 platos principales. Siempre se incluyen 2 carnes (una de ternera y otra de cerdo, un ave (pollo o pavo cocinado de diferentes maneras) y 2 pescados",Menu del dia casero,None,None,None,La Tasquita de Pereira
+2,2,MenuItem,Postre,"Postres caseros: Tarta del día, flan, arroz con leche, puding, natillas. O bien fruta de temporada o tarrina de helado ó bombón.",Menu del dia casero,None,None,None,La Tasquita de Pereira

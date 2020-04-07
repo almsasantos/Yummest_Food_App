@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Fondue de queso (precio por persona),Offer,13.15,EUR,Fondues y carnes,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+1,1,MenuItem,Escalope de ternera a la milanesa,Offer,12.65,EUR,Fondues y carnes,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+2,2,MenuItem,Escalopines de ternera a la plancha,Offer,12.5,EUR,Fondues y carnes,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+3,3,MenuItem,Carpaccio de solomillo,Offer,13.9,EUR,Fondues y carnes,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+4,4,MenuItem,Entrecot de cebón a la parrilla,Offer,17.35,EUR,Fondues y carnes,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento

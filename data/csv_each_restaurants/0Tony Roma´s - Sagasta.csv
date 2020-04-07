@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Nuggets pollo,Offer,8.95,EUR,Entrante,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+1,1,MenuItem,Nachos,Offer,8.45,EUR,Entrante,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta
+2,2,MenuItem,Onion rings,Offer,7.45,EUR,Entrante,8.7,"""Americano""","""Calle de Sagasta","""geo"":{""latitude"":40.4277499,""longitude"":-3.6969297",Tony Roma´s - Sagasta

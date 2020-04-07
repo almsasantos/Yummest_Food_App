@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Bacalao confitado en salsa de piquillo y cebolletas dulces,Offer,24,EUR,Seducción marina,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+1,1,MenuItem,Merluza de pincho a la plancha con salsa de mostaza,Offer,24,EUR,Seducción marina,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta
+2,2,MenuItem,Tartar de atún rojo con aguacate y aceite de sésamo,Offer,24,EUR,Seducción marina,8.9,"""Español""","""Calle de la Infanta Mercedes","""geo"":{""latitude"":40.454792,""longitude"":-3.6989494",Seducción a la Carta

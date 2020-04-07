@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrada mixta (Mín. 2 personas),Offer,16.39,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+1,1,MenuItem,Phinchitos de pollo (4 piezas),Offer,7.59,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+2,2,MenuItem,Phinchitos de langostino (4 piezas),Offer,9.35,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+3,3,MenuItem,Gong Hom Pha (4 piezas),Offer,8.25,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+4,4,MenuItem,Pho Phia Thod (4 piezas),Offer,6.49,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+5,5,MenuItem,Phophia Royal Thai (4 piezas),Offer,6.49,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+6,6,MenuItem,Pho Phia. Rollitos de primavera (4 piezas),Offer,6.49,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+7,7,MenuItem,Hoy Joh (4 piezas),Offer,7.15,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas
+8,8,MenuItem,Tod Man Talay (4 piezas),Offer,8.25,EUR,Entrante,9.1,"""Tailandés""","""C","""geo"":{""latitude"":40.51201,""longitude"":-3.67021",Royal Thai Las Tablas

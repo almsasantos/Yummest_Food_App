@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,TORRIJA,Offer,5.0,EUR,Postre,None,None,None,Taberna Antonio Sánchez
+1,1,MenuItem,TARTA CREMOSA DE QUESO CON HELADO DE YOGURT,Offer,5.3,EUR,Postre,None,None,None,Taberna Antonio Sánchez

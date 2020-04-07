@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Rape del Cantábrico con veloute de carabineros,Offer,24.84,EUR,Plato,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+1,1,MenuItem,"Risotto de boletus, trufa negra y teja de parmesano",Offer,18.9,EUR,Plato,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure
+2,2,MenuItem,"Hamburguesa de carne roja, salsa de mostaza antigua y chips",Offer,15.12,EUR,Plato,9,"""Mediterráneo""","""C","""geo"":{""latitude"":40.429004055376,""longitude"":-3.686000108718872",Oter Epicure

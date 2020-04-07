@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Primer Plato,A Elegir entre 3 primeros platos (por favor tenga en cuenta que las opciones cambian a diario),Menú del día,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius
+1,1,MenuItem,Segundo Plato,A Elegir entre 3 segundos platos (por favor tenga en cuenta que las opciones cambian a diario),Menú del día,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius
+2,2,MenuItem,Postre,A Elegir entre 3 opciones,Menú del día,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius
+3,3,MenuItem,Bebida,"Incluido refresco, vino o cerveza",Menú del día,8.9,"""Español""","""Calle del Almte","""geo"":{""latitude"":40.4224401,""longitude"":-3.6953806",Casa Marius

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta de limón,Offer,7,EUR,Postres,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+1,1,MenuItem,Ruso de café,Offer,7,EUR,Postres,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci
+2,2,MenuItem,Tartaleta de frutos rojos,Offer,7,EUR,Postres,9.4,"""Internacional""","""Calle del Conde de Xiquena","""geo"":{""latitude"":40.4223215,""longitude"":-3.6942446",Merci

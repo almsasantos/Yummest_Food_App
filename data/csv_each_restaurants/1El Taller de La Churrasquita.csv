@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada Especial,Offer,14,EUR,Ensaladas,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+1,1,MenuItem,"Ensalada de pimientos asados a la parrilla, ventresca y cebolle roja",Offer,12,EUR,Ensaladas,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita
+2,2,MenuItem,"Ensalada de cogollos con ventresca, pimientos del piquillo y cebolleta",Offer,11,EUR,Ensaladas,8.9,"""Argentino""","""Calle Federico Mompou","""geo"":{""latitude"":40.5108522,""longitude"":-3.6788826",El Taller de La Churrasquita

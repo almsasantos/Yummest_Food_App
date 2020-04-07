@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,20.0,EUR,Bebidas,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+2,2,MenuItem,Café,,,,Bebidas,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+3,3,MenuItem,Botella de agua,Offer,3.5,EUR,Bebidas,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+4,4,MenuItem,Media botella de agua,,,,Bebidas,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+5,5,MenuItem,Botella de vino,Offer,15.5,EUR,Bebidas,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria
+6,6,MenuItem,Copa de vino,Offer,3.0,EUR,Bebidas,8.4,"""Gallego""","""Calle del General Aranaz","""geo"":{""latitude"":40.4446172,""longitude"":-3.6404212",Rías Bajas - Arturo Soria

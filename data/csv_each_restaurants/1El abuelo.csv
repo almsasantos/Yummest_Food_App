@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Solomillo con cebolla caramelizada,Offer,17.0,EUR,Plato,8.9,"""Mediterráneo""","""Calle del Crucero 25 de Mayo","""geo"":{""latitude"":40.4628381,""longitude"":-3.6717518",El abuelo
+1,1,MenuItem,Huevos rotos con jamón,Offer,8.5,EUR,Plato,8.9,"""Mediterráneo""","""Calle del Crucero 25 de Mayo","""geo"":{""latitude"":40.4628381,""longitude"":-3.6717518",El abuelo
+2,2,MenuItem,Cachopo de ternera,Offer,17.0,EUR,Plato,8.9,"""Mediterráneo""","""Calle del Crucero 25 de Mayo","""geo"":{""latitude"":40.4628381,""longitude"":-3.6717518",El abuelo

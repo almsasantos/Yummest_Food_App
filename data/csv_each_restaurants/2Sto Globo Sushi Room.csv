@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yakisoba con verduras y Katsuobushi,Offer,9.9,EUR,Pasta Fresca,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+1,1,MenuItem,Ramen de cerdo,Offer,12.9,EUR,Pasta Fresca,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+2,2,MenuItem,Ramen de calamaar,Offer,13.5,EUR,Pasta Fresca,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room
+3,3,MenuItem,Udon salteado con pulpo,Offer,14.9,EUR,Pasta Fresca,9.5,"""Japonés""","""Calle Sta","""geo"":{""latitude"":40.4257195,""longitude"":-3.6958141",Sto Globo Sushi Room

@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,El Tentadero de Atocha,Offer,17.0,EUR,El Patio,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms
+1,1,MenuItem,Lomo de Vaca Vieja,Offer,21.0,EUR,El Patio,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms
+2,2,MenuItem,Solomillo del Patio,Offer,23.0,EUR,El Patio,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms
+3,3,MenuItem,Secreto Ibérico,Offer,19.5,EUR,El Patio,8.8,"""Español""","""Calle de Atocha","""geo"":{""latitude"":40.4132142,""longitude"":-3.7010951",Restaurante CoolRooms

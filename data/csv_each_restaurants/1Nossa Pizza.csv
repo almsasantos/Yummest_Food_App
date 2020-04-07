@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Calzone vegetariano,Offer,13.9,EUR,Plato,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza
+1,1,MenuItem,Calzone \tCuatro Quesos,Offer,13.9,EUR,Plato,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza
+2,2,MenuItem,Pizza \tBeijinho,Offer,19.9,EUR,Plato,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza

@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tabla de embutidos:,Offer,15.0,EUR,Fríos,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+1,1,MenuItem,Degustación de quesos con mermeladas caseras y frutos secos,Offer,12.0,EUR,Fríos,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+2,2,MenuItem,Vitel Toné,Offer,7.5,EUR,Fríos,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+3,3,MenuItem,Ensaladilla casera con ventresca de bonito y encurtidos,Offer,6.0,EUR,Fríos,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+4,4,MenuItem,Ensalada de Caprese de mozzarella fresca con anchoas y aceitunas,Offer,6.0,EUR,Fríos,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro
+5,5,MenuItem,Steak Tartar de vaca con mahonesa de kimchi,Offer,11.0,EUR,Fríos,8.1,None,"""Av","""geo"":{""latitude"":40.4710809,""longitude"":-3.5800642",Urban Bistro

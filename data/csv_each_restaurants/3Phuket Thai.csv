@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,Offer,16.45,EUR,Bebidas,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+1,1,MenuItem,Copa de champán,,,,Bebidas,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+2,2,MenuItem,Café,Offer,1.95,EUR,Bebidas,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+3,3,MenuItem,Botella de agua,,,,Bebidas,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+4,4,MenuItem,Media botella de agua,Offer,2.3,EUR,Bebidas,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+5,5,MenuItem,Botella de vino,Offer,10.95,EUR,Bebidas,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai
+6,6,MenuItem,Copa de vino,Offer,3.25,EUR,Bebidas,8.7,"""Tailandés""","""Calle de Atocha","""geo"":{""latitude"":40.410284,""longitude"":-3.6945404",Phuket Thai

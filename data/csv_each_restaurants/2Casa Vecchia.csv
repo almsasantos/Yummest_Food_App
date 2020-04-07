@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pizza Della Casa,Offer,9.5,EUR,Pizzas artesanales,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+1,1,MenuItem,Pizza de Panceta Italiana.,Offer,10.5,EUR,Pizzas artesanales,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+2,2,MenuItem,Prosciutto,Offer,9.5,EUR,Pizzas artesanales,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+3,3,MenuItem,Margherita,Offer,9.0,EUR,Pizzas artesanales,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+4,4,MenuItem,Rúcula y Grana Padano,Offer,10.0,EUR,Pizzas artesanales,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+5,5,MenuItem,Capresa,Offer,10.95,EUR,Pizzas artesanales,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia
+6,6,MenuItem,Pepperoni,Offer,9.5,EUR,Pizzas artesanales,9.5,"""Italiano""","""Calle de López de Hoyos","""geo"":{""latitude"":40.4445642,""longitude"":-3.6742873",Casa Vecchia

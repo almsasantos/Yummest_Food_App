@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Butter Chicken,Offer,14.25,EUR,Currys de Pollo,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+1,1,MenuItem,Chicken Tikka Masala,Offer,13.25,EUR,Currys de Pollo,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+2,2,MenuItem,Swagat Methi Chicken,Offer,14.25,EUR,Currys de Pollo,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+3,3,MenuItem,Chicken Korma,Offer,14.25,EUR,Currys de Pollo,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+4,4,MenuItem,Chicken Karahi,Offer,13.25,EUR,Currys de Pollo,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+5,5,MenuItem,Hyderabadi Chicken 65,Offer,12.5,EUR,Currys de Pollo,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant
+6,6,MenuItem,Chicken Vindaloo,Offer,12.5,EUR,Currys de Pollo,9.4,"""Indio""","""Calle de Núñez de Balboa","""geo"":{""latitude"":40.4243891,""longitude"":-3.6829759",Swagat Restaurant

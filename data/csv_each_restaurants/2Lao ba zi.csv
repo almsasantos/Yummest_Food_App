@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Setas de agujas,Offer,3.0,EUR,Setas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+1,1,MenuItem,Setas de ostra,Offer,3.0,EUR,Setas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi
+2,2,MenuItem,Setas de cardo,Offer,4.5,EUR,Setas,None,"""Chino""","""Calle Gabino Jimeno","""geo"":{""latitude"":40.3864027,""longitude"":-3.7072014",Lao ba zi

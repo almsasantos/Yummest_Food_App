@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Oreja a la plancha,Offer,7.9,EUR,Plato,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+1,1,MenuItem,Gambón a la plancha,Offer,9.9,EUR,Plato,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+2,2,MenuItem,Conejo al ajillo,Offer,9.4,EUR,Plato,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+3,3,MenuItem,Gambón al ajillo,Offer,9.9,EUR,Plato,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+4,4,MenuItem,Chopitos fritos,Offer,9.9,EUR,Plato,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea
+5,5,MenuItem,Carne moruna,Offer,7.9,EUR,Plato,9.1,"""Mediterráneo""","""Calle de la Batalla del Salado","""geo"":{""latitude"":40.4002044,""longitude"":-3.6959833",Hermanos Egea

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Leche Frita,Offer,6,EUR,Postre,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+1,1,MenuItem,Filloa Frita rellena de Crema,Offer,6,EUR,Postre,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas
+2,2,MenuItem,Selección de Quesos Gallegos,Offer,7,EUR,Postre,9,"""Gallego""","""Calle de Claudio Coello","""geo"":{""latitude"":40.4324096,""longitude"":-3.6855355",Ponteareas

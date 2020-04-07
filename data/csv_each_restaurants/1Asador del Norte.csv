@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Huevos estrellados con jamón,Offer,10.0,EUR,Entradas calientes,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+1,1,MenuItem,Rabas de calamar,Offer,10.0,EUR,Entradas calientes,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+2,2,MenuItem,Pastel de cabracho,Offer,12.0,EUR,Entradas calientes,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+3,3,MenuItem,Verduras a la plancha,Offer,12.0,EUR,Entradas calientes,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte
+4,4,MenuItem,Revuelto de la casa,Offer,9.5,EUR,Entradas calientes,8.4,"""Español""","""C","""geo"":{""latitude"":40.440574647731,""longitude"":-3.6949100494384766",Asador del Norte

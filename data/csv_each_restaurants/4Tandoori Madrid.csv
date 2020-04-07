@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Chicken biryani,Offer,13.5,EUR,Platos de biryani,9.1,"""Indio""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Tandoori Madrid
+1,1,MenuItem,Lamb biryani,Offer,15.95,EUR,Platos de biryani,9.1,"""Indio""","""Plaza de Cascorro","""geo"":{""latitude"":40.41101,""longitude"":-3.70695",Tandoori Madrid

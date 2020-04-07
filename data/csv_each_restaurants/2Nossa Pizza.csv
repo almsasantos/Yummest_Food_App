@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mousse de maracuyá,Offer,2.5,EUR,Postre,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza
+1,1,MenuItem,Pudín de leche condensada,Offer,2.5,EUR,Postre,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza
+2,2,MenuItem,Tarta de chocolate,Offer,2.5,EUR,Postre,9.3,"""Italiano""","""Calle Avelino Fernández de la Poza","""geo"":{""latitude"":40.3831265,""longitude"":-3.673911",Nossa Pizza

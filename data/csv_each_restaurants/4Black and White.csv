@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Margarita,Offer,9.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+1,1,MenuItem,Romana,Offer,9.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+2,2,MenuItem,Tonno,Offer,9.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+3,3,MenuItem,Diavola,Offer,10.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+4,4,MenuItem,Vegetal,Offer,10.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+5,5,MenuItem,Berenjena a la parmesano,Offer,10.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+6,6,MenuItem,Carbonara,Offer,10.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+7,7,MenuItem,The boss,Offer,11.0,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+8,8,MenuItem,Calzone clásico,Offer,8.5,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+9,9,MenuItem,Calzone Hawai,Offer,8.5,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White
+10,10,MenuItem,Calzone pepperoni,Offer,8.5,EUR,Pizzas y calzones,None,"""Americano""","""Local posterior","""geo"":{""latitude"":40.3961566,""longitude"":-3.6498509",Black and White

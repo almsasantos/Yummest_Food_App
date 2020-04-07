@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Txangurro a la Donostiarra,Offer,22.5,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+1,1,MenuItem,Bacalao al Pil-Pil ó con Tomate Clásico,Offer,25.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+2,2,MenuItem,Taco de Bacalao a la Brasa con Ajitos,Offer,25.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+3,3,MenuItem,Delicias de Bacalao Rebozadas con salsa Guetaria,Offer,25.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+4,4,MenuItem,Kokotxas de Merluza al Pil-Pil ó Rebozadas,Offer,39.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+5,5,MenuItem,Delicias de Merluza Frita a Nuestro Modo,Offer,29.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+6,6,MenuItem,Lomo de Merluza con Almejas en Salsa Verde,Offer,35.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+7,7,MenuItem,Lomo de Merluza con Carabineros y Salsa de su Coral,Offer,40.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+8,8,MenuItem,Txipironcitos en su Tinta al Estilo Donosti,Offer,28.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+9,9,MenuItem,Txipironcitos a la Plancha,Offer,28.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria
+10,10,MenuItem,Txipironcitos Encebollados,Offer,28.0,EUR,Pescadería,9.1,"""Vasco""","""Calle del Aviador Zorita","""geo"":{""latitude"":40.4474649,""longitude"":-3.6987246",Asador Guetaria

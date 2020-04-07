@@ -1,0 +1,3 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Selección de verduras a la parrilla con su Romesco,Offer,14.5,EUR,SELECCIÓN DE VERDURAS A LA PARRILLA,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril
+1,1,MenuItem,Alcachofas naturales con cristal de sal (En temporada),Offer,16.5,EUR,SELECCIÓN DE VERDURAS A LA PARRILLA,8.8,"""Marisquería""","""C","""geo"":{""latitude"":40.424741162189,""longitude"":-3.6731700897217",El Gran Barril

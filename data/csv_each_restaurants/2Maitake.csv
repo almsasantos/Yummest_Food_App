@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,California Roll,Offer,8.5,EUR,Rolls (8 unidades),9.1,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4218559,""longitude"":-3.6828259",Maitake
+1,1,MenuItem,Anguila Roll,Offer,14.0,EUR,Rolls (8 unidades),9.1,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4218559,""longitude"":-3.6828259",Maitake
+2,2,MenuItem,Spicy Tuna,Offer,15.0,EUR,Rolls (8 unidades),9.1,"""Japonés""","""Calle de Alcalá","""geo"":{""latitude"":40.4218559,""longitude"":-3.6828259",Maitake

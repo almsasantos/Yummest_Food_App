@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Burrata artesanal, endibia rubia, nuez caramelizada, albahaca, hinojo fresco, pera, dátil, aderezo de miel y pan de la casa",Offer,11.9,EUR,"Verdes, frescas y curiosas",9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+1,1,MenuItem,"Kale rizado, emulsión de cereza, uvas pasas marinadas, almendra tostada, aguacate, y queso parmesano",Offer,10.9,EUR,"Verdes, frescas y curiosas",9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+2,2,MenuItem,"Ensalada con aderezo cesar, parmesano, bacon orgánico crujiente y crotones de la casa",Offer,9.8,EUR,"Verdes, frescas y curiosas",9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial
+3,3,MenuItem,Ensaladilla Rusa,Offer,7.9,EUR,"Verdes, frescas y curiosas",9,None,"""Calle de Valverde","""geo"":{""latitude"":40.4209323,""longitude"":-3.7020606",Soxial

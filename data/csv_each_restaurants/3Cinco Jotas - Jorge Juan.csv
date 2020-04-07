@@ -1,0 +1,14 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,SALMOREJO,Offer,10.6,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+1,1,MenuItem,ENSALADILLA RUSA,Offer,11.7,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+2,2,MenuItem,ENSALADA DE TOMATE DE TEMPORADA,Offer,11.75,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+3,3,MenuItem,ENSALADA DE AGUACATE Y MANGO,Offer,14.0,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+4,4,MenuItem,ENSALADA DE LA DEHESA,Offer,12.0,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+5,5,MenuItem,HABITAS SALTEADAS CON JAMÓN CINCO JOTAS DE BELLOTA 100% IBÉRICO,Offer,12.0,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+6,6,MenuItem,ALCACHOFAS NATURALES RELLENAS DE CARRILLERA IBÉRICA,Offer,13.5,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+7,7,MenuItem,CROQUETAS CASERAS DE JAMÓN CINCO JOTAS DE BELLOTA 100% IBÉRICO,Offer,12.6,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+8,8,MenuItem,HUEVOS FRITOS CON PATATAS Y JAMÓN CINCO JOTAS DE BELLOTA 100% IBÉRICO,Offer,12.5,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+9,9,MenuItem,CALAMARCITOS FRITOS,Offer,12.5,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+10,10,MenuItem,CALLOS A LA MADRILEÑA,Offer,12.5,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+11,11,MenuItem,ARROZ CAMPERO,Offer,12.5,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan
+12,12,MenuItem,RAVIOLIS RELLENOS DE RICOTA EN SALSA VERDE,Offer,12.9,EUR,ENTRANTES,8.9,"""Español""","""Calle Puigcerdà","""geo"":{""latitude"":40.4238871,""longitude"":-3.6863126",Cinco Jotas - Jorge Juan

@@ -1,0 +1,10 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Miniverduritas de temporada con emulsión de apionabo,Offer,15,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+1,1,MenuItem,"Ssam de merluza Orly con mayonesa de café, lima y hierbas aromáticas",Offer,22,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+2,2,MenuItem,"Brandada, huevo a baja temperatura y bacalao desmigado",Offer,19,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+3,3,MenuItem,"Bao de carrileras ibéricas, encurtidos caseros y mayonesa wasabi, como le gusta a Carlos Maldonado",Offer,19,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+4,4,MenuItem,Arroz meloso trufado de setas y emulsión de trufa,Offer,22,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+5,5,MenuItem,Hamburguesa MasterChef de chuleta de vaca madurada,Offer,17,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+6,6,MenuItem,Pescado del día,Offer,24,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+7,7,MenuItem,Alcachofas al estilo de Maribel,Offer,18,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef
+8,8,MenuItem,Steak tartar de solomillo con yema curada y patatas paja caseras,Offer,23,EUR,LOS CLÁSICOS DEL RESTAURANTE,8.9,"""Creativo""","""Calle de Velázquez","""geo"":{""latitude"":40.4431511,""longitude"":-3.6823055",MasterChef

@@ -1,0 +1,8 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Botella de champán,,,,Bebidas,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+1,1,MenuItem,Copa de champán,Offer,12.1,EUR,Bebidas,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+2,2,MenuItem,Café,Offer,2.42,EUR,Bebidas,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+3,3,MenuItem,Botella de agua,Offer,3.85,EUR,Bebidas,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+4,4,MenuItem,Media botella de agua,,,,Bebidas,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+5,5,MenuItem,Botella de vino,Offer,19.8,EUR,Bebidas,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros
+6,6,MenuItem,Copa de vino,Offer,4.95,EUR,Bebidas,9.2,None,"""C","""geo"":{""latitude"":40.459826486457,""longitude"":-3.6629300117492676",Los Cedros

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Ensalada de la casa con quinoa,Offer,8.0,EUR,Entrante,8.9,"""Cubano""","""Calle de Manuel Cortina","""geo"":{""latitude"":40.4307137,""longitude"":-3.6976793",Hierbabuena
+1,1,MenuItem,Ensalada tropical,Offer,7.0,EUR,Entrante,8.9,"""Cubano""","""Calle de Manuel Cortina","""geo"":{""latitude"":40.4307137,""longitude"":-3.6976793",Hierbabuena
+2,2,MenuItem,Ensalada con tomate y queso mozzarella de bufala,Offer,9.5,EUR,Entrante,8.9,"""Cubano""","""Calle de Manuel Cortina","""geo"":{""latitude"":40.4307137,""longitude"":-3.6976793",Hierbabuena

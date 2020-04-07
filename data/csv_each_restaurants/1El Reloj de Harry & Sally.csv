@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sandwich de pastrami,Offer,8.0,EUR,Plato,9.3,"""Español""","""Calle del Reloj","""geo"":{""latitude"":40.4218549,""longitude"":-3.7115229",El Reloj de Harry & Sally
+1,1,MenuItem,Lomo de vaca madurada fileteado (300 gr) con pimientos de piquillo,Offer,24.0,EUR,Plato,9.3,"""Español""","""Calle del Reloj","""geo"":{""latitude"":40.4218549,""longitude"":-3.7115229",El Reloj de Harry & Sally
+2,2,MenuItem,Chipirones en su tinta,Offer,14.5,EUR,Plato,9.3,"""Español""","""Calle del Reloj","""geo"":{""latitude"":40.4218549,""longitude"":-3.7115229",El Reloj de Harry & Sally

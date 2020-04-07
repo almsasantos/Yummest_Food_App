@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú,Offer,5.5,EUR,Dolci/Postres,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.416290078026,""longitude"":-3.7070400714874268",Trattoria Malatesta
+1,1,MenuItem,Crema di mascarpone e mango,Offer,6.0,EUR,Dolci/Postres,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.416290078026,""longitude"":-3.7070400714874268",Trattoria Malatesta
+2,2,MenuItem,Cheesecake di ricotta e pera,Offer,5.5,EUR,Dolci/Postres,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.416290078026,""longitude"":-3.7070400714874268",Trattoria Malatesta
+3,3,MenuItem,Gelati,Offer,4.8,EUR,Dolci/Postres,9.1,"""Italiano""","""C","""geo"":{""latitude"":40.416290078026,""longitude"":-3.7070400714874268",Trattoria Malatesta

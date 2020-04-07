@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Milhoja de crema y nata,Offer,6.5,EUR,Tartas de obrador,None,None,None,Lion café
+1,1,MenuItem,Ponche segoviano,Offer,6.5,EUR,Tartas de obrador,None,None,None,Lion café
+2,2,MenuItem,Tarta de queso,Offer,6.5,EUR,Tartas de obrador,None,None,None,Lion café
+3,3,MenuItem,Tarta de zanahoria,Offer,6.5,EUR,Tartas de obrador,None,None,None,Lion café

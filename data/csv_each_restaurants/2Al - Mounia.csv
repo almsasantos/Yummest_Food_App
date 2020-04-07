@@ -1,0 +1,9 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Pastella Farci,Offer,16.5,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+1,1,MenuItem,Entrantes Variados,Offer,18.0,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+2,2,MenuItem,Brik Moghrebine,Offer,16.5,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+3,3,MenuItem,Hojaldre Al-Mounia,Offer,16.5,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+4,4,MenuItem,Briwat de Verdura,Offer,12.75,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+5,5,MenuItem,Chekchouka,Offer,14.0,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+6,6,MenuItem,Zelouk,Offer,12.5,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia
+7,7,MenuItem,Sopa Harira,Offer,10.0,EUR,ENTRANTES CLÁSICOS,9.2,"""Marroquí""","""C","""geo"":{""latitude"":40.42215,""longitude"":-3.69054",Al - Mounia

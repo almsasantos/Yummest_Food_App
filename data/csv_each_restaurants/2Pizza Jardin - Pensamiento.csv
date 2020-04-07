@@ -1,0 +1,12 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sorrentino a la spagnola,Offer,10.3,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+1,1,MenuItem,Spaghettini bianco e nero con gambón,Offer,10.9,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+2,2,MenuItem,Rigattonne stromboli,Offer,10.35,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+3,3,MenuItem,Rigattonne con pesto rojo,Offer,10.3,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+4,4,MenuItem,Spaghetti carbonara,Offer,9.65,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+5,5,MenuItem,Spaghetti bolognesa,Offer,9.65,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+6,6,MenuItem,"Fettuccini de la casa (precio por persona, recomendado para dos personas)",Offer,9.65,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+7,7,MenuItem,"Spaghetti “Marco Polo” (precio por persona, recomendado para dos personas)",Offer,9.25,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+8,8,MenuItem,Lasagna,Offer,10.3,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+9,9,MenuItem,Ravioli,Offer,9.25,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento
+10,10,MenuItem,Ravioli de salmón,Offer,9.75,EUR,Pastas,8.6,"""Italiano""","""Calle Pensamiento","""geo"":{""latitude"":40.4592306,""longitude"":-3.6974671",Pizza Jardin - Pensamiento

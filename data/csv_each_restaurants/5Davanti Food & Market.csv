@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tiramisú,Offer,6.0,EUR,Postre,9.5,"""Italiano""","""Calle de Augusto Figueroa","""geo"":{""latitude"":40.4221046,""longitude"":-3.6968362",Davanti Food & Market
+1,1,MenuItem,Tarta Tenerina de Chocolate con Helado de Mascarpone,Offer,6.5,EUR,Postre,9.5,"""Italiano""","""Calle de Augusto Figueroa","""geo"":{""latitude"":40.4221046,""longitude"":-3.6968362",Davanti Food & Market
+2,2,MenuItem,Semifreddo al Caffé,Offer,6.5,EUR,Postre,9.5,"""Italiano""","""Calle de Augusto Figueroa","""geo"":{""latitude"":40.4221046,""longitude"":-3.6968362",Davanti Food & Market

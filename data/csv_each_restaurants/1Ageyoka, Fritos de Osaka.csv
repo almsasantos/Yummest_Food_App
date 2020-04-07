@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,10 brochetas variadas fritas,Offer,16.0,EUR,Plato,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"
+1,1,MenuItem,Sashimi tres pescados,Offer,23.5,EUR,Plato,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"
+2,2,MenuItem,Curry con tonkatsu de lomo,Offer,12.0,EUR,Plato,9.1,"""Japonés""","""Calle de Vergara","""geo"":{""latitude"":40.4175292,""longitude"":-3.711285","Ageyoka, Fritos de Osaka"

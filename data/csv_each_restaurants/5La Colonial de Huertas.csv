@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,PRIMEROS,"A elegir: ARROZ CON FRIJOLES, ESPAGUETTIS BOLOÑESA, ENSALADA COLONIAL, ENSALADA DE TOMATE Y ATÚN, ENSALADA DE AJÍ PIMIENTOS, ARROZ A LA CUBANA, AJIACO (invierno), SALMOREJO (verano), TAMAL CUBANO (supemento de 0,90 ctms.)",MENÚ COLONIAL FIN DE SEMANA,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+1,1,MenuItem,SEGUNDOS,"A elegir: PICADILLO A LA HABANERA, CARNE BORRACHA, ROPA VIEJA, POLLO A LA GUAJIRA,, ENCHILADO DE CALAMARES.",MENÚ COLONIAL FIN DE SEMANA,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+2,2,MenuItem,POSTRE,"A elegir: HELADO, NATILLA, ARROZ CON LECHE, COCKTEL DE FRUTAS, CAFE.",MENÚ COLONIAL FIN DE SEMANA,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas
+3,3,MenuItem,BEBIDA INCLUIDA,Caña ó Vio y casera ó agua embotellada.,MENÚ COLONIAL FIN DE SEMANA,8.4,"""Cubano""","""C","""geo"":{""latitude"":40.413095,""longitude"":-3.6958556",La Colonial de Huertas

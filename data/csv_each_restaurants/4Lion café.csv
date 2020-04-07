@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,restaurant
+0,0,MenuItem,Salmón a la plancha,Offer,12,EUR,Pescados,None,None,None,Lion café
+1,1,MenuItem,Lenguado a la plancha,Offer,18,EUR,Pescados,None,None,None,Lion café
+2,2,MenuItem,Delicias de merluza,Offer,20,EUR,Pescados,None,None,None,Lion café
+3,3,MenuItem,Rape Costa Brava,Offer,22,EUR,Pescados,None,None,None,Lion café
+4,4,MenuItem,Rape con almejas,Offer,24,EUR,Pescados,None,None,None,Lion café

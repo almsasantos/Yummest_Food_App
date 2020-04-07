@@ -1,0 +1,6 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Cocido madrileño (tres vuelcos) para dos personas,Offer,39.6,EUR,Platos de encargo (con 1 dia de antelación),8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+1,1,MenuItem,Arroz caldoso con bogavante para dos personas,Offer,39.6,EUR,Platos de encargo (con 1 dia de antelación),8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+2,2,MenuItem,Arroz con verduritas para dos personas,Offer,33.0,EUR,Platos de encargo (con 1 dia de antelación),8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+3,3,MenuItem,Arroz caldoso de mariscos para dos personas,Offer,35.2,EUR,Platos de encargo (con 1 dia de antelación),8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes
+4,4,MenuItem,Arroz negro para dos personas,Offer,35.2,EUR,Platos de encargo (con 1 dia de antelación),8.9,"""Castellano""","""C","""geo"":{""latitude"":40.421314390047,""longitude"":-3.7098500728607",El Ingenio de Cervantes

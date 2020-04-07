@@ -1,0 +1,7 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Mollejas de cordero lechal al ajillo,Offer,23.0,EUR,Entrante,8.5,"""Español""","""Calle de Joaquín María López","""geo"":{""latitude"":40.4376659,""longitude"":-3.7118891",Horno de Juan Argüelles
+1,1,MenuItem,Judiones de La Granja,Offer,14.5,EUR,Entrante,8.5,"""Español""","""Calle de Joaquín María López","""geo"":{""latitude"":40.4376659,""longitude"":-3.7118891",Horno de Juan Argüelles
+2,2,MenuItem,Sopa castellana con jamón y huevo,Offer,8.0,EUR,Entrante,8.5,"""Español""","""Calle de Joaquín María López","""geo"":{""latitude"":40.4376659,""longitude"":-3.7118891",Horno de Juan Argüelles
+3,3,MenuItem,Croquetas caseras de jamón,Offer,14.5,EUR,Entrante,8.5,"""Español""","""Calle de Joaquín María López","""geo"":{""latitude"":40.4376659,""longitude"":-3.7118891",Horno de Juan Argüelles
+4,4,MenuItem,Huevos rotos con jamón,Offer,15.5,EUR,Entrante,8.5,"""Español""","""Calle de Joaquín María López","""geo"":{""latitude"":40.4376659,""longitude"":-3.7118891",Horno de Juan Argüelles
+5,5,MenuItem,Gambón a la plancha,Offer,18.5,EUR,Entrante,8.5,"""Español""","""Calle de Joaquín María López","""geo"":{""latitude"":40.4376659,""longitude"":-3.7118891",Horno de Juan Argüelles

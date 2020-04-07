@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tortillina de calabaza,Offer,4.0,EUR,Postre,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+1,1,MenuItem,Sésamo frito,Offer,4.5,EUR,Postre,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua
+2,2,MenuItem,Plátano frito,Offer,2.8,EUR,Postre,8.6,"""Chino""","""Calle de Tomás García","""geo"":{""latitude"":40.3924164,""longitude"":-3.6655263",Ouhua

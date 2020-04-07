@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,description,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Entrante,"Ensalada, sopas, gratinados, tortillas, tapas etc.",Menu Expressio,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+1,1,MenuItem,Plato,"Carne guisada o plancha, pulpo, salmón,pesacado del día, arroces etc.",Menu Expressio,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café
+2,2,MenuItem,Postre,"Tiramisú, crumble de manzana, brownie de chocolate, fruta, postre del día",Menu Expressio,9,"""Internacional""","""Calle Espalter","""geo"":{""latitude"":40.4129256,""longitude"":-3.6899749",Expressio Café

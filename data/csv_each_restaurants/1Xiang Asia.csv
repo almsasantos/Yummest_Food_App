@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Sushi- sashimi maki variados,Offer,24.0,EUR,Plato,8,"""Asiático""","""Calle del Eucalipto","""geo"":{""latitude"":40.4535399,""longitude"":-3.66468",Xiang Asia
+1,1,MenuItem,Tepanyaki de solomillo,Offer,16.0,EUR,Plato,8,"""Asiático""","""Calle del Eucalipto","""geo"":{""latitude"":40.4535399,""longitude"":-3.66468",Xiang Asia
+2,2,MenuItem,Pato laqueado (para 2 personas),Offer,26.2,EUR,Plato,8,"""Asiático""","""Calle del Eucalipto","""geo"":{""latitude"":40.4535399,""longitude"":-3.66468",Xiang Asia

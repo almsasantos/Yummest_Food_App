@@ -1,0 +1,30 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Yakisoba con pollo,Offer,5.0,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+1,1,MenuItem,Yakisoba con langostino y pollo,Offer,6.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+2,2,MenuItem,Yakisoba con pato,Offer,6.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+3,3,MenuItem,Udón frito con langostinos,Offer,5.5,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+4,4,MenuItem,Ramen salteado con verdura,Offer,4.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+5,5,MenuItem,Ramen salteado tres delicias,Offer,6.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+6,6,MenuItem,Ramen salteado con pollo,Offer,5.0,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+7,7,MenuItem,Ramen salteado con langostinos,Offer,6.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+8,8,MenuItem,Ramen salteado con ternera,Offer,6.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+9,9,MenuItem,Ramen salteado con pato,Offer,6.5,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+10,10,MenuItem,Fideo de arroz frito con verdura,Offer,4.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+11,11,MenuItem,Fideo de arroz tres delicias,Offer,6.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+12,12,MenuItem,Fideo frito al estilo Singapur,Offer,6.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+13,13,MenuItem,Fideo de arroz frito con pollo,Offer,5.0,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+14,14,MenuItem,Fideo de arroz frito con ternera,Offer,6.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+15,15,MenuItem,Fideo de arroz frito con langostinos,Offer,6.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+16,16,MenuItem,Arroz frito con pollo y piña al curry,Offer,5.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+17,17,MenuItem,Arroz frito con ternera al curry,Offer,5.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+18,18,MenuItem,Arroz frito con langostinos y piña,Offer,5.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+19,19,MenuItem,Arroz tres delicias,Offer,3.9,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+20,20,MenuItem,Arroz tres delicias con pollo,Offer,4.3,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+21,21,MenuItem,Arroz tres delicias con ternera,Offer,4.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+22,22,MenuItem,Arroz tres delicias con lanfostinos,Offer,4.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+23,23,MenuItem,Arroz tres delicias con pato,Offer,4.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+24,24,MenuItem,Arroz tepanyaki esilo japonés,Offer,4.8,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+25,25,MenuItem,Arroz blanco,Offer,1.5,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+26,26,MenuItem,Arroz ku-bak a las tres delicias,Offer,7.2,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+27,27,MenuItem,Arroz ku-bak con ternera,Offer,7.9,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya
+28,28,MenuItem,Arroz ku-bak con langostino,Offer,7.9,EUR,Arroz y tallarines,9,"""Japonés""","""Calle de Cronos","""geo"":{""latitude"":40.4355621,""longitude"":-3.621239",Ichibanya

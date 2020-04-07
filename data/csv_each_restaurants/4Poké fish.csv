@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Tarta tentación de chocolate,Offer,4.5,EUR,Postres,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+1,1,MenuItem,Red Velvet,Offer,4.5,EUR,Postres,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+2,2,MenuItem,Tarta de zanahoria,Offer,4.5,EUR,Postres,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish
+3,3,MenuItem,Ensalada de frutas,Offer,4.5,EUR,Postres,9,"""Japonés""","""Calle de Fernández de los Ríos","""geo"":{""latitude"":40.43509,""longitude"":-3.710948",Poké fish

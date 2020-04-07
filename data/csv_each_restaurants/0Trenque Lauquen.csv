@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,"Ensalada verde (lechuga, espinaca, canónigos, apio y champiñón)",Offer,6.0,EUR,Entrante,9.1,"""Argentino""","""Avenida Menéndez Pelayo","""geo"":{""latitude"":40.417355960545,""longitude"":-3.6784000396728516",Trenque Lauquen
+1,1,MenuItem,"Empanadas criollas a elegir (carne, queso y cebolla, jamón y queso, espinaca, roquefort y capresse)",Offer,3.5,EUR,Entrante,9.1,"""Argentino""","""Avenida Menéndez Pelayo","""geo"":{""latitude"":40.417355960545,""longitude"":-3.6784000396728516",Trenque Lauquen
+2,2,MenuItem,Cóctel de entrada: Gancia batido,Offer,4.5,EUR,Entrante,9.1,"""Argentino""","""Avenida Menéndez Pelayo","""geo"":{""latitude"":40.417355960545,""longitude"":-3.6784000396728516",Trenque Lauquen

@@ -1,0 +1,29 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Vinos Tintos / Red Wines,,,,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+1,1,MenuItem,D.O. Rioja,Offer,18.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+2,2,MenuItem,D.O. Rioja,Offer,24.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+3,3,MenuItem,D.O. Ribera del Duero,Offer,22.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+4,4,MenuItem,D.O. Ribera del Duero,Offer,22.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+5,5,MenuItem,Ceres Crianza 2016,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+6,6,MenuItem,AM3 Cosecha 2018,Offer,3.5,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+7,7,MenuItem,D.O. Bierzo,Offer,18.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+8,8,MenuItem,D.O. Jumilla,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+9,9,MenuItem,D.O. Tierra de Castilla,Offer,18.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+10,10,MenuItem,D.O. Tierra de Castilla,Offer,18.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+11,11,MenuItem,Vinos de Madrid,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+12,12,MenuItem,D.O. Somontano,Offer,18.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+13,13,MenuItem,"A Lisa, Bodegas Noemia, Patagonia, Argentina 2016",Offer,28.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+14,14,MenuItem,"Humberto Canale Old Vineyard, Pinot Noir 2018",Offer,32.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+15,15,MenuItem,Vinos Blancos / White Wines,,,,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+16,16,MenuItem,D.O. Rueda,Offer,17.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+17,17,MenuItem,D.O. Rueda,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+18,18,MenuItem,D.O. Rias Baixas,Offer,18.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+19,19,MenuItem,D.O. Rias Baixas,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+20,20,MenuItem,D.O. Monterrei,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+21,21,MenuItem,D.O. Tierra de Castilla,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+22,22,MenuItem,D.O. Somontano,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+23,23,MenuItem,D.O. Somontano,Offer,20.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+24,24,MenuItem,Cava,Offer,18.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+25,25,MenuItem,"Rutini, Sauvignon Blanc, Mendoza, Argentina",Offer,37.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+26,26,MenuItem,D.O. Jerez o Xeres / Sherry,Offer,3.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social
+27,27,MenuItem,D.O. Jerez o Xeres / Sherry,Offer,3.0,EUR,Carta de Vinos / Wine List,9.3,None,"""Calle de Hernán Cortés","""geo"":{""latitude"":40.4233848,""longitude"":-3.6994513",El Social

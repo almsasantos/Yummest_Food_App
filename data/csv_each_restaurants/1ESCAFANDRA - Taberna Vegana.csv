@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Beyond Burguer,Offer,11,EUR,Principales,9.1,None,"""Calle de Joaquín María López","""geo"":{""latitude"":40.437381,""longitude"":-3.7107696",ESCAFANDRA - Taberna Vegana
+1,1,MenuItem,Salchicha Beyond,Offer,11,EUR,Principales,9.1,None,"""Calle de Joaquín María López","""geo"":{""latitude"":40.437381,""longitude"":-3.7107696",ESCAFANDRA - Taberna Vegana
+2,2,MenuItem,Tabla de quesos de anacardos,Offer,11,EUR,Principales,9.1,None,"""Calle de Joaquín María López","""geo"":{""latitude"":40.437381,""longitude"":-3.7107696",ESCAFANDRA - Taberna Vegana

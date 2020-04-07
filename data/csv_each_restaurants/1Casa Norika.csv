@@ -1,0 +1,5 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Croquetas de huevo (12 uds),Offer,10,EUR,Croquetas,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika
+1,1,MenuItem,Croquetasde boletus y foie (12 uds),Offer,12,EUR,Croquetas,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika
+2,2,MenuItem,Croquetas de jamón (12 uds),Offer,11,EUR,Croquetas,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika
+3,3,MenuItem,Croquetas variadas (12 uds),Offer,11,EUR,Croquetas,8.9,"""Español""","""Calle Olivo","""geo"":{""latitude"":40.4586698,""longitude"":-3.7822292",Casa Norika

@@ -1,0 +1,4 @@
+,Unnamed: 0,@type,name,offers.@type,offers.price,offers.priceCurrency,type_of_plate,rating,cuisine,direction,geo,restaurant
+0,0,MenuItem,Judiones de la granja,Offer,7.5,EUR,Principales,8.6,"""Castellano""","""Calle Aldonza Lorenzo","""geo"":{""latitude"":40.4986963,""longitude"":-3.6902203",La Vaca Vieja
+1,1,MenuItem,Esparragos cojonudos,Offer,6.95,EUR,Principales,8.6,"""Castellano""","""Calle Aldonza Lorenzo","""geo"":{""latitude"":40.4986963,""longitude"":-3.6902203",La Vaca Vieja
+2,2,MenuItem,Morucha de Salamanca a la parrilla,Offer,15.9,EUR,Principales,8.6,"""Castellano""","""Calle Aldonza Lorenzo","""geo"":{""latitude"":40.4986963,""longitude"":-3.6902203",La Vaca Vieja
