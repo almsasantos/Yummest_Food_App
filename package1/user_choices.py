@@ -37,24 +37,24 @@ df_initial = df_initial.drop('Unnamed: 0', axis=1)
 def translate_food_names(food_list):
     food_dict = {'beef tartare': 'tartar de carne', 'beet salad': 'ensalada', 'breakfast burrito': 'burrito',
                  'caesar salad': 'ensalada', 'caprese salad': 'ensalada',
-                 'ceviche': 'ceviche', 'chicken curry': 'curry', 'chicken quesadilla': 'quesadilla de pollo',
+                 'ceviche': 'ceviche', 'chicken curry': 'curry', 'chicken quesadilla': 'quesadilla',
                  'chicken wings': 'alitas de pollo', 'club sandwich': 'sandwich',
-                 'dumplings': 'empanadillas', 'edamame': 'edamame', 'falafel': 'falafel',
-                 'french fries': 'patatas fritas', 'fried calamari': 'calamares', 'fried rice': 'arroz frito',
-                 'greek salad': 'ensalada', 'grilled cheese sandwich': 'sandwich de queso', 'guacamole': 'guacamole',
+                 'dumplings': 'dumpling', 'edamame': 'edamame', 'falafel': 'falafel',
+                 'french fries': 'patatas fritas', 'fried calamari': 'calamares', 'fried rice': 'arroz',
+                 'greek salad': 'ensalada', 'guacamole': 'guacamole',
                  'gyoza': 'gyoza', 'hamburger': 'hamburguesa', 'hot dog': 'hot dog',
                  'hummus': 'hummus', 'lasagna': 'lasaña', 'miso soup': 'sopa miso', 'mussels': 'mejillones',
-                 'nachos': 'nachos', 'omelette': 'tortilla', 'onion rings': 'aros de cebolla',
+                 'nachos': 'nachos', 'tortilla': 'tortilla', 'onion rings': 'aros de cebolla',
                  'oysters': 'ostras', 'pad thai': 'pad thai', 'paella': 'paella', 'panna cotta': 'panna cotta',
                  'pizza': 'pizza', 'pork chop': 'chuleta', 'prime rib': 'costilla',
                  'ramen': 'ramen', 'ravioli': 'ravioli', 'risotto': 'risotto', 'samosa': 'samosa', 'sashimi': 'sashimi',
                  'scallops': 'vieira', 'seaweed salad': 'ensalada',
-                 'spaghetti bolognese': 'espagueti a la boloñesa', 'spaghetti carbonara': 'espagueti carbonara',
-                 'spring rolls': 'rollitos primavera', 'steak': 'carne',
-                 'sushi': 'sushi', 'tacos': 'tacos', 'tuna tartare': 'tarta de atun', 'apple pie': 'tarta de manzana',
+                 'spaghetti bolognese': 'boloñesa', 'spaghetti carbonara': 'carbonara',
+                 'spring rolls': 'rollito de primavera', 'steak': 'carne',
+                 'sushi': 'sushi', 'tacos': 'tacos', 'tuna tartare': 'tartar de atun', 'apple pie': 'tarta de manzana',
                  'cannoli': 'cannoli', 'carrot cake': 'tarta de zanahoria', 'cheesecake': 'tarta de queso',
                  'chocolate cake': 'tarta de chocolate', 'chocolate mousse': 'mouse de chocolate',
-                 'ice cream': 'helado', 'strawberry shortcake': 'tarta de fresa', 'tiramisu': 'tiramisú'}
+                 'ice cream': 'helado', 'strawberry shortcake': 'tarta de fresa', 'tiramisu': 'tiramisu'}
     return [food_dict.get(e,'') for e in food_list]
 
 #plate_choices = translate_food_names(food_choices)

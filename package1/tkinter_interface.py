@@ -99,7 +99,7 @@ class App(Frame):
         #Once you have all your choices:
         self.complete = Frame(self.master)
         self.complete.grid(row=50, column=2, columnspan=5)
-        self.completed_button = Button(self.complete, text='Check The Cheapest Restaurant', command= self.complete_button_func)
+        self.completed_button = Button(self.complete, text='Check The Cheapest Restaurant', compound='top' , command= self.complete_button_func)
         self.completed_button.grid(row=50, column=0, columnspan=10, padx=50, pady=20)
         self.complete.configure(bg='white')
 
@@ -132,9 +132,9 @@ class App(Frame):
 
     def get_starter_choice(self):
         if self.starter_choice.get() != '':
-            df_initial_starter = pd.read_csv('../data/restaurant_dataframe.csv')
-            df_starter = df_initial_starter.loc[df_initial_starter['type'].str.contains('entrante'), :]
-            if self.starter_choice.get() not in df_starter['product'].values:
+            self.df_initial_starter = pd.read_csv('../data/restaurant_dataframe.csv')
+            df_starter = self.df_initial_starter.loc[self.df_initial_starter['type'].str.contains('entrante'), :]
+            if df_starter.loc[df_starter['product'].str.contains(self.starter_choice.get()),:].empty == True:
                 return messagebox.showerror(title='Starter option error', message=f"{self.starter_choice.get()} isn't available, try again.")
             else:
                 starter = [self.starter_choice.get()]
@@ -199,8 +199,6 @@ class App(Frame):
 
             if 0 not in list(self.prices_df.isnull().sum(axis=1)):
                 self.prices_df.dropna(thresh=len(total_choices_with_drink_and_starter)-1, axis=0, inplace=True)
-                #self.prices_df.drop('index', axis=1, inplace=True)
-                #self.prices_df.drop('level_0', axis=1, inplace=True)
                 self.prices_df['total'] = self.prices_df.sum(axis=1)
                 self.prices_df.sort_values(by='total', inplace=True)
                 self.prices_df.reset_index(inplace=True)
@@ -239,20 +237,18 @@ class App(Frame):
             print(self.prices_df_product)
 
             self.prices_df_merge = pd.merge(left=self.prices_df, right=self.prices_df_product, left_index=False, right_index=False)
-            self.prices_df_merge.reset_index(inplace=True)
+            self.prices_df_merge.reset_index(drop=True)
 
             if self.prices_df_merge.empty == True:
-                self.prices_df_merge = pd.concat([self.prices_df, self.prices_df_product]).reset_index(inplace=True)
+                self.prices_df_merge = pd.concat([self.prices_df, self.prices_df_product]).reset_index(drop=True)
 
             if 0 not in list(self.prices_df_merge.isnull().sum(axis=1)):
-                self.prices_df_merge.dropna(thresh=len(total_choices_with_drink_and_starter+starter_guay)-1, axis=0, inplace=True)
-                self.prices_df_merge.drop('index', axis=1, inplace=True)
+                self.prices_df_merge.dropna(thresh=len(total_choices_with_drink_and_starter+self.starter_guay)-1, axis=0, inplace=True)
                 self.prices_df_merge['total'] = self.prices_df_merge.sum(axis=1)
                 self.prices_df_merge.sort_values(by='total', inplace=True)
                 self.prices_df_merge.reset_index(inplace=True)
 
             else:
-                self.prices_df_merge.drop('index', axis=1, inplace=True)
                 self.prices_df_merge.dropna(inplace=True)
                 self.prices_df_merge['total'] = self.prices_df_merge.sum(axis=1)
                 self.prices_df_merge.sort_values(by='total', inplace=True)
@@ -289,10 +285,10 @@ class App(Frame):
 
     def rest_price(self):
         #self.defining_food_choices()
-        self.final_restaurant = self.cheapest_restaurant_choice
-        self.final_classification = self.cheapest_classification
-        self.final_price = self.cheapest_price
-        return messagebox.showinfo("Restaurant to go:", f'The cheapest restaurant is {self.final_restaurant} with a classification of {self.final_classification}.\nThe total amount to pay is {self.final_price:.2f}€.')
+        if self.cheapest_classification == 'none':
+            return messagebox.showinfo("Restaurant to go:", f'The cheapest restaurant is {self.cheapest_restaurant_choice}.\nThe total amount to pay is {self.cheapest_price:.2f}€.')
+        else:
+            return messagebox.showinfo("Restaurant to go:", f'The cheapest restaurant is {self.cheapest_restaurant_choice} with a classification of {self.cheapest_classification}.\nThe total amount to pay is {self.cheapest_price:.2f}€.')
 
     def defining_food_choices(self):
         global starter_guay
@@ -307,7 +303,7 @@ class App(Frame):
 
         if self.get_desert_choice() != ['']:
             deserts = ['Apple pie', 'Cannoli', 'Carrot cake', 'Cheesecake', 'Chocolate cake', 'Chocolate mousse',
-                       'Ice cream', 'Strawberry shortcake', 'Tiramisu']
+                       'Ice cream', 'Panna Cotta', 'Strawberry shortcake', 'Tiramisu']
             self.predict_foods(model_file='/home/almsasantos/Desktop/Ironhack/Final-Project/Ironhack-Final-Project-Yummest/models/best_model_9desert.hdf5', type_list_choices=deserts, list_of_images=self.get_desert_choice())
 
         # following line of code is to translate the training plates model into spanish plates:
@@ -347,7 +343,7 @@ class App(Frame):
         url = 'https://api.foursquare.com/v2/venues/explore'
         params = dict(
             client_id='',
-            client_secret='',
+            client_secret='L',
             v='',
             ll='%s,%s' % (lat, lng),
             radius='%s' % (radius),
