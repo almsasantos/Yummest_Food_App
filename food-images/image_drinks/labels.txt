@@ -1,0 +1,7 @@
+beer
+champagne
+cocktails
+coffee
+red wine
+water
+white wine

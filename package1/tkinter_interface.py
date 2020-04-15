@@ -10,6 +10,8 @@ from tkinter import messagebox
 import webbrowser
 import math
 import requests, json
+import cv2
+from multiprocessing import Process, Queue
 from bs4 import BeautifulSoup
 from pandas.io.json import json_normalize
 
@@ -57,9 +59,13 @@ class App(Frame):
         self.plate_label_ = Label(self.plate_frame, image=self.plate_render)
         self.plate_label_.grid(row=11, column=3, sticky=W)
         self.plate_entry = Entry(self.plate_frame, bd=3, textvariable=self.plate_choice)
-        self.plate_entry.grid(row=11, column=4, sticky=E)
-        self.plate_button = Button(self.plate_frame, text='Search', command=self.browse_plate_button)
-        self.plate_button.grid(row=11, column=5, sticky=E)
+        self.plate_entry.grid(row=11, column=4, sticky=W)
+        self.image_search = ImageTk.PhotoImage(Image.open('../../search.png').resize((25, 25), Image.ANTIALIAS))
+        self.plate_button = Button(self.plate_frame, image=self.image_search, command=self.browse_plate_button)
+        self.plate_button.grid(row=11, column=5, sticky=W)
+        self.imagest =ImageTk.PhotoImage(Image.open('../../camera.jpg').resize((25, 25), Image.ANTIALIAS))
+        self.plate_button_web = Button(self.plate_frame, image=self.imagest, command=self.show_frame_plate)
+        self.plate_button_web.grid(row=11, column=6, sticky=W)
 
         #Everything about deserts:
         self.desert_choice = StringVar()
@@ -72,9 +78,11 @@ class App(Frame):
         self.desert_label_ = Label(self.desert_frame, image=self.desert_render)
         self.desert_label_.grid(row=11, column=6, sticky=W)
         self.desert_entry = Entry(self.desert_frame, bd=3, textvariable=self.desert_choice)
-        self.desert_entry.grid(row=11, column=7, sticky=E)
-        self.desert_button = Button(self.desert_frame, text='Search', command=self.browse_desert_button)
-        self.desert_button.grid(row=11, column=8, sticky=E)
+        self.desert_entry.grid(row=11, column=7, sticky=W)
+        self.desert_button = Button(self.desert_frame, image=self.image_search, command=self.browse_desert_button)
+        self.desert_button.grid(row=11, column=8, sticky=W)
+        self.desert_button_web = Button(self.desert_frame, image=self.imagest, command=self.show_frame_desert)
+        self.desert_button_web.grid(row=11, column=9, sticky=W)
 
         #Everything about drinks:
         self.drink_choice = StringVar()
@@ -122,7 +130,7 @@ class App(Frame):
 
     def browse_plate_button(self):
         file_path = filedialog.askopenfilename(initialdir='/home/almsasantos/Desktop/Ironhack/Final-Project',
-                                          title='Please select an image of your desired starter')
+                                          title='Please select an image of your desired plate')
         self.plate_entry.insert(END, file_path)
         self.im_load = Image.open(file_path).resize((128, 128), Image.ANTIALIAS)
         self.im_render = ImageTk.PhotoImage(self.im_load)
@@ -154,7 +162,7 @@ class App(Frame):
 
     def browse_desert_button(self):
         file_path = filedialog.askopenfilename(initialdir='/home/almsasantos/Desktop/Ironhack/Final-Project',
-                                               title='Please select an image of your desired starter')
+                                               title='Please select an image of your desired desert')
         self.desert_entry.insert(END, file_path)
         self.im_load = Image.open(file_path).resize((128, 128), Image.ANTIALIAS)
         self.im_render = ImageTk.PhotoImage(self.im_load)
@@ -247,6 +255,7 @@ class App(Frame):
                 self.prices_df_merge['total'] = self.prices_df_merge.sum(axis=1)
                 self.prices_df_merge.sort_values(by='total', inplace=True)
                 self.prices_df_merge.reset_index(inplace=True)
+                print(self.prices_df_merge)
 
             else:
                 self.prices_df_merge.dropna(inplace=True)
@@ -271,6 +280,79 @@ class App(Frame):
     def complete_button_func(self):
         self.resume_choice()
         self.rest_price()
+
+    def show_frame_plate(self):
+        key = cv2.waitKey(1)
+        webcam = cv2.VideoCapture(0)
+        while True:
+            try:
+                check, frame = webcam.read()
+                print(check)  # prints true as long as the webcam is running
+                print(frame)  # prints matrix values of each framecd
+                frame = cv2.flip(frame, 1)
+                cv2.imshow("Capturing", frame)
+                key = cv2.waitKey(1)
+                if key == ord('s'):
+                    cv2.imwrite(filename='../../capture_plate.jpg', img=frame)
+                    webcam.release()
+                    cv2.waitKey(10)
+                    cv2.destroyAllWindows()
+                    break
+
+                elif key == ord('q'):
+                    print("Turning off camera.")
+                    webcam.release()
+                    print("Camera off.")
+                    print("Program ended.")
+                    cv2.destroyAllWindows()
+                    break
+
+            except(KeyboardInterrupt):
+                print("Turning off camera.")
+                webcam.release()
+                print("Camera off.")
+                print("Program ended.")
+                cv2.destroyAllWindows()
+                break
+
+        file_path = '/home/almsasantos/Desktop/Ironhack/Final-Project/capture_plate.jpg'
+        self.plate_entry.insert(END, file_path)
+
+    def show_frame_desert(self):
+        key = cv2.waitKey(1)
+        webcam = cv2.VideoCapture(0)
+        while True:
+            try:
+                check, frame = webcam.read()
+                print(check)  # prints true as long as the webcam is running
+                print(frame)  # prints matrix values of each framecd
+                frame = cv2.flip(frame, 1)
+                cv2.imshow("Capturing", frame)
+                key = cv2.waitKey(1)
+                if key == ord('s'):
+                    cv2.imwrite(filename='../../capture_desert.jpg', img=frame)
+                    webcam.release()
+                    cv2.waitKey(10)
+                    cv2.destroyAllWindows()
+                    break
+
+                elif key == ord('q'):
+                    print("Turning off camera.")
+                    webcam.release()
+                    print("Camera off.")
+                    print("Program ended.")
+                    cv2.destroyAllWindows()
+                    break
+
+            except(KeyboardInterrupt):
+                print("Turning off camera.")
+                webcam.release()
+                print("Camera off.")
+                print("Program ended.")
+                cv2.destroyAllWindows()
+                break
+        file_path = '/home/almsasantos/Desktop/Ironhack/Final-Project/capture_desert.jpg'
+        self.desert_entry.insert(END, file_path)
 
     def resume_choice(self):
         self.defining_food_choices()
@@ -343,7 +425,7 @@ class App(Frame):
         url = 'https://api.foursquare.com/v2/venues/explore'
         params = dict(
             client_id='',
-            client_secret='L',
+            client_secret='',
             v='',
             ll='%s,%s' % (lat, lng),
             radius='%s' % (radius),
